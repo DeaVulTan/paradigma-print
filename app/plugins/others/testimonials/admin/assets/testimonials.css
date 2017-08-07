@@ -1,0 +1,85 @@
+/*
+ ** 
+ * @package  Vitubo
+ * @author  Vitubo Team (technical@vinamost.net)
+ * @copyright Vitubo Team
+ * @link  http://www.vitubo.com
+ * @since  Version 1.0
+ * @filesource
+ *
+*/
+/* 
+    Created on : Mar 24, 2014, 2:26:43 PM
+    Author     : Admin
+*/
+
+.testimonial_content{
+    max-width: 300px;
+    overflow-x: auto;
+}
+.center {text-align: center}
+.requiredfield {color: red;}
+.medium-action {padding: 10px 0}
+.width40 {width:40px}
+.width80 {width:80px}
+.width130 {width:130px}
+.width150 {width:150px}
+.width200 {width:200px}
+.width520 {width:520px}
+
+#action-box{display: none; padding-right: 5px;}
+.table-head {background-color: #F9F9F9}
+
+/*custom*/
+#col-md-12{padding:0;margin-bottom:20px}
+.mar0{margin:0}
+.pad0{padding:0}
+.pad8{padding:8px}
+.pad10-0{padding:10px 0px;}
+#bgfff{background:#fff;border-left: 1px solid #ddd}
+.border-bottom{border-bottom: 1px solid #ddd;}
+.border0{border:none !important}
+#col-md-2 {width: 20.15%;}
+#col-md-12 > .row > div {display: block;}
+#col-md-12 > .row > div:last-child {border: none;}
+.fix-input{border-left: 1px solid #ddd !important;margin-bottom: 0px;padding-bottom1: 6.5%;background: #fff;}
+.col-md-9.pad8.form-group.has-error.fix-input{padding-bottom: 3.2% !important}
+.col-md-9.pad8.form-group.has-error.fix-input > .help-block:last-child{display:none}
+#col-md2-fix{width:13.9%}
+#col-md10-fix {width: 86%;padding-bottom: 8px;}
+img#img-avatar {}
+label > span {
+font-size: 10px;
+color: red;
+}
+#testimonial_avatar{display:none}
+i.fa.fa-file-image-o{display:none !important}
+#fix-image > div > span > a{background: none;border: none !important;background-color: transparent;box-shadow:none;color: #3c8dbc;font-size: 12px;}
+#fix-image > div > span{text-align:center}
+#fix-image > div > span > a:hover{outline: none;text-decoration: none;color: #72afd2;background-color: transparent !important;}
+
+@media (max-width: 768px){
+    img#img-avatar {max-height:inherit;}
+    .fix-input{padding-bottom: 8px;border:none !important}
+    #col-md10-fix{width:auto}
+    #bgfff{border:none}
+    .fix-input{border:none}
+    #col-md-12 > .row > div{border:none}
+}
+@media (max-width: 800px){
+    img#img-avatar {max-height:inherit;}
+    .fix-input{padding-bottom: 8px;border:none !important}
+    #col-md10-fix{width:auto}
+    #bgfff{border:none}
+    .fix-input{border:none}
+    #col-md-12 > .row > div{border:none}
+}
+
+@media (max-width: 992px){
+    img#img-avatar {max-height:inherit;}
+    .fix-input{padding-bottom: 8px;border:none !important}
+    #col-md10-fix{width:auto}
+    #bgfff{border:none}
+    .fix-input{border:none}
+    #col-md-12 > .row > div{border:none}
+}

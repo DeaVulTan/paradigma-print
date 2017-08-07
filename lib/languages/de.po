@@ -1,0 +1,241 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Include\n"
+"POT-Creation-Date: 2014-06-30 17:40+0700\n"
+"PO-Revision-Date: 2014-06-30 17:41+0700\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.5\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../common/libs/category/pf-lib-category.php:62
+msgid "No parent"
+msgstr "Kein Elternteil"
+
+#: ../common/plugin/helpers/helper.php:358
+msgid "No date provided"
+msgstr "Kein Datum versehen"
+
+#: ../common/plugin/helpers/helper.php:362
+msgid "second"
+msgstr "zweite"
+
+#: ../common/plugin/helpers/helper.php:363
+msgid "minute"
+msgstr "minute"
+
+#: ../common/plugin/helpers/helper.php:364
+msgid "hour"
+msgstr "stunde"
+
+#: ../common/plugin/helpers/helper.php:365
+msgid "day"
+msgstr "tag"
+
+#: ../common/plugin/helpers/helper.php:366
+msgid "week"
+msgstr "woche"
+
+#: ../common/plugin/helpers/helper.php:367
+msgid "month"
+msgstr "monat"
+
+#: ../common/plugin/helpers/helper.php:368
+msgid "year"
+msgstr "jahr"
+
+#: ../common/plugin/helpers/helper.php:369
+msgid "decade"
+msgstr "jahrzehnt"
+
+#: ../common/plugin/helpers/helper.php:383
+msgid "Bad date"
+msgstr "Bad Datum"
+
+#: ../common/plugin/helpers/helper.php:388
+msgid "ago"
+msgstr "vor"
+
+#: ../common/plugin/helpers/helper.php:391
+msgid "from now"
+msgstr "ab sofort"
+
+#: ../common/plugin/helpers/helper.php:501
+#: ../common/plugin/helpers/helper.php:517
+msgid "Published"
+msgstr "Veröffentlicht"
+
+#: ../common/plugin/helpers/helper.php:504
+#: ../common/plugin/helpers/helper.php:513
+msgid "Unpublished"
+msgstr "Unveröffentlicht"
+
+#: ../common/plugin/helpers/helper.php:515
+msgid "All status"
+msgstr "Alle Zustands"
+
+#: ../common/plugin/utiles/pf-plugin-setting.php:37
+msgid "Yes "
+msgstr "ja"
+
+#: ../common/plugin/utiles/pf-plugin-setting.php:38
+msgid "No "
+msgstr "Nicht"
+
+#: ../gump/gump.class.php:397 ../gump/gump.class.php:400
+#: ../gump/gump.class.php:404 ../gump/gump.class.php:406
+#: ../gump/gump.class.php:411 ../gump/gump.class.php:413
+#: ../gump/gump.class.php:418 ../gump/gump.class.php:420
+#: ../gump/gump.class.php:424 ../gump/gump.class.php:427
+#: ../gump/gump.class.php:430 ../gump/gump.class.php:433
+#: ../gump/gump.class.php:436 ../gump/gump.class.php:439
+#: ../gump/gump.class.php:442 ../gump/gump.class.php:445
+#: ../gump/gump.class.php:448 ../gump/gump.class.php:451
+#: ../gump/gump.class.php:454 ../gump/gump.class.php:457
+#: ../gump/gump.class.php:460 ../gump/gump.class.php:463
+#: ../gump/gump.class.php:466 ../gump/gump.class.php:469
+#: ../gump/gump.class.php:472
+msgid "The "
+msgstr "Die"
+
+#: ../gump/gump.class.php:397
+msgid "field is required"
+msgstr "Feld ist erforderlich"
+
+#: ../gump/gump.class.php:400
+msgid "field is required to be a valid email address"
+msgstr "Feld ist erforderlich, um eine gültige E-Mail -Adresse sein"
+
+#: ../gump/gump.class.php:404 ../gump/gump.class.php:406
+#: ../gump/gump.class.php:411 ../gump/gump.class.php:413
+msgid "field needs to be shorter than"
+msgstr "Feld muss kürzer als sein"
+
+#: ../gump/gump.class.php:404 ../gump/gump.class.php:406
+#: ../gump/gump.class.php:411 ../gump/gump.class.php:413
+msgid "characters"
+msgstr "characters"
+
+#: ../gump/gump.class.php:418 ../gump/gump.class.php:420
+msgid "field needs to be exactly"
+msgstr "feld muss genau sein"
+
+#: ../gump/gump.class.php:418 ../gump/gump.class.php:420
+msgid "characters in length"
+msgstr "Zeichen Länge"
+
+#: ../gump/gump.class.php:424
+msgid "field may only contain alpha characters(a-z)"
+msgstr "Feld darf nur alphanumerische Zeichen enthalten (a- z)"
+
+#: ../gump/gump.class.php:427
+msgid "field may only contain alpha-numeric characters"
+msgstr "Feld darf nur alphanumerische Zeichen"
+
+#: ../gump/gump.class.php:430
+msgid "field may only contain alpha characters &amp; dashes"
+msgstr "Feld darf nur alphanumerische Zeichen &amp; Striche"
+
+#: ../gump/gump.class.php:433
+msgid "field may only contain numeric characters"
+msgstr "Feld darf nur numerische Zeichen"
+
+#: ../gump/gump.class.php:436
+msgid "field may only contain a numeric value"
+msgstr "Feld darf nur einen numerischen Wert enthalten"
+
+#: ../gump/gump.class.php:439
+msgid "field may only contain a true or false value"
+msgstr "Feld kann nur wahr oder falsch Wert enthalten"
+
+#: ../gump/gump.class.php:442
+msgid "field may only contain a float value"
+msgstr "Feld darf nur eine Float-Wert enthalten"
+
+#: ../gump/gump.class.php:445
+msgid "field is required to be a valid URL"
+msgstr "Feld ist erforderlich, um eine gültige URL"
+
+#: ../gump/gump.class.php:448
+msgid "URL does not exist"
+msgstr "URL existiert nicht"
+
+#: ../gump/gump.class.php:451
+msgid "field needs to contain a valid IP address"
+msgstr "Feld muss eine gültige IP-Adresse enthalten"
+
+#: ../gump/gump.class.php:454
+msgid "field needs to contain a valid credit card number"
+msgstr "Feld muss eine gültige Kreditkartennummerenthalten"
+
+#: ../gump/gump.class.php:457
+msgid "field needs to contain a valid human name"
+msgstr "Feld muss eine gültige Menschennamen enthalten"
+
+#: ../gump/gump.class.php:460
+msgid "field needs to contain one of these values"
+msgstr "Feld muss einen der folgenden Werte enthalten"
+
+#: ../gump/gump.class.php:463
+msgid "field needs to be a valid street address"
+msgstr "Feld muss eine gültige Adresse sein"
+
+#: ../gump/gump.class.php:466
+msgid "field needs to be a valid date"
+msgstr "Feld muss ein gültiges Datum sein"
+
+#: ../gump/gump.class.php:469
+msgid "field needs to be a numeric value, equal to, or higher than "
+msgstr "Feld muss ein numerischer Wert gleich oder höher sein als"
+
+#: ../gump/gump.class.php:472
+msgid "field needs to be a numeric value, equal to, or lower than "
+msgstr "Feld muss ein numerischer Wert , gleich oder niedriger sein als"
+
+#: ../paginator-class.php:63
+msgid "Displaying records "
+msgstr "Angezeigte Aufzeichnungen"
+
+#: ../paginator-class.php:63
+msgid " of "
+msgstr " von"
+
+#: ../paginator-class.php:65
+msgid "Displaying "
+msgstr "Anzeige"
+
+#: ../paginator-class.php:65
+msgid " records "
+msgstr " aufzeichnungen"
+
+#: ../paginator-class.php:89
+msgid "Page: "
+msgstr "Seite:"
+
+#: ../paginator-class.php:122 ../paginator-class.php:124
+msgid "Previous"
+msgstr "Früher"
+
+#: ../paginator-class.php:171 ../paginator-class.php:173
+msgid "Next"
+msgstr "Nächste"
+
+#~ msgid "An error has occurred! Please try again later"
+#~ msgstr ""
+#~ "Ein Fehler ist aufgetreten ! Bitte versuchen Sie es später noch einmal"
+
+#~ msgid "Yes"
+#~ msgstr "Ja"
+
+#~ msgid "Error"
+#~ msgstr "Fehler"
+
+#~ msgid "character in length"
+#~ msgstr "Zeichen in der Länge"

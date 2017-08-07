@@ -1,0 +1,115 @@
+{html:row}
+      {html:col class="col-sm-12"}
+        {html:h3 class="headline first-child"}{html:span}Please choose one of the pricings options below to subscribe{/html:span}{/html:h3}
+        {html:p}
+          Donec tincidunt nec mi eu venenatis. Nulla facilisi. Maecenas venenatis condimentum porttitor. Aliquam erat volutpat. In ac mollis odio. Praesent ac mi nisi. Nulla congue mi at porttitor ultrices. Nulla pellentesque placerat elit, sit amet egestas mi consectetur eleifend. Integer molestie ultricies libero ut consectetur. Maecenas consectetur quis elit quis consequat. Sed tincidunt nulla in lorem ullamcorper, ut aliquam odio malesuada.
+        {/html:p}
+    {/html:col}
+{/html:row}
+{html:row}
+  {pricings:table_responsive}
+    {html:table class="table table-bordered b-pricing-table__table"}
+        {html:tr}
+          {html:th}{/html:th}
+          {html:th class="b-pricing-table__plan-title"}Basic Plan{/html:th}
+          {html:th class="b-pricing-table__plan-title"}Pro Plan{/html:th}
+          {html:th class="b-pricing-table__plan-title"}Business Plan{/html:th}
+        {/html:tr}
+        {html:tr}
+          {html:td class="b-pricing-table-price__title"}Price (per month){/html:td}
+          {html:td class="b-pricing-table__price"}$25{/html:td}
+          {html:td class="b-pricing-table__price"}$35{/html:td}
+          {html:td class="b-pricing-table__price"}$45{/html:td}
+        {/html:tr}
+        {html:tr}
+          {html:td}Lorem ipsum dolor sit amet{/html:td}
+          {html:td}{html:i class="fa fa-check b-pricing-table__check"}{/html:i}{/html:td}
+          {html:td}{html:i class="fa fa-check b-pricing-table__check"}{/html:i}{/html:td}
+          {html:td}{html:i class="fa fa-check b-pricing-table__check"}{/html:i}{/html:td}
+        {/html:tr}
+        {html:tr}
+          {html:td}Pellentesque vitae dolor{/html:td}
+          {html:td}{html:i class="fa fa-times b-pricing-table__times"}{/html:i}{/html:td}
+          {html:td}{html:i class="fa fa-check b-pricing-table__check"}{/html:i}{/html:td}
+          {html:td}{html:i class="fa fa-check b-pricing-table__check"}{/html:i}{/html:td}
+        {/html:tr}
+        {html:tr}
+          {html:td}Phasellus id elit a felis{/html:td}
+          {html:td}{html:i class="fa fa-times b-pricing-table__times"}{/html:i}{/html:td}
+          {html:td}{html:i class="fa fa-times b-pricing-table__times"}{/html:i}{/html:td}
+          {html:td}{html:i class="fa fa-check b-pricing-table__check"}{/html:i}{/html:td}
+        {/html:tr}
+        {html:tr}
+          {html:td}Mauris eget ligula in elit{/html:td}
+          {html:td}{html:i class="fa fa-times b-pricing-table__times"}{/html:i}{/html:td}
+          {html:td}{html:i class="fa fa-times b-pricing-table__times"}{/html:i}{/html:td}
+          {html:td}{html:i class="fa fa-check b-pricing-table__check"}{/html:i}{/html:td}
+        {/html:tr}
+        {html:tr}
+          {html:td}{/html:td}
+          {html:td}{html:a href="#" class="btn btn-theme-secondary"}Subscribe{/html:a}{/html:td}
+          {html:td}{html:a href="#" class="btn btn-theme-secondary"}Subscribe{/html:a}{/html:td}
+          {html:td}{html:a href="#" class="btn btn-theme-secondary"}Subscribe{/html:a}{/html:td}
+        {/html:tr}
+    {/html:table}
+    {/pricings:table_responsive}
+{/html:row}
+{html:br}
+{html:code linenums='1'}
+{html:row}
+    {html:col class="col-sm-12"}
+	    {html:h3 class="headline first-child"}{html:span}Please choose one of the pricings options below to subscribe{/html:span}{/html:h3}
+	    {html:p}
+	      Donec tincidunt nec mi eu venenatis. Nulla facilisi. Maecenas venenatis condimentum porttitor. Aliquam erat volutpat. In ac mollis odio. Praesent ac mi nisi. Nulla congue mi at porttitor ultrices. Nulla pellentesque placerat elit, sit amet egestas mi consectetur eleifend. Integer molestie ultricies libero ut consectetur. Maecenas consectetur quis elit quis consequat. Sed tincidunt nulla in lorem ullamcorper, ut aliquam odio malesuada.
+	    {/html:p}
+	{/html:col}
+{/html:row}
+{html:row}
+  {pricings:table_responsive}
+    {html:table class="table table-bordered b-pricing-table__table"}
+        {html:tr}
+          {html:th}{/html:th}
+          {html:th class="b-pricing-table__plan-title"}Basic Plan{/html:th}
+          {html:th class="b-pricing-table__plan-title"}Pro Plan{/html:th}
+          {html:th class="b-pricing-table__plan-title"}Business Plan{/html:th}
+        {/html:tr}
+        {html:tr}
+          {html:td class="b-pricing-table-price__title"}Price (per month){/html:td}
+          {html:td class="b-pricing-table__price"}$25{/html:td}
+          {html:td class="b-pricing-table__price"}$35{/html:td}
+          {html:td class="b-pricing-table__price"}$45{/html:td}
+        {/html:tr}
+        {html:tr}
+          {html:td}Lorem ipsum dolor sit amet{/html:td}
+          {html:td}{html:i class="fa fa-check b-pricing-table__check"}{/html:i}{/html:td}
+          {html:td}{html:i class="fa fa-check b-pricing-table__check"}{/html:i}{/html:td}
+          {html:td}{html:i class="fa fa-check b-pricing-table__check"}{/html:i}{/html:td}
+        {/html:tr}
+        {html:tr}
+          {html:td}Pellentesque vitae dolor{/html:td}
+          {html:td}{html:i class="fa fa-times b-pricing-table__times"}{/html:i}{/html:td}
+          {html:td}{html:i class="fa fa-check b-pricing-table__check"}{/html:i}{/html:td}
+          {html:td}{html:i class="fa fa-check b-pricing-table__check"}{/html:i}{/html:td}
+        {/html:tr}
+        {html:tr}
+          {html:td}Phasellus id elit a felis{/html:td}
+          {html:td}{html:i class="fa fa-times b-pricing-table__times"}{/html:i}{/html:td}
+          {html:td}{html:i class="fa fa-times b-pricing-table__times"}{/html:i}{/html:td}
+          {html:td}{html:i class="fa fa-check b-pricing-table__check"}{/html:i}{/html:td}
+        {/html:tr}
+        {html:tr}
+          {html:td}Mauris eget ligula in elit{/html:td}
+          {html:td}{html:i class="fa fa-times b-pricing-table__times"}{/html:i}{/html:td}
+          {html:td}{html:i class="fa fa-times b-pricing-table__times"}{/html:i}{/html:td}
+          {html:td}{html:i class="fa fa-check b-pricing-table__check"}{/html:i}{/html:td}
+        {/html:tr}
+        {html:tr}
+          {html:td}{/html:td}
+          {html:td}{html:a href="#" class="btn btn-theme-secondary"}Subscribe{/html:a}{/html:td}
+          {html:td}{html:a href="#" class="btn btn-theme-secondary"}Subscribe{/html:a}{/html:td}
+          {html:td}{html:a href="#" class="btn btn-theme-secondary"}Subscribe{/html:a}{/html:td}
+        {/html:tr}
+    {/html:table}
+    {/pricings:table_responsive}
+{/html:row}
+{/html:code}

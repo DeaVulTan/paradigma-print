@@ -1,0 +1,267 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Galleries\n"
+"POT-Creation-Date: 2014-11-06 15:30+0700\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.1\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../admin/models/galleries-model.php:22
+#: ../admin/views/galleries/index.php:73
+#: ../admin/views/galleries/index.php:155
+#: ../admin/views/galleries/index.php:468
+msgid "Published"
+msgstr "Publicado"
+
+#: ../admin/models/galleries-model.php:22
+#: ../admin/views/galleries/index.php:74
+#: ../admin/views/galleries/index.php:159
+#: ../admin/views/galleries/index.php:470
+msgid "Unpublished"
+msgstr "No publicado"
+
+#: ../admin/views/galleries/add.php:11
+msgid "Add"
+msgstr "Añadir"
+
+#: ../admin/views/galleries/add.php:21 ../admin/views/galleries/copy.php:21
+#: ../admin/views/galleries/edit.php:21 ../admin/views/galleries/index.php:109
+#: ../admin/views/galleries/index.php:217
+msgid "Gallery name"
+msgstr "Nombre de galería"
+
+#: ../admin/views/galleries/add.php:33 ../admin/views/galleries/copy.php:33
+#: ../admin/views/galleries/edit.php:33 ../admin/views/galleries/index.php:128
+#: ../admin/views/galleries/index.php:225
+msgid "Status"
+msgstr "Estado"
+
+#: ../admin/views/galleries/add.php:47 ../admin/views/galleries/copy.php:49
+#: ../admin/views/galleries/edit.php:48
+msgid "Description"
+msgstr "Descripción"
+
+#: ../admin/views/galleries/add.php:61 ../admin/views/galleries/copy.php:93
+#: ../admin/views/galleries/edit.php:92
+msgid "Add Image"
+msgstr "Añadir imagen"
+
+#: ../admin/views/galleries/add.php:79 ../admin/views/galleries/copy.php:72
+#: ../admin/views/galleries/copy.php:110 ../admin/views/galleries/edit.php:71
+#: ../admin/views/galleries/edit.php:109
+msgid "Gallery Cover"
+msgstr "Galería cubierta"
+
+#: ../admin/views/galleries/add.php:80 ../admin/views/galleries/copy.php:73
+#: ../admin/views/galleries/copy.php:111 ../admin/views/galleries/edit.php:72
+#: ../admin/views/galleries/edit.php:110
+msgid "select image"
+msgstr "Seleccionar imagen"
+
+#: ../admin/views/galleries/add.php:86 ../admin/views/galleries/copy.php:79
+#: ../admin/views/galleries/copy.php:117 ../admin/views/galleries/edit.php:78
+#: ../admin/views/galleries/edit.php:116
+msgid "Image title"
+msgstr "Título de imagen"
+
+#: ../admin/views/galleries/add.php:87 ../admin/views/galleries/copy.php:80
+#: ../admin/views/galleries/copy.php:118 ../admin/views/galleries/edit.php:79
+#: ../admin/views/galleries/edit.php:117
+msgid "Image alt"
+msgstr "Alt imagen"
+
+#: ../admin/views/galleries/add.php:105 ../admin/views/galleries/add.php:122
+#: ../admin/views/galleries/copy.php:136 ../admin/views/galleries/copy.php:153
+#: ../admin/views/galleries/edit.php:137 ../admin/views/galleries/edit.php:154
+#: ../admin/views/galleries/edit.php:183
+#: ../admin/views/galleries/index.php:284
+#: ../admin/views/galleries/index.php:296
+#: ../admin/views/galleries/index.php:317
+#: ../admin/views/galleries/index.php:349
+#: ../admin/views/galleries/index.php:362
+#: ../admin/views/galleries/index.php:371
+#: ../admin/views/galleries/index.php:378
+#: ../admin/views/galleries/index.php:393
+#: ../admin/views/galleries/index.php:417
+#: ../admin/views/galleries/index.php:445
+#: ../admin/views/galleries/index.php:462
+#: ../admin/views/galleries/index.php:479
+msgid "Loading..."
+msgstr "Cargando..."
+
+#: ../admin/views/galleries/add.php:131 ../admin/views/galleries/copy.php:161
+#: ../admin/views/galleries/edit.php:162 ../admin/views/galleries/edit.php:194
+#: ../admin/views/galleries/index.php:326
+#: ../admin/views/galleries/index.php:384
+#: ../admin/views/galleries/index.php:399
+#: ../admin/views/galleries/index.php:422
+msgid "There is an error, please check again!"
+msgstr "No es un error, por favor revise de nuevo!"
+
+#: ../admin/views/galleries/add.php:136
+msgid "Gallery is added successfully"
+msgstr "Galería se agrega con éxito"
+
+#: ../admin/views/galleries/copy.php:11
+msgid "Copy"
+msgstr "Copia"
+
+#: ../admin/views/galleries/copy.php:166
+msgid "Gallery is copied successfully"
+msgstr "Galería se copia con éxito"
+
+#: ../admin/views/galleries/edit.php:11
+msgid "Edit"
+msgstr "Editar"
+
+#: ../admin/views/galleries/edit.php:167 ../admin/views/galleries/edit.php:192
+msgid "Gallery is updated successfully"
+msgstr "Galería ha sido actualizada con éxito"
+
+#: ../admin/views/galleries/index.php:5 ../admin/views/galleries/index.php:208
+#: ../admin/views/galleries/index.php:235
+msgid "Search"
+msgstr "Buscar"
+
+#: ../admin/views/galleries/index.php:11
+msgid "New"
+msgstr "Nuevo"
+
+#: ../admin/views/galleries/index.php:15 ../admin/views/galleries/index.php:20
+#: ../admin/views/galleries/index.php:26
+msgid "Save"
+msgstr "Guardar"
+
+#: ../admin/views/galleries/index.php:16 ../admin/views/galleries/index.php:22
+#: ../admin/views/galleries/index.php:27
+msgid "Cancel"
+msgstr "Cancelar"
+
+#: ../admin/views/galleries/index.php:21
+msgid "Apply"
+msgstr "Aplicar"
+
+#: ../admin/views/galleries/index.php:39
+msgid "List"
+msgstr "Listar"
+
+#: ../admin/views/galleries/index.php:51
+msgid "Bulk Actions"
+msgstr "Acciones en Bloque"
+
+#: ../admin/views/galleries/index.php:54
+msgid "Delete"
+msgstr "Eliminar"
+
+#: ../admin/views/galleries/index.php:55
+msgid "Publish"
+msgstr "Publicar"
+
+#: ../admin/views/galleries/index.php:56
+msgid "Unpublish"
+msgstr "Sin publicar"
+
+#: ../admin/views/galleries/index.php:68 ../admin/views/galleries/index.php:72
+msgid "All"
+msgstr "Todo"
+
+#: ../admin/views/galleries/index.php:133
+msgid "Actions"
+msgstr "Acciones"
+
+#: ../admin/views/galleries/index.php:206
+#: ../admin/views/galleries/index.php:236
+msgid "Close"
+msgstr "Cerrar"
+
+#: ../admin/views/galleries/index.php:310
+msgid "Are you sure with this action?"
+msgstr "¿Seguro que desea realizar esta acción?"
+
+#: ../admin/views/galleries/index.php:314
+#: ../admin/views/galleries/index.php:414
+msgid "OK"
+msgstr "OK"
+
+#: ../admin/views/galleries/index.php:324
+#: ../admin/views/galleries/index.php:420
+msgid "Gallery is deleted successfully"
+msgstr "Galería se eliminó con éxito"
+
+#: ../admin/views/galleries/index.php:410
+msgid "Are you sure to delete this item?"
+msgstr "¿Seguro que desea eliminar este Elemento?"
+
+#: ../galleries.php:34
+msgid "Galleries"
+msgstr "Galerías"
+
+#: ../public/once-view.php:43
+msgid "Views"
+msgstr "Vistas"
+
+#: ../public/once-view.php:50
+msgid "Total"
+msgstr "Total"
+
+#: ../public/once-view.php:57
+msgid "Comments"
+msgstr "Comentarios"
+
+#: ../widgets/views/galleries/setting.php:4
+msgid "Widget Title"
+msgstr "Título del Widget"
+
+#: ../widgets/views/galleries/setting.php:8
+msgid "Gallery page"
+msgstr "Página de la Galería"
+
+#: ../widgets/views/galleries/setting.php:14
+msgid "Image sources"
+msgstr "Fuentes de imagen"
+
+#: ../widgets/views/galleries/setting.php:18
+msgid "All Galleries"
+msgstr "Todas las galerías"
+
+#: ../widgets/views/galleries/setting.php:19
+msgid "Random Gallery"
+msgstr "Galería aleatoria"
+
+#~ msgid "This gallery does not exist"
+#~ msgstr "Esta galería no existe"
+
+#~ msgid "The field is required"
+#~ msgstr "Se requiere que el campo"
+
+#~ msgid "New gallery"
+#~ msgstr "Nueva galería"
+
+#~ msgid "Select Action"
+#~ msgstr "Seleccionar acción"
+
+#~ msgid "Please enter gallery name"
+#~ msgstr "Introduzca nuevo nombre de galería"
+
+#~ msgid "Shortcode"
+#~ msgstr "Shortcode"
+
+#~ msgid "<center>No Gallery</center>"
+#~ msgstr "<center>No Galería</center>"
+
+#~ msgid "Confirm"
+#~ msgstr "Confirmar"
+
+#~ msgid "Explore Our Gallery"
+#~ msgstr "Explorar nuestra Galería"
+
+#~ msgid "Browse through the gallery of our images here."
+#~ msgstr "Buscar mediante la galería de nuestras imágenes aquí"

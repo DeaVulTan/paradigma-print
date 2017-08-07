@@ -1,0 +1,840 @@
+<div class="gird-demo">
+{html:h2 class="headline"}{html:span}Grid system{/html:span}{/html:h2}
+{html:p}
+Bootstrap includes a responsive, mobile first fluid grid system that appropriately scales up to 12 columns as the device or viewport size increases. It includes predefined classes for easy layout options, as well as powerful mixins for generating more semantic layouts.
+{/html:p}{html:h3}
+Introduction
+{/html:h3}
+{html:p}
+Grid systems are used for creating page layouts through a series of rows and columns that house your content. Here's how the Bootstrap grid system works:
+{/html:p}
+{html:ul}
+ {html:li}
+ Rows must be placed within a .container (fixed-width) or .container-fluid (full-width) for proper alignment and padding.
+ {/html:li}
+ {html:li}
+ Use rows to create horizontal groups of columns.
+ {/html:li}
+ {html:li}
+ Content should be placed within columns, and only columns may be immediate children of rows.
+ {/html:li}
+ {html:li}
+ Predefined grid classes like .row and .col-xs-4 are available for quickly making grid layouts. Less mixins can also be used for more semantic layouts.
+ {/html:li}
+ {html:li}
+ Columns create gutters (gaps between column content) via padding. That padding is offset in rows for the first and last column via negative margin on .rows.
+ {/html:li}
+ {html:li}
+ Grid columns are created by specifying the number of twelve available columns you wish to span. For example, three equal columns would use three .col-xs-4.
+ {/html:li}
+{/html:ul}{html:h3}
+Grid options
+{/html:h3}
+{html:p}
+See how aspects of the Bootstrap grid system work across multiple devices with a handy table.
+{/html:p}{html:table class="table table-bordered"}
+ {html:tr}
+ {html:th}html {/html:th}
+ {html:th}Extra small devices Phones (&lt;768px){/html:th}
+ {html:th}Small devices Tablets (&ge;768px){/html:th}
+ {html:th}Medium devices Desktops (&ge;992px){/html:th}
+ {html:th}Large devices Desktops (&ge;1200px){/html:th}
+ {/html:tr}
+ {html:tr}
+ {html:td}Grid behavior{/html:td}
+ {html:td}Horizontal at all times{/html:td}
+ {html:td colspan=3}Collapsed to start, horizontal above breakpoints{/html:td}
+ {/html:tr}
+ {html:tr}
+ {html:td}Container width{/html:td}
+ {html:td}None (auto){/html:td}
+ {html:td}750px{/html:td}
+ {html:td}970px{/html:td}
+ {html:td}1170px{/html:td}
+ {/html:tr}
+ {html:tr}
+ {html:td}Class prefix{/html:td}
+ {html:td}.col-xs-{/html:td}
+ {html:td}.col-sm-{/html:td}
+ {html:td}.col-md-{/html:td}
+ {html:td}.col-lg-{/html:td}
+ {/html:tr}
+ {html:tr}
+ {html:td}html of columns{/html:td}
+ {html:td colspan=4"}12{/html:td}
+ {/html:tr}
+ {html:tr}
+ {html:td}Column width{/html:td}
+ {html:td}Auto{/html:td}
+ {html:td}60px{/html:td}
+ {html:td}78px{/html:td}
+ {html:td}95px{/html:td}
+ {/html:tr}
+ {html:tr}
+ {html:td}Gutter width{/html:td}
+ {html:td colspan=4}30px (15px on each side of a column){/html:td}
+ {/html:tr}
+ {html:tr}
+ {html:td}Nestable{/html:td}
+ {html:td colspan=4}Yes{/html:td}
+ {/html:tr}
+ {html:tr}
+ {html:td}Offsets{/html:td}
+ {html:td colspan=4}Yes{/html:td}
+ {/html:tr}
+ {html:tr}
+ {html:td}Column ordering{/html:td}
+ {html:td colspan=4}Yes{/html:td}
+ {/html:tr}
+{/html:table}{html:p}
+Grid classes apply to devices with screen widths greater than or equal to the breakpoint sizes, and override grid classes targeted at smaller devices. Therefore, applying any .col-md- class to an element will not only affect its styling on medium devices but also on large devices if a .col-lg- class is not present.
+{/html:p}{html:h3}
+Example: Stacked-to-horizontal
+{/html:h3}
+{html:p}
+Using a single set of .col-md-* grid classes, you can create a basic grid system that starts out stacked on mobile devices and tablet devices (the extra small to small range) before becoming horizontal on desktop (medium) devices. Place grid columns in any .row.
+{/html:p}
+{html:row class=no-margin}
+ {html:col class="col-md-1"}
+ .col-md-1
+ {/html:col}
+ {html:col class="col-md-1"}
+ .col-md-1
+ {/html:col}
+ {html:col class="col-md-1"}
+ .col-md-1
+ {/html:col}
+ {html:col class="col-md-1"}
+ .col-md-1
+ {/html:col}
+ {html:col class="col-md-1"}
+ .col-md-1
+ {/html:col}
+ {html:col class="col-md-1"}
+ .col-md-1
+ {/html:col}
+ {html:col class="col-md-1"}
+ .col-md-1
+ {/html:col}
+ {html:col class="col-md-1"}
+ .col-md-1
+ {/html:col}
+ {html:col class="col-md-1"}
+ .col-md-1
+ {/html:col}
+ {html:col class="col-md-1"}
+ .col-md-1
+ {/html:col}
+ {html:col class="col-md-1"}
+ .col-md-1
+ {/html:col}
+ {html:col class="col-md-1"}
+ .col-md-1
+ {/html:col}
+{/html:row}
+{html:row class=no-margin}
+ {html:col class="col-md-8"}
+ .col-md-8
+ {/html:col}
+ {html:col class="col-md-4"}
+ .col-md-4
+ {/html:col}
+{/html:row}
+{html:row class=no-margin}
+ {html:col class="col-md-4"}
+ .col-md-4
+ {/html:col}
+ {html:col class="col-md-8"}
+ .col-md-8
+ {/html:col}
+{/html:row}
+{html:row class=no-margin}
+ {html:col class="col-md-4"}
+ .col-md-4
+ {/html:col} 
+ {html:col class="col-md-4"}
+ .col-md-4
+ {/html:col}
+ {html:col class="col-md-4"}
+ .col-md-4
+ {/html:col}
+{/html:row}
+{html:row class=no-margin}
+ {html:col class="col-md-6"}
+ .col-md-6
+ {/html:col} 
+ {html:col class="col-md-6"}
+ .col-md-6
+ {/html:col}
+{/html:row}
+<div class="gird-demo">
+{html:h2 class="headline"}{html:span}Grid system{/html:span}{/html:h2}
+{html:p}
+Bootstrap includes a responsive, mobile first fluid grid system that appropriately scales up to 12 columns as the device or viewport size increases. It includes predefined classes for easy layout options, as well as powerful mixins for generating more semantic layouts.
+{/html:p}{html:h3}
+Introduction
+{/html:h3}
+{html:p}
+Grid systems are used for creating page layouts through a series of rows and columns that house your content. Here's how the Bootstrap grid system works:
+{/html:p}
+{html:ul}
+ {html:li}
+ Rows must be placed within a .container (fixed-width) or .container-fluid (full-width) for proper alignment and padding.
+ {/html:li}
+ {html:li}
+ Use rows to create horizontal groups of columns.
+ {/html:li}
+ {html:li}
+ Content should be placed within columns, and only columns may be immediate children of rows.
+ {/html:li}
+ {html:li}
+ Predefined grid classes like .row and .col-xs-4 are available for quickly making grid layouts. Less mixins can also be used for more semantic layouts.
+ {/html:li}
+ {html:li}
+ Columns create gutters (gaps between column content) via padding. That padding is offset in rows for the first and last column via negative margin on .rows.
+ {/html:li}
+ {html:li}
+ Grid columns are created by specifying the number of twelve available columns you wish to span. For example, three equal columns would use three .col-xs-4.
+ {/html:li}
+{/html:ul}{html:h3}
+Grid options
+{/html:h3}
+{html:p}
+See how aspects of the Bootstrap grid system work across multiple devices with a handy table.
+{/html:p}{html:table class="table table-bordered"}
+ {html:tr}
+ {html:th}html {/html:th}
+ {html:th}Extra small devices Phones (&lt;768px){/html:th}
+ {html:th}Small devices Tablets (&ge;768px){/html:th}
+ {html:th}Medium devices Desktops (&ge;992px){/html:th}
+ {html:th}Large devices Desktops (&ge;1200px){/html:th}
+ {/html:tr}
+ {html:tr}
+ {html:td}Grid behavior{/html:td}
+ {html:td}Horizontal at all times{/html:td}
+ {html:td colspan=3}Collapsed to start, horizontal above breakpoints{/html:td}
+ {/html:tr}
+ {html:tr}
+ {html:td}Container width{/html:td}
+ {html:td}None (auto){/html:td}
+ {html:td}750px{/html:td}
+ {html:td}970px{/html:td}
+ {html:td}1170px{/html:td}
+ {/html:tr}
+ {html:tr}
+ {html:td}Class prefix{/html:td}
+ {html:td}.col-xs-{/html:td}
+ {html:td}.col-sm-{/html:td}
+ {html:td}.col-md-{/html:td}
+ {html:td}.col-lg-{/html:td}
+ {/html:tr}
+ {html:tr}
+ {html:td}html of columns{/html:td}
+ {html:td colspan=4"}12{/html:td}
+ {/html:tr}
+ {html:tr}
+ {html:td}Column width{/html:td}
+ {html:td}Auto{/html:td}
+ {html:td}60px{/html:td}
+ {html:td}78px{/html:td}
+ {html:td}95px{/html:td}
+ {/html:tr}
+ {html:tr}
+ {html:td}Gutter width{/html:td}
+ {html:td colspan=4}30px (15px on each side of a column){/html:td}
+ {/html:tr}
+ {html:tr}
+ {html:td}Nestable{/html:td}
+ {html:td colspan=4}Yes{/html:td}
+ {/html:tr}
+ {html:tr}
+ {html:td}Offsets{/html:td}
+ {html:td colspan=4}Yes{/html:td}
+ {/html:tr}
+ {html:tr}
+ {html:td}Column ordering{/html:td}
+ {html:td colspan=4}Yes{/html:td}
+ {/html:tr}
+{/html:table}{html:p}
+Grid classes apply to devices with screen widths greater than or equal to the breakpoint sizes, and override grid classes targeted at smaller devices. Therefore, applying any .col-md- class to an element will not only affect its styling on medium devices but also on large devices if a .col-lg- class is not present.
+{/html:p}{html:h3}
+Example: Stacked-to-horizontal
+{/html:h3}
+{html:p}
+Using a single set of .col-md-* grid classes, you can create a basic grid system that starts out stacked on mobile devices and tablet devices (the extra small to small range) before becoming horizontal on desktop (medium) devices. Place grid columns in any .row.
+{/html:p}
+{html:row class=no-margin}
+ {html:col class="col-md-1"}
+ .col-md-1
+ {/html:col}
+ {html:col class="col-md-1"}
+ .col-md-1
+ {/html:col}
+ {html:col class="col-md-1"}
+ .col-md-1
+ {/html:col}
+ {html:col class="col-md-1"}
+ .col-md-1
+ {/html:col}
+ {html:col class="col-md-1"}
+ .col-md-1
+ {/html:col}
+ {html:col class="col-md-1"}
+ .col-md-1
+ {/html:col}
+ {html:col class="col-md-1"}
+ .col-md-1
+ {/html:col}
+ {html:col class="col-md-1"}
+ .col-md-1
+ {/html:col}
+ {html:col class="col-md-1"}
+ .col-md-1
+ {/html:col}
+ {html:col class="col-md-1"}
+ .col-md-1
+ {/html:col}
+ {html:col class="col-md-1"}
+ .col-md-1
+ {/html:col}
+ {html:col class="col-md-1"}
+ .col-md-1
+ {/html:col}
+{/html:row}
+{html:row class=no-margin}
+ {html:col class="col-md-8"}
+ .col-md-8
+ {/html:col}
+ {html:col class="col-md-4"}
+ .col-md-4
+ {/html:col}
+{/html:row}
+{html:row class=no-margin}
+ {html:col class="col-md-4"}
+ .col-md-4
+ {/html:col}
+ {html:col class="col-md-8"}
+ .col-md-8
+ {/html:col}
+{/html:row}
+{html:row class=no-margin}
+ {html:col class="col-md-4"}
+ .col-md-4
+ {/html:col} 
+ {html:col class="col-md-4"}
+ .col-md-4
+ {/html:col}
+ {html:col class="col-md-4"}
+ .col-md-4
+ {/html:col}
+{/html:row}
+{html:row class=no-margin}
+ {html:col class="col-md-6"}
+ .col-md-6
+ {/html:col} 
+ {html:col class="col-md-6"}
+ .col-md-6
+ {/html:col}
+{/html:row}
+<div class="gird-demo">
+{html:h2 class="headline"}{html:span}Grid system{/html:span}{/html:h2}
+{html:p}
+Bootstrap includes a responsive, mobile first fluid grid system that appropriately scales up to 12 columns as the device or viewport size increases. It includes predefined classes for easy layout options, as well as powerful mixins for generating more semantic layouts.
+{/html:p}{html:h3}
+Introduction
+{/html:h3}
+{html:p}
+Grid systems are used for creating page layouts through a series of rows and columns that house your content. Here's how the Bootstrap grid system works:
+{/html:p}
+{html:ul}
+ {html:li}
+ Rows must be placed within a .container (fixed-width) or .container-fluid (full-width) for proper alignment and padding.
+ {/html:li}
+ {html:li}
+ Use rows to create horizontal groups of columns.
+ {/html:li}
+ {html:li}
+ Content should be placed within columns, and only columns may be immediate children of rows.
+ {/html:li}
+ {html:li}
+ Predefined grid classes like .row and .col-xs-4 are available for quickly making grid layouts. Less mixins can also be used for more semantic layouts.
+ {/html:li}
+ {html:li}
+ Columns create gutters (gaps between column content) via padding. That padding is offset in rows for the first and last column via negative margin on .rows.
+ {/html:li}
+ {html:li}
+ Grid columns are created by specifying the number of twelve available columns you wish to span. For example, three equal columns would use three .col-xs-4.
+ {/html:li}
+{/html:ul}{html:h3}
+Grid options
+{/html:h3}
+{html:p}
+See how aspects of the Bootstrap grid system work across multiple devices with a handy table.
+{/html:p}{html:table class="table table-bordered"}
+ {html:tr}
+ {html:th}html {/html:th}
+ {html:th}Extra small devices Phones (&lt;768px){/html:th}
+ {html:th}Small devices Tablets (&ge;768px){/html:th}
+ {html:th}Medium devices Desktops (&ge;992px){/html:th}
+ {html:th}Large devices Desktops (&ge;1200px){/html:th}
+ {/html:tr}
+ {html:tr}
+ {html:td}Grid behavior{/html:td}
+ {html:td}Horizontal at all times{/html:td}
+ {html:td colspan=3}Collapsed to start, horizontal above breakpoints{/html:td}
+ {/html:tr}
+ {html:tr}
+ {html:td}Container width{/html:td}
+ {html:td}None (auto){/html:td}
+ {html:td}750px{/html:td}
+ {html:td}970px{/html:td}
+ {html:td}1170px{/html:td}
+ {/html:tr}
+ {html:tr}
+ {html:td}Class prefix{/html:td}
+ {html:td}.col-xs-{/html:td}
+ {html:td}.col-sm-{/html:td}
+ {html:td}.col-md-{/html:td}
+ {html:td}.col-lg-{/html:td}
+ {/html:tr}
+ {html:tr}
+ {html:td}html of columns{/html:td}
+ {html:td colspan=4"}12{/html:td}
+ {/html:tr}
+ {html:tr}
+ {html:td}Column width{/html:td}
+ {html:td}Auto{/html:td}
+ {html:td}60px{/html:td}
+ {html:td}78px{/html:td}
+ {html:td}95px{/html:td}
+ {/html:tr}
+ {html:tr}
+ {html:td}Gutter width{/html:td}
+ {html:td colspan=4}30px (15px on each side of a column){/html:td}
+ {/html:tr}
+ {html:tr}
+ {html:td}Nestable{/html:td}
+ {html:td colspan=4}Yes{/html:td}
+ {/html:tr}
+ {html:tr}
+ {html:td}Offsets{/html:td}
+ {html:td colspan=4}Yes{/html:td}
+ {/html:tr}
+ {html:tr}
+ {html:td}Column ordering{/html:td}
+ {html:td colspan=4}Yes{/html:td}
+ {/html:tr}
+{/html:table}{html:p}
+Grid classes apply to devices with screen widths greater than or equal to the breakpoint sizes, and override grid classes targeted at smaller devices. Therefore, applying any .col-md- class to an element will not only affect its styling on medium devices but also on large devices if a .col-lg- class is not present.
+{/html:p}{html:h3}
+Example: Stacked-to-horizontal
+{/html:h3}
+{html:p}
+Using a single set of .col-md-* grid classes, you can create a basic grid system that starts out stacked on mobile devices and tablet devices (the extra small to small range) before becoming horizontal on desktop (medium) devices. Place grid columns in any .row.
+{/html:p}
+{html:row class=no-margin}
+ {html:col class="col-md-1"}
+ .col-md-1
+ {/html:col}
+ {html:col class="col-md-1"}
+ .col-md-1
+ {/html:col}
+ {html:col class="col-md-1"}
+ .col-md-1
+ {/html:col}
+ {html:col class="col-md-1"}
+ .col-md-1
+ {/html:col}
+ {html:col class="col-md-1"}
+ .col-md-1
+ {/html:col}
+ {html:col class="col-md-1"}
+ .col-md-1
+ {/html:col}
+ {html:col class="col-md-1"}
+ .col-md-1
+ {/html:col}
+ {html:col class="col-md-1"}
+ .col-md-1
+ {/html:col}
+ {html:col class="col-md-1"}
+ .col-md-1
+ {/html:col}
+ {html:col class="col-md-1"}
+ .col-md-1
+ {/html:col}
+ {html:col class="col-md-1"}
+ .col-md-1
+ {/html:col}
+ {html:col class="col-md-1"}
+ .col-md-1
+ {/html:col}
+{/html:row}
+{html:row class=no-margin}
+ {html:col class="col-md-8"}
+ .col-md-8
+ {/html:col}
+ {html:col class="col-md-4"}
+ .col-md-4
+ {/html:col}
+{/html:row}
+{html:row class=no-margin}
+ {html:col class="col-md-4"}
+ .col-md-4
+ {/html:col}
+ {html:col class="col-md-8"}
+ .col-md-8
+ {/html:col}
+{/html:row}
+{html:row class=no-margin}
+ {html:col class="col-md-4"}
+ .col-md-4
+ {/html:col} 
+ {html:col class="col-md-4"}
+ .col-md-4
+ {/html:col}
+ {html:col class="col-md-4"}
+ .col-md-4
+ {/html:col}
+{/html:row}
+{html:row class=no-margin}
+ {html:col class="col-md-6"}
+ .col-md-6
+ {/html:col} 
+ {html:col class="col-md-6"}
+ .col-md-6
+ {/html:col}
+{/html:row}
+<br />
+{html:code linenums='1'}{html:row}<br />
+&nbsp;&nbsp; &nbsp;{html:col class="col-md-1"}<br />
+&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;.col-md-1<br />
+&nbsp;&nbsp; &nbsp;{/html:col}<br />
+&nbsp;&nbsp; &nbsp;{html:col class="col-md-1"}<br />
+&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;.col-md-1<br />
+&nbsp;&nbsp; &nbsp;{/html:col}<br />
+&nbsp;&nbsp; &nbsp;{html:col class="col-md-1"}<br />
+&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;.col-md-1<br />
+&nbsp;&nbsp; &nbsp;{/html:col}<br />
+&nbsp;&nbsp; &nbsp;{html:col class="col-md-1"}<br />
+&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;.col-md-1<br />
+&nbsp;&nbsp; &nbsp;{/html:col}<br />
+&nbsp;&nbsp; &nbsp;{html:col class="col-md-1"}<br />
+&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;.col-md-1<br />
+&nbsp;&nbsp; &nbsp;{/html:col}<br />
+&nbsp;&nbsp; &nbsp;{html:col class="col-md-1"}<br />
+&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;.col-md-1<br />
+&nbsp;&nbsp; &nbsp;{/html:col}<br />
+&nbsp;&nbsp; &nbsp;{html:col class="col-md-1"}<br />
+&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;.col-md-1<br />
+&nbsp;&nbsp; &nbsp;{/html:col}<br />
+&nbsp;&nbsp; &nbsp;{html:col class="col-md-1"}<br />
+&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;.col-md-1<br />
+&nbsp;&nbsp; &nbsp;{/html:col}<br />
+&nbsp;&nbsp; &nbsp;{html:col class="col-md-1"}<br />
+&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;.col-md-1<br />
+&nbsp;&nbsp; &nbsp;{/html:col}<br />
+&nbsp;&nbsp; &nbsp;{html:col class="col-md-1"}<br />
+&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;.col-md-1<br />
+&nbsp;&nbsp; &nbsp;{/html:col}<br />
+&nbsp;&nbsp; &nbsp;{html:col class="col-md-1"}<br />
+&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;.col-md-1<br />
+&nbsp;&nbsp; &nbsp;{/html:col}<br />
+&nbsp;&nbsp; &nbsp;{html:col class="col-md-1"}<br />
+&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;.col-md-1<br />
+&nbsp;&nbsp; &nbsp;{/html:col}<br />
+{/html:row}<br />
+{html:row}<br />
+&nbsp;&nbsp; &nbsp;{html:col class="col-md-8"}<br />
+&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;.col-md-8<br />
+&nbsp;&nbsp; &nbsp;{/html:col}<br />
+&nbsp;&nbsp; &nbsp;{html:col class="col-md-4"}<br />
+&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;.col-md-4<br />
+&nbsp;&nbsp; &nbsp;{/html:col}<br />
+{/html:row}<br />
+{html:row}<br />
+&nbsp;&nbsp; &nbsp;{html:col class="col-md-4"}<br />
+&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;.col-md-4<br />
+&nbsp;&nbsp; &nbsp;{/html:col}<br />
+&nbsp;&nbsp; &nbsp;{html:col class="col-md-8"}<br />
+&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;.col-md-8<br />
+&nbsp;&nbsp; &nbsp;{/html:col}<br />
+{/html:row}<br />
+{html:row}<br />
+&nbsp;&nbsp; &nbsp;{html:col class="col-md-4"}<br />
+&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;.col-md-4<br />
+&nbsp;&nbsp; &nbsp;{/html:col}&nbsp;<br />
+&nbsp;&nbsp; &nbsp;{html:col class="col-md-4"}<br />
+&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;.col-md-4<br />
+&nbsp;&nbsp; &nbsp;{/html:col}<br />
+&nbsp;&nbsp; &nbsp;{html:col class="col-md-4"}<br />
+&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;.col-md-4<br />
+&nbsp;&nbsp; &nbsp;{/html:col}<br />
+{/html:row}<br />
+{html:row}<br />
+&nbsp;&nbsp; &nbsp;{html:col class="col-md-6"}<br />
+&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;.col-md-6<br />
+&nbsp;&nbsp; &nbsp;{/html:col}&nbsp;<br />
+&nbsp;&nbsp; &nbsp;{html:col class="col-md-6"}<br />
+&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;.col-md-6<br />
+&nbsp;&nbsp; &nbsp;{/html:col}<br />
+{/html:row}{/html:code}{html:h3}
+Example: Fluid container
+{/html:h3}
+{html:p}
+Turn any fixed-width grid layout into a full-width layout by changing your outermost .container to .container-fluid.
+{/html:p}
+{html:div class=container-fluid}
+{html:row}
+ 
+{/html:row}
+{/html:div}
+<br />
+{html:code linenums='1'}{html:div class=container-fluid}<br />
+&nbsp; &nbsp; {html:row}<br />
+&nbsp; &nbsp; {/html:row}<br />
+{/html:div}{/html:code}{html:h3}
+Example: Mobile and desktop
+{/html:h3}
+{html:p}
+Don't want your columns to simply stack in smaller devices? Use the extra small and medium device grid classes by adding .col-xs-* .col-md-* to your columns. See the example below for a better idea of how it all works.
+{html:p}{html:row class=no-margin}
+ {html:col class="col-xs-12 col-md-8"}
+ .col-xs-12 .col-md-8
+ {/html:col}
+ {html:col class="col-xs-6 col-md-4"}
+ .col-xs-6 .col-md-4
+ {/html:col}
+{/html:row}
+{html:row class=no-margin}
+ {html:col class="col-xs-6 col-md-4"}
+ .col-xs-6 .col-md-4
+ {/html:col}
+ {html:col class="col-xs-6 col-md-4"}
+ .col-xs-6 .col-md-4
+ {/html:col}
+ {html:col class="col-xs-6 col-md-4"}
+ .col-xs-6 .col-md-4
+ {/html:col}
+{/html:row}
+{html:row class=no-margin}
+ {html:col class="col-xs-6"}
+ .col-xs-6
+ {/html:col}
+ {html:col class="col-xs-6"}
+ .col-xs-6
+ {/html:col}
+{/html:row}
+<br />
+{html:code linenums='1'}{html:row}<br />
+&nbsp;&nbsp; &nbsp;{html:col class="col-xs-12 col-md-8"}<br />
+&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;.col-xs-12 .col-md-8<br />
+&nbsp;&nbsp; &nbsp;{/html:col}<br />
+&nbsp;&nbsp; &nbsp;{html:col class="col-xs-6 col-md-4"}<br />
+&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;.col-xs-6 .col-md-4<br />
+&nbsp;&nbsp; &nbsp;{/html:col}<br />
+{/html:row}<br />
+{html:row}<br />
+&nbsp;&nbsp; &nbsp;{html:col class="col-xs-6 col-md-4"}<br />
+&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;.col-xs-6 .col-md-4<br />
+&nbsp;&nbsp; &nbsp;{/html:col}<br />
+&nbsp;&nbsp; &nbsp;{html:col class="col-xs-6 col-md-4"}<br />
+&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;.col-xs-6 .col-md-4<br />
+&nbsp;&nbsp; &nbsp;{/html:col}<br />
+&nbsp;&nbsp; &nbsp;{html:col class="col-xs-6 col-md-4"}<br />
+&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;.col-xs-6 .col-md-4<br />
+&nbsp;&nbsp; &nbsp;{/html:col}<br />
+{/html:row}<br />
+{html:row}<br />
+&nbsp;&nbsp; &nbsp;{html:col class="col-xs-6"}<br />
+&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;.col-xs-6<br />
+&nbsp;&nbsp; &nbsp;{/html:col}<br />
+&nbsp;&nbsp; &nbsp;{html:col class="col-xs-6"}<br />
+&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;.col-xs-6<br />
+&nbsp;&nbsp; &nbsp;{/html:col}<br />
+{/html:row}{/html:code}{html:h3}
+Example: Mobile, tablet, desktops
+{/html:h3}
+{html:p}
+Build on the previous example by creating even more dynamic and powerful layouts with tablet .col-sm-* classes.
+{/html:p}
+{html:row class=no-margin}
+ {html:col class="col-xs-12 col-sm-6 col-md-8"}
+ .col-xs-12 .col-sm-6 .col-md-8
+ {/html:col}
+ {html:col class="col-xs-6 col-md-4"}
+ .col-xs-6 .col-md-4
+ {/html:col}
+{/html:row}
+{html:row class=no-margin}
+ {html:col class="col-xs-6 col-sm-4"}
+ .col-xs-6 .col-sm-4
+ {/html:col}
+ {html:col class="col-xs-6 col-sm-4"}
+ .col-xs-6 .col-sm-4
+ {/html:col}
+ {html:col class="col-xs-6 col-sm-4"}
+ .col-xs-6 .col-sm-4
+ {/html:col}
+{/html:row}
+<br />
+{html:code linenums='1'}{html:row}
+&nbsp;&nbsp; &nbsp;{html:col class="col-xs-12 col-sm-6 col-md-8"}<br />
+&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;.col-xs-12 .col-sm-6 .col-md-8<br />
+&nbsp;&nbsp; &nbsp;{/html:col}<br />
+&nbsp;&nbsp; &nbsp;{html:col class="col-xs-6 col-md-4"}<br />
+&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;.col-xs-6 .col-md-4<br />
+&nbsp;&nbsp; &nbsp;{/html:col}<br />
+{/html:row}<br />
+{html:row}<br />
+&nbsp;&nbsp; &nbsp;{html:col class="col-xs-6 col-sm-4"}<br />
+&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;.col-xs-6 .col-sm-4<br />
+&nbsp;&nbsp; &nbsp;{/html:col}<br />
+&nbsp;&nbsp; &nbsp;{html:col class="col-xs-6 col-sm-4"}<br />
+&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;.col-xs-6 .col-sm-4<br />
+&nbsp;&nbsp; &nbsp;{/html:col}<br />
+&nbsp;&nbsp; &nbsp;{html:col class="col-xs-6 col-sm-4"}<br />
+&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;.col-xs-6 .col-sm-4<br />
+&nbsp;&nbsp; &nbsp;{/html:col}<br />
+{/html:row}{/html:code}{html:h3}
+Responsive column resets
+{/html:h3}
+{html:p}
+With the four tiers of grids available you're bound to run into issues where, at certain breakpoints, your columns don't clear quite right as one is taller than the other. To fix that, use a combination of a .clearfix and our responsive utility classes.
+{/html:p}
+{html:row class=no-margin}
+ {html:col class="col-xs-6 col-sm-3 "}
+ .col-xs-6 .col-sm-3
+ {/html:col}
+ {html:col class="col-xs-6 col-sm-4"}
+ .col-xs-6 col-sm-3
+ {/html:col}
+ {html:div class=clearfix visible-xs}{/html:div}
+ {html:col class="col-xs-6 col-sm-3 "}
+ .col-xs-6 .col-sm-3
+ {/html:col}
+ {html:col class="col-xs-6 col-sm-4"}
+ .col-xs-6 col-sm-3
+ {/html:col}
+{/html:row}
+<br />
+{html:code linenums='1'}{html:row}<br />
+&nbsp;&nbsp; &nbsp;{html:col class="col-xs-6 col-sm-3 "}<br />
+&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;.col-xs-6 .col-sm-3<br />
+&nbsp;&nbsp; &nbsp;{/html:col}<br />
+&nbsp;&nbsp; &nbsp;{html:col class="col-xs-6 col-sm-4"}<br />
+&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;.col-xs-6 col-sm-3<br />
+&nbsp;&nbsp; &nbsp;{/html:col}<br />
+&nbsp;&nbsp; &nbsp;{html:div class=clearfix visible-xs}{/html:div}<br />
+&nbsp;&nbsp; &nbsp;{html:col class="col-xs-6 col-sm-3 "}<br />
+&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;.col-xs-6 .col-sm-3<br />
+&nbsp;&nbsp; &nbsp;{/html:col}<br />
+&nbsp;&nbsp; &nbsp;{html:col class="col-xs-6 col-sm-4"}<br />
+&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;.col-xs-6 col-sm-3<br />
+&nbsp;&nbsp; &nbsp;{/html:col}<br />
+{/html:row}{/html:code}{html:p}
+In addition to column clearing at responsive breakpoints, you may need to reset offsets, pushes, or pulls
+{/html:p}
+{html:row class=no-margin}
+ {html:col class="col-sm-5 col-md-6"}
+ .col-sm-5 .col-md-6
+ {/html:col}
+ {html:col class="col-sm-5 col-sm-offset-2 col-md-6 col-md-offset-0"}
+ .col-sm-5 .col-sm-offset-2 .col-md-6 .col-md-offset-0
+ {/html:col}
+{/html:row}{html:row class=no-margin}
+ {html:col class="col-sm-6 col-md-5 col-lg-6"}
+ .col-sm-6 .col-md-5 .col-lg-6
+ {/html:col}
+ {html:col class="col-sm-6 col-md-5 col-md-offset-2 col-lg-6 col-lg-offset-0"}
+ .col-sm-6 .col-md-5 .col-md-offset-2 .col-lg-6 .col-lg-offset-0
+ {/html:col}
+{/html:row}
+<br />
+{html:code linenums='1'}{html:row}<br />
+&nbsp;&nbsp; &nbsp;{html:col class="col-sm-5 col-md-6"}<br />
+&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;.col-sm-5 .col-md-6<br />
+&nbsp;&nbsp; &nbsp;{/html:col}<br />
+&nbsp;&nbsp; &nbsp;{html:col class="col-sm-5 col-sm-offset-2 col-md-6 col-md-offset-0"}<br />
+&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;.col-sm-5 .col-sm-offset-2 .col-md-6 .col-md-offset-0<br />
+&nbsp;&nbsp; &nbsp;{/html:col}<br />
+{/html:row}{html:row}<br />
+&nbsp;&nbsp; &nbsp;{html:col class="col-sm-6 col-md-5 col-lg-6"}<br />
+&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;.col-sm-6 .col-md-5 .col-lg-6<br />
+&nbsp;&nbsp; &nbsp;{/html:col}<br />
+&nbsp;&nbsp; &nbsp;{html:col class="col-sm-6 col-md-5 col-md-offset-2 col-lg-6 col-lg-offset-0"}<br />
+&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;.col-sm-6 .col-md-5 .col-md-offset-2 .col-lg-6 .col-lg-offset-0<br />
+&nbsp;&nbsp; &nbsp;{/html:col}<br />
+{/html:row}{/html:code}{html:h3}
+Offsetting columns
+{/html:h3}
+{html:p}
+Move columns to the right using .col-md-offset-* classes. These classes increase the left margin of a column by * columns. For example, .col-md-offset-4 moves .col-md-4 over four columns.
+{/html:p}{html:row class=no-margin}
+ {html:col class="col-md-4"}
+ .col-md-4
+ {/html:col}
+ {html:col class="col-md-4 col-md-offset-4"}
+ .col-md-4 .col-md-offset-4
+ {/html:col}
+{/html:row}
+{html:row class=no-margin}
+ {html:col class="col-md-3 col-md-offset-3"}
+ .col-md-3 .col-md-offset-3
+ {/html:col}
+ {html:col class="col-md-3 col-md-offset-3"}
+ .col-md-3 .col-md-offset-3
+ {/html:col}
+{/html:row}
+{html:row class=no-margin}
+ {html:col class="col-md-6 col-md-offset-3"}
+ .col-md-6 .col-md-offset-3
+ {/html:col}
+{/html:row}
+<br />
+{html:code linenums='1'}{html:row}<br />
+&nbsp;&nbsp; &nbsp;{html:col class="col-md-4"}<br />
+&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;.col-md-4<br />
+&nbsp;&nbsp; &nbsp;{/html:col}<br />
+&nbsp;&nbsp; &nbsp;{html:col class="col-md-4 col-md-offset-4"}<br />
+&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;.col-md-4 .col-md-offset-4<br />
+&nbsp;&nbsp; &nbsp;{/html:col}<br />
+{/html:row}<br />
+{html:row}<br />
+&nbsp;&nbsp; &nbsp;{html:col class="col-md-3 col-md-offset-3"}<br />
+&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;.col-md-3 .col-md-offset-3<br />
+&nbsp;&nbsp; &nbsp;{/html:col}<br />
+&nbsp;&nbsp; &nbsp;{html:col class="col-md-3 col-md-offset-3"}<br />
+&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;.col-md-3 .col-md-offset-3<br />
+&nbsp;&nbsp; &nbsp;{/html:col}<br />
+{/html:row}<br />
+{html:row}<br />
+&nbsp;&nbsp; &nbsp;{html:col class="col-md-6 col-md-offset-3"}<br />
+&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;.col-md-6 .col-md-offset-3<br />
+&nbsp;&nbsp; &nbsp;{/html:col}<br />
+{/html:row}{/html:code}{html:h3}
+Column ordering
+{/html:h3}
+{html:p}
+Easily change the order of our built-in grid columns with .col-md-push-* and .col-md-pull-* modifier classes.
+{/html:p}
+{html:row class=no-margin}
+ {html:col class="col-md-9 col-md-push-3"}
+ .col-md-3 .col-md-pull-9
+ {/html:col}
+ {html:col class="col-md-3 col-md-pull-9"}
+ .col-md-9 .col-md-push-3
+ {/html:col}
+{/html:row}
+<br />
+{html:code linenums='1'}{html:row}<br />
+&nbsp;&nbsp; &nbsp;{html:col class="col-md-9 col-md-push-3"}<br />
+&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;.col-md-3 .col-md-pull-9<br />
+&nbsp;&nbsp; &nbsp;{/html:col}<br />
+&nbsp;&nbsp; &nbsp;{html:col class="col-md-3 col-md-pull-9"}<br />
+&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;.col-md-9 .col-md-push-3<br />
+&nbsp;&nbsp; &nbsp;{/html:col}<br />
+{/html:row}
+{/html:code}</div>
+</div>
+</div>

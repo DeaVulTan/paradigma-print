@@ -1,0 +1,876 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: User\n"
+"POT-Creation-Date: 2015-02-26 13:47+0700\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.4\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../admin/controllers/myprofile-controller.php:40
+#: ../admin/controllers/myprofile-controller.php:124
+#: ../admin/controllers/user-controller.php:494
+#: ../shortcodes/controllers/user-shortcode.php:453
+msgid "Your current password is incorrect!"
+msgstr "您当前的密码不正确！"
+
+#: ../admin/controllers/myprofile-controller.php:45
+#: ../admin/controllers/myprofile-controller.php:129
+#: ../admin/controllers/user-controller.php:499
+msgid "Avatar is changed successfully!"
+msgstr "个人头像已更改成功了！"
+
+#: ../admin/controllers/myprofile-controller.php:61
+#: ../admin/controllers/myprofile-controller.php:145
+#: ../admin/controllers/user-controller.php:141
+#: ../admin/controllers/user-controller.php:219
+#: ../admin/controllers/user-controller.php:324
+#: ../admin/controllers/user-controller.php:515
+#: ../shortcodes/controllers/user-shortcode.php:151
+#: ../shortcodes/controllers/user-shortcode.php:384
+msgid "is required"
+msgstr "是必须的"
+
+#: ../admin/controllers/myprofile-controller.php:79
+#: ../admin/controllers/myprofile-controller.php:163
+#: ../admin/controllers/user-controller.php:148
+#: ../admin/controllers/user-controller.php:226
+#: ../admin/controllers/user-controller.php:331
+#: ../admin/controllers/user-controller.php:533
+#: ../shortcodes/controllers/user-shortcode.php:159
+#: ../shortcodes/controllers/user-shortcode.php:395
+msgid "Email is already in use!"
+msgstr "该电子邮件已被使用了！"
+
+#: ../admin/controllers/user-controller.php:152
+#: ../admin/controllers/user-controller.php:335
+#: ../shortcodes/controllers/user-shortcode.php:156
+msgid "Username is already in use!"
+msgstr "该客户名称已被使用了！"
+
+#: ../admin/controllers/user-controller.php:155
+#: ../admin/controllers/user-controller.php:229
+#: ../admin/controllers/user-controller.php:338
+#: ../shortcodes/controllers/user-shortcode.php:303
+#: ../shortcodes/controllers/user-shortcode.php:475
+msgid "Confirm password and password are not match"
+msgstr "密码和确认密码不匹配"
+
+#: ../admin/views/customfields/index.php:5
+#: ../admin/views/customfields/index.php:128
+#: ../admin/views/customfields/index.php:186
+#: ../admin/views/myprofile/index.php:99
+#: ../admin/views/myprofile/index.php:137
+#: ../admin/views/myprofile/index.php:166 ../admin/views/user/myprofile.php:99
+#: ../admin/views/user/myprofile.php:137 ../admin/views/user/myprofile.php:166
+msgid "Save changes"
+msgstr "保存更改"
+
+#: ../admin/views/customfields/index.php:6 ../admin/views/user/index.php:16
+#: ../admin/views/user/index.php:22 ../admin/views/user/index.php:27
+msgid "Cancel"
+msgstr "取消"
+
+#: ../admin/views/customfields/index.php:17 ../user.php:76
+msgid "Custom Fields"
+msgstr "自定义字段"
+
+#: ../admin/views/customfields/index.php:17 ../admin/views/user/index.php:39
+msgid "List"
+msgstr "名单"
+
+#: ../admin/views/customfields/index.php:25
+#: ../admin/views/customfields/index.php:85
+#: ../admin/views/customfields/index.php:143
+msgid "Label"
+msgstr "标签"
+
+#: ../admin/views/customfields/index.php:26
+msgid "Name"
+msgstr "产品名称 "
+
+#: ../admin/views/customfields/index.php:27
+msgid "Required"
+msgstr "需要"
+
+#: ../admin/views/customfields/index.php:28
+#: ../shortcodes/controllers/user-shortcode.php:83
+#: ../widgets/views/user/index.php:47
+msgid "Sign up"
+msgstr "注册"
+
+#: ../admin/views/customfields/index.php:29 ../admin/views/user/index.php:51
+#: ../admin/views/user/index.php:216
+msgid "Actions"
+msgstr "操作"
+
+#: ../admin/views/customfields/index.php:33
+#: ../admin/views/customfields/index.php:103
+#: ../admin/views/customfields/index.php:115
+#: ../admin/views/customfields/index.php:161
+#: ../admin/views/customfields/index.php:173
+#: ../admin/views/customfields/index.php:198
+#: ../admin/views/myprofile/index.php:87 ../admin/views/user/myprofile.php:87
+#: ../shortcodes/views/user/profile/edit.php:87 ../user-config.php:19
+#: ../user-config.php:21 ../user-config.php:22 ../user-config.php:23
+msgid "No"
+msgstr "否"
+
+#: ../admin/views/customfields/index.php:33
+#: ../admin/views/customfields/index.php:106
+#: ../admin/views/customfields/index.php:118
+#: ../admin/views/customfields/index.php:164
+#: ../admin/views/customfields/index.php:176
+#: ../admin/views/customfields/index.php:197
+#: ../admin/views/myprofile/index.php:86 ../admin/views/user/myprofile.php:86
+#: ../shortcodes/views/user/profile/edit.php:84 ../user-config.php:19
+#: ../user-config.php:21 ../user-config.php:22 ../user-config.php:23
+msgid "Yes"
+msgstr "是"
+
+#: ../admin/views/customfields/index.php:47
+#: ../admin/views/customfields/index.php:68 ../admin/views/user/edit.php:11
+msgid "Edit"
+msgstr "编辑"
+
+#: ../admin/views/customfields/index.php:48
+#: ../admin/views/customfields/index.php:69 ../admin/views/user/index.php:54
+#: ../admin/views/user/index.php:576
+msgid "Delete"
+msgstr "删除"
+
+#: ../admin/views/customfields/index.php:54
+#: ../admin/views/customfields/index.php:138
+msgid "Add Custom Field"
+msgstr "添加自定义字段"
+
+#: ../admin/views/customfields/index.php:79
+msgid "Edit Custom Field"
+msgstr "编辑自定义字段"
+
+#: ../admin/views/customfields/index.php:92
+#: ../admin/views/customfields/index.php:150
+msgid "Field Name"
+msgstr "字段名称"
+
+#: ../admin/views/customfields/index.php:99
+#: ../admin/views/customfields/index.php:157
+msgid "Required?"
+msgstr "是否必需？"
+
+#: ../admin/views/customfields/index.php:111
+#: ../admin/views/customfields/index.php:169
+msgid "Display in Sign Up"
+msgstr "显示在注册"
+
+#: ../admin/views/customfields/index.php:127
+#: ../admin/views/customfields/index.php:185
+#: ../admin/views/myprofile/index.php:136
+#: ../admin/views/myprofile/index.php:165 ../admin/views/user/index.php:288
+#: ../admin/views/user/index.php:361 ../admin/views/user/myprofile.php:136
+#: ../admin/views/user/myprofile.php:165
+msgid "Close"
+msgstr "关闭"
+
+#: ../admin/views/customfields/index.php:199
+msgid "This field is required"
+msgstr "此字段是必需的"
+
+#: ../admin/views/customfields/index.php:200
+msgid "This field is already exist!"
+msgstr "此字段已经存在！"
+
+#: ../admin/views/customfields/index.php:217
+#: ../admin/views/myprofile/index.php:241 ../admin/views/user/add.php:152
+#: ../admin/views/user/add.php:163 ../admin/views/user/copy.php:159
+#: ../admin/views/user/copy.php:170 ../admin/views/user/edit.php:170
+#: ../admin/views/user/edit.php:181 ../admin/views/user/edit.php:204
+#: ../admin/views/user/index.php:409 ../admin/views/user/index.php:421
+#: ../admin/views/user/index.php:442 ../admin/views/user/index.php:479
+#: ../admin/views/user/index.php:497 ../admin/views/user/index.php:510
+#: ../admin/views/user/index.php:519 ../admin/views/user/index.php:526
+#: ../admin/views/user/index.php:540 ../admin/views/user/index.php:555
+#: ../admin/views/user/index.php:579 ../admin/views/user/index.php:607
+#: ../admin/views/user/myprofile.php:241
+msgid "Loading..."
+msgstr "加载中..."
+
+#: ../admin/views/customfields/index.php:221
+msgid "Custom Fields are updated successfully"
+msgstr "自定义字段被更新成功"
+
+#: ../admin/views/emails/active.php:5 ../admin/views/emails/forgot.php:5
+#: ../admin/views/emails/welcome.php:5 ../admin/views/user/add.php:32
+#: ../admin/views/user/copy.php:32 ../admin/views/user/edit.php:32
+#: ../admin/views/user/index.php:121 ../admin/views/user/index.php:299
+#: ../backend/login.php:29 ../shortcodes/controllers/user-shortcode.php:97
+#: ../shortcodes/controllers/user-shortcode.php:126
+#: ../shortcodes/views/user/profile/edit.php:37
+#: ../shortcodes/views/user/profile/view.php:23
+msgid "Username"
+msgstr "用户名称"
+
+#: ../admin/views/emails/active.php:6 ../admin/views/emails/forgot.php:6
+#: ../admin/views/emails/welcome.php:6 ../admin/views/myprofile/index.php:47
+#: ../admin/views/user/add.php:21 ../admin/views/user/copy.php:21
+#: ../admin/views/user/edit.php:21 ../admin/views/user/index.php:175
+#: ../admin/views/user/index.php:323 ../admin/views/user/myprofile.php:47
+#: ../shortcodes/controllers/user-shortcode.php:98
+#: ../shortcodes/controllers/user-shortcode.php:377
+#: ../shortcodes/views/user/profile/edit.php:75
+#: ../shortcodes/views/user/profile/view.php:51
+#: ../shortcodes/views/user/signin.php:37
+msgid "Email"
+msgstr "电子邮件"
+
+#: ../admin/views/emails/active.php:7 ../admin/views/emails/forgot.php:7
+#: ../admin/views/emails/welcome.php:7 ../admin/views/myprofile/index.php:33
+#: ../admin/views/user/add.php:64 ../admin/views/user/copy.php:65
+#: ../admin/views/user/edit.php:78 ../admin/views/user/index.php:139
+#: ../admin/views/user/index.php:307 ../admin/views/user/myprofile.php:33
+#: ../shortcodes/controllers/user-shortcode.php:95
+#: ../shortcodes/controllers/user-shortcode.php:124
+#: ../shortcodes/controllers/user-shortcode.php:375
+#: ../shortcodes/views/user/profile/edit.php:43
+#: ../shortcodes/views/user/profile/view.php:29
+msgid "First Name"
+msgstr "名字"
+
+#: ../admin/views/emails/active.php:8 ../admin/views/emails/forgot.php:8
+#: ../admin/views/emails/welcome.php:8 ../admin/views/myprofile/index.php:40
+#: ../admin/views/user/add.php:73 ../admin/views/user/copy.php:76
+#: ../admin/views/user/edit.php:87 ../admin/views/user/index.php:157
+#: ../admin/views/user/index.php:315 ../admin/views/user/myprofile.php:40
+#: ../shortcodes/controllers/user-shortcode.php:96
+#: ../shortcodes/controllers/user-shortcode.php:125
+#: ../shortcodes/controllers/user-shortcode.php:376
+#: ../shortcodes/views/user/profile/edit.php:49
+#: ../shortcodes/views/user/profile/view.php:35
+msgid "Last Name"
+msgstr "姓"
+
+#: ../admin/views/emails/active.php:9
+msgid "Activation link"
+msgstr "激活链接"
+
+#: ../admin/views/emails/active.php:10 ../admin/views/emails/forgot.php:10
+#: ../admin/views/emails/welcome.php:9
+msgid "Site name"
+msgstr "网站名称"
+
+#: ../admin/views/emails/forgot.php:9
+msgid "Password Reset Link"
+msgstr "密码重置链接"
+
+#: ../admin/views/myprofile/index.php:20
+#: ../admin/views/myprofile/index.php:147 ../admin/views/user/myprofile.php:20
+#: ../admin/views/user/myprofile.php:147
+msgid "Change Avatar"
+msgstr "更改个人头像"
+
+#: ../admin/views/myprofile/index.php:84 ../admin/views/user/myprofile.php:84
+msgid "Public your profile"
+msgstr "公开您的个人资料"
+
+#: ../admin/views/myprofile/index.php:93
+#: ../admin/views/myprofile/index.php:108 ../admin/views/user/myprofile.php:93
+#: ../admin/views/user/myprofile.php:108
+#: ../shortcodes/views/user/profile/menu.php:10
+#: ../shortcodes/views/user/recover.php:5
+msgid "Change password"
+msgstr "更改密码"
+
+#: ../admin/views/myprofile/index.php:113
+#: ../admin/views/user/myprofile.php:113
+#: ../shortcodes/controllers/user-shortcode.php:448
+#: ../shortcodes/views/user/profile/change-password.php:27
+msgid "Current password"
+msgstr "当前密码"
+
+#: ../admin/views/myprofile/index.php:120
+#: ../admin/views/user/myprofile.php:120
+#: ../shortcodes/controllers/user-shortcode.php:297
+#: ../shortcodes/controllers/user-shortcode.php:458
+#: ../shortcodes/views/user/profile/change-password.php:31
+msgid "New Password"
+msgstr "新的密码"
+
+#: ../admin/views/myprofile/index.php:127
+#: ../admin/views/user/myprofile.php:127
+msgid "Confirm"
+msgstr "确认"
+
+#: ../admin/views/myprofile/index.php:156
+#: ../admin/views/user/myprofile.php:156
+msgid "select image"
+msgstr "选择图像"
+
+#: ../admin/views/myprofile/index.php:157
+#: ../admin/views/user/myprofile.php:157
+msgid "Please choose an avatar"
+msgstr "请选择一个个人头像"
+
+#: ../admin/views/myprofile/index.php:176
+#: ../admin/views/user/myprofile.php:176
+#: ../shortcodes/controllers/user-shortcode.php:410
+msgid "Profile is changed successfully!"
+msgstr "个人资料已更改成功！"
+
+#: ../admin/views/myprofile/index.php:178 ../admin/views/user/add.php:171
+#: ../admin/views/user/copy.php:178 ../admin/views/user/edit.php:189
+#: ../admin/views/user/edit.php:215 ../admin/views/user/index.php:461
+#: ../admin/views/user/index.php:532 ../admin/views/user/index.php:561
+#: ../admin/views/user/index.php:584 ../admin/views/user/myprofile.php:178
+msgid "There is an error, please check again!"
+msgstr "有错误，请再次检查！"
+
+#: ../admin/views/myprofile/index.php:208
+#: ../admin/views/user/myprofile.php:208
+#: ../shortcodes/controllers/user-shortcode.php:306
+#: ../shortcodes/controllers/user-shortcode.php:465
+#, php-format
+msgid "Your password must from %s-20 characters!"
+msgstr "您的密码长度必须是从%s至20个字符！"
+
+#: ../admin/views/myprofile/index.php:218
+#: ../admin/views/user/myprofile.php:218
+msgid "Passwords do not match!"
+msgstr "密码不匹配！"
+
+#: ../admin/views/myprofile/index.php:233
+#: ../admin/views/user/myprofile.php:233
+msgid "Wrong current password"
+msgstr "错误的当前密码"
+
+#: ../admin/views/user/add.php:11 ../admin/views/user/copy.php:11
+#: ../admin/views/user/edit.php:11 ../admin/views/user/index.php:39
+#: ../admin/views/user/index.php:290 ../user-config.php:36
+msgid "User"
+msgstr "用户"
+
+#: ../admin/views/user/add.php:11
+msgid "Add"
+msgstr "添加"
+
+#: ../admin/views/user/add.php:43 ../admin/views/user/copy.php:43
+#: ../admin/views/user/edit.php:58 ../backend/login.php:32
+#: ../shortcodes/controllers/user-shortcode.php:127
+#: ../shortcodes/views/user/signin.php:20
+#: ../shortcodes/views/user/signup.php:31
+msgid "Password"
+msgstr "密码"
+
+#: ../admin/views/user/add.php:54 ../admin/views/user/copy.php:54
+#: ../admin/views/user/edit.php:68
+msgid "Re-enter password"
+msgstr "重新输入密码"
+
+#: ../admin/views/user/add.php:98 ../admin/views/user/copy.php:104
+#: ../admin/views/user/edit.php:115 ../admin/views/user/index.php:193
+#: ../admin/views/user/index.php:331
+#: ../shortcodes/views/user/profile/edit.php:56
+#: ../shortcodes/views/user/profile/view.php:41
+msgid "Role"
+msgstr "任务"
+
+#: ../admin/views/user/add.php:111 ../admin/views/user/copy.php:118
+#: ../admin/views/user/edit.php:129 ../admin/views/user/index.php:56
+#: ../admin/views/user/index.php:350
+msgid "Active"
+msgstr "有效"
+
+#: ../admin/views/user/add.php:127 ../admin/views/user/copy.php:134
+#: ../admin/views/user/edit.php:144
+#: ../shortcodes/views/user/profile/edit.php:81
+#: ../shortcodes/views/user/profile/view.php:57
+msgid "Public Profile"
+msgstr "公开信息"
+
+#: ../admin/views/user/add.php:176
+msgid "User is created successfully"
+msgstr "用户创建成功"
+
+#: ../admin/views/user/copy.php:11
+msgid "Copy"
+msgstr "复制"
+
+#: ../admin/views/user/copy.php:183
+msgid "User is copied successfully"
+msgstr "用户成功复制"
+
+#: ../admin/views/user/edit.php:42
+msgid "Last Login"
+msgstr "上次登录"
+
+#: ../admin/views/user/edit.php:50
+msgid "Last login IP"
+msgstr "上次登录的IP"
+
+#: ../admin/views/user/edit.php:194 ../admin/views/user/edit.php:213
+msgid "User is updated successfully"
+msgstr "用户更新成功！"
+
+#: ../admin/views/user/index.php:5 ../admin/views/user/index.php:290
+#: ../admin/views/user/index.php:360
+msgid "Search"
+msgstr "搜索"
+
+#: ../admin/views/user/index.php:11
+msgid "New"
+msgstr "新"
+
+#: ../admin/views/user/index.php:15 ../admin/views/user/index.php:20
+#: ../admin/views/user/index.php:26
+msgid "Save"
+msgstr "保存"
+
+#: ../admin/views/user/index.php:21
+#: ../shortcodes/views/user/profile/change-password.php:38
+#: ../shortcodes/views/user/profile/edit.php:129
+msgid "Apply"
+msgstr "申请"
+
+#: ../admin/views/user/index.php:59
+msgid "Deactive"
+msgstr "停止"
+
+#: ../admin/views/user/index.php:76 ../admin/views/user/index.php:81
+msgid "All"
+msgstr "全部"
+
+#: ../admin/views/user/index.php:84 ../admin/views/user/index.php:241
+#: ../admin/views/user/index.php:485 ../admin/views/user/index.php:546
+msgid "Activated"
+msgstr "已活动"
+
+#: ../admin/views/user/index.php:87 ../admin/views/user/index.php:243
+#: ../admin/views/user/index.php:487 ../admin/views/user/index.php:548
+msgid "Deactivated"
+msgstr "已停止"
+
+#: ../admin/views/user/index.php:211 ../shortcodes/views/user/activation.php:5
+#: ../user-config.php:37
+msgid "Activation"
+msgstr "激活"
+
+#: ../admin/views/user/index.php:435
+msgid "Are you sure with this action?"
+msgstr "你确定这个操作吗？"
+
+#: ../admin/views/user/index.php:451 ../admin/views/user/index.php:582
+msgid "User is deleted successfully"
+msgstr "用户被成功删除"
+
+#: ../admin/views/user/index.php:454
+msgid "User is activated successfully"
+msgstr "用户成功激活"
+
+#: ../admin/views/user/index.php:457
+msgid "User is deactivated successfully"
+msgstr "用户成功激活"
+
+#: ../admin/views/user/index.php:572
+msgid "Are you sure to delete this item?"
+msgstr "你确定要删除此项目？"
+
+#: ../backend/login.php:18 ../backend/login.php:39
+#: ../shortcodes/controllers/user-shortcode.php:8
+#: ../shortcodes/views/user/signin.php:27 ../widgets/views/user/index.php:43
+msgid "Sign In"
+msgstr "登录"
+
+#: ../backend/login.php:35 ../shortcodes/views/user/signin.php:24
+msgid "Remember me"
+msgstr "记住我"
+
+#: ../backend/login.php:81
+msgid "There is an error, please sign in again."
+msgstr "出现错误，请重新登录。"
+
+#: ../backend/login.php:88
+#, php-format
+msgid "Username needs more than %s characters"
+msgstr "用户名需要超过 %s 字符"
+
+#: ../backend/login.php:90
+#, php-format
+msgid "Password needs more than %s characters"
+msgstr "密码需要超过 %s 字符"
+
+#: ../shortcodes/controllers/user-shortcode.php:19
+#: ../shortcodes/views/user/signin.php:15
+msgid "Please enter your username"
+msgstr "请输入用户名"
+
+#: ../shortcodes/controllers/user-shortcode.php:23
+msgid "Please enter your password"
+msgstr "请输入你的密码"
+
+#: ../shortcodes/controllers/user-shortcode.php:27
+#: ../shortcodes/controllers/user-shortcode.php:49
+msgid " have login failed "
+msgstr " 已登录失败"
+
+#: ../shortcodes/controllers/user-shortcode.php:41
+msgid ""
+"This account is not activated yet! Please check email or contact "
+"Administrator. Thanks! "
+msgstr "此帐户尚未激活！请检查电子邮件或联系管理员。谢谢！␣"
+
+#: ../shortcodes/controllers/user-shortcode.php:47
+#: ../shortcodes/controllers/user-shortcode.php:54
+msgid "Wrong username or password"
+msgstr "用户名或密码不对"
+
+#: ../shortcodes/controllers/user-shortcode.php:47
+msgid "times"
+msgstr "次"
+
+#: ../shortcodes/controllers/user-shortcode.php:105
+msgid "Please agree to the Terms of Service and Privacy Policy first!"
+msgstr "请先同意服务条款和隐私权政策！"
+
+#: ../shortcodes/controllers/user-shortcode.php:110
+msgid "Wrong Captcha Code"
+msgstr "错误的验证码代码"
+
+#: ../shortcodes/controllers/user-shortcode.php:128
+#: ../shortcodes/controllers/user-shortcode.php:470
+#: ../shortcodes/views/user/profile/change-password.php:35
+#: ../shortcodes/views/user/signup.php:35
+msgid "Repeat Password"
+msgstr "重复密码"
+
+#: ../shortcodes/controllers/user-shortcode.php:164
+msgid "Passwords do not match"
+msgstr "密码不匹配"
+
+#: ../shortcodes/controllers/user-shortcode.php:222
+msgid "This user is already activated!"
+msgstr "此用户已经被激活！"
+
+#: ../shortcodes/controllers/user-shortcode.php:244
+msgid "Activation link is out-of-date! Please sign up again "
+msgstr "激活链接已过期！请重新注册␣"
+
+#: ../shortcodes/controllers/user-shortcode.php:248
+msgid "Wrong activation key!"
+msgstr "错激活码！"
+
+#: ../shortcodes/controllers/user-shortcode.php:264
+msgid "Please enter your recovery email"
+msgstr "请输入您的辅助邮箱"
+
+#: ../shortcodes/controllers/user-shortcode.php:272
+msgid "An email to reset your password has been sent"
+msgstr "重设密码的电子邮件已被发送"
+
+#: ../shortcodes/controllers/user-shortcode.php:274
+msgid "Your email does not exist"
+msgstr "您的电子邮件地址不存在"
+
+#: ../shortcodes/controllers/user-shortcode.php:312
+msgid "Your password has been changed successfully!"
+msgstr "密码已更改成功了！"
+
+#: ../shortcodes/controllers/user-shortcode.php:318
+msgid "Wrong reset code"
+msgstr "错误的重设代码"
+
+#: ../shortcodes/controllers/user-shortcode.php:322
+msgid "Your reset code is out-of-date. Please try again"
+msgstr "您的重设代码已过期。请再试一次"
+
+#: ../shortcodes/controllers/user-shortcode.php:353
+#: ../shortcodes/controllers/user-shortcode.php:433
+#: ../shortcodes/controllers/user-shortcode.php:498
+#: ../shortcodes/views/user/profile/menu.php:8 ../user.php:78
+#: ../widgets/views/user/index.php:28
+msgid "My Profile"
+msgstr "我的个人资料"
+
+#: ../shortcodes/controllers/user-shortcode.php:481 ../user-config.php:40
+msgid "Password is reset successfully"
+msgstr "密码重置成功"
+
+#: ../shortcodes/views/user/breadcrumb.php:9
+msgid "Home"
+msgstr "家"
+
+#: ../shortcodes/views/user/profile/edit.php:62
+msgid "Avatar"
+msgstr "阿凡达"
+
+#: ../shortcodes/views/user/profile/edit.php:94
+#: ../shortcodes/views/user/profile/view.php:65
+msgid "Joined"
+msgstr "已加入"
+
+#: ../shortcodes/views/user/profile/edit.php:101
+#: ../shortcodes/views/user/profile/view.php:71
+msgid "Last login"
+msgstr "最后登录"
+
+#: ../shortcodes/views/user/profile/edit.php:109
+#: ../shortcodes/views/user/profile/view.php:80
+msgid "Others"
+msgstr "他人"
+
+#: ../shortcodes/views/user/profile/menu.php:4
+msgid "User Menu"
+msgstr "用户菜单"
+
+#: ../shortcodes/views/user/profile/menu.php:9
+msgid "Edit Profile"
+msgstr "编辑个人资料"
+
+#: ../shortcodes/views/user/profile/menu.php:11
+#: ../widgets/views/user/index.php:31
+msgid "Sign out"
+msgstr "登出"
+
+#: ../shortcodes/views/user/recover.php:26
+msgid "Reset password"
+msgstr "重设密码"
+
+#: ../shortcodes/views/user/signin.php:5
+msgid "Sign in your account"
+msgstr "登录您的帐户"
+
+#: ../shortcodes/views/user/signin.php:30
+#: ../shortcodes/views/user/signup-active.php:5
+#: ../shortcodes/views/user/signup.php:6
+msgid "Create an account"
+msgstr "创建一个帐户"
+
+#: ../shortcodes/views/user/signin.php:32
+msgid "Lost your password?"
+msgstr "忘记密码？"
+
+#: ../shortcodes/views/user/signin.php:32
+#: ../shortcodes/views/user/signup.php:70
+msgid "Please click here"
+msgstr "请点击此处"
+
+#: ../shortcodes/views/user/signin.php:34
+msgid "Please enter your email and we will send you a link to reset password."
+msgstr "请输入您的电子邮件，我们将向您发送一条重设密码的链接。"
+
+#: ../shortcodes/views/user/signin.php:40
+msgid "Send"
+msgstr "发送"
+
+#: ../shortcodes/views/user/signup-active.php:8
+msgid "Please check your email to active this account."
+msgstr "请检查您的电子邮件，以激活此帐户。"
+
+#: ../shortcodes/views/user/signup-active.php:9
+msgid "Your account has been registered!"
+msgstr "您的帐号已被注册！"
+
+#: ../shortcodes/views/user/signup-success.php:5
+msgid "Thank you for joining us"
+msgstr "感谢你加入我们"
+
+#: ../shortcodes/views/user/signup-success.php:8
+msgid "I hope you will enjoy our site. There are many interesting things in "
+msgstr "希望你会喜欢我们的网站。该网站中有许多有趣的事情␣"
+
+#: ../shortcodes/views/user/signup-success.php:9
+msgid "or edit profile in "
+msgstr "或者在␣编辑资料"
+
+#: ../shortcodes/views/user/signup-success.php:9
+msgid "here"
+msgstr "此处"
+
+#: ../shortcodes/views/user/signup.php:62
+msgid "I agree to the Terms of Service and Privacy Policy"
+msgstr "我同意服务和隐私政策的条款"
+
+#: ../shortcodes/views/user/signup.php:70
+msgid "You have already signed up"
+msgstr "您的帐号已被注册！"
+
+#: ../shortcodes/views/user/signup.php:73
+msgid "Registration is disable."
+msgstr "注册被禁用。"
+
+#: ../user-config.php:15
+msgid "User settings"
+msgstr "用户设置"
+
+#: ../user-config.php:20
+msgid "Allow Registration?"
+msgstr "允许注册?"
+
+#: ../user-config.php:24
+msgid "Enable Activation?"
+msgstr "使活动？"
+
+#: ../user-config.php:25
+msgid "Welcome Email?"
+msgstr "欢迎电子邮件？"
+
+#: ../user-config.php:26
+msgid "Show Sign In on frontpage"
+msgstr "显示登陆上头版"
+
+#: ../user-config.php:27
+msgid "Username minimum length?"
+msgstr "用户名最小长度？"
+
+#: ../user-config.php:28
+msgid "Password minimum length?"
+msgstr "密码最小长度？"
+
+#: ../user-config.php:30
+msgid "Login attemps"
+msgstr "登录尝试次数"
+
+#: ../user-config.php:32
+msgid "Activation link exists in"
+msgstr "激活链接存在于"
+
+#: ../user-config.php:32
+msgid "day(s)"
+msgstr "天"
+
+#: ../user-config.php:38
+msgid "Welcome"
+msgstr "欢迎"
+
+#: ../user-config.php:39
+msgid "Password Reset"
+msgstr "密码重设"
+
+#: ../user.php:73
+msgid "Users"
+msgstr "用户"
+
+#: ../user.php:75
+msgid "User Manager"
+msgstr "用户管理"
+
+#: ../widgets/views/user/index.php:25
+msgid "Admin Panel"
+msgstr "管理面板"
+
+#: ../widgets/views/user/setting.php:3
+msgid "Widget Title"
+msgstr "小部件标题"
+
+#~ msgid "New User"
+#~ msgstr "新成员"
+
+#~ msgid "Please review your information!"
+#~ msgstr "请查看您的信息！"
+
+#~ msgid "Edit User"
+#~ msgstr "编辑用户"
+
+#~ msgid "Not login yet!"
+#~ msgstr "还没登录"
+
+#~ msgid "Please select an user"
+#~ msgstr "请选择一个用户"
+
+#~ msgid "Action is performed successfully!"
+#~ msgstr "此操作已实现成功了！"
+
+#~ msgid "Please login first!"
+#~ msgstr "请先登录！"
+
+#~ msgid " times. Please wait 30 minutes to retry!"
+#~ msgstr "␣次。请等30分钟重试！"
+
+#~ msgid "Please choose an user"
+#~ msgstr "请选择一个用户"
+
+#~ msgid "This profile is not public"
+#~ msgstr "此配置文件是不公开"
+
+#~ msgid "General Information"
+#~ msgstr "一般资料"
+
+#~ msgid "Custom Information"
+#~ msgstr "自定义信息"
+
+#~ msgid "Profile Settings"
+#~ msgstr "配置文件设置"
+
+#~ msgid "User Log"
+#~ msgstr "用户登录"
+
+#~ msgid "Confirm password"
+#~ msgstr "确认密码"
+
+#~ msgid "Login now"
+#~ msgstr "现在登录"
+
+#~ msgid "Forgot password"
+#~ msgstr "忘记密码"
+
+#~ msgid "Success!"
+#~ msgstr "成功！"
+
+#~ msgid "Error!"
+#~ msgstr "错误！"
+
+#~ msgid "Get email"
+#~ msgstr "获取电子邮件"
+
+#~ msgid "Notice"
+#~ msgstr "注意"
+
+#~ msgid "Login"
+#~ msgstr "登录"
+
+#~ msgid "or"
+#~ msgstr "或者"
+
+#~ msgid "Please click"
+#~ msgstr "请点击"
+
+#~ msgid "Email is required"
+#~ msgstr "电子邮件是必要的"
+
+#~ msgid "First name is required"
+#~ msgstr "第一个名字是必需的"
+
+#~ msgid "Last name is required"
+#~ msgstr "姓氏是必需的"
+
+#~ msgid "Confirm password needs more than %s characters"
+#~ msgstr "确认密码需要超过 %s 字符"
+
+#~ msgid "Access Denied!"
+#~ msgstr "拒绝访问"
+
+#~ msgid "Select Action"
+#~ msgstr "选选择操作"
+
+#~ msgid "Search by username"
+#~ msgstr "用名称来搜索"
+
+#~ msgid "Advance Search"
+#~ msgstr "高级搜索"
+
+#~ msgid "Unknown"
+#~ msgstr "未知"
+
+#~ msgid "Show Result"
+#~ msgstr "显示结果"
+
+#~ msgid "Email is already in use"
+#~ msgstr "该电子邮件已经被使用"
+
+#~ msgid "Confirm password and password not match"
+#~ msgstr "密码和确认密码不匹配"

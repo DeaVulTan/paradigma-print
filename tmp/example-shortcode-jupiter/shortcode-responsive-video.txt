@@ -1,0 +1,61 @@
+
+{html:row class="pad-bottom-10"}
+    {html:col class="col-xs-12"}
+        {html:h4 class="title text-color"}
+            Responsive Video Showcase
+           {html:small}Adjusting video size for every screen resolution{/html:small}
+        {/html:h4}
+    {/html:col}
+{/html:row}
+
+{html:row}
+    {html:col class="col-sm-6"}
+       {html:_col class="flex-video"}
+            {vimeo:video id="91440169" width="558" height="320"}
+       {/html:_col}
+    {/html:col}
+    {html:col class="col-sm-6"}
+       {html:_col class="flex-video"}
+                  {vimeo:video id="91440169" width="558" height="320"}
+       {/html:_col}
+    {/html:col}
+{/html:row}
+{html:row}
+    {html:col class="col-sm-4"}
+        {html:_col class="flex-video"}
+          {vimeo:video id="91440169"}
+        {/html:_col}
+    {/html:col}
+    {html:col class="col-sm-4"}
+       {html:_col class="flex-video"}
+          {vimeo:video id="91440169"}
+       {/html:_col}
+    {/html:col}
+    {html:col class="col-sm-4"}
+       {html:_col class="flex-video"}
+          {vimeo:video id="91440169"}
+       {/html:_col}
+    {/html:col}
+{/html:row}
+{html:row}
+    {html:col class="col-sm-3"}
+       {html:_col class="flex-video"}
+          {vimeo:video id="91440169"}
+       {/html:_col}
+    {/html:col}
+    {html:col class="col-sm-3"}
+       {html:_col class="flex-video"}
+         {vimeo:video id="91440169"}
+       {/html:_col}
+    {/html:col}
+    {html:col class="col-sm-3"}
+       {html:_col class="flex-video"}
+         {vimeo:video id="91440169"}
+       {/html:_col}
+    {/html:col}
+    {html:col class="col-sm-3"}
+      {html:_col class="flex-video"}
+       {vimeo:video id="91440169"}
+       {/html:_col}
+    {/html:col}
+{/html:row}

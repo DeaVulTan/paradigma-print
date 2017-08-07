@@ -1,0 +1,254 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Announcement\n"
+"POT-Creation-Date: 2014-11-06 12:49+0700\n"
+"PO-Revision-Date: 2014-11-06 12:57+0700\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.4\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../admin/views/announcement/add.php:11
+msgid "Add"
+msgstr "Hinzufügen"
+
+#: ../admin/views/announcement/add.php:20
+#: ../admin/views/announcement/copy.php:32
+#: ../admin/views/announcement/edit.php:32
+#: ../admin/views/announcement/index.php:143
+#: ../admin/views/announcement/index.php:288
+msgid "Publish date"
+msgstr "Veröffentlichungsdatum"
+
+#: ../admin/views/announcement/add.php:37
+#: ../admin/views/announcement/copy.php:50
+#: ../admin/views/announcement/edit.php:50
+#: ../admin/views/announcement/index.php:161
+#: ../admin/views/announcement/index.php:296
+msgid "Unpublish date"
+msgstr "Unpublish Datum"
+
+#: ../admin/views/announcement/add.php:53
+#: ../admin/views/announcement/copy.php:67
+#: ../admin/views/announcement/edit.php:67
+msgid "Type"
+msgstr "Typ"
+
+#: ../admin/views/announcement/add.php:65
+#: ../admin/views/announcement/copy.php:80
+#: ../admin/views/announcement/edit.php:79
+msgid "Announce to user:"
+msgstr "Kündigen Sie an Benutzer:"
+
+#: ../admin/views/announcement/add.php:88
+#: ../admin/views/announcement/copy.php:105
+#: ../admin/views/announcement/edit.php:104
+msgid "Announce to group:"
+msgstr "Anmelden zur Gruppe:"
+
+#: ../admin/views/announcement/add.php:93
+#: ../admin/views/announcement/copy.php:117
+#: ../admin/views/announcement/edit.php:115
+#: ../admin/views/announcement/index.php:78
+#: ../admin/views/announcement/index.php:83
+msgid "All"
+msgstr "Alle"
+
+#: ../admin/views/announcement/add.php:112
+#: ../admin/views/announcement/copy.php:137
+#: ../admin/views/announcement/edit.php:133
+#: ../admin/views/announcement/index.php:125
+#: ../admin/views/announcement/index.php:280
+msgid "Content"
+msgstr "Inhalt"
+
+#: ../admin/views/announcement/add.php:123
+#: ../admin/views/announcement/copy.php:148
+#: ../admin/views/announcement/edit.php:144
+#: ../admin/views/announcement/index.php:178
+#: ../admin/views/announcement/index.php:304
+msgid "Status"
+msgstr "Status"
+
+#: ../admin/views/announcement/add.php:131
+#: ../admin/views/announcement/copy.php:157
+#: ../admin/views/announcement/edit.php:153
+#: ../admin/views/announcement/index.php:221
+#: ../admin/views/announcement/index.php:556
+msgid "Published"
+msgstr "Veröffentlicht"
+
+#: ../admin/views/announcement/add.php:151
+#: ../admin/views/announcement/add.php:163
+#: ../admin/views/announcement/copy.php:178
+#: ../admin/views/announcement/copy.php:190
+#: ../admin/views/announcement/edit.php:173
+#: ../admin/views/announcement/edit.php:185
+#: ../admin/views/announcement/edit.php:208
+#: ../admin/views/announcement/index.php:363
+#: ../admin/views/announcement/index.php:375
+#: ../admin/views/announcement/index.php:396
+#: ../admin/views/announcement/index.php:439
+#: ../admin/views/announcement/index.php:452
+#: ../admin/views/announcement/index.php:461
+#: ../admin/views/announcement/index.php:468
+#: ../admin/views/announcement/index.php:483
+#: ../admin/views/announcement/index.php:507
+#: ../admin/views/announcement/index.php:535
+#: ../admin/views/announcement/index.php:550
+#: ../admin/views/announcement/index.php:564
+msgid "Loading..."
+msgstr "Wird geladen ..."
+
+#: ../admin/views/announcement/add.php:171
+#: ../admin/views/announcement/copy.php:198
+#: ../admin/views/announcement/edit.php:193
+#: ../admin/views/announcement/edit.php:219
+#: ../admin/views/announcement/index.php:416
+#: ../admin/views/announcement/index.php:474
+#: ../admin/views/announcement/index.php:489
+#: ../admin/views/announcement/index.php:512
+msgid "There is an error, please check again!"
+msgstr "Es ist ein Fehler, überprüfen Sie bitte noch einmal!"
+
+#: ../admin/views/announcement/add.php:176
+msgid "Announcement is added successfully"
+msgstr "Ankündigung erfolgreich hinzugefügt"
+
+#: ../admin/views/announcement/copy.php:23
+msgid "Copy"
+msgstr "Kopie"
+
+#: ../admin/views/announcement/copy.php:203
+msgid "Announcement is copied successfully"
+msgstr "Ankündigung wird erfolgreich kopiert"
+
+#: ../admin/views/announcement/edit.php:23
+msgid "Edit"
+msgstr "Bearbeiten"
+
+#: ../admin/views/announcement/edit.php:198
+#: ../admin/views/announcement/edit.php:217
+msgid "Announcement is updated successfully"
+msgstr "Ankündigung erfolgreich aktualisiert"
+
+#: ../admin/views/announcement/index.php:5
+#: ../admin/views/announcement/index.php:271
+#: ../admin/views/announcement/index.php:314
+msgid "Search"
+msgstr "Suche"
+
+#: ../admin/views/announcement/index.php:11
+msgid "New"
+msgstr "Neu"
+
+#: ../admin/views/announcement/index.php:15
+#: ../admin/views/announcement/index.php:20
+#: ../admin/views/announcement/index.php:26
+msgid "Save"
+msgstr "Sparen"
+
+#: ../admin/views/announcement/index.php:16
+#: ../admin/views/announcement/index.php:22
+#: ../admin/views/announcement/index.php:27
+msgid "Cancel"
+msgstr "Stornieren"
+
+#: ../admin/views/announcement/index.php:21
+msgid "Apply"
+msgstr "Anwenden"
+
+#: ../admin/views/announcement/index.php:39
+msgid "List"
+msgstr "Liste"
+
+#: ../admin/views/announcement/index.php:51
+msgid "Select Action"
+msgstr "Aktion auswählen"
+
+#: ../admin/views/announcement/index.php:55
+#: ../admin/views/announcement/index.php:504
+msgid "Delete"
+msgstr "Löschen"
+
+#: ../admin/views/announcement/index.php:58
+#: ../admin/views/announcement/index.php:86
+msgid "Publish"
+msgstr "Veröffentlichen"
+
+#: ../admin/views/announcement/index.php:61
+#: ../admin/views/announcement/index.php:89
+msgid "Unpublish"
+msgstr "Unpublish"
+
+#: ../admin/views/announcement/index.php:183
+msgid "Actions"
+msgstr "Aktionen"
+
+#: ../admin/views/announcement/index.php:223
+#: ../admin/views/announcement/index.php:558
+msgid "Unpublished"
+msgstr "Unveröffentlicht"
+
+#: ../admin/views/announcement/index.php:269
+#: ../admin/views/announcement/index.php:315
+msgid "Close"
+msgstr "Schließen"
+
+#: ../admin/views/announcement/index.php:389
+msgid "Are you sure to perform this action?"
+msgstr "Sind Sie sicher, dass Sie diese Aktion durchführen?"
+
+#: ../admin/views/announcement/index.php:405
+#: ../admin/views/announcement/index.php:510
+msgid "Announcement is deleted successfully"
+msgstr "Ankündigung erfolgreich gelöscht"
+
+#: ../admin/views/announcement/index.php:409
+msgid "Announcement is published successfully"
+msgstr "Ankündigung wird erfolgreich veröffentlicht"
+
+#: ../admin/views/announcement/index.php:412
+msgid "Announcement is unpublished successfully"
+msgstr "Ankündigung ist unveröffentlichten erfolgreich"
+
+#: ../admin/views/announcement/index.php:500
+msgid "Are you sure to delete this item?"
+msgstr "Sind Sie sicher, dass Sie diesen Artikel löschen?"
+
+#~ msgid "Announcement is created successfully"
+#~ msgstr "Ankündigung erfolgreich erstellt"
+
+#~ msgid "Action is performed successfully!"
+#~ msgstr "Aktion erfolgreich durchgeführt!"
+
+#~ msgid "Announcement"
+#~ msgstr "Ankündigung"
+
+#~ msgid "Please enter announcement content!"
+#~ msgstr "Bitte geben Sie die Ankündigung Inhalte! "
+
+#~ msgid "Announcement can not more than 255 characters!"
+#~ msgstr "Ankündigung kann nicht mehr als 255 Zeichen!"
+
+#~ msgid "Access Denied!"
+#~ msgstr "Zugriff verweigert!"
+
+#~ msgid "New announcement"
+#~ msgstr "Neue Ankündigung"
+
+#~ msgid "Please enter the search conditions"
+#~ msgstr "Bitte geben Sie die Suchbedingungen"
+
+#~ msgid "Confirm"
+#~ msgstr "Bestätigen"
+
+#~ msgid "Author"
+#~ msgstr "Autor"

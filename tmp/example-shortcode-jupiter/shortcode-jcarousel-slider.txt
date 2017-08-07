@@ -1,0 +1,70 @@
+
+{html:row}
+ {html:col}
+ {html:title size=3}Carousel Slider {/html:title}
+ {/html:col}
+{/html:row}
+{html:row class='margin-bottom-15'}
+ {html:_col class='col-sm-6'}
+ {slider:carousel}
+ {slider:img src='media/uploads/images/testimonials/020.jpg' text='First picture description' link='http://page-flex.com'},
+ {slider:img src='media/uploads/images/testimonials/022.jpg' text='Second picture description' link='http://page-flex.com'},
+ {slider:img src='media/uploads/images/testimonials/118.jpg' text='Third picture description' link='http://page-flex.com'},
+ {slider:img src='media/uploads/images/testimonials/152.jpg' text='Fourth picture description' link='http://page-flex.com'}
+ {/slider:carousel}
+ {/html:_col}
+ {html:_col class='col-sm-6'}
+ {slider:carousel}
+ {slider:img src='media/uploads/images/testimonials/152.jpg' text='First picture description' link='http://page-flex.com'},
+ {slider:img src='media/uploads/images/testimonials/118.jpg' text='Second picture description' link='http://page-flex.com'},
+ {slider:img src='media/uploads/images/testimonials/022.jpg' text='Third picture description' link='http://page-flex.com'},
+ {slider:img src='media/uploads/images/testimonials/020.jpg' text='Fourth picture description' link='http://page-flex.com'}
+ {/slider:carousel}
+ {/html:_col}
+{/html:row}
+{html:code linenums='1'}{html:row}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; {html:_col class='col-sm-6'}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {slider:carousel}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {slider:img src='media/uploads/images/testimonials/020.jpg' text='First picture description' link='http://page-flex.com'},<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {slider:img src='media/uploads/images/testimonials/022.jpg' text='Second picture description' link='http://page-flex.com'},<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {slider:img src='media/uploads/images/testimonials/118.jpg' text='Third picture description' link='http://page-flex.com'},<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {slider:img src='media/uploads/images/testimonials/152.jpg' text='Fourth picture description' link='http://page-flex.com'}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {/slider:carousel}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; {/html:_col}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; {html:_col class='col-sm-6'}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {slider:carousel}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {slider:img src='media/uploads/images/testimonials/020.jpg' text='First picture description' link='http://page-flex.com'},<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {slider:img src='media/uploads/images/testimonials/022.jpg' text='Second picture description' link='http://page-flex.com'},<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {slider:img src='media/uploads/images/testimonials/118.jpg' text='Third picture description' link='http://page-flex.com'},<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {slider:img src='media/uploads/images/testimonials/152.jpg' text='Fourth picture description' link='http://page-flex.com'}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {/slider:carousel}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; {/html:_col}<br />
+{/html:row}{/html:code}{html:row}
+ {html:col}
+ {html:title size=3}Jcarousel Slider {/html:title}
+ {/html:col}
+{/html:row}
+{html:row}
+ {html:_col}
+{slider:jcarousel}
+{slider:img src='media/uploads/images/galleries/Edinburgh/DSC_6386.jpg' text='' link='http://demo-cms.vitubo.com'},
+{slider:img src='media/uploads/images/galleries/Edinburgh/DSC_6404.jpg' text='' link='http://demo-cms.vitubo.com'},
+{slider:img src='media/uploads/images/galleries/Edinburgh/DSC_6427.jpg' text='' link='http://demo-cms.vitubo.com'},
+{slider:img src='media/uploads/images/galleries/Edinburgh/DSC_6477.jpg' text='' link='http://demo-cms.vitubo.com'},
+{slider:img src='media/uploads/images/galleries/Edinburgh/DSC_6514.jpg' text='' link='http://demo-cms.vitubo.com'},
+{slider:img src='media/uploads/images/galleries/Edinburgh/DSC_6586.jpg' text='' link='http://demo-cms.vitubo.com'},
+{slider:img src='media/uploads/images/galleries/Edinburgh/DSC_6638.jpg' text='' link='http://demo-cms.vitubo.com'},
+{slider:img src='media/uploads/images/galleries/Edinburgh/DSC_6641.jpg' text='' link='http://demo-cms.vitubo.com'}
+{/slider:jcarousel}
+ {/html:_col}
+{/html:row}
+{html:code linenums='1'}{slider:jcarousel}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; {slider:img src='media/uploads/images/galleries/Edinburgh/DSC_6386.jpg' text='' link='http://demo-cms.vitubo.com'},<br />
+&nbsp; &nbsp; &nbsp; &nbsp; {slider:img src='media/uploads/images/galleries/Edinburgh/DSC_6404.jpg' text='' link='http://demo-cms.vitubo.com'},<br />
+&nbsp; &nbsp; &nbsp; &nbsp; {slider:img src='media/uploads/images/galleries/Edinburgh/DSC_6427.jpg' text='' link='http://demo-cms.vitubo.com'},<br />
+&nbsp; &nbsp; &nbsp; &nbsp; {slider:img src='media/uploads/images/galleries/Edinburgh/DSC_6477.jpg' text='' link='http://demo-cms.vitubo.com'},<br />
+&nbsp; &nbsp; &nbsp; &nbsp; {slider:img src='media/uploads/images/galleries/Edinburgh/DSC_6514.jpg' text='' link='http://demo-cms.vitubo.com'},<br />
+&nbsp; &nbsp; &nbsp; &nbsp; {slider:img src='media/uploads/images/galleries/Edinburgh/DSC_6586.jpg' text='' link='http://demo-cms.vitubo.com'},<br />
+&nbsp; &nbsp; &nbsp; &nbsp; {slider:img src='media/uploads/images/galleries/Edinburgh/DSC_6638.jpg' text='' link='http://demo-cms.vitubo.com'},<br />
+&nbsp; &nbsp; &nbsp; &nbsp; {slider:img src='media/uploads/images/galleries/Edinburgh/DSC_6641.jpg' text='' link='http://demo-cms.vitubo.com'}<br />
+{/slider:jcarousel}{/html:code}

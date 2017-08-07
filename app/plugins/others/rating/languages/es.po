@@ -1,0 +1,72 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Rating\n"
+"POT-Creation-Date: 2014-07-01 10:33+0700\n"
+"PO-Revision-Date: 2015-01-21 11:48+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.1\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../public/pf-rating-shortcode.php:73
+msgid "vote"
+msgstr "voto"
+
+#: ../public/pf-rating-shortcode.php:73
+msgid "votes"
+msgstr "votos"
+
+#: ../public/pf-rating-shortcode.php:95
+msgid "You unauthorized access"
+msgstr "Acceso no autorizado"
+
+#: ../public/pf-rating-shortcode.php:99
+msgid "You can not rate"
+msgstr "No puede votar"
+
+#: ../public/pf-rating-shortcode.php:102
+msgid "Your session has ended"
+msgstr "Su sesión ha terminado"
+
+#: ../public/pf-rating-shortcode.php:117
+msgid "Thank you for rating"
+msgstr "Gracias por participar"
+
+#: ../public/pf-rating-shortcode.php:119
+msgid "There is an error"
+msgstr "Hay un error"
+
+#: ../public/views/include.php:3
+msgid "Are you sure to delete this rating?"
+msgstr "¿Seguro que desea eliminar esta calificación?"
+
+#: ../rating-config.php:16
+msgid "Rating settings"
+msgstr "Configuración de calificaciones"
+
+#: ../rating-config.php:20
+msgid "Only user"
+msgstr "Sólo usuarios"
+
+#: ../rating-config.php:20
+msgid "Everyone"
+msgstr "Toda persona"
+
+#: ../rating-config.php:21
+msgid "Enable rating?"
+msgstr "Habilitar calificación?"
+
+#: ../rating-config.php:22
+msgid "Permission"
+msgstr "permiso"
+
+#: ../rating.php:3
+msgid "Rating"
+msgstr "Calificación"

@@ -1,0 +1,359 @@
+
+{html:row}
+ {html:col}
+ {html:title size=2}Flip Box Shortcode{/html:title}
+ {/html:col}
+{/html:row}
+{html:row class='fusion-1'}
+ {html:col class="fusion-flip-box"}
+ {html:_col class="col-lg-3 col-md-4 col-sm-4 flip-box-inner-wrapper border-color"}
+ {html:__col class="flip-box-front"}
+ {html:p class="flip-box-front-inner"}
+ {html:span class="flip-box-grafix"}
+ {html:i class="fa fa-gears fa-3x text-color"}{/html:i}
+ {html:h2 class="flip-box-heading"}Built with Bootstrap 3{/html:h2}
+ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam id ipsum
+ {/html:span}
+ {/html:p}
+ {/html:__col}
+ {html:__col class="flip-box-back"}
+ {html:p class="flip-box-back-inner"}
+ {html:h2 class="flip-box-heading-back"}Perfect For AllSizes{/html:h2}
+ No matter the size of your screen or device, your site will look fantastic.
+ {/html:p}
+ {/html:__col}
+ {/html:_col}
+ {/html:col}
+ {html:col class="fusion-flip-box"}
+ {html:_col class="col-lg-3 col-md-4 col-sm-4 flip-box-inner-wrapper border-color"}
+ {html:__col class="flip-box-front"}
+ {html:p class="flip-box-front-inner"}
+ {html:span class="flip-box-grafix"}
+ {html:i class="text-color fa fa-arrows-alt fa-3x"}{/html:i}
+ {html:h2 class="flip-box-heading"}Fully Responsive{/html:h2}
+ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam id 
+ {/html:span}
+ {/html:p}
+ {/html:__col}
+ {html:__col class="flip-box-back"}
+ {html:p class="flip-box-back-inner"}
+ {html:h2 class="flip-box-heading-back"}Perfect For AllSizes{/html:h2}
+ Nullam id ipsum varius, tincidunt odio nec, placerat enim.
+ {/html:p}
+ {/html:__col}
+ {/html:_col}
+ {/html:col}
+ {html:col class="fusion-flip-box"}
+ {html:_col class="col-lg-3 col-md-4 col-sm-4 flip-box-inner-wrapper border-color"}
+ {html:__col class="flip-box-front"}
+ {html:p class="flip-box-front-inner"}
+ {html:span class="flip-box-grafix"}
+ {html:i class="fa fa-scissors fa-3x text-color"}{/html:i}
+ {html:h2 class="flip-box-heading"}Easy to Customize{/html:h2}
+ Nullam id ipsum varius, tincidunt odio nec, placerat enim.
+ {/html:span}
+ {/html:p}
+ {/html:__col}
+ {html:__col class="flip-box-back"}
+ {html:p class="flip-box-back-inner"}
+ {html:h2 class="flip-box-heading-back"}Perfect For AllSizes{/html:h2}
+ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam id ipsum varius, tincidunt odio nec, placerat enim.
+ {/html:p}
+ {/html:__col}
+ {/html:_col}
+ {/html:col}
+ {html:col class="fusion-flip-box"}
+ {html:_col class="col-lg-3 col-md-4 col-sm-4 flip-box-inner-wrapper border-color"}
+ {html:__col class="flip-box-front"}
+ {html:p class="flip-box-front-inner"}
+ {html:span class="flip-box-grafix"}
+ {html:i class="fa fa-dropbox fa-3x text-color"}{/html:i}
+ {html:h2 class="flip-box-heading"}Works out of the box{/html:h2}
+ Sed sit amet auctor augue, nec dignissim ligula.
+ {/html:span}
+ {/html:p}
+ {/html:__col}
+ {html:__col class="flip-box-back"}
+ {html:p class="flip-box-back-inner"}
+ {html:h2 class="flip-box-heading-back"}Perfect For AllSizes{/html:h2}
+ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam id ipsum varius, tincidunt odio nec, placerat enim.
+ {/html:p}
+ {/html:__col}
+ {/html:_col}
+ {/html:col}
+{/html:row}
+<div class="row">
+<div class="col-sm-12">
+ {html:code linenums='1'}{html:row class='fusion-1'}<br />
+ &nbsp; &nbsp; {html:col class="fusion-flip-box"}<br />
+ &nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;{html:_col class="col-lg-3 col-md-4 col-sm-4 flip-box-inner-wrapper border-color"}<br />
+ &nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp; {html:__col class="flip-box-front"}<br />
+ &nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;{html:p class="flip-box-front-inner"}<br />
+ &nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;{html:span class="flip-box-grafix"}<br />
+ &nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;{html:i class="fa fa-gears fa-3x text-color"}{/html:i}<br />
+ &nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;{html:h2 class="flip-box-heading"}Built with Bootstrap 3{/html:h2}<br />
+ &nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam id ipsum<br />
+ &nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;{/html:span}<br />
+ &nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp;{/html:p}<br />
+ &nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp; {/html:__col}<br />
+ &nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp; {html:__col class="flip-box-back"}<br />
+ &nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;{html:p class="flip-box-back-inner"}<br />
+ &nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp; {html:h2 class="flip-box-heading-back"}Perfect For AllSizes{/html:h2}<br />
+ &nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp; No matter the size of your screen or device, your site will look fantastic.<br />
+ &nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;{/html:p}<br />
+ &nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp; {/html:__col}<br />
+ &nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;{/html:_col}<br />
+ &nbsp;&nbsp; &nbsp;{/html:col}<br />
+ &nbsp;&nbsp; &nbsp;{html:col class="fusion-flip-box"}<br />
+ &nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;{html:_col class="col-lg-3 col-md-4 col-sm-4 flip-box-inner-wrapper border-color"}<br />
+ &nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp; {html:__col class="flip-box-front"}<br />
+ &nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;{html:p class="flip-box-front-inner"}<br />
+ &nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;{html:span class="flip-box-grafix"}<br />
+ &nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;{html:i class="text-color fa fa-arrows-alt fa-3x"}{/html:i}<br />
+ &nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;{html:h2 class="flip-box-heading"}Fully Responsive{/html:h2}<br />
+ &nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp; Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam id&nbsp;<br />
+ &nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;{/html:span}<br />
+ &nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp;{/html:p}<br />
+ &nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp; {/html:__col}<br />
+ &nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp; {html:__col class="flip-box-back"}<br />
+ &nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;{html:p class="flip-box-back-inner"}<br />
+ &nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp; {html:h2 class="flip-box-heading-back"}Perfect For AllSizes{/html:h2}<br />
+ &nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;Nullam id ipsum varius, tincidunt odio nec, placerat enim.<br />
+ &nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;{/html:p}<br />
+ &nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp; {/html:__col}<br />
+ &nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;{/html:_col}<br />
+ &nbsp;&nbsp; &nbsp;{/html:col}<br />
+ &nbsp;&nbsp; &nbsp;{html:col class="fusion-flip-box"}<br />
+ &nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;{html:_col class="col-lg-3 col-md-4 col-sm-4 flip-box-inner-wrapper border-color"}<br />
+ &nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp; {html:__col class="flip-box-front"}<br />
+ &nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;{html:p class="flip-box-front-inner"}<br />
+ &nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;{html:span class="flip-box-grafix"}<br />
+ &nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;{html:i class="fa fa-scissors fa-3x text-color"}{/html:i}<br />
+ &nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;{html:h2 class="flip-box-heading"}Easy to Customize{/html:h2}<br />
+ &nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp; Nullam id ipsum varius, tincidunt odio nec, placerat enim.<br />
+ &nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;{/html:span}<br />
+ &nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp;{/html:p}<br />
+ &nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp; {/html:__col}<br />
+ &nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp; {html:__col class="flip-box-back"}<br />
+ &nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;{html:p class="flip-box-back-inner"}<br />
+ &nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp; {html:h2 class="flip-box-heading-back"}Perfect For AllSizes{/html:h2}<br />
+ &nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam id ipsum varius, tincidunt odio nec, placerat enim.<br />
+ &nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;{/html:p}<br />
+ &nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp; {/html:__col}<br />
+ &nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;{/html:_col}<br />
+ &nbsp;&nbsp; &nbsp;{/html:col}<br />
+ &nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;{html:col class="fusion-flip-box"}<br />
+ &nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;{html:_col class="col-lg-3 col-md-4 col-sm-4 flip-box-inner-wrapper border-color"}<br />
+ &nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp; {html:__col class="flip-box-front"}<br />
+ &nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;{html:p class="flip-box-front-inner"}<br />
+ &nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;{html:span class="flip-box-grafix"}<br />
+ &nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;{html:i class="fa fa-dropbox fa-3x text-color"}{/html:i}<br />
+ &nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;{html:h2 class="flip-box-heading"}Works out of the box{/html:h2}<br />
+ &nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;Sed sit amet auctor augue, nec dignissim ligula.<br />
+ &nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;{/html:span}<br />
+ &nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp;{/html:p}<br />
+ &nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp; {/html:__col}<br />
+ &nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp; {html:__col class="flip-box-back"}<br />
+ &nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;{html:p class="flip-box-back-inner"}<br />
+ &nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp; {html:h2 class="flip-box-heading-back"}Perfect For AllSizes{/html:h2}<br />
+ &nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam id ipsum varius, tincidunt odio nec, placerat enim.<br />
+ &nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;{/html:p}<br />
+ &nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp; {/html:__col}<br />
+ &nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;{/html:_col}<br />
+ &nbsp;&nbsp; &nbsp;{/html:col}<br />
+ {/html:row}{/html:code}</div>
+</div>
+{html:row class='margin-top-20'}
+ {html:col class="col-sm-3"}
+ {html:div class="crp-ft"}
+ {html:i class="text-color fa fa-gears fa-3x"}{/html:i}
+ {html:h4}Built with Bootstrap 3{/html:h4}
+ {html:p class="text-muted lh"}
+ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam id ipsum varius, tincidunt odio nec, placerat enim.
+ {/html:p}
+ {html:a class="btn btn-color btn-block btn-xxl hidden"}Action{/html:a}
+ {/html:div}
+ {/html:col}
+ {html:col class="col-sm-3"}
+ {html:div class="crp-ft"}
+ {html:i class="text-color fa fa-arrows-alt fa-3x"}{/html:i}
+ {html:h4}Fully Responsive{/html:h4}
+ {html:p class="text-muted lh"}
+ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam id ipsum varius, tincidunt odio nec, placerat enim.
+ {/html:p}
+ {html:a class="btn btn-color btn-block btn-xxl hidden"}Action{/html:a}
+ {/html:div}
+ {/html:col}
+ {html:col class="col-sm-3"}
+ {html:div class="crp-ft"}
+ {html:i class="text-color fa fa-scissors fa-3x"}{/html:i}
+ {html:h4}Easy to Customize{/html:h4}
+ {html:p class="text-muted lh"}
+ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam id ipsum varius, tincidunt odio nec, placerat enim.
+ {/html:p}
+ {html:a class="btn btn-color btn-block btn-xxl hidden"}Action{/html:a}
+ {/html:div}
+ {/html:col}
+ {html:col class="col-sm-3"}
+ {html:div class="crp-ft"}
+ {html:i class="fa fa-dropbox fa-3x text-color"}{/html:i}
+ {html:h4}Works out of the box{/html:h4}
+ {html:p class="text-muted lh"}
+ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam id ipsum varius, 
+ {/html:p}
+ {html:a class="btn btn-color btn-block btn-xxl hidden"}Action{/html:a}
+ {/html:div}
+ {/html:col}
+{/html:row}
+<div class="row">
+<div class="col-sm-12">
+ {html:code linenums='1'}{html:row class='margin-top-20'}<br />
+ &nbsp; &nbsp;{html:col class="col-sm-3"}<br />
+ &nbsp; &nbsp; &nbsp; {html:div class="crp-ft"}<br />
+ &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;{html:i class="text-color fa fa-gears fa-3x"}{/html:i}<br />
+ &nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;{html:h4}Built with Bootstrap 3{/html:h4}<br />
+ &nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;{html:p class="text-muted lh"}<br />
+ &nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam id ipsum varius, tincidunt odio nec, placerat enim.<br />
+ &nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;{/html:p}<br />
+ &nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;{html:a class="btn btn-color btn-block btn-xxl hidden"}Action{/html:a}<br />
+ &nbsp;&nbsp; &nbsp; &nbsp; {/html:div}<br />
+ &nbsp; &nbsp; {/html:col}<br />
+ &nbsp;&nbsp; &nbsp;{html:col class="col-sm-3"}<br />
+ &nbsp;&nbsp; &nbsp; &nbsp; {html:div class="crp-ft"}<br />
+ &nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;{html:i class="text-color fa fa-arrows-alt fa-3x"}{/html:i}<br />
+ &nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;{html:h4}Fully Responsive{/html:h4}<br />
+ &nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;{html:p class="text-muted lh"}<br />
+ &nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam id ipsum varius, tincidunt odio nec, placerat enim.<br />
+ &nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;{/html:p}<br />
+ &nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;{html:a class="btn btn-color btn-block btn-xxl hidden"}Action{/html:a}<br />
+ &nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;{/html:div}<br />
+ &nbsp;&nbsp; &nbsp;{/html:col}<br />
+ &nbsp;&nbsp; &nbsp;{html:col class="col-sm-3"}<br />
+ &nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;{html:div class="crp-ft"}<br />
+ &nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;{html:i class="text-color fa fa-scissors fa-3x"}{/html:i}<br />
+ &nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;{html:h4}Easy to Customize{/html:h4}<br />
+ &nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;{html:p class="text-muted lh"}<br />
+ &nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam id ipsum varius, tincidunt odio nec, placerat enim.<br />
+ &nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;{/html:p}<br />
+ &nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;{html:a class="btn btn-color btn-block btn-xxl hidden"}Action{/html:a}<br />
+ &nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;{/html:div}<br />
+ &nbsp;&nbsp; &nbsp;{/html:col}<br />
+ &nbsp;&nbsp; &nbsp;{html:col class="col-sm-3"}<br />
+ &nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;{html:div class="crp-ft"}<br />
+ &nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;{html:i class="fa fa-dropbox fa-3x text-color"}{/html:i}<br />
+ &nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;{html:h4}Works out of the box{/html:h4}<br />
+ &nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;{html:p class="text-muted lh"}<br />
+ &nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam id ipsum varius,&nbsp;<br />
+ &nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;{/html:p}<br />
+ &nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;{html:a class="btn btn-color btn-block btn-xxl hidden"}Action{/html:a}<br />
+ &nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;{/html:div}<br />
+ &nbsp;&nbsp; &nbsp;{/html:col}<br />
+ {/html:row}{/html:code}</div>
+</div>
+{html:row class="margin-bottom-15"}
+ {html:col class="col-sm-12"}
+ {html:_col class="feature"}
+ {html:__col class="feature-body"}
+ {html:i class="fa fa-gears fa-3x text-color"}{/html:i}
+ {html:h4}Built with Bootstrap 3{/html:h4}
+ {html:p}Lorem ipsum dolor sit amet, consectetur adipiscing elit.{/html:p}
+ {/html:__col}
+ {html:__col class="feature-hover border-color"}
+ {html:p}&nbsp;{/html:p}
+ {html:h4}{html:a href="#"}Sign Up{/html:a}{/html:h4}
+ {html:p class="text-muted"}{html:small}Lorem ipsum dolor sit amet.{/html:small}{/html:p}
+ {/html:__col}
+ {/html:_col}
+ {html:_col class="feature"}
+ {html:__col class="feature-body"}
+ {html:i class="fa fa-arrows-alt fa-3x text-color"}{/html:i}
+ {html:h4}Fully Responsive Design{/html:h4}
+ {html:p}Nullam euismod quis odio eu commodo. Duis vitae.{/html:p}
+ {/html:__col}
+ {html:__col class="feature-hover border-color"}
+ {html:p}&nbsp;{/html:p}
+ {html:h4}{html:a href="#"}Sign Up{/html:a}{/html:h4}
+ {html:p class="text-muted"}{html:small}Lorem ipsum dolor sit amet.{/html:small}{/html:p}
+ {/html:__col}
+ {/html:_col}
+ {html:_col class="feature"}
+ {html:__col class="feature-body"}
+ {html:i class="fa fa-scissors fa-3x text-color"}{/html:i}
+ {html:h4}Easy to Customize{/html:h4}
+ {html:p}Nullam id ipsum varius, tincidunt odio nec, placerat enim.{/html:p}
+ {/html:__col}
+ {html:__col class="feature-hover border-color"}
+ {html:p}&nbsp;{/html:p}
+ {html:h4}{html:a href="#"}Sign Up{/html:a}{/html:h4}
+ {html:p class="text-muted"}{html:small}Lorem ipsum dolor sit amet.{/html:small}{/html:p}
+ {/html:__col}
+ {/html:_col}
+ {html:_col class="feature"}
+ {html:__col class="feature-body"}
+ {html:i class="fa fa-dropbox fa-3x text-color"}{/html:i}
+ {html:h4}Works out of the box{/html:h4}
+ {html:p}Sed sit amet auctor augue, nec dignissim ligula.{/html:p}
+ {/html:__col}
+ {html:__col class="feature-hover border-color"}
+ {html:p}&nbsp;{/html:p}
+ {html:h4}{html:a href="#"}Sign Up{/html:a}{/html:h4}
+ {html:p class="text-muted"}{html:small}Lorem ipsum dolor sit amet.{/html:small}{/html:p}
+ {/html:__col}
+ {/html:_col}
+ {/html:col}
+{/html:row}
+<div class="row">
+<div class="col-sm-12">
+{html:code linenums='1'}{html:row class="margin-bottom-15"}<br />
+&nbsp; &nbsp;{html:col class="col-sm-12"}<br />
+&nbsp; &nbsp;{html:_col class="feature"}<br />
+&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;{html:__col class="feature-body"}<br />
+&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;{html:i class="fa fa-gears fa-3x text-color"}{/html:i}<br />
+&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;{html:h4}Built with Bootstrap 3{/html:h4}<br />
+&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;{html:p}Lorem ipsum dolor sit amet, consectetur adipiscing elit.{/html:p}<br />
+&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;{/html:__col}<br />
+&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;{html:__col class="feature-hover border-color"}<br />
+&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp; {html:p}&amp;nbsp;{/html:p}<br />
+&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp; {html:h4}{html:a href="#"}Sign Up{/html:a}{/html:h4}<br />
+&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp; {html:p class="text-muted"}{html:small}Lorem ipsum dolor sit amet.{/html:small}{/html:p}<br />
+&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;{/html:__col}<br />
+&nbsp; &nbsp;{/html:_col}<br />
+&nbsp; &nbsp;{html:_col class="feature"}<br />
+&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;{html:__col class="feature-body"}<br />
+&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;{html:i class="fa fa-arrows-alt fa-3x text-color"}{/html:i}<br />
+&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;{html:h4}Fully Responsive Design{/html:h4}<br />
+&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;{html:p}Nullam euismod quis odio eu commodo. Duis vitae.{/html:p}<br />
+&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;{/html:__col}<br />
+&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;{html:__col class="feature-hover border-color"}<br />
+&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp; {html:p}&amp;nbsp;{/html:p}<br />
+&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp; {html:h4}{html:a href="#"}Sign Up{/html:a}{/html:h4}<br />
+&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp; {html:p class="text-muted"}{html:small}Lorem ipsum dolor sit amet.{/html:small}{/html:p}<br />
+&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;{/html:__col}<br />
+&nbsp; &nbsp;{/html:_col}<br />
+&nbsp; &nbsp;{html:_col class="feature"}<br />
+&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;{html:__col class="feature-body"}<br />
+&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;{html:i class="fa fa-scissors fa-3x text-color"}{/html:i}<br />
+&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;{html:h4}Easy to Customize{/html:h4}<br />
+&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;{html:p}Nullam id ipsum varius, tincidunt odio nec, placerat enim.{/html:p}<br />
+&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;{/html:__col}<br />
+&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;{html:__col class="feature-hover border-color"}<br />
+&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp; {html:p}&amp;nbsp;{/html:p}<br />
+&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp; {html:h4}{html:a href="#"}Sign Up{/html:a}{/html:h4}<br />
+&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp; {html:p class="text-muted"}{html:small}Lorem ipsum dolor sit amet.{/html:small}{/html:p}<br />
+&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;{/html:__col}<br />
+&nbsp; &nbsp;{/html:_col}<br />
+&nbsp; &nbsp;{html:_col class="feature"}<br />
+&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;{html:__col class="feature-body"}<br />
+&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;{html:i class="fa fa-dropbox fa-3x text-color"}{/html:i}<br />
+&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;{html:h4}Works out of the box{/html:h4}<br />
+&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;{html:p}Sed sit amet auctor augue, nec dignissim ligula.{/html:p}<br />
+&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;{/html:__col}<br />
+&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;{html:__col class="feature-hover border-color"}<br />
+&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp; {html:p}&amp;nbsp;{/html:p}<br />
+&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp; {html:h4}{html:a href="#"}Sign Up{/html:a}{/html:h4}<br />
+&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp; {html:p class="text-muted"}{html:small}Lorem ipsum dolor sit amet.{/html:small}{/html:p}<br />
+&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;{/html:__col}<br />
+&nbsp; &nbsp;{/html:_col}<br />
+&nbsp; &nbsp;{/html:col}<br />
+{/html:row}{/html:code}</div>
+</div>

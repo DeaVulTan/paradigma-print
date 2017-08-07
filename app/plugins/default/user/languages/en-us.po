@@ -1,0 +1,1213 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: user\n"
+"POT-Creation-Date: 2015-02-26 13:43+0700\n"
+"PO-Revision-Date: 2015-02-26 13:44+0700\n"
+"Last-Translator: \n"
+"Language-Team: Vitubo\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.4\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../admin/controllers/myprofile-controller.php:40
+#: ../admin/controllers/myprofile-controller.php:124
+#: ../admin/controllers/user-controller.php:494
+#: ../shortcodes/controllers/user-shortcode.php:453
+msgid "Your current password is incorrect!"
+msgstr "Your current password is incorrect!"
+
+#: ../admin/controllers/myprofile-controller.php:45
+#: ../admin/controllers/myprofile-controller.php:129
+#: ../admin/controllers/user-controller.php:499
+msgid "Avatar is changed successfully!"
+msgstr "Avatar is changed successfully!"
+
+#: ../admin/controllers/myprofile-controller.php:61
+#: ../admin/controllers/myprofile-controller.php:145
+#: ../admin/controllers/user-controller.php:141
+#: ../admin/controllers/user-controller.php:219
+#: ../admin/controllers/user-controller.php:324
+#: ../admin/controllers/user-controller.php:515
+#: ../shortcodes/controllers/user-shortcode.php:151
+#: ../shortcodes/controllers/user-shortcode.php:384
+msgid "is required"
+msgstr "is required"
+
+#: ../admin/controllers/myprofile-controller.php:79
+#: ../admin/controllers/myprofile-controller.php:163
+#: ../admin/controllers/user-controller.php:148
+#: ../admin/controllers/user-controller.php:226
+#: ../admin/controllers/user-controller.php:331
+#: ../admin/controllers/user-controller.php:533
+#: ../shortcodes/controllers/user-shortcode.php:159
+#: ../shortcodes/controllers/user-shortcode.php:395
+msgid "Email is already in use!"
+msgstr "Email is already in use!"
+
+#: ../admin/controllers/user-controller.php:152
+#: ../admin/controllers/user-controller.php:335
+#: ../shortcodes/controllers/user-shortcode.php:156
+msgid "Username is already in use!"
+msgstr "Username is already in use!"
+
+#: ../admin/controllers/user-controller.php:155
+#: ../admin/controllers/user-controller.php:229
+#: ../admin/controllers/user-controller.php:338
+#: ../shortcodes/controllers/user-shortcode.php:303
+#: ../shortcodes/controllers/user-shortcode.php:475
+msgid "Confirm password and password are not match"
+msgstr "Confirm password and password are not match"
+
+#: ../admin/views/customfields/index.php:5
+#: ../admin/views/customfields/index.php:128
+#: ../admin/views/customfields/index.php:186
+#: ../admin/views/myprofile/index.php:99
+#: ../admin/views/myprofile/index.php:137
+#: ../admin/views/myprofile/index.php:166 ../admin/views/user/myprofile.php:99
+#: ../admin/views/user/myprofile.php:137 ../admin/views/user/myprofile.php:166
+msgid "Save changes"
+msgstr "Save changes"
+
+#: ../admin/views/customfields/index.php:6 ../admin/views/user/index.php:16
+#: ../admin/views/user/index.php:22 ../admin/views/user/index.php:27
+msgid "Cancel"
+msgstr "Cancel"
+
+#: ../admin/views/customfields/index.php:17 ../user.php:76
+msgid "Custom Fields"
+msgstr "Custom Fields"
+
+#: ../admin/views/customfields/index.php:17 ../admin/views/user/index.php:39
+msgid "List"
+msgstr "List"
+
+#: ../admin/views/customfields/index.php:25
+#: ../admin/views/customfields/index.php:85
+#: ../admin/views/customfields/index.php:143
+msgid "Label"
+msgstr "Label"
+
+#: ../admin/views/customfields/index.php:26
+msgid "Name"
+msgstr "Name"
+
+#: ../admin/views/customfields/index.php:27
+msgid "Required"
+msgstr "Required"
+
+#: ../admin/views/customfields/index.php:28
+#: ../shortcodes/controllers/user-shortcode.php:83
+#: ../widgets/views/user/index.php:47
+msgid "Sign up"
+msgstr "Sign up"
+
+#: ../admin/views/customfields/index.php:29 ../admin/views/user/index.php:51
+#: ../admin/views/user/index.php:216
+msgid "Actions"
+msgstr "Actions"
+
+#: ../admin/views/customfields/index.php:33
+#: ../admin/views/customfields/index.php:103
+#: ../admin/views/customfields/index.php:115
+#: ../admin/views/customfields/index.php:161
+#: ../admin/views/customfields/index.php:173
+#: ../admin/views/customfields/index.php:198
+#: ../admin/views/myprofile/index.php:87 ../admin/views/user/myprofile.php:87
+#: ../shortcodes/views/user/profile/edit.php:87 ../user-config.php:19
+#: ../user-config.php:21 ../user-config.php:22 ../user-config.php:23
+msgid "No"
+msgstr "No"
+
+#: ../admin/views/customfields/index.php:33
+#: ../admin/views/customfields/index.php:106
+#: ../admin/views/customfields/index.php:118
+#: ../admin/views/customfields/index.php:164
+#: ../admin/views/customfields/index.php:176
+#: ../admin/views/customfields/index.php:197
+#: ../admin/views/myprofile/index.php:86 ../admin/views/user/myprofile.php:86
+#: ../shortcodes/views/user/profile/edit.php:84 ../user-config.php:19
+#: ../user-config.php:21 ../user-config.php:22 ../user-config.php:23
+msgid "Yes"
+msgstr "Yes"
+
+#: ../admin/views/customfields/index.php:47
+#: ../admin/views/customfields/index.php:68 ../admin/views/user/edit.php:11
+msgid "Edit"
+msgstr "Edit"
+
+#: ../admin/views/customfields/index.php:48
+#: ../admin/views/customfields/index.php:69 ../admin/views/user/index.php:54
+#: ../admin/views/user/index.php:576
+msgid "Delete"
+msgstr "Delete"
+
+#: ../admin/views/customfields/index.php:54
+#: ../admin/views/customfields/index.php:138
+msgid "Add Custom Field"
+msgstr "Add Custom Field"
+
+#: ../admin/views/customfields/index.php:79
+msgid "Edit Custom Field"
+msgstr "Edit Custom Field"
+
+#: ../admin/views/customfields/index.php:92
+#: ../admin/views/customfields/index.php:150
+msgid "Field Name"
+msgstr "Field Name"
+
+#: ../admin/views/customfields/index.php:99
+#: ../admin/views/customfields/index.php:157
+msgid "Required?"
+msgstr "Required?"
+
+#: ../admin/views/customfields/index.php:111
+#: ../admin/views/customfields/index.php:169
+msgid "Display in Sign Up"
+msgstr "Display in Sign Up"
+
+#: ../admin/views/customfields/index.php:127
+#: ../admin/views/customfields/index.php:185
+#: ../admin/views/myprofile/index.php:136
+#: ../admin/views/myprofile/index.php:165 ../admin/views/user/index.php:288
+#: ../admin/views/user/index.php:361 ../admin/views/user/myprofile.php:136
+#: ../admin/views/user/myprofile.php:165
+msgid "Close"
+msgstr "Close"
+
+#: ../admin/views/customfields/index.php:199
+msgid "This field is required"
+msgstr "This field is required"
+
+#: ../admin/views/customfields/index.php:200
+msgid "This field is already exist!"
+msgstr "This field is already exist!"
+
+#: ../admin/views/customfields/index.php:217
+#: ../admin/views/myprofile/index.php:241 ../admin/views/user/add.php:152
+#: ../admin/views/user/add.php:163 ../admin/views/user/copy.php:159
+#: ../admin/views/user/copy.php:170 ../admin/views/user/edit.php:170
+#: ../admin/views/user/edit.php:181 ../admin/views/user/edit.php:204
+#: ../admin/views/user/index.php:409 ../admin/views/user/index.php:421
+#: ../admin/views/user/index.php:442 ../admin/views/user/index.php:479
+#: ../admin/views/user/index.php:497 ../admin/views/user/index.php:510
+#: ../admin/views/user/index.php:519 ../admin/views/user/index.php:526
+#: ../admin/views/user/index.php:540 ../admin/views/user/index.php:555
+#: ../admin/views/user/index.php:579 ../admin/views/user/index.php:607
+#: ../admin/views/user/myprofile.php:241
+msgid "Loading..."
+msgstr "Loading..."
+
+#: ../admin/views/customfields/index.php:221
+msgid "Custom Fields are updated successfully"
+msgstr "Custom Fields are updated successfully"
+
+#: ../admin/views/emails/active.php:5 ../admin/views/emails/forgot.php:5
+#: ../admin/views/emails/welcome.php:5 ../admin/views/user/add.php:32
+#: ../admin/views/user/copy.php:32 ../admin/views/user/edit.php:32
+#: ../admin/views/user/index.php:121 ../admin/views/user/index.php:299
+#: ../backend/login.php:29 ../shortcodes/controllers/user-shortcode.php:97
+#: ../shortcodes/controllers/user-shortcode.php:126
+#: ../shortcodes/views/user/profile/edit.php:37
+#: ../shortcodes/views/user/profile/view.php:23
+msgid "Username"
+msgstr "Username"
+
+#: ../admin/views/emails/active.php:6 ../admin/views/emails/forgot.php:6
+#: ../admin/views/emails/welcome.php:6 ../admin/views/myprofile/index.php:47
+#: ../admin/views/user/add.php:21 ../admin/views/user/copy.php:21
+#: ../admin/views/user/edit.php:21 ../admin/views/user/index.php:175
+#: ../admin/views/user/index.php:323 ../admin/views/user/myprofile.php:47
+#: ../shortcodes/controllers/user-shortcode.php:98
+#: ../shortcodes/controllers/user-shortcode.php:377
+#: ../shortcodes/views/user/profile/edit.php:75
+#: ../shortcodes/views/user/profile/view.php:51
+#: ../shortcodes/views/user/signin.php:37
+msgid "Email"
+msgstr "Email"
+
+#: ../admin/views/emails/active.php:7 ../admin/views/emails/forgot.php:7
+#: ../admin/views/emails/welcome.php:7 ../admin/views/myprofile/index.php:33
+#: ../admin/views/user/add.php:64 ../admin/views/user/copy.php:65
+#: ../admin/views/user/edit.php:78 ../admin/views/user/index.php:139
+#: ../admin/views/user/index.php:307 ../admin/views/user/myprofile.php:33
+#: ../shortcodes/controllers/user-shortcode.php:95
+#: ../shortcodes/controllers/user-shortcode.php:124
+#: ../shortcodes/controllers/user-shortcode.php:375
+#: ../shortcodes/views/user/profile/edit.php:43
+#: ../shortcodes/views/user/profile/view.php:29
+msgid "First Name"
+msgstr "First Name"
+
+#: ../admin/views/emails/active.php:8 ../admin/views/emails/forgot.php:8
+#: ../admin/views/emails/welcome.php:8 ../admin/views/myprofile/index.php:40
+#: ../admin/views/user/add.php:73 ../admin/views/user/copy.php:76
+#: ../admin/views/user/edit.php:87 ../admin/views/user/index.php:157
+#: ../admin/views/user/index.php:315 ../admin/views/user/myprofile.php:40
+#: ../shortcodes/controllers/user-shortcode.php:96
+#: ../shortcodes/controllers/user-shortcode.php:125
+#: ../shortcodes/controllers/user-shortcode.php:376
+#: ../shortcodes/views/user/profile/edit.php:49
+#: ../shortcodes/views/user/profile/view.php:35
+msgid "Last Name"
+msgstr "Last Name"
+
+#: ../admin/views/emails/active.php:9
+msgid "Activation link"
+msgstr "Activation link"
+
+#: ../admin/views/emails/active.php:10 ../admin/views/emails/forgot.php:10
+#: ../admin/views/emails/welcome.php:9
+msgid "Site name"
+msgstr "Site name"
+
+#: ../admin/views/emails/forgot.php:9
+msgid "Password Reset Link"
+msgstr "Password Reset Link"
+
+#: ../admin/views/myprofile/index.php:20
+#: ../admin/views/myprofile/index.php:147 ../admin/views/user/myprofile.php:20
+#: ../admin/views/user/myprofile.php:147
+msgid "Change Avatar"
+msgstr "Change Avatar"
+
+#: ../admin/views/myprofile/index.php:84 ../admin/views/user/myprofile.php:84
+msgid "Public your profile"
+msgstr "Public your profile"
+
+#: ../admin/views/myprofile/index.php:93
+#: ../admin/views/myprofile/index.php:108 ../admin/views/user/myprofile.php:93
+#: ../admin/views/user/myprofile.php:108
+#: ../shortcodes/views/user/profile/menu.php:10
+#: ../shortcodes/views/user/recover.php:5
+msgid "Change password"
+msgstr "Change password"
+
+#: ../admin/views/myprofile/index.php:113
+#: ../admin/views/user/myprofile.php:113
+#: ../shortcodes/controllers/user-shortcode.php:448
+#: ../shortcodes/views/user/profile/change-password.php:27
+msgid "Current password"
+msgstr "Current password"
+
+#: ../admin/views/myprofile/index.php:120
+#: ../admin/views/user/myprofile.php:120
+#: ../shortcodes/controllers/user-shortcode.php:297
+#: ../shortcodes/controllers/user-shortcode.php:458
+#: ../shortcodes/views/user/profile/change-password.php:31
+msgid "New Password"
+msgstr "New Password"
+
+#: ../admin/views/myprofile/index.php:127
+#: ../admin/views/user/myprofile.php:127
+msgid "Confirm"
+msgstr "Confirm"
+
+#: ../admin/views/myprofile/index.php:156
+#: ../admin/views/user/myprofile.php:156
+msgid "select image"
+msgstr "select image"
+
+#: ../admin/views/myprofile/index.php:157
+#: ../admin/views/user/myprofile.php:157
+msgid "Please choose an avatar"
+msgstr "Please choose an avatar"
+
+#: ../admin/views/myprofile/index.php:176
+#: ../admin/views/user/myprofile.php:176
+#: ../shortcodes/controllers/user-shortcode.php:410
+msgid "Profile is changed successfully!"
+msgstr "Profile is changed successfully!"
+
+#: ../admin/views/myprofile/index.php:178 ../admin/views/user/add.php:171
+#: ../admin/views/user/copy.php:178 ../admin/views/user/edit.php:189
+#: ../admin/views/user/edit.php:215 ../admin/views/user/index.php:461
+#: ../admin/views/user/index.php:532 ../admin/views/user/index.php:561
+#: ../admin/views/user/index.php:584 ../admin/views/user/myprofile.php:178
+msgid "There is an error, please check again!"
+msgstr "There is an error, please check again!"
+
+#: ../admin/views/myprofile/index.php:208
+#: ../admin/views/user/myprofile.php:208
+#: ../shortcodes/controllers/user-shortcode.php:306
+#: ../shortcodes/controllers/user-shortcode.php:465
+#, php-format
+msgid "Your password must from %s-20 characters!"
+msgstr "Your password must from %s-20 characters!"
+
+#: ../admin/views/myprofile/index.php:218
+#: ../admin/views/user/myprofile.php:218
+msgid "Passwords do not match!"
+msgstr "Passwords do not match!"
+
+#: ../admin/views/myprofile/index.php:233
+#: ../admin/views/user/myprofile.php:233
+msgid "Wrong current password"
+msgstr "Wrong current password"
+
+#: ../admin/views/user/add.php:11 ../admin/views/user/copy.php:11
+#: ../admin/views/user/edit.php:11 ../admin/views/user/index.php:39
+#: ../admin/views/user/index.php:290 ../user-config.php:36
+msgid "User"
+msgstr "User"
+
+#: ../admin/views/user/add.php:11
+msgid "Add"
+msgstr "Add"
+
+#: ../admin/views/user/add.php:43 ../admin/views/user/copy.php:43
+#: ../admin/views/user/edit.php:58 ../backend/login.php:32
+#: ../shortcodes/controllers/user-shortcode.php:127
+#: ../shortcodes/views/user/signin.php:20
+#: ../shortcodes/views/user/signup.php:31
+msgid "Password"
+msgstr "Password"
+
+#: ../admin/views/user/add.php:54 ../admin/views/user/copy.php:54
+#: ../admin/views/user/edit.php:68
+msgid "Re-enter password"
+msgstr "Re-enter password"
+
+#: ../admin/views/user/add.php:98 ../admin/views/user/copy.php:104
+#: ../admin/views/user/edit.php:115 ../admin/views/user/index.php:193
+#: ../admin/views/user/index.php:331
+#: ../shortcodes/views/user/profile/edit.php:56
+#: ../shortcodes/views/user/profile/view.php:41
+msgid "Role"
+msgstr "Role"
+
+#: ../admin/views/user/add.php:111 ../admin/views/user/copy.php:118
+#: ../admin/views/user/edit.php:129 ../admin/views/user/index.php:56
+#: ../admin/views/user/index.php:350
+msgid "Active"
+msgstr "Active"
+
+#: ../admin/views/user/add.php:127 ../admin/views/user/copy.php:134
+#: ../admin/views/user/edit.php:144
+#: ../shortcodes/views/user/profile/edit.php:81
+#: ../shortcodes/views/user/profile/view.php:57
+msgid "Public Profile"
+msgstr "Public Profile"
+
+#: ../admin/views/user/add.php:176
+msgid "User is created successfully"
+msgstr "User is created successfully"
+
+#: ../admin/views/user/copy.php:11
+msgid "Copy"
+msgstr "Copy"
+
+#: ../admin/views/user/copy.php:183
+msgid "User is copied successfully"
+msgstr "User is copied successfully"
+
+#: ../admin/views/user/edit.php:42
+msgid "Last Login"
+msgstr "Last Login"
+
+#: ../admin/views/user/edit.php:50
+msgid "Last login IP"
+msgstr "Last login IP"
+
+#: ../admin/views/user/edit.php:194 ../admin/views/user/edit.php:213
+msgid "User is updated successfully"
+msgstr "User is updated successfully"
+
+#: ../admin/views/user/index.php:5 ../admin/views/user/index.php:290
+#: ../admin/views/user/index.php:360
+msgid "Search"
+msgstr "Search"
+
+#: ../admin/views/user/index.php:11
+msgid "New"
+msgstr "New"
+
+#: ../admin/views/user/index.php:15 ../admin/views/user/index.php:20
+#: ../admin/views/user/index.php:26
+msgid "Save"
+msgstr "Save"
+
+#: ../admin/views/user/index.php:21
+#: ../shortcodes/views/user/profile/change-password.php:38
+#: ../shortcodes/views/user/profile/edit.php:129
+msgid "Apply"
+msgstr "Apply"
+
+#: ../admin/views/user/index.php:59
+msgid "Deactive"
+msgstr "Deactive"
+
+#: ../admin/views/user/index.php:76 ../admin/views/user/index.php:81
+msgid "All"
+msgstr "All"
+
+#: ../admin/views/user/index.php:84 ../admin/views/user/index.php:241
+#: ../admin/views/user/index.php:485 ../admin/views/user/index.php:546
+msgid "Activated"
+msgstr "Activated"
+
+#: ../admin/views/user/index.php:87 ../admin/views/user/index.php:243
+#: ../admin/views/user/index.php:487 ../admin/views/user/index.php:548
+msgid "Deactivated"
+msgstr "Deactivated"
+
+#: ../admin/views/user/index.php:211 ../shortcodes/views/user/activation.php:5
+#: ../user-config.php:37
+msgid "Activation"
+msgstr "Activation"
+
+#: ../admin/views/user/index.php:435
+msgid "Are you sure with this action?"
+msgstr "Are you sure with this action?"
+
+#: ../admin/views/user/index.php:451 ../admin/views/user/index.php:582
+msgid "User is deleted successfully"
+msgstr "User is deleted successfully"
+
+#: ../admin/views/user/index.php:454
+msgid "User is activated successfully"
+msgstr "User is activated successfully"
+
+#: ../admin/views/user/index.php:457
+msgid "User is deactivated successfully"
+msgstr "User is deactivated successfully"
+
+#: ../admin/views/user/index.php:572
+msgid "Are you sure to delete this item?"
+msgstr "Are you sure to delete this item?"
+
+#: ../backend/login.php:18 ../backend/login.php:39
+#: ../shortcodes/controllers/user-shortcode.php:8
+#: ../shortcodes/views/user/signin.php:27 ../widgets/views/user/index.php:43
+msgid "Sign In"
+msgstr "Sign In"
+
+#: ../backend/login.php:35 ../shortcodes/views/user/signin.php:24
+msgid "Remember me"
+msgstr "Remember me"
+
+#: ../backend/login.php:81
+msgid "There is an error, please sign in again."
+msgstr "There is an error, please sign in again."
+
+#: ../backend/login.php:88
+#, php-format
+msgid "Username needs more than %s characters"
+msgstr "Username needs more than %s characters"
+
+#: ../backend/login.php:90
+#, php-format
+msgid "Password needs more than %s characters"
+msgstr "Password needs more than %s characters"
+
+#: ../shortcodes/controllers/user-shortcode.php:19
+#: ../shortcodes/views/user/signin.php:15
+msgid "Please enter your username"
+msgstr "Please enter your username"
+
+#: ../shortcodes/controllers/user-shortcode.php:23
+msgid "Please enter your password"
+msgstr "Please enter your password"
+
+#: ../shortcodes/controllers/user-shortcode.php:27
+#: ../shortcodes/controllers/user-shortcode.php:49
+msgid " have login failed "
+msgstr " have login failed "
+
+#: ../shortcodes/controllers/user-shortcode.php:41
+msgid ""
+"This account is not activated yet! Please check email or contact "
+"Administrator. Thanks! "
+msgstr ""
+"This account is not activated yet! Please check email or contact "
+"Administrator. Thanks! "
+
+#: ../shortcodes/controllers/user-shortcode.php:47
+#: ../shortcodes/controllers/user-shortcode.php:54
+msgid "Wrong username or password"
+msgstr "Wrong username or password"
+
+#: ../shortcodes/controllers/user-shortcode.php:47
+msgid "times"
+msgstr "times"
+
+#: ../shortcodes/controllers/user-shortcode.php:105
+msgid "Please agree to the Terms of Service and Privacy Policy first!"
+msgstr "Please agree to the Terms of Service and Privacy Policy first!"
+
+#: ../shortcodes/controllers/user-shortcode.php:110
+msgid "Wrong Captcha Code"
+msgstr "Wrong Captcha Code"
+
+#: ../shortcodes/controllers/user-shortcode.php:128
+#: ../shortcodes/controllers/user-shortcode.php:470
+#: ../shortcodes/views/user/profile/change-password.php:35
+#: ../shortcodes/views/user/signup.php:35
+msgid "Repeat Password"
+msgstr "Repeat Password"
+
+#: ../shortcodes/controllers/user-shortcode.php:164
+msgid "Passwords do not match"
+msgstr "Passwords do not match"
+
+#: ../shortcodes/controllers/user-shortcode.php:222
+msgid "This user is already activated!"
+msgstr "This user is already activated!"
+
+#: ../shortcodes/controllers/user-shortcode.php:244
+msgid "Activation link is out-of-date! Please sign up again "
+msgstr "Activation link is out-of-date! Please sign up again "
+
+#: ../shortcodes/controllers/user-shortcode.php:248
+msgid "Wrong activation key!"
+msgstr "Wrong activation key!"
+
+#: ../shortcodes/controllers/user-shortcode.php:264
+msgid "Please enter your recovery email"
+msgstr "Please enter your recovery email"
+
+#: ../shortcodes/controllers/user-shortcode.php:272
+msgid "An email to reset your password has been sent"
+msgstr "An email to reset your password has been sent"
+
+#: ../shortcodes/controllers/user-shortcode.php:274
+msgid "Your email does not exist"
+msgstr "Your email does not exist"
+
+#: ../shortcodes/controllers/user-shortcode.php:312
+msgid "Your password has been changed successfully!"
+msgstr "Your password has been changed successfully!"
+
+#: ../shortcodes/controllers/user-shortcode.php:318
+msgid "Wrong reset code"
+msgstr "Wrong reset code"
+
+#: ../shortcodes/controllers/user-shortcode.php:322
+msgid "Your reset code is out-of-date. Please try again"
+msgstr "Your reset code is out-of-date. Please try again"
+
+#: ../shortcodes/controllers/user-shortcode.php:353
+#: ../shortcodes/controllers/user-shortcode.php:433
+#: ../shortcodes/controllers/user-shortcode.php:498
+#: ../shortcodes/views/user/profile/menu.php:8 ../user.php:78
+#: ../widgets/views/user/index.php:28
+msgid "My Profile"
+msgstr "My Profile"
+
+#: ../shortcodes/controllers/user-shortcode.php:481 ../user-config.php:40
+msgid "Password is reset successfully"
+msgstr "Password is reset successfully"
+
+#: ../shortcodes/views/user/breadcrumb.php:9
+msgid "Home"
+msgstr "Home"
+
+#: ../shortcodes/views/user/profile/edit.php:62
+msgid "Avatar"
+msgstr "Avatar"
+
+#: ../shortcodes/views/user/profile/edit.php:94
+#: ../shortcodes/views/user/profile/view.php:65
+msgid "Joined"
+msgstr "Joined"
+
+#: ../shortcodes/views/user/profile/edit.php:101
+#: ../shortcodes/views/user/profile/view.php:71
+msgid "Last login"
+msgstr "Last login"
+
+#: ../shortcodes/views/user/profile/edit.php:109
+#: ../shortcodes/views/user/profile/view.php:80
+msgid "Others"
+msgstr "Others"
+
+#: ../shortcodes/views/user/profile/menu.php:4
+msgid "User Menu"
+msgstr "User Menu"
+
+#: ../shortcodes/views/user/profile/menu.php:9
+msgid "Edit Profile"
+msgstr "Edit Profile"
+
+#: ../shortcodes/views/user/profile/menu.php:11
+#: ../widgets/views/user/index.php:31
+msgid "Sign out"
+msgstr "Sign out"
+
+#: ../shortcodes/views/user/recover.php:26
+msgid "Reset password"
+msgstr "Reset password"
+
+#: ../shortcodes/views/user/signin.php:5
+msgid "Sign in your account"
+msgstr "Sign in your account"
+
+#: ../shortcodes/views/user/signin.php:30
+#: ../shortcodes/views/user/signup-active.php:5
+#: ../shortcodes/views/user/signup.php:6
+msgid "Create an account"
+msgstr "Create an account"
+
+#: ../shortcodes/views/user/signin.php:32
+msgid "Lost your password?"
+msgstr "Lost your password?"
+
+#: ../shortcodes/views/user/signin.php:32
+#: ../shortcodes/views/user/signup.php:70
+msgid "Please click here"
+msgstr "Please click here"
+
+#: ../shortcodes/views/user/signin.php:34
+msgid "Please enter your email and we will send you a link to reset password."
+msgstr "Please enter your email and we will send you a link to reset password."
+
+#: ../shortcodes/views/user/signin.php:40
+msgid "Send"
+msgstr "Send"
+
+#: ../shortcodes/views/user/signup-active.php:8
+msgid "Please check your email to active this account."
+msgstr "Please check your email to active this account."
+
+#: ../shortcodes/views/user/signup-active.php:9
+msgid "Your account has been registered!"
+msgstr "Your account has been registered!"
+
+#: ../shortcodes/views/user/signup-success.php:5
+msgid "Thank you for joining us"
+msgstr "Thank you for joining us"
+
+#: ../shortcodes/views/user/signup-success.php:8
+msgid "I hope you will enjoy our site. There are many interesting things in "
+msgstr "I hope you will enjoy our site. There are many interesting things in "
+
+#: ../shortcodes/views/user/signup-success.php:9
+msgid "or edit profile in "
+msgstr "or edit profile in "
+
+#: ../shortcodes/views/user/signup-success.php:9
+msgid "here"
+msgstr "here"
+
+#: ../shortcodes/views/user/signup.php:62
+msgid "I agree to the Terms of Service and Privacy Policy"
+msgstr "I agree to the Terms of Service and Privacy Policy"
+
+#: ../shortcodes/views/user/signup.php:70
+msgid "You have already signed up"
+msgstr "You have already signed up"
+
+#: ../shortcodes/views/user/signup.php:73
+msgid "Registration is disable."
+msgstr "Registration is disable."
+
+#: ../user-config.php:15
+msgid "User settings"
+msgstr "User settings"
+
+#: ../user-config.php:20
+msgid "Allow Registration?"
+msgstr "Allow Registration?"
+
+#: ../user-config.php:24
+msgid "Enable Activation?"
+msgstr "Enable Activation?"
+
+#: ../user-config.php:25
+msgid "Welcome Email?"
+msgstr "Welcome Email?"
+
+#: ../user-config.php:26
+msgid "Show Sign In on frontpage"
+msgstr "Show Sign In on frontpage"
+
+#: ../user-config.php:27
+msgid "Username minimum length?"
+msgstr "Username minimum length?"
+
+#: ../user-config.php:28
+msgid "Password minimum length?"
+msgstr "Password minimum length?"
+
+#: ../user-config.php:30
+msgid "Login attemps"
+msgstr "Login attemps"
+
+#: ../user-config.php:32
+msgid "Activation link exists in"
+msgstr "Activation link exists in"
+
+#: ../user-config.php:32
+msgid "day(s)"
+msgstr "day(s)"
+
+#: ../user-config.php:38
+msgid "Welcome"
+msgstr "Welcome"
+
+#: ../user-config.php:39
+msgid "Password Reset"
+msgstr "Password Reset"
+
+#: ../user.php:73
+msgid "Users"
+msgstr "Users"
+
+#: ../user.php:75
+msgid "User Manager"
+msgstr "User Manager"
+
+#: ../widgets/views/user/index.php:25
+msgid "Admin Panel"
+msgstr "Admin Panel"
+
+#: ../widgets/views/user/setting.php:3
+msgid "Widget Title"
+msgstr "Widget Title"
+
+#~ msgid "Sign Up"
+#~ msgstr "Sign Up"
+
+#~ msgid "Repeat password"
+#~ msgstr "Repeat password"
+
+#, fuzzy
+#~ msgid "User Profile"
+#~ msgstr "My Profile"
+
+#, fuzzy
+#~ msgid "user is Deactivated successfully"
+#~ msgstr "User is created successfully!"
+
+#, fuzzy
+#~ msgid "Profile is changed successfully! !"
+#~ msgstr "Profile is changed successfully!"
+
+#, fuzzy
+#~ msgid "Item is added successfully!"
+#~ msgstr "User is created successfully!"
+
+#, fuzzy
+#~ msgid "search"
+#~ msgstr "Search"
+
+#, fuzzy
+#~ msgid "Confirm password and password are not match!"
+#~ msgstr "Confirm password and password are not match"
+
+#, fuzzy
+#~ msgid "Bulk Action"
+#~ msgstr "Actions"
+
+#~ msgid "New User"
+#~ msgstr "New User"
+
+#~ msgid "Please review your information!"
+#~ msgstr "Please review your information!"
+
+#~ msgid "Edit User"
+#~ msgstr "Edit User"
+
+#~ msgid "Not login yet!"
+#~ msgstr "Not login yet!"
+
+#~ msgid "Please select an user"
+#~ msgstr "Please select an user"
+
+#~ msgid "Action is performed successfully!"
+#~ msgstr "Action is performed successfully!"
+
+#~ msgid "Please login first!"
+#~ msgstr "Please login first!"
+
+#~ msgid "Login Failed "
+#~ msgstr "Login Failed "
+
+#~ msgid " times. Please wait 30 minutes to retry!"
+#~ msgstr " times. Please wait 30 minutes to retry!"
+
+#~ msgid "Please choose an user"
+#~ msgstr "Please choose an user"
+
+#~ msgid "This profile is not public"
+#~ msgstr "This profile is not public"
+
+#~ msgid "General Information"
+#~ msgstr "General Information"
+
+#~ msgid "Custom Information"
+#~ msgstr "Custom Information"
+
+#~ msgid "Profile Settings"
+#~ msgstr "Profile Settings"
+
+#~ msgid "User Log"
+#~ msgstr "User Log"
+
+#~ msgid "Confirm password"
+#~ msgstr "Confirm password"
+
+#~ msgid "Login now"
+#~ msgstr "Login now"
+
+#~ msgid "Forgot password"
+#~ msgstr "Forgot password"
+
+#~ msgid "Success!"
+#~ msgstr "Success!"
+
+#~ msgid "Error!"
+#~ msgstr "Error!"
+
+#~ msgid "Get email"
+#~ msgstr "Get email"
+
+#~ msgid "Notice"
+#~ msgstr "Notice"
+
+#~ msgid "Login"
+#~ msgstr "Login"
+
+#~ msgid "or"
+#~ msgstr "or"
+
+#~ msgid "Please click"
+#~ msgstr "Please click"
+
+#~ msgid "Email is required"
+#~ msgstr "Email is required"
+
+#~ msgid "First name is required"
+#~ msgstr "First name is required"
+
+#~ msgid "Last name is required"
+#~ msgstr "Last name is required"
+
+#~ msgid "Confirm password needs more than %s characters"
+#~ msgstr "Confirm password needs more than %s characters"
+
+#~ msgid "Access Denied!"
+#~ msgstr "Access Denied!"
+
+#~ msgid "Select Action"
+#~ msgstr "Select Action"
+
+#~ msgid "Search by username"
+#~ msgstr "Search by username"
+
+#~ msgid "Advance Search"
+#~ msgstr "Advance Search"
+
+#~ msgid "Unknown"
+#~ msgstr "Unknown"
+
+#~ msgid "Show Result"
+#~ msgstr "Show Result"
+
+#, fuzzy
+#~ msgid "Password and confirm password are not match"
+#~ msgstr "Confirm password and password are not match"
+
+#, fuzzy
+#~ msgid "New password and Repeat new password do not match!"
+#~ msgstr "Confirm password and password not match"
+
+#, fuzzy
+#~ msgid "New password must from %s-20 characters!"
+#~ msgstr "Your password must from %s-20 characters!"
+
+#, fuzzy
+#~ msgid "Password is reset successfully!"
+#~ msgstr "Password Reset Success"
+
+#~ msgid "Password Reset Success"
+#~ msgstr "Password is reset successfully"
+
+#, fuzzy
+#~ msgid "Enter user account"
+#~ msgstr "Sign in your account"
+
+#, fuzzy
+#~ msgid "Enter email"
+#~ msgstr "Get email"
+
+#, fuzzy
+#~ msgid "Sign In To Your Account"
+#~ msgstr "Sign in your account"
+
+#, fuzzy
+#~ msgid "Email address"
+#~ msgstr "Email"
+
+#, fuzzy
+#~ msgid "Reset your account password"
+#~ msgstr "to reset your password"
+
+#, fuzzy
+#~ msgid "Please enter Repeat new password!"
+#~ msgstr "Please enter your password"
+
+#, fuzzy
+#~ msgid "Repeat new password"
+#~ msgstr "Repeat password"
+
+#, fuzzy
+#~ msgid "Please enter Old password!"
+#~ msgstr "Please enter your password"
+
+#, fuzzy
+#~ msgid "Please enter new password"
+#~ msgstr "Please enter your password"
+
+#, fuzzy
+#~ msgid "Please enter New password!"
+#~ msgstr "Please enter your password"
+
+#, fuzzy
+#~ msgid "Click here"
+#~ msgstr "Please click here"
+
+#, fuzzy
+#~ msgid ""
+#~ "Enter your email address below and we will send you a link to reset your "
+#~ "password."
+#~ msgstr ""
+#~ "Please enter your email and we will send you a link to reset password."
+
+#, fuzzy
+#~ msgid "Old password is incorrect!"
+#~ msgstr "Your current password is incorrect!"
+
+#, fuzzy
+#~ msgid "Old Password"
+#~ msgstr "Password"
+
+#, fuzzy
+#~ msgid "New password"
+#~ msgstr "New Password"
+
+#, fuzzy
+#~ msgid "First name"
+#~ msgstr "First Name"
+
+#, fuzzy
+#~ msgid "Last name"
+#~ msgstr "Last Name"
+
+#, fuzzy
+#~ msgid "Create an account."
+#~ msgstr "Create an account"
+
+#, fuzzy
+#~ msgid "Create New Account"
+#~ msgstr "Create an account"
+
+#, fuzzy
+#~ msgid "You have already signed up?"
+#~ msgstr "You have already signed up"
+
+#~ msgid "Email is already in use"
+#~ msgstr "Email is already in use"
+
+#~ msgid "Username need more than 3 characters"
+#~ msgstr "Username need more than 3 characters"
+
+#~ msgid "Password need more than 6 characters"
+#~ msgstr "Password need more than 6 characters"
+
+#~ msgid "Activation is successful!"
+#~ msgstr "Activation is successful!"
+
+#~ msgid "change avatar"
+#~ msgstr "change avatar"
+
+#~ msgid "change password"
+#~ msgstr "change password"
+
+#~ msgid "Forget your password"
+#~ msgstr "Forget your password"
+
+#, fuzzy
+#~ msgid "Username need more than 3 character"
+#~ msgstr "Username need more than 3 characters"
+
+#, fuzzy
+#~ msgid "Last login IP:"
+#~ msgstr "Last login IP"
+
+#, fuzzy
+#~ msgid "Username must be greater than 3 char"
+#~ msgstr "Username must be greater than 3 characters"
+
+#, fuzzy
+#~ msgid "Password must be greater than 6 char"
+#~ msgstr "Password must be greater than 6 characters"
+
+#~ msgid "You have already singed up"
+#~ msgstr "You have already singed up"
+
+#~ msgid "Username must be greater than 3 characters"
+#~ msgstr "Username must be greater than 3 characters"
+
+#~ msgid "Password must be greater than 6 characters"
+#~ msgstr "Password must be greater than 6 characters"
+
+#, fuzzy
+#~ msgid "Confirm password need more than 6 character"
+#~ msgstr "Confirm password need more than 6 characters"
+
+#~ msgid "Wrong username or password "
+#~ msgstr "Wrong username or password "
+
+#, fuzzy
+#~ msgid "Forget password"
+#~ msgstr "Forgot password"
+
+#~ msgid "Fullname"
+#~ msgstr "Fullname"
+
+#~ msgid "Change avatar"
+#~ msgstr "Change avatar"
+
+#, fuzzy
+#~ msgid "User ID"
+#~ msgstr "User"
+
+#, fuzzy
+#~ msgid "Sign me in"
+#~ msgstr "Sign In"
+
+#~ msgid "Sign in"
+#~ msgstr "Sign in"
+
+#~ msgid "You can get it back"
+#~ msgstr "You can get it back"
+
+#, fuzzy
+#~ msgid "Already Account"
+#~ msgstr "Create an account"
+
+#, fuzzy
+#~ msgid "to login right now"
+#~ msgstr "You can login now."
+
+#~ msgid "If you don't have an account, "
+#~ msgstr "If you don't have an account, "
+
+#~ msgid "Sign Up Here "
+#~ msgstr "Sign Up Here "
+
+#~ msgid "Re-Password"
+#~ msgstr "Re-Password"
+
+#~ msgid "Remember"
+#~ msgstr "Remember"
+
+#~ msgid "Edit user successfully!"
+#~ msgstr "Edit user successfully!"
+
+#~ msgid "Create User"
+#~ msgstr "Create User"
+
+#~ msgid "New Member"
+#~ msgstr "New Member"
+
+#~ msgid "Manage"
+#~ msgstr "Manage"
+
+#~ msgid "Published"
+#~ msgstr "Published"
+
+#~ msgid "Unpublished"
+#~ msgstr "Unpublished"
+
+#~ msgid "Go to page"
+#~ msgstr "Go to page"
+
+#~ msgid "Go"
+#~ msgstr "Go"
+
+#~ msgid "Username (Like)"
+#~ msgstr "Username (Like)"
+
+#~ msgid "Email (like)"
+#~ msgstr "Email (like)"
+
+#~ msgid "Inactive"
+#~ msgstr "Inactive"
+
+#~ msgid "User Mails"
+#~ msgstr "User Mails"
+
+#~ msgid "The username you entered is already in use!"
+#~ msgstr "The username you entered is already in use!"
+
+#~ msgid "The email address you entered is already in use!"
+#~ msgstr "The email address you entered is already in use!"
+
+#, fuzzy
+#~ msgid "Reset password Link"
+#~ msgstr "Reset password"
+
+#~ msgid "User successfully created!"
+#~ msgstr "User successfully created!"
+
+#~ msgid "Action Successfully!"
+#~ msgstr "Action Successfully!"
+
+#~ msgid "This is mail is already in used"
+#~ msgstr "This is mail is already in used"
+
+#~ msgid "Login Fail "
+#~ msgstr "Login Fail "
+
+#, fuzzy
+#~ msgid "Password changes"
+#~ msgstr "Password"
+
+#, fuzzy
+#~ msgid "Please enter your Password"
+#~ msgstr "Re-Password"
+
+#~ msgid "The passwords you entered do not match!"
+#~ msgstr "The passwords you entered do not match!"
+
+#~ msgid "This user activation successfully!"
+#~ msgstr "This user activation successfully!"
+
+#, fuzzy
+#~ msgid "Full Name:"
+#~ msgstr "Default Name"
+
+#~ msgid "Administrator"
+#~ msgstr "Administrator"
+
+#~ msgid "Author"
+#~ msgstr "Author"
+
+#~ msgid "Contributor"
+#~ msgstr "Contributor"
+
+#, fuzzy
+#~ msgid "Require Activation"
+#~ msgstr "Activation"
+
+#~ msgid "Error Detected! The Activation key invalid!"
+#~ msgstr "Error Detected! The Activation key invalid!"
+
+#~ msgid "Check All"
+#~ msgstr "Check All"
+
+#~ msgid "Notification"
+#~ msgstr "Notification"
+
+#~ msgid "Do you really want to do that?"
+#~ msgstr "Do you really want to do that?"
+
+#~ msgid "Really?"
+#~ msgstr "Really?"

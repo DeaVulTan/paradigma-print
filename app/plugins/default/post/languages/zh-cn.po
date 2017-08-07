@@ -1,0 +1,499 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Post\n"
+"POT-Creation-Date: 2015-01-19 14:19+0700\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.4\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../admin/models/category-model.php:23 ../admin/models/post-model.php:27
+#: ../admin/views/category/index.php:88 ../admin/views/category/index.php:226
+#: ../admin/views/category/index.php:577 ../admin/views/category/index.php:594
+#: ../admin/views/post/index.php:88 ../admin/views/post/index.php:225
+#: ../admin/views/post/index.php:583 ../admin/views/post/index.php:600
+msgid "Published"
+msgstr "已公开"
+
+#: ../admin/models/category-model.php:23 ../admin/models/post-model.php:27
+#: ../admin/views/category/index.php:90 ../admin/views/category/index.php:228
+#: ../admin/views/category/index.php:579 ../admin/views/category/index.php:596
+#: ../admin/views/post/index.php:90 ../admin/views/post/index.php:227
+#: ../admin/views/post/index.php:585 ../admin/views/post/index.php:602
+msgid "Unpublished"
+msgstr "已不公开"
+
+#: ../admin/models/post-model.php:31 ../admin/models/post-model.php:35
+msgid "Yes"
+msgstr "是"
+
+#: ../admin/models/post-model.php:31 ../admin/models/post-model.php:35
+msgid "No"
+msgstr "否"
+
+#: ../admin/views/category/add.php:11 ../admin/views/category/copy.php:11
+#: ../admin/views/category/edit.php:11 ../admin/views/category/index.php:50
+#: ../admin/views/category/index.php:278 ../admin/views/post/add.php:42
+#: ../admin/views/post/copy.php:33 ../admin/views/post/edit.php:33
+#: ../admin/views/post/index.php:155 ../admin/views/post/index.php:295
+#: ../post.php:70
+msgid "Category"
+msgstr "类别"
+
+#: ../admin/views/category/add.php:11 ../admin/views/post/add.php:11
+msgid "Add"
+msgstr "添加"
+
+#: ../admin/views/category/add.php:25 ../admin/views/category/copy.php:25
+#: ../admin/views/category/edit.php:25 ../admin/views/category/index.php:133
+#: ../admin/views/category/index.php:290
+msgid "Name"
+msgstr "名称"
+
+#: ../admin/views/category/add.php:37 ../admin/views/category/copy.php:37
+#: ../admin/views/category/edit.php:37 ../admin/views/category/index.php:199
+#: ../admin/views/category/index.php:307 ../admin/views/post/add.php:74
+#: ../admin/views/post/copy.php:64 ../admin/views/post/edit.php:65
+#: ../admin/views/post/index.php:199 ../admin/views/post/index.php:315
+msgid "Status"
+msgstr "状态"
+
+#: ../admin/views/category/add.php:52 ../admin/views/category/copy.php:52
+#: ../admin/views/category/edit.php:52
+msgid "Parent"
+msgstr "父项目"
+
+#: ../admin/views/category/add.php:72 ../admin/views/category/copy.php:72
+#: ../admin/views/category/edit.php:72 ../admin/views/category/index.php:155
+#: ../admin/views/category/index.php:299
+msgid "Description"
+msgstr "描述"
+
+#: ../admin/views/category/add.php:96 ../admin/views/category/add.php:107
+#: ../admin/views/category/copy.php:96 ../admin/views/category/copy.php:107
+#: ../admin/views/category/edit.php:97 ../admin/views/category/edit.php:108
+#: ../admin/views/category/edit.php:131 ../admin/views/category/index.php:369
+#: ../admin/views/category/index.php:381 ../admin/views/category/index.php:402
+#: ../admin/views/category/index.php:444 ../admin/views/category/index.php:457
+#: ../admin/views/category/index.php:466 ../admin/views/category/index.php:473
+#: ../admin/views/category/index.php:488 ../admin/views/category/index.php:512
+#: ../admin/views/category/index.php:542 ../admin/views/category/index.php:558
+#: ../admin/views/category/index.php:571 ../admin/views/category/index.php:588
+#: ../admin/views/post/add.php:181 ../admin/views/post/add.php:192
+#: ../admin/views/post/copy.php:166 ../admin/views/post/copy.php:177
+#: ../admin/views/post/edit.php:172 ../admin/views/post/edit.php:183
+#: ../admin/views/post/edit.php:206 ../admin/views/post/index.php:376
+#: ../admin/views/post/index.php:388 ../admin/views/post/index.php:409
+#: ../admin/views/post/index.php:452 ../admin/views/post/index.php:465
+#: ../admin/views/post/index.php:474 ../admin/views/post/index.php:481
+#: ../admin/views/post/index.php:496 ../admin/views/post/index.php:520
+#: ../admin/views/post/index.php:548 ../admin/views/post/index.php:564
+#: ../admin/views/post/index.php:576 ../admin/views/post/index.php:594
+msgid "Loading..."
+msgstr "加载中..."
+
+#: ../admin/views/category/add.php:115 ../admin/views/category/copy.php:115
+#: ../admin/views/category/edit.php:116 ../admin/views/category/edit.php:142
+#: ../admin/views/category/index.php:421 ../admin/views/category/index.php:479
+#: ../admin/views/category/index.php:494 ../admin/views/category/index.php:519
+#: ../admin/views/post/add.php:200 ../admin/views/post/copy.php:185
+#: ../admin/views/post/edit.php:191 ../admin/views/post/edit.php:217
+#: ../admin/views/post/index.php:428 ../admin/views/post/index.php:487
+#: ../admin/views/post/index.php:502 ../admin/views/post/index.php:525
+msgid "There is an error, please check again!"
+msgstr "有错误，请再次检查！"
+
+#: ../admin/views/category/add.php:120
+msgid "Category is added successfully"
+msgstr "类别成功添加"
+
+#: ../admin/views/category/copy.php:11 ../admin/views/post/copy.php:11
+msgid "Copy"
+msgstr "内容"
+
+#: ../admin/views/category/copy.php:120
+msgid "Category is copied successfully"
+msgstr "类别被成功复制"
+
+#: ../admin/views/category/edit.php:11 ../admin/views/post/edit.php:11
+msgid "Edit"
+msgstr "编辑"
+
+#: ../admin/views/category/edit.php:121 ../admin/views/category/edit.php:140
+msgid "Category is updated successfully"
+msgstr "类别更新成功"
+
+#: ../admin/views/category/index.php:5 ../admin/views/category/index.php:278
+#: ../admin/views/category/index.php:319 ../admin/views/post/index.php:5
+#: ../admin/views/post/index.php:277 ../admin/views/post/index.php:327
+msgid "Search"
+msgstr "搜索"
+
+#: ../admin/views/category/index.php:22 ../admin/views/post/index.php:22
+msgid "New"
+msgstr "新"
+
+#: ../admin/views/category/index.php:26 ../admin/views/category/index.php:31
+#: ../admin/views/category/index.php:37 ../admin/views/post/index.php:26
+#: ../admin/views/post/index.php:31 ../admin/views/post/index.php:37
+msgid "Save"
+msgstr "保存"
+
+#: ../admin/views/category/index.php:27 ../admin/views/category/index.php:33
+#: ../admin/views/category/index.php:38 ../admin/views/post/index.php:27
+#: ../admin/views/post/index.php:33 ../admin/views/post/index.php:38
+msgid "Cancel"
+msgstr "取消"
+
+#: ../admin/views/category/index.php:32 ../admin/views/post/index.php:32
+msgid "Apply"
+msgstr "申请"
+
+#: ../admin/views/category/index.php:50 ../admin/views/post/index.php:50
+msgid "List"
+msgstr "名单"
+
+#: ../admin/views/category/index.php:62 ../admin/views/post/index.php:62
+msgid "Bulk Action"
+msgstr "批量操作"
+
+#: ../admin/views/category/index.php:67 ../admin/views/category/index.php:509
+#: ../admin/views/post/index.php:67 ../admin/views/post/index.php:517
+msgid "Delete"
+msgstr "删除"
+
+#: ../admin/views/category/index.php:69 ../admin/views/post/index.php:69
+msgid "Publish"
+msgstr "公开"
+
+#: ../admin/views/category/index.php:71 ../admin/views/post/index.php:71
+msgid "Unpublish"
+msgstr "不公开"
+
+#: ../admin/views/category/index.php:83 ../admin/views/category/index.php:87
+#: ../admin/views/post/index.php:83 ../admin/views/post/index.php:87
+msgid "All"
+msgstr "全部"
+
+#: ../admin/views/category/index.php:177
+msgid "Author"
+msgstr "作者"
+
+#: ../admin/views/category/index.php:206 ../admin/views/post/index.php:206
+msgid "Actions"
+msgstr "操作"
+
+#: ../admin/views/category/index.php:276 ../admin/views/category/index.php:321
+#: ../admin/views/post/index.php:275 ../admin/views/post/index.php:329
+msgid "Close"
+msgstr "关闭"
+
+#: ../admin/views/category/index.php:395 ../admin/views/post/index.php:402
+msgid "Are you sure to perform this action?"
+msgstr "你确定实现这个操作吗？"
+
+#: ../admin/views/category/index.php:411 ../admin/views/category/index.php:515
+msgid "Category is deleted successfully"
+msgstr "类别删除成功"
+
+#: ../admin/views/category/index.php:414
+msgid "Category is published successfully"
+msgstr "类别成功发布"
+
+#: ../admin/views/category/index.php:417
+msgid "Category is unpublished successfully"
+msgstr "类是未发表的成功"
+
+#: ../admin/views/category/index.php:505 ../admin/views/post/index.php:513
+msgid "Are you sure to delete this item?"
+msgstr "您确定要删除这个项目吗？"
+
+#: ../admin/views/category/index.php:517
+msgid "There are contents within this category, please delete them first!"
+msgstr "有此类别中的内容，请首先将它们删除！"
+
+#: ../admin/views/post/add.php:11 ../admin/views/post/edit.php:11
+#: ../admin/views/post/index.php:50 ../admin/views/post/index.php:277
+msgid "Post"
+msgstr "职位"
+
+#: ../admin/views/post/add.php:17
+msgid "Are you sure you want to delete?"
+msgstr "你确定要删除吗？"
+
+#: ../admin/views/post/add.php:18
+msgid "An error has occurred. Please try again"
+msgstr "出现错误。请再试一次"
+
+#: ../admin/views/post/add.php:19
+msgid "You must select at least one tag"
+msgstr "你要选择至少一个标签"
+
+#: ../admin/views/post/add.php:30 ../admin/views/post/copy.php:21
+#: ../admin/views/post/edit.php:21
+msgid "Title "
+msgstr "标题"
+
+#: ../admin/views/post/add.php:63 ../admin/views/post/copy.php:54
+#: ../admin/views/post/edit.php:54
+msgid "Published date"
+msgstr "公开日期"
+
+#: ../admin/views/post/add.php:87 ../admin/views/post/copy.php:77
+#: ../admin/views/post/edit.php:78
+msgid "Unpublished date"
+msgstr "不公开日期"
+
+#: ../admin/views/post/add.php:98 ../admin/views/post/copy.php:86
+#: ../admin/views/post/edit.php:89
+msgid "Allow comment"
+msgstr "允许评论"
+
+#: ../admin/views/post/add.php:111 ../admin/views/post/copy.php:99
+#: ../admin/views/post/edit.php:102
+msgid "Allow rating"
+msgstr "允许评级 "
+
+#: ../admin/views/post/add.php:126 ../admin/views/post/copy.php:113
+#: ../admin/views/post/edit.php:117
+msgid "Thumbnail"
+msgstr "缩略图"
+
+#: ../admin/views/post/add.php:138 ../admin/views/post/copy.php:124
+#: ../admin/views/post/edit.php:129
+msgid "Content"
+msgstr "内容"
+
+#: ../admin/views/post/add.php:150 ../admin/views/post/copy.php:136
+#: ../admin/views/post/edit.php:141
+msgid "Tags"
+msgstr "标签"
+
+#: ../admin/views/post/add.php:154 ../admin/views/post/copy.php:140
+#: ../admin/views/post/edit.php:145
+msgid "Add tags"
+msgstr "添加标签"
+
+#: ../admin/views/post/add.php:155 ../admin/views/post/copy.php:141
+#: ../admin/views/post/edit.php:146
+msgid "Tags manager"
+msgstr "标签管理"
+
+#: ../admin/views/post/add.php:158 ../admin/views/post/copy.php:144
+#: ../admin/views/post/edit.php:149
+#, php-format
+msgid ""
+"Notice: You are allowed to use up to %s tag and you can add multiple tags at "
+"once. Each tag separated by a comma"
+msgstr ""
+"注意：你可以使用多达 %s 注意 标签，你一次可以同时添加很多标签。多个标签用逗号"
+"来分隔。"
+
+#: ../admin/views/post/add.php:205
+msgid "Post is added successfully"
+msgstr "帖子被成功添加"
+
+#: ../admin/views/post/copy.php:190
+msgid "Post is copied successfully"
+msgstr "帖子被成功复制"
+
+#: ../admin/views/post/edit.php:196 ../admin/views/post/edit.php:215
+msgid "Post is updated successfully"
+msgstr "文章已更新成功"
+
+#: ../admin/views/post/index.php:133 ../admin/views/post/index.php:287
+#: ../widgets/views/category/setting.php:3 ../widgets/views/post/setting.php:3
+#: ../widgets/views/tag/setting.php:3
+msgid "Title"
+msgstr "标题"
+
+#: ../admin/views/post/index.php:177
+msgid "Created date"
+msgstr "创建日期"
+
+#: ../admin/views/post/index.php:418 ../admin/views/post/index.php:523
+msgid "Post is deleted successfully"
+msgstr "页面删除成功"
+
+#: ../admin/views/post/index.php:421
+msgid "Post is published successfully"
+msgstr "邮政成功发布"
+
+#: ../admin/views/post/index.php:424
+msgid "Post is unpublished successfully"
+msgstr "邮政是未发表的成功"
+
+#: ../post-config.php:17
+msgid "Post settings"
+msgstr "文章设置"
+
+#: ../post-config.php:21
+msgid "Enable comment?"
+msgstr "启用评论吗？"
+
+#: ../post-config.php:22
+msgid "Enable rating?"
+msgstr "启用评级？"
+
+#: ../post-config.php:24
+msgid "Newest first"
+msgstr "最新的文章排名第一"
+
+#: ../post-config.php:25
+msgid "Oldest first"
+msgstr "最初的文章排名第一"
+
+#: ../post-config.php:27
+msgid "Ordering"
+msgstr "排序"
+
+#: ../post-config.php:28 ../widgets/views/tag/setting.php:31
+msgid "Maximum number of tags"
+msgstr "标签最大数量"
+
+#: ../post-config.php:29
+msgid "Length of description"
+msgstr "描述长度"
+
+#: ../post-config.php:31
+msgid "Post listing page"
+msgstr "显示文章列表的页面"
+
+#: ../post-config.php:32
+msgid "Post detail page"
+msgstr "显示文章细节的页面"
+
+#: ../post-config.php:34
+msgid "Show post title on URL"
+msgstr "在地址显示文章标题"
+
+#: ../post-config.php:35
+msgid "Show category name on URL"
+msgstr "在显示的URL类别名称"
+
+#: ../post.php:65 ../post.php:66
+msgid "Posts"
+msgstr "文章"
+
+#: ../shortcodes/controllers/posts-shortcode.php:345
+msgid "No post"
+msgstr "没有文章"
+
+#: ../shortcodes/views/post/breadcrumb.php:9
+#: ../shortcodes/views/posts/breadcrumb.php:9
+msgid "Homepage"
+msgstr "主页"
+
+#: ../shortcodes/views/post/template.php:17
+#: ../shortcodes/views/posts/pagination.php:5
+#: ../shortcodes/views/posts/template.php:17
+msgid "Read more"
+msgstr "阅读更多"
+
+#: ../widgets/views/post/index.php:3
+msgid "Post list"
+msgstr "帖子列表"
+
+#: ../widgets/views/post/setting.php:7
+msgid "Type"
+msgstr "类型"
+
+#: ../widgets/views/post/setting.php:11
+msgid "Number of posts"
+msgstr "帖子数"
+
+#: ../widgets/views/tag/setting.php:20
+msgid "Display type"
+msgstr "显示类型"
+
+#: ../widgets/views/tag/setting.php:24
+msgid "Default"
+msgstr "复制"
+
+#: ../widgets/views/tag/setting.php:25
+msgid "Cloud"
+msgstr "云"
+
+#: ../widgets/views/tag/setting.php:42
+msgid "Style"
+msgstr "风格"
+
+#~ msgid "New category is created successfully"
+#~ msgstr "新类别已创建成功"
+
+#~ msgid "Please check the data field!"
+#~ msgstr "请查看数据字段！"
+
+#~ msgid "Status is updated successfully"
+#~ msgstr "状态更新成功了！"
+
+#~ msgid "You have successfully created a new post"
+#~ msgstr "已经成功创造一篇新文章"
+
+#~ msgid ""
+#~ "Your session has ended or you are not allowed to manipulate this action."
+#~ msgstr "您的登录会话已过期或者您没有权限执行该操作。"
+
+#~ msgid "Choose category"
+#~ msgstr "选择类别"
+
+#~ msgid "Show tag name on URL"
+#~ msgstr "网址上显示的标记名称"
+
+#~ msgid "New Category"
+#~ msgstr "新的类别"
+
+#~ msgid "Edit Category"
+#~ msgstr "编辑类别"
+
+#~ msgid "Are you sure to delete this category?"
+#~ msgstr "你确定要删除这个类别码？"
+
+#~ msgid "No item are selected"
+#~ msgstr "没有项目被选中"
+
+#~ msgid "Please enter the search conditions"
+#~ msgstr "请输入搜索条件"
+
+#~ msgid "Categories"
+#~ msgstr "类别"
+
+#~ msgid "Select Action "
+#~ msgstr "选择操作"
+
+#~ msgid "%s"
+#~ msgstr "%s"
+
+#~ msgid "Delete Category"
+#~ msgstr "删除类别"
+
+#~ msgid "New Post"
+#~ msgstr "新文章"
+
+#~ msgid "Please wait,your post is under approval process"
+#~ msgstr "请稍等，您的文章是在审批过程"
+
+#~ msgid "Choose Tags"
+#~ msgstr "选择标签"
+
+#~ msgid "No post are selected"
+#~ msgstr "无文章被选中"
+
+#~ msgid "All Category"
+#~ msgstr "所有类别"
+
+#~ msgid "Edit post"
+#~ msgstr "编辑文章"
+
+#~ msgid "Delete post"
+#~ msgstr "删除文章"
+
+#~ msgid "Notice: You are allowed to use up to "
+#~ msgstr "注意：你可以␣提出最多␣"

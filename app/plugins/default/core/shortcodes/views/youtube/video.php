@@ -1,0 +1,2 @@
+<?php
+echo '<div style="max-width:' . $this->atts['width'] . 'px;max-height:' . $this->atts['height'] . 'px;"><iframe title="YouTube video player" width="' . $this->atts['width'] . '" height="' . $this->atts['height'] . '" src="http://www.youtube.com/embed/' . $this->atts['id'] . '?wmode=transparent&autoplay='.$this->atts['autoplay'].'" frameborder="0" allowfullscreen></iframe></div>';

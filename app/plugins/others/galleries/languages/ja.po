@@ -1,0 +1,267 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Galleries\n"
+"POT-Creation-Date: 2014-11-06 15:55+0700\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.4\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../admin/models/galleries-model.php:22
+#: ../admin/views/galleries/index.php:73
+#: ../admin/views/galleries/index.php:155
+#: ../admin/views/galleries/index.php:468
+msgid "Published"
+msgstr "公開されました"
+
+#: ../admin/models/galleries-model.php:22
+#: ../admin/views/galleries/index.php:74
+#: ../admin/views/galleries/index.php:159
+#: ../admin/views/galleries/index.php:470
+msgid "Unpublished"
+msgstr "非公開されました"
+
+#: ../admin/views/galleries/add.php:11
+msgid "Add"
+msgstr "加える"
+
+#: ../admin/views/galleries/add.php:21 ../admin/views/galleries/copy.php:21
+#: ../admin/views/galleries/edit.php:21 ../admin/views/galleries/index.php:109
+#: ../admin/views/galleries/index.php:217
+msgid "Gallery name"
+msgstr "ギャラリー名"
+
+#: ../admin/views/galleries/add.php:33 ../admin/views/galleries/copy.php:33
+#: ../admin/views/galleries/edit.php:33 ../admin/views/galleries/index.php:128
+#: ../admin/views/galleries/index.php:225
+msgid "Status"
+msgstr "ステータス"
+
+#: ../admin/views/galleries/add.php:47 ../admin/views/galleries/copy.php:49
+#: ../admin/views/galleries/edit.php:48
+msgid "Description"
+msgstr "説明"
+
+#: ../admin/views/galleries/add.php:61 ../admin/views/galleries/copy.php:93
+#: ../admin/views/galleries/edit.php:92
+msgid "Add Image"
+msgstr "画像追加"
+
+#: ../admin/views/galleries/add.php:79 ../admin/views/galleries/copy.php:72
+#: ../admin/views/galleries/copy.php:110 ../admin/views/galleries/edit.php:71
+#: ../admin/views/galleries/edit.php:109
+msgid "Gallery Cover"
+msgstr "ギャラリーカバー"
+
+#: ../admin/views/galleries/add.php:80 ../admin/views/galleries/copy.php:73
+#: ../admin/views/galleries/copy.php:111 ../admin/views/galleries/edit.php:72
+#: ../admin/views/galleries/edit.php:110
+msgid "select image"
+msgstr "画像選択"
+
+#: ../admin/views/galleries/add.php:86 ../admin/views/galleries/copy.php:79
+#: ../admin/views/galleries/copy.php:117 ../admin/views/galleries/edit.php:78
+#: ../admin/views/galleries/edit.php:116
+msgid "Image title"
+msgstr "画像タイトル"
+
+#: ../admin/views/galleries/add.php:87 ../admin/views/galleries/copy.php:80
+#: ../admin/views/galleries/copy.php:118 ../admin/views/galleries/edit.php:79
+#: ../admin/views/galleries/edit.php:117
+msgid "Image alt"
+msgstr "画像のaltタグ"
+
+#: ../admin/views/galleries/add.php:105 ../admin/views/galleries/add.php:122
+#: ../admin/views/galleries/copy.php:136 ../admin/views/galleries/copy.php:153
+#: ../admin/views/galleries/edit.php:137 ../admin/views/galleries/edit.php:154
+#: ../admin/views/galleries/edit.php:183
+#: ../admin/views/galleries/index.php:284
+#: ../admin/views/galleries/index.php:296
+#: ../admin/views/galleries/index.php:317
+#: ../admin/views/galleries/index.php:349
+#: ../admin/views/galleries/index.php:362
+#: ../admin/views/galleries/index.php:371
+#: ../admin/views/galleries/index.php:378
+#: ../admin/views/galleries/index.php:393
+#: ../admin/views/galleries/index.php:417
+#: ../admin/views/galleries/index.php:445
+#: ../admin/views/galleries/index.php:462
+#: ../admin/views/galleries/index.php:479
+msgid "Loading..."
+msgstr "読み込んでいます..."
+
+#: ../admin/views/galleries/add.php:131 ../admin/views/galleries/copy.php:161
+#: ../admin/views/galleries/edit.php:162 ../admin/views/galleries/edit.php:194
+#: ../admin/views/galleries/index.php:326
+#: ../admin/views/galleries/index.php:384
+#: ../admin/views/galleries/index.php:399
+#: ../admin/views/galleries/index.php:422
+msgid "There is an error, please check again!"
+msgstr "エラーがあると、再度確認してください！"
+
+#: ../admin/views/galleries/add.php:136
+msgid "Gallery is added successfully"
+msgstr "ギャラリーでは、正常に追加された"
+
+#: ../admin/views/galleries/copy.php:11
+msgid "Copy"
+msgstr "コピー"
+
+#: ../admin/views/galleries/copy.php:166
+msgid "Gallery is copied successfully"
+msgstr "ギャラリーでは、正常にコピーされている"
+
+#: ../admin/views/galleries/edit.php:11
+msgid "Edit"
+msgstr "編集"
+
+#: ../admin/views/galleries/edit.php:167 ../admin/views/galleries/edit.php:192
+msgid "Gallery is updated successfully"
+msgstr "ギャラリーの更新が完了しました。"
+
+#: ../admin/views/galleries/index.php:5 ../admin/views/galleries/index.php:208
+#: ../admin/views/galleries/index.php:235
+msgid "Search"
+msgstr "検索"
+
+#: ../admin/views/galleries/index.php:11
+msgid "New"
+msgstr "新しい"
+
+#: ../admin/views/galleries/index.php:15 ../admin/views/galleries/index.php:20
+#: ../admin/views/galleries/index.php:26
+msgid "Save"
+msgstr "保存"
+
+#: ../admin/views/galleries/index.php:16 ../admin/views/galleries/index.php:22
+#: ../admin/views/galleries/index.php:27
+msgid "Cancel"
+msgstr "キャンセル"
+
+#: ../admin/views/galleries/index.php:21
+msgid "Apply"
+msgstr "適用する"
+
+#: ../admin/views/galleries/index.php:39
+msgid "List"
+msgstr "リスト"
+
+#: ../admin/views/galleries/index.php:51
+msgid "Bulk Actions"
+msgstr "一括操作"
+
+#: ../admin/views/galleries/index.php:54
+msgid "Delete"
+msgstr "削除"
+
+#: ../admin/views/galleries/index.php:55
+msgid "Publish"
+msgstr "公開"
+
+#: ../admin/views/galleries/index.php:56
+msgid "Unpublish"
+msgstr "非公開"
+
+#: ../admin/views/galleries/index.php:68 ../admin/views/galleries/index.php:72
+msgid "All"
+msgstr "全部"
+
+#: ../admin/views/galleries/index.php:133
+msgid "Actions"
+msgstr "アクション"
+
+#: ../admin/views/galleries/index.php:206
+#: ../admin/views/galleries/index.php:236
+msgid "Close"
+msgstr "クローズ"
+
+#: ../admin/views/galleries/index.php:310
+msgid "Are you sure with this action?"
+msgstr "このアクションを確実されますか？"
+
+#: ../admin/views/galleries/index.php:314
+#: ../admin/views/galleries/index.php:414
+msgid "OK"
+msgstr "OK"
+
+#: ../admin/views/galleries/index.php:324
+#: ../admin/views/galleries/index.php:420
+msgid "Gallery is deleted successfully"
+msgstr "ギャラリーでは、正常に削除されている"
+
+#: ../admin/views/galleries/index.php:410
+msgid "Are you sure to delete this item?"
+msgstr "本項目を削除しても宜しいでしょうか？"
+
+#: ../galleries.php:34
+msgid "Galleries"
+msgstr "ギャラリー"
+
+#: ../public/once-view.php:43
+msgid "Views"
+msgstr "ビュー"
+
+#: ../public/once-view.php:50
+msgid "Total"
+msgstr "トータル"
+
+#: ../public/once-view.php:57
+msgid "Comments"
+msgstr "コメント"
+
+#: ../widgets/views/galleries/setting.php:4
+msgid "Widget Title"
+msgstr "ウィジェットのタイトル"
+
+#: ../widgets/views/galleries/setting.php:8
+msgid "Gallery page"
+msgstr "ギャラリーページ"
+
+#: ../widgets/views/galleries/setting.php:14
+msgid "Image sources"
+msgstr "画像ソース"
+
+#: ../widgets/views/galleries/setting.php:18
+msgid "All Galleries"
+msgstr "すべてのギャラリー"
+
+#: ../widgets/views/galleries/setting.php:19
+msgid "Random Gallery"
+msgstr "ランダムギャラリー"
+
+#~ msgid "This gallery does not exist"
+#~ msgstr "このギャラリーが存在していません。"
+
+#~ msgid "The field is required"
+#~ msgstr "フィールドは必須です。"
+
+#~ msgid "New gallery"
+#~ msgstr "新しいギャラリー"
+
+#~ msgid "Select Action"
+#~ msgstr "アクション選択"
+
+#~ msgid "Please enter gallery name"
+#~ msgstr "ギャラリー名をご入力ください。"
+
+#~ msgid "Shortcode"
+#~ msgstr "ショートコード"
+
+#~ msgid "<center>No Gallery</center>"
+#~ msgstr "<center>ギャラリーがありません。</center>"
+
+#~ msgid "Confirm"
+#~ msgstr "確認"
+
+#~ msgid "Explore Our Gallery"
+#~ msgstr "私たちのギャラリー探検"
+
+#~ msgid "Browse through the gallery of our images here."
+#~ msgstr "こちらで私たちの画像のギャラリーをブラウズします。"

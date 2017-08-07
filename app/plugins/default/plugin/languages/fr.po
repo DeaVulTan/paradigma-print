@@ -1,0 +1,91 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Plugin\n"
+"POT-Creation-Date: 2015-02-06 15:22+0700\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.4\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../admin/views/plugin/index.php:5 ../admin/views/plugin/index.php:166
+#: ../admin/views/plugin/index.php:196
+msgid "Search"
+msgstr "recherche"
+
+#: ../admin/views/plugin/index.php:32 ../admin/views/plugin/index.php:105
+#: ../admin/views/plugin/index.php:166 ../admin/views/plugin/index.php:177
+#: ../plugin.php:11
+msgid "Plugins"
+msgstr "Plugins"
+
+#: ../admin/views/plugin/index.php:44
+msgid "Bulk Actions"
+msgstr "Actions globales"
+
+#: ../admin/views/plugin/index.php:48 ../admin/views/plugin/index.php:67
+#: ../admin/views/plugin/index.php:132 ../admin/views/plugin/index.php:369
+#: ../admin/views/plugin/index.php:401
+msgid "Activate"
+msgstr "activer"
+
+#: ../admin/views/plugin/index.php:49 ../admin/views/plugin/index.php:69
+#: ../admin/views/plugin/index.php:134 ../admin/views/plugin/index.php:372
+#: ../admin/views/plugin/index.php:403
+msgid "Deactivate"
+msgstr "désactiver"
+
+#: ../admin/views/plugin/index.php:61 ../admin/views/plugin/index.php:66
+msgid "All"
+msgstr "Tous"
+
+#: ../admin/views/plugin/index.php:110
+msgid "Version"
+msgstr "Version"
+
+#: ../admin/views/plugin/index.php:111
+msgid "Description"
+msgstr "Description"
+
+#: ../admin/views/plugin/index.php:112 ../admin/views/plugin/index.php:185
+msgid "Actions"
+msgstr "Actions"
+
+#: ../admin/views/plugin/index.php:164 ../admin/views/plugin/index.php:197
+msgid "Close"
+msgstr "Près"
+
+#: ../admin/views/plugin/index.php:245 ../admin/views/plugin/index.php:257
+#: ../admin/views/plugin/index.php:278 ../admin/views/plugin/index.php:318
+#: ../admin/views/plugin/index.php:331 ../admin/views/plugin/index.php:340
+#: ../admin/views/plugin/index.php:364 ../admin/views/plugin/index.php:395
+msgid "Loading..."
+msgstr "Chargement..."
+
+#: ../admin/views/plugin/index.php:271 ../admin/views/plugin/index.php:357
+msgid "Are you sure with this action?"
+msgstr "Etes-vous sûr de cette action?"
+
+#: ../admin/views/plugin/index.php:290 ../admin/views/plugin/index.php:373
+msgid "Plugins is activated successfully"
+msgstr "Plugins est activé avec succès"
+
+#: ../admin/views/plugin/index.php:293 ../admin/views/plugin/index.php:370
+msgid "Plugins is deactivated successfully"
+msgstr "Plugins est désactivé avec succès"
+
+#: ../admin/views/plugin/index.php:297
+msgid "There is an error, please check again!"
+msgstr "Il ya une erreur, se il vous plaît vérifier à nouveau!"
+
+#~ msgid "Please enter the search conditions"
+#~ msgstr "Veuillez entrer les critères de recherche"
+
+#~ msgid "Plugin"
+#~ msgstr "Plugin"

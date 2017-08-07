@@ -1,0 +1,501 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Post\n"
+"POT-Creation-Date: 2015-01-19 14:18+0700\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.4\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../admin/models/category-model.php:23 ../admin/models/post-model.php:27
+#: ../admin/views/category/index.php:88 ../admin/views/category/index.php:226
+#: ../admin/views/category/index.php:577 ../admin/views/category/index.php:594
+#: ../admin/views/post/index.php:88 ../admin/views/post/index.php:225
+#: ../admin/views/post/index.php:583 ../admin/views/post/index.php:600
+msgid "Published"
+msgstr "公開されました。"
+
+#: ../admin/models/category-model.php:23 ../admin/models/post-model.php:27
+#: ../admin/views/category/index.php:90 ../admin/views/category/index.php:228
+#: ../admin/views/category/index.php:579 ../admin/views/category/index.php:596
+#: ../admin/views/post/index.php:90 ../admin/views/post/index.php:227
+#: ../admin/views/post/index.php:585 ../admin/views/post/index.php:602
+msgid "Unpublished"
+msgstr "非公開されました。"
+
+#: ../admin/models/post-model.php:31 ../admin/models/post-model.php:35
+msgid "Yes"
+msgstr "はい"
+
+#: ../admin/models/post-model.php:31 ../admin/models/post-model.php:35
+msgid "No"
+msgstr "いいえ"
+
+#: ../admin/views/category/add.php:11 ../admin/views/category/copy.php:11
+#: ../admin/views/category/edit.php:11 ../admin/views/category/index.php:50
+#: ../admin/views/category/index.php:278 ../admin/views/post/add.php:42
+#: ../admin/views/post/copy.php:33 ../admin/views/post/edit.php:33
+#: ../admin/views/post/index.php:155 ../admin/views/post/index.php:295
+#: ../post.php:70
+msgid "Category"
+msgstr "カテゴリ"
+
+#: ../admin/views/category/add.php:11 ../admin/views/post/add.php:11
+msgid "Add"
+msgstr "加える"
+
+#: ../admin/views/category/add.php:25 ../admin/views/category/copy.php:25
+#: ../admin/views/category/edit.php:25 ../admin/views/category/index.php:133
+#: ../admin/views/category/index.php:290
+msgid "Name"
+msgstr "名前"
+
+#: ../admin/views/category/add.php:37 ../admin/views/category/copy.php:37
+#: ../admin/views/category/edit.php:37 ../admin/views/category/index.php:199
+#: ../admin/views/category/index.php:307 ../admin/views/post/add.php:74
+#: ../admin/views/post/copy.php:64 ../admin/views/post/edit.php:65
+#: ../admin/views/post/index.php:199 ../admin/views/post/index.php:315
+msgid "Status"
+msgstr "ステータス"
+
+#: ../admin/views/category/add.php:52 ../admin/views/category/copy.php:52
+#: ../admin/views/category/edit.php:52
+msgid "Parent"
+msgstr "親フォルダー"
+
+#: ../admin/views/category/add.php:72 ../admin/views/category/copy.php:72
+#: ../admin/views/category/edit.php:72 ../admin/views/category/index.php:155
+#: ../admin/views/category/index.php:299
+msgid "Description"
+msgstr "説明"
+
+#: ../admin/views/category/add.php:96 ../admin/views/category/add.php:107
+#: ../admin/views/category/copy.php:96 ../admin/views/category/copy.php:107
+#: ../admin/views/category/edit.php:97 ../admin/views/category/edit.php:108
+#: ../admin/views/category/edit.php:131 ../admin/views/category/index.php:369
+#: ../admin/views/category/index.php:381 ../admin/views/category/index.php:402
+#: ../admin/views/category/index.php:444 ../admin/views/category/index.php:457
+#: ../admin/views/category/index.php:466 ../admin/views/category/index.php:473
+#: ../admin/views/category/index.php:488 ../admin/views/category/index.php:512
+#: ../admin/views/category/index.php:542 ../admin/views/category/index.php:558
+#: ../admin/views/category/index.php:571 ../admin/views/category/index.php:588
+#: ../admin/views/post/add.php:181 ../admin/views/post/add.php:192
+#: ../admin/views/post/copy.php:166 ../admin/views/post/copy.php:177
+#: ../admin/views/post/edit.php:172 ../admin/views/post/edit.php:183
+#: ../admin/views/post/edit.php:206 ../admin/views/post/index.php:376
+#: ../admin/views/post/index.php:388 ../admin/views/post/index.php:409
+#: ../admin/views/post/index.php:452 ../admin/views/post/index.php:465
+#: ../admin/views/post/index.php:474 ../admin/views/post/index.php:481
+#: ../admin/views/post/index.php:496 ../admin/views/post/index.php:520
+#: ../admin/views/post/index.php:548 ../admin/views/post/index.php:564
+#: ../admin/views/post/index.php:576 ../admin/views/post/index.php:594
+msgid "Loading..."
+msgstr "読み込んでいます..."
+
+#: ../admin/views/category/add.php:115 ../admin/views/category/copy.php:115
+#: ../admin/views/category/edit.php:116 ../admin/views/category/edit.php:142
+#: ../admin/views/category/index.php:421 ../admin/views/category/index.php:479
+#: ../admin/views/category/index.php:494 ../admin/views/category/index.php:519
+#: ../admin/views/post/add.php:200 ../admin/views/post/copy.php:185
+#: ../admin/views/post/edit.php:191 ../admin/views/post/edit.php:217
+#: ../admin/views/post/index.php:428 ../admin/views/post/index.php:487
+#: ../admin/views/post/index.php:502 ../admin/views/post/index.php:525
+msgid "There is an error, please check again!"
+msgstr "エラーがあり、再度確認してください！"
+
+#: ../admin/views/category/add.php:120
+msgid "Category is added successfully"
+msgstr "カテゴリは正常に追加されます"
+
+#: ../admin/views/category/copy.php:11 ../admin/views/post/copy.php:11
+msgid "Copy"
+msgstr "コピー"
+
+#: ../admin/views/category/copy.php:120
+msgid "Category is copied successfully"
+msgstr "カテゴリは正常にコピーされます"
+
+#: ../admin/views/category/edit.php:11 ../admin/views/post/edit.php:11
+msgid "Edit"
+msgstr "編集"
+
+#: ../admin/views/category/edit.php:121 ../admin/views/category/edit.php:140
+msgid "Category is updated successfully"
+msgstr "カテゴリの更新が完了しました。"
+
+#: ../admin/views/category/index.php:5 ../admin/views/category/index.php:278
+#: ../admin/views/category/index.php:319 ../admin/views/post/index.php:5
+#: ../admin/views/post/index.php:277 ../admin/views/post/index.php:327
+msgid "Search"
+msgstr "検索"
+
+#: ../admin/views/category/index.php:22 ../admin/views/post/index.php:22
+msgid "New"
+msgstr "新しい"
+
+#: ../admin/views/category/index.php:26 ../admin/views/category/index.php:31
+#: ../admin/views/category/index.php:37 ../admin/views/post/index.php:26
+#: ../admin/views/post/index.php:31 ../admin/views/post/index.php:37
+msgid "Save"
+msgstr "保存"
+
+#: ../admin/views/category/index.php:27 ../admin/views/category/index.php:33
+#: ../admin/views/category/index.php:38 ../admin/views/post/index.php:27
+#: ../admin/views/post/index.php:33 ../admin/views/post/index.php:38
+msgid "Cancel"
+msgstr "キャンセル"
+
+#: ../admin/views/category/index.php:32 ../admin/views/post/index.php:32
+msgid "Apply"
+msgstr "適用する"
+
+#: ../admin/views/category/index.php:50 ../admin/views/post/index.php:50
+msgid "List"
+msgstr "リスト"
+
+#: ../admin/views/category/index.php:62 ../admin/views/post/index.php:62
+msgid "Bulk Action"
+msgstr "一括操作"
+
+#: ../admin/views/category/index.php:67 ../admin/views/category/index.php:509
+#: ../admin/views/post/index.php:67 ../admin/views/post/index.php:517
+msgid "Delete"
+msgstr "削除"
+
+#: ../admin/views/category/index.php:69 ../admin/views/post/index.php:69
+msgid "Publish"
+msgstr "公開"
+
+#: ../admin/views/category/index.php:71 ../admin/views/post/index.php:71
+msgid "Unpublish"
+msgstr "非公開"
+
+#: ../admin/views/category/index.php:83 ../admin/views/category/index.php:87
+#: ../admin/views/post/index.php:83 ../admin/views/post/index.php:87
+msgid "All"
+msgstr "全部"
+
+#: ../admin/views/category/index.php:177
+msgid "Author"
+msgstr "著作"
+
+#: ../admin/views/category/index.php:206 ../admin/views/post/index.php:206
+msgid "Actions"
+msgstr "アクション"
+
+#: ../admin/views/category/index.php:276 ../admin/views/category/index.php:321
+#: ../admin/views/post/index.php:275 ../admin/views/post/index.php:329
+msgid "Close"
+msgstr "クローズ"
+
+#: ../admin/views/category/index.php:395 ../admin/views/post/index.php:402
+msgid "Are you sure to perform this action?"
+msgstr "本当にこのアクションを実施したいですか？"
+
+#: ../admin/views/category/index.php:411 ../admin/views/category/index.php:515
+msgid "Category is deleted successfully"
+msgstr "カテゴリの削除が完了しました。"
+
+#: ../admin/views/category/index.php:414
+msgid "Category is published successfully"
+msgstr "カテゴリは正常に公開されている"
+
+#: ../admin/views/category/index.php:417
+msgid "Category is unpublished successfully"
+msgstr "カテゴリは正常に未発表です"
+
+#: ../admin/views/category/index.php:505 ../admin/views/post/index.php:513
+msgid "Are you sure to delete this item?"
+msgstr "あなたはこの項目を削除してもよろしいですか？"
+
+#: ../admin/views/category/index.php:517
+msgid "There are contents within this category, please delete them first!"
+msgstr "内容はこの範疇にあり、それらを最初に削除してください！"
+
+#: ../admin/views/post/add.php:11 ../admin/views/post/edit.php:11
+#: ../admin/views/post/index.php:50 ../admin/views/post/index.php:277
+msgid "Post"
+msgstr "ポスト"
+
+#: ../admin/views/post/add.php:17
+msgid "Are you sure you want to delete?"
+msgstr "削除しても宜しいでしょうか？"
+
+#: ../admin/views/post/add.php:18
+msgid "An error has occurred. Please try again"
+msgstr "エラーが発生しました。もう一度お願いいたします。"
+
+#: ../admin/views/post/add.php:19
+msgid "You must select at least one tag"
+msgstr "少なくとも1タグをご選択ください。"
+
+#: ../admin/views/post/add.php:30 ../admin/views/post/copy.php:21
+#: ../admin/views/post/edit.php:21
+msgid "Title "
+msgstr "タイトル"
+
+#: ../admin/views/post/add.php:63 ../admin/views/post/copy.php:54
+#: ../admin/views/post/edit.php:54
+msgid "Published date"
+msgstr "公開日付"
+
+#: ../admin/views/post/add.php:87 ../admin/views/post/copy.php:77
+#: ../admin/views/post/edit.php:78
+msgid "Unpublished date"
+msgstr "非公開日付"
+
+#: ../admin/views/post/add.php:98 ../admin/views/post/copy.php:86
+#: ../admin/views/post/edit.php:89
+msgid "Allow comment"
+msgstr "許すコメント"
+
+#: ../admin/views/post/add.php:111 ../admin/views/post/copy.php:99
+#: ../admin/views/post/edit.php:102
+msgid "Allow rating"
+msgstr "評価を許可する "
+
+#: ../admin/views/post/add.php:126 ../admin/views/post/copy.php:113
+#: ../admin/views/post/edit.php:117
+msgid "Thumbnail"
+msgstr "サムネイル"
+
+#: ../admin/views/post/add.php:138 ../admin/views/post/copy.php:124
+#: ../admin/views/post/edit.php:129
+msgid "Content"
+msgstr "内容"
+
+#: ../admin/views/post/add.php:150 ../admin/views/post/copy.php:136
+#: ../admin/views/post/edit.php:141
+msgid "Tags"
+msgstr "タグ"
+
+#: ../admin/views/post/add.php:154 ../admin/views/post/copy.php:140
+#: ../admin/views/post/edit.php:145
+msgid "Add tags"
+msgstr "タグ追加"
+
+#: ../admin/views/post/add.php:155 ../admin/views/post/copy.php:141
+#: ../admin/views/post/edit.php:146
+msgid "Tags manager"
+msgstr "タグ管理"
+
+#: ../admin/views/post/add.php:158 ../admin/views/post/copy.php:144
+#: ../admin/views/post/edit.php:149
+#, php-format
+msgid ""
+"Notice: You are allowed to use up to %s tag and you can add multiple tags at "
+"once. Each tag separated by a comma"
+msgstr ""
+"Notice: You are allowed to use up to %s tag and you can add multiple tags at "
+"once. Each tag separated by a comma"
+
+#: ../admin/views/post/add.php:205
+msgid "Post is added successfully"
+msgstr "ポストは正常に追加された"
+
+#: ../admin/views/post/copy.php:190
+msgid "Post is copied successfully"
+msgstr "ポストは正常にコピーされている"
+
+#: ../admin/views/post/edit.php:196 ../admin/views/post/edit.php:215
+msgid "Post is updated successfully"
+msgstr "ポストの更新が完了しました。"
+
+#: ../admin/views/post/index.php:133 ../admin/views/post/index.php:287
+#: ../widgets/views/category/setting.php:3 ../widgets/views/post/setting.php:3
+#: ../widgets/views/tag/setting.php:3
+msgid "Title"
+msgstr "タイトル"
+
+#: ../admin/views/post/index.php:177
+msgid "Created date"
+msgstr "作成日"
+
+#: ../admin/views/post/index.php:418 ../admin/views/post/index.php:523
+msgid "Post is deleted successfully"
+msgstr "ポストが削除されました。"
+
+#: ../admin/views/post/index.php:421
+msgid "Post is published successfully"
+msgstr "ポストは正常に公開されている"
+
+#: ../admin/views/post/index.php:424
+msgid "Post is unpublished successfully"
+msgstr "ポストは正常に未発表です"
+
+#: ../post-config.php:17
+msgid "Post settings"
+msgstr "ポスト設定"
+
+#: ../post-config.php:21
+msgid "Enable comment?"
+msgstr "コメントを有効化しますか？"
+
+#: ../post-config.php:22
+msgid "Enable rating?"
+msgstr "評価を有効にしますか？"
+
+#: ../post-config.php:24
+msgid "Newest first"
+msgstr "最新ものから順番"
+
+#: ../post-config.php:25
+msgid "Oldest first"
+msgstr "最古ものから順番"
+
+#: ../post-config.php:27
+msgid "Ordering"
+msgstr "発注"
+
+#: ../post-config.php:28 ../widgets/views/tag/setting.php:31
+msgid "Maximum number of tags"
+msgstr "タグの最大数"
+
+#: ../post-config.php:29
+msgid "Length of description"
+msgstr "説明の長さ"
+
+#: ../post-config.php:31
+msgid "Post listing page"
+msgstr "ポスト一覧ページ"
+
+#: ../post-config.php:32
+msgid "Post detail page"
+msgstr "ポスト詳細ページ"
+
+#: ../post-config.php:34
+msgid "Show post title on URL"
+msgstr "URLに対して表示する記事のタイトル"
+
+#: ../post-config.php:35
+msgid "Show category name on URL"
+msgstr "URLに基づいカテゴリ名を表示する"
+
+#: ../post.php:65 ../post.php:66
+msgid "Posts"
+msgstr "ポスト"
+
+#: ../shortcodes/controllers/posts-shortcode.php:345
+msgid "No post"
+msgstr "ポストがありません。"
+
+#: ../shortcodes/views/post/breadcrumb.php:9
+#: ../shortcodes/views/posts/breadcrumb.php:9
+msgid "Homepage"
+msgstr "ホームページ"
+
+#: ../shortcodes/views/post/template.php:17
+#: ../shortcodes/views/posts/pagination.php:5
+#: ../shortcodes/views/posts/template.php:17
+msgid "Read more"
+msgstr "続きを読む"
+
+#: ../widgets/views/post/index.php:3
+msgid "Post list"
+msgstr "ポストリスト"
+
+#: ../widgets/views/post/setting.php:7
+msgid "Type"
+msgstr "タイプ"
+
+#: ../widgets/views/post/setting.php:11
+msgid "Number of posts"
+msgstr "投稿数"
+
+#: ../widgets/views/tag/setting.php:20
+msgid "Display type"
+msgstr "表示方式"
+
+#: ../widgets/views/tag/setting.php:24
+msgid "Default"
+msgstr "デフォルト"
+
+#: ../widgets/views/tag/setting.php:25
+msgid "Cloud"
+msgstr "クラウド"
+
+#: ../widgets/views/tag/setting.php:42
+msgid "Style"
+msgstr "スタイル"
+
+#~ msgid "New category is created successfully"
+#~ msgstr "新しいカテゴリの作成が完了しました。"
+
+#~ msgid "Please check the data field!"
+#~ msgstr "データフィールドをご確認ください。"
+
+#~ msgid "Status is updated successfully"
+#~ msgstr "ステータスが更新されました。"
+
+#~ msgid "You have successfully created a new post"
+#~ msgstr "新しいポストを作成できました。"
+
+#~ msgid ""
+#~ "Your session has ended or you are not allowed to manipulate this action."
+#~ msgstr ""
+#~ "あなたのセッションが終了されました或いはこのアクションを実施する権限があり"
+#~ "ません。"
+
+#~ msgid "Choose category"
+#~ msgstr "カテゴリ選択"
+
+#~ msgid "Show tag name on URL"
+#~ msgstr "URLに基づいタグ名を表示する"
+
+#~ msgid "New Category"
+#~ msgstr "新しいカテゴリ"
+
+#~ msgid "Edit Category"
+#~ msgstr "カテゴリ編集"
+
+#~ msgid "Are you sure to delete this category?"
+#~ msgstr "このカテゴリを削除しても宜しいでしょうか？"
+
+#~ msgid "No item are selected"
+#~ msgstr "選択された項目はありません。"
+
+#~ msgid "Please enter the search conditions"
+#~ msgstr "検索条件をご入力ください。"
+
+#~ msgid "Categories"
+#~ msgstr "カテゴリ"
+
+#~ msgid "Select Action "
+#~ msgstr "アクション選択_"
+
+#~ msgid "%s"
+#~ msgstr "%s"
+
+#~ msgid "Delete Category"
+#~ msgstr "カテゴリ削除"
+
+#~ msgid "New Post"
+#~ msgstr "新しいポスト"
+
+#~ msgid "Please wait,your post is under approval process"
+#~ msgstr "あなたの投稿は、承認プロセスの下で、しばらくお待ちください"
+
+#~ msgid "Choose Tags"
+#~ msgstr "タグをご選択ください。"
+
+#~ msgid "No post are selected"
+#~ msgstr "選択されたポストはありません。"
+
+#~ msgid "All Category"
+#~ msgstr "全てのカテゴリ"
+
+#~ msgid "Edit post"
+#~ msgstr "ポスト編集"
+
+#~ msgid "Delete post"
+#~ msgstr "ポスト削除"
+
+#~ msgid "Notice: You are allowed to use up to "
+#~ msgstr "ご注意：_まで使用できます。"

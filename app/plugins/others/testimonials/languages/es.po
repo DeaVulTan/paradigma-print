@@ -1,0 +1,152 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Testimonials\n"
+"POT-Creation-Date: 2014-07-01 11:28+0700\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.1\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../actions/edit.php:3
+msgid "Testimonial is created successfully"
+msgstr "Testimonio ha sido creado con éxito"
+
+#: ../actions/edit.php:12
+msgid "This testimonial does not exist"
+msgstr "Este testimonio no existe"
+
+#: ../actions/edit.php:40
+msgid "Testimonial is updated successfully"
+msgstr "Testimonio ha sido actualizado con éxito"
+
+#: ../public/list-views.php:3
+msgid "No Testimonial"
+msgstr "No hay testimonio"
+
+#: ../testimonials.php:3 ../testimonials.php:40 ../views/views-form.php:3
+#: ../views/views-list.php:6
+msgid "Testimonials"
+msgstr "Testimonios"
+
+#: ../testimonials.php:77
+msgid "Access Denied!"
+msgstr "Acceso rechazado"
+
+#: ../views/views-form.php:21
+msgid "Customer Image"
+msgstr "Avatar"
+
+#: ../views/views-form.php:26
+msgid "select image"
+msgstr "Seleecionar imagen"
+
+#: ../views/views-form.php:29 ../views/views-list.php:80
+msgid "Customer name"
+msgstr "Nombre de cliente"
+
+#: ../views/views-form.php:37 ../views/views-form.php:61
+msgid "The field is required"
+msgstr "Campo obligatorio"
+
+#: ../views/views-form.php:43
+msgid "Customer info"
+msgstr "Información de cliente"
+
+#: ../views/views-form.php:55 ../views/views-list.php:81
+msgid "Content"
+msgstr "Contenido"
+
+#: ../views/views-form.php:72
+msgid "Save"
+msgstr "Guardar"
+
+#: ../views/views-form.php:73 ../views/views-list.php:159
+#: ../views/views-list.php:183
+msgid "Cancel"
+msgstr "Cancelar"
+
+#: ../views/views-list.php:2
+msgid "New testimonial"
+msgstr "Nuevo testimonio"
+
+#: ../views/views-list.php:13
+msgid "Select Action"
+msgstr "Seleccionar acción"
+
+#: ../views/views-list.php:16 ../views/views-list.php:111
+#: ../views/views-list.php:151
+msgid "Delete"
+msgstr "Eliminar"
+
+#: ../views/views-list.php:17
+msgid "Publish"
+msgstr "Publicar"
+
+#: ../views/views-list.php:18
+msgid "Unpublish"
+msgstr "Sin publicar"
+
+#: ../views/views-list.php:26
+msgid "Please enter customer name"
+msgstr "Introduzca nombre del cliente"
+
+#: ../views/views-list.php:31
+msgid "Search"
+msgstr "Buscar"
+
+#: ../views/views-list.php:47 ../views/views-list.php:57
+msgid "All"
+msgstr "Todo"
+
+#: ../views/views-list.php:49 ../views/views-list.php:58
+#: ../views/views-list.php:98
+msgid "Published"
+msgstr "Publicado"
+
+#: ../views/views-list.php:51 ../views/views-list.php:59
+#: ../views/views-list.php:101
+msgid "Unpublished"
+msgstr "No publicado"
+
+#: ../views/views-list.php:79
+msgid "Image"
+msgstr "Imagen"
+
+#: ../views/views-list.php:82
+msgid "Shortcode"
+msgstr "Código corto"
+
+#: ../views/views-list.php:83
+msgid "Status"
+msgstr "Estado"
+
+#: ../views/views-list.php:84
+msgid "Actions"
+msgstr "Acciones"
+
+#: ../views/views-list.php:107
+msgid "Edit"
+msgstr "Editar"
+
+#: ../views/views-list.php:120
+msgid "<center>No Testimonial</center>"
+msgstr "<center>No Testimonio</center>"
+
+#: ../views/views-list.php:147
+msgid "Are you sure to delete this item?"
+msgstr "¿Seguro que quiere eliminar este elemento?"
+
+#: ../views/views-list.php:170
+msgid "Are you sure with this action?"
+msgstr "¿Seguro que desea realizar esta acción?"
+
+#: ../views/views-list.php:174
+msgid "Confirm"
+msgstr "Confirmar"

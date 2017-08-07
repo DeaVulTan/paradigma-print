@@ -1,0 +1,554 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Configuration\n"
+"POT-Creation-Date: 2015-02-26 13:39+0700\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.4\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../admin-menu/templates/index.php:2 ../blacklist/templates/index.php:26
+#: ../email-templates/templates/index.php:59 ../settings/templates/index.php:4
+msgid "Save changes"
+msgstr "保存更改"
+
+#: ../admin-menu/templates/index.php:7 ../configuration.php:17
+msgid "Admin menu"
+msgstr "管理菜单"
+
+#: ../admin-menu/templates/index.php:14
+#: ../admin-menu/templates/setting-menu-item-template.php:12
+msgid "Show"
+msgstr "展会"
+
+#: ../admin-menu/templates/index.php:16
+#: ../admin-menu/templates/setting-menu-item-template.php:13
+msgid "Hide"
+msgstr "隐藏"
+
+#: ../admin-menu/templates/index.php:47
+msgid "Admin menu setting is updated successfully"
+msgstr "管理菜单设置成功更新"
+
+#: ../admin-menu/templates/setting-menu-item-template.php:3
+msgid "Item"
+msgstr "项目"
+
+#: ../admin-menu/templates/setting-menu-item-template.php:9
+msgid "Visibility"
+msgstr "能见度"
+
+#: ../admin-menu/templates/setting-menu-item-template.php:18
+msgid "Icon"
+msgstr "图标"
+
+#: ../admin-menu/templates/setting-menu-item-template.php:24
+msgid "Icon color"
+msgstr "图标的颜色"
+
+#: ../backup/action/main.php:33
+msgid "Backup file is removed successfully"
+msgstr "备份文件已删除成功"
+
+#: ../backup/action/main.php:49
+msgid "Access Denied!"
+msgstr "拒绝访问！"
+
+#: ../backup/action/main_tpl.php:14
+#, php-format
+msgid "<p>The backup folder does not exist. Please check folder <b>%s</b></p>"
+msgstr "<p>该备份文件夹不存在。请检查文件夹 <b>%s</b></p>"
+
+#: ../backup/action/main_tpl.php:16
+#, php-format
+msgid "<p>The backup folder is not writable! Please check folder <b>%s</b></p>"
+msgstr "<p>备份文件夹为不可写属性! 请查看文件夹 <b>%s</b></p>"
+
+#: ../backup/action/main_tpl.php:18
+#, php-format
+msgid "<p>The backup folder is not readable! Please check folder <b>%s</b></p>"
+msgstr "<p>备份文件夹无法读取！请检查文件夹 <b>%s</b></p>"
+
+#: ../backup/action/main_tpl.php:26
+msgid "Backup - Restore"
+msgstr "备份-恢复"
+
+#: ../backup/action/main_tpl.php:39 ../backup/action/main_tpl.php:98
+msgid "Backup Now"
+msgstr "立即备份"
+
+#: ../backup/action/main_tpl.php:40 ../backup/action/main_tpl.php:83
+msgid "Upload and Restore"
+msgstr "上传和恢复"
+
+#: ../backup/action/main_tpl.php:50 ../backup/backup-class.php:104
+#: ../error-log/templates/index.php:13
+msgid "File Name"
+msgstr "文件名"
+
+#: ../backup/action/main_tpl.php:51 ../backup/backup-class.php:105
+msgid "Created Date"
+msgstr "创建日期"
+
+#: ../backup/action/main_tpl.php:52 ../backup/backup-class.php:106
+msgid "File Size (kB)"
+msgstr "文件尺寸(kB)"
+
+#: ../backup/action/main_tpl.php:53 ../backup/backup-class.php:107
+msgid "Actions"
+msgstr "操作"
+
+#: ../backup/action/main_tpl.php:76
+msgid "Upload"
+msgstr "上传"
+
+#: ../backup/action/main_tpl.php:82
+msgid "Delete uploaded file after restore?"
+msgstr "还原后删除上传的文件？"
+
+#: ../backup/action/main_tpl.php:86
+msgid "Upload failed! Please try again"
+msgstr "上传失败！请再试一次"
+
+#: ../backup/action/main_tpl.php:87
+msgid "Please upload ZIP file only"
+msgstr "请只上传ZIP文件"
+
+#: ../backup/action/main_tpl.php:88 ../backup/backup-class.php:197
+msgid "Your file is not in Vitubo backup format."
+msgstr "你的文件是不是在备份格式的Vitubo。"
+
+#: ../backup/action/main_tpl.php:95
+msgid "Action is performed successfully"
+msgstr "操作实现成功！"
+
+#: ../backup/action/main_tpl.php:96 ../error-log/templates/index.php:55
+msgid "Are you sure with this action?"
+msgstr "你确定实现这个操作吗？"
+
+#: ../backup/action/main_tpl.php:97
+msgid "Confirm"
+msgstr "确认"
+
+#: ../backup/action/main_tpl.php:99
+msgid "Do you want to backup current database before uploading new one?"
+msgstr "你想备份当前数据库上传新的人之前？"
+
+#: ../backup/action/main_tpl.php:100 ../backup/backup-class.php:180
+msgid "Backup successfully"
+msgstr "备份成功"
+
+#: ../backup/action/main_tpl.php:101
+msgid "Restore only"
+msgstr "只有恢复"
+
+#: ../backup/action/main_tpl.php:102
+msgid "Cancel"
+msgstr "取消"
+
+#: ../backup/backup-class.php:59 ../backup/backup-class.php:86
+msgid "Restore"
+msgstr "恢复"
+
+#: ../backup/backup-class.php:62 ../backup/backup-class.php:89
+msgid "Download"
+msgstr "下载"
+
+#: ../backup/backup-class.php:65 ../backup/backup-class.php:92
+#: ../error-log/templates/index.php:59
+msgid "Delete"
+msgstr "删除"
+
+#: ../backup/backup-class.php:231
+msgid "Restore successfully"
+msgstr "恢复成功"
+
+#: ../blacklist/templates/index.php:6 ../configuration.php:21
+msgid "IP Blacklist"
+msgstr "IP黑名单"
+
+#: ../blacklist/templates/index.php:18
+msgid "Enter IP addresses here, one IP per line."
+msgstr "在这里输入IP地址，每行一个IP地址。"
+
+#: ../blacklist/templates/index.php:44
+msgid "Error update failed"
+msgstr "错误页面"
+
+#: ../blacklist/templates/index.php:46
+msgid "Blacklist is updated successfully"
+msgstr "黑名单是成功更新"
+
+#: ../configuration.php:4 ../configuration.php:14
+msgid "Configuration"
+msgstr "组态"
+
+#: ../configuration.php:15 ../settings/templates/index.php:12
+msgid "Settings"
+msgstr "设置"
+
+#: ../configuration.php:16 ../email-templates/templates/index.php:6
+msgid "Email templates"
+msgstr "电子邮件的模板"
+
+#: ../configuration.php:18
+msgid "Backup"
+msgstr "备份"
+
+#: ../configuration.php:19 ../system-info/templates/index.php:6
+msgid "System information"
+msgstr "System information"
+
+#: ../configuration.php:20 ../error-log/templates/index.php:6
+msgid "Error log"
+msgstr "错误日志"
+
+#: ../email-templates/templates/index.php:13
+msgid "Templates"
+msgstr "模板"
+
+#: ../email-templates/templates/index.php:40
+msgid "Email subject"
+msgstr "电子邮件的标题"
+
+#: ../email-templates/templates/index.php:44
+msgid "Email content"
+msgstr "电子邮件内容"
+
+#: ../email-templates/templates/index.php:88
+msgid "Email template is updated successfully"
+msgstr "电子邮件模板更新成功"
+
+#: ../error-log/templates/index.php:12
+msgid "#"
+msgstr "#"
+
+#: ../error-log/templates/index.php:14
+msgid "Size"
+msgstr "尺寸"
+
+#: ../error-log/templates/index.php:15
+msgid "View"
+msgstr "查看"
+
+#: ../settings/templates/index.php:19
+msgid "General settings"
+msgstr "常规设置"
+
+#: ../settings/templates/index.php:35
+msgid "Site name"
+msgstr "网址名称"
+
+#: ../settings/templates/index.php:39
+msgid "Site offline"
+msgstr "站点离线"
+
+#: ../settings/templates/index.php:42 ../settings/templates/index.php:665
+#: ../settings/templates/index.php:855 ../settings/templates/index.php:862
+#: ../settings/templates/index.php:873
+msgid "Yes"
+msgstr "是"
+
+#: ../settings/templates/index.php:43 ../settings/templates/index.php:666
+#: ../settings/templates/index.php:856 ../settings/templates/index.php:863
+#: ../settings/templates/index.php:874
+msgid "No"
+msgstr "否"
+
+#: ../settings/templates/index.php:57
+msgid "Please choose the page which will be displayed in offline mode"
+msgstr "请选择在离线模式显示的页面"
+
+#: ../settings/templates/index.php:63
+msgid "Accessibility"
+msgstr "可访问性"
+
+#: ../settings/templates/index.php:68
+msgid "Everyone"
+msgstr "每个人都"
+
+#: ../settings/templates/index.php:69
+msgid "Member only"
+msgstr "只有会员"
+
+#: ../settings/templates/index.php:77
+msgid "Homepage"
+msgstr "主页"
+
+#: ../settings/templates/index.php:92
+msgid "Error page"
+msgstr "错误页面"
+
+#: ../settings/templates/index.php:107
+msgid "HTML Charset"
+msgstr "HTML字符集"
+
+#: ../settings/templates/index.php:117
+msgid "Main Menu"
+msgstr "主菜单"
+
+#: ../settings/templates/index.php:136
+msgid "Backup Folder"
+msgstr "备份文件夹"
+
+#: ../settings/templates/index.php:137
+msgid "Absolute path to backup folder, with slash in the end. Example:"
+msgstr "绝对路径备份文件夹，用斜线结束。例如："
+
+#: ../settings/templates/index.php:137
+msgid "For security reason, we recommend you to create new backup folder"
+msgstr "出于安全原因，我们建议你创建新的备份文件夹"
+
+#: ../settings/templates/index.php:140
+msgid "Items per page"
+msgstr "每一页面显示的项目"
+
+#: ../settings/templates/index.php:154
+msgid "Timezone"
+msgstr "时区"
+
+#: ../settings/templates/index.php:579
+msgid "Short date"
+msgstr "短日期"
+
+#: ../settings/templates/index.php:597
+msgid "Long date"
+msgstr "长日期"
+
+#: ../settings/templates/index.php:613
+msgid "Mailer"
+msgstr "信封"
+
+#: ../settings/templates/index.php:616
+msgid "PHP"
+msgstr "PHP"
+
+#: ../settings/templates/index.php:617
+msgid "SMTP"
+msgstr "SMTP"
+
+#: ../settings/templates/index.php:632 ../settings/templates/index.php:634
+msgid "Server"
+msgstr "服务器"
+
+#: ../settings/templates/index.php:635 ../settings/templates/index.php:643
+#: ../settings/templates/index.php:651 ../settings/templates/index.php:658
+msgid "The field is required"
+msgstr "该字段是必需的"
+
+#: ../settings/templates/index.php:640 ../settings/templates/index.php:642
+msgid "Port"
+msgstr "Port"
+
+#: ../settings/templates/index.php:648 ../settings/templates/index.php:650
+msgid "Username"
+msgstr "用户名称"
+
+#: ../settings/templates/index.php:655 ../settings/templates/index.php:657
+msgid "Password"
+msgstr "密码"
+
+#: ../settings/templates/index.php:662
+msgid "SSL"
+msgstr "SSL"
+
+#: ../settings/templates/index.php:674
+msgid "Site meta keywords"
+msgstr "网站meta关键词"
+
+#: ../settings/templates/index.php:678
+msgid "Site meta description"
+msgstr "网站meta描述"
+
+#: ../settings/templates/index.php:682
+msgid "Site languages"
+msgstr "网站语言"
+
+#: ../settings/templates/index.php:697
+msgid "HTML language"
+msgstr "HTML language"
+
+#: ../settings/templates/index.php:853
+msgid "Enable log"
+msgstr "启用日志"
+
+#: ../settings/templates/index.php:860
+msgid "Enable search"
+msgstr "启用搜索"
+
+#: ../settings/templates/index.php:867
+msgid "Google analytics"
+msgstr "谷歌分析"
+
+#: ../settings/templates/index.php:871
+msgid "Enable reCAPTCHA"
+msgstr "启用验证"
+
+#: ../settings/templates/index.php:878
+msgid "reCAPTCHA"
+msgstr "验证码"
+
+#: ../settings/templates/index.php:881
+msgid "Public key"
+msgstr "公开密钥"
+
+#: ../settings/templates/index.php:885
+msgid "Private key"
+msgstr "私人密钥"
+
+#: ../settings/templates/index.php:962
+msgid "Configuration is updated successfully"
+msgstr "配置更新成功"
+
+#: ../system-info/templates/index.php:12
+msgid "PHP Information"
+msgstr "PHP的信息"
+
+#: ../system-info/templates/index.php:13
+msgid "Server Information"
+msgstr "系统信息"
+
+#: ../system-info/templates/index.php:22
+msgid "Current PHP Version "
+msgstr "Current PHP Version "
+
+#: ../system-info/templates/index.php:26
+msgid "GD version "
+msgstr "GD version "
+
+#: ../system-info/templates/index.php:30
+msgid "PHP Effective Memory Limit "
+msgstr "PHP Effective Memory Limit "
+
+#: ../system-info/templates/index.php:34
+msgid "Maximum Execution Time "
+msgstr "Maximum Execution Time "
+
+#: ../system-info/templates/index.php:38
+msgid "PHP output_buffering "
+msgstr "PHP output_buffering "
+
+#: ../system-info/templates/index.php:42
+msgid "PHP Safe Mode "
+msgstr "PHP Safe Mode "
+
+#: ../system-info/templates/index.php:46
+msgid "File uploads "
+msgstr "File uploads "
+
+#: ../system-info/templates/index.php:50
+msgid "Maximum Post Size "
+msgstr "Maximum Post Size "
+
+#: ../system-info/templates/index.php:54
+msgid "Maximum Upload Size"
+msgstr "Maximum Upload Size"
+
+#: ../system-info/templates/index.php:58
+msgid "Session Save Path "
+msgstr "Session Save Path "
+
+#: ../system-info/templates/index.php:62
+msgid "Sessions are allowed to use Cookies"
+msgstr "Sessions are allowed to use Cookies"
+
+#: ../system-info/templates/index.php:66
+msgid "Checking for the XMLReader class "
+msgstr "Checking for the XMLReader class "
+
+#: ../system-info/templates/index.php:70
+msgid "PHP register_gobals "
+msgstr "PHP register_gobals "
+
+#: ../system-info/templates/index.php:74
+msgid "PHP Open Basedir "
+msgstr "PHP Open Basedir "
+
+#: ../system-info/templates/index.php:78
+msgid "Curl version "
+msgstr "Curl version "
+
+#: ../system-info/templates/index.php:87
+msgid "Server API "
+msgstr "Server API "
+
+#: ../system-info/templates/index.php:91
+msgid "Server Database Version "
+msgstr "Server Database Version "
+
+#: ../system-info/templates/index.php:95
+msgid "Server software"
+msgstr "Server software"
+
+#: ../system-info/templates/index.php:99
+msgid "Server IP"
+msgstr "Server IP"
+
+#: ../system-info/templates/index.php:103
+msgid "Server doccument root"
+msgstr "Server doccument root"
+
+#: ../system-info/templates/index.php:107
+msgid "Server Operating System "
+msgstr "Server Operating System "
+
+#~ msgid "Awesome Icons"
+#~ msgstr "Awesome Icons"
+
+#~ msgid "Web Application Icons"
+#~ msgstr "Web Application Icons"
+
+#~ msgid "File Type Icons"
+#~ msgstr "File Type Icons"
+
+#~ msgid "Spinner Icons"
+#~ msgstr "Spinner Icons"
+
+#~ msgid "Form Control Icons"
+#~ msgstr "Form Control Icons"
+
+#~ msgid "Payment Icons"
+#~ msgstr "Payment Icons"
+
+#~ msgid "Chart Icons"
+#~ msgstr "Chart Icons"
+
+#~ msgid "Currency Icons"
+#~ msgstr "Currency Icons"
+
+#~ msgid "Text Editor Icons"
+#~ msgstr "Text Editor Icons"
+
+#~ msgid "Directional Icons"
+#~ msgstr "Directional Icons"
+
+#~ msgid "Video Player Icons"
+#~ msgstr "Video Player Icons"
+
+#~ msgid "Brand Icons"
+#~ msgstr "Brand Icons"
+
+#~ msgid "Medical Icons"
+#~ msgstr "Medical Icons"
+
+#~ msgid "Default page"
+#~ msgstr "默认页"
+
+#~ msgid "Top content"
+#~ msgstr "顶部内容"
+
+#~ msgid "Bottom content"
+#~ msgstr "底部内容"
+
+#~ msgid "Restore unsuccessfully"
+#~ msgstr "恢复失败"
+
+#~ msgid "Website email"
+#~ msgstr "网站的电子邮件"

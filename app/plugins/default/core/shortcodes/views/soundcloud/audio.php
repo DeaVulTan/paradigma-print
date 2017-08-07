@@ -1,0 +1,2 @@
+<?php
+echo '<iframe width="' . $this->atts['width'] . '" height="' . $this->atts['height'] . '" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=' . urlencode($this->atts['url']) . '&amp;show_comments=' . $this->atts['comments'] . '&amp;auto_play=' . $this->atts['auto_play'] . '&amp;color=' . $this->atts['color'] . '"></iframe>';

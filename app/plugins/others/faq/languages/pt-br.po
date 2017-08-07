@@ -1,0 +1,265 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: FAQ\n"
+"POT-Creation-Date: 2015-01-15 13:12+0700\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Alexandre Benegas <info@adaptivemobile.com.br>\n"
+"Language-Team: Alexandre Benegas <info@adaptivemobile.com.br>\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.5\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../admin/models/faq-model.php:21 ../admin/views/faq/index.php:89
+#: ../admin/views/faq/index.php:172 ../admin/views/faq/index.php:500
+msgid "Published"
+msgstr "Publicado"
+
+#: ../admin/models/faq-model.php:21 ../admin/views/faq/index.php:91
+#: ../admin/views/faq/index.php:174 ../admin/views/faq/index.php:502
+msgid "Unpublished"
+msgstr "Não publicado"
+
+#: ../admin/views/faq/add.php:4 ../admin/views/faq/copy.php:4
+#: ../admin/views/faq/edit.php:4
+msgid "You can add maximum 50 questions at a time"
+msgstr "Você pode adicionar no máximo 50 perguntas de cada vez"
+
+#: ../admin/views/faq/add.php:5 ../admin/views/faq/copy.php:5
+#: ../admin/views/faq/edit.php:5 ../admin/views/faq/index.php:441
+msgid "Are you sure to delete this item?"
+msgstr "Tem certeza que deseja excluir este item?"
+
+#: ../admin/views/faq/add.php:6 ../admin/views/faq/copy.php:6
+#: ../admin/views/faq/edit.php:6
+msgid "Title must be in the range of 2 to 255 characters"
+msgstr "O título deve conter entre 2 e 255 caracteres"
+
+#: ../admin/views/faq/add.php:7 ../admin/views/faq/copy.php:7
+#: ../admin/views/faq/edit.php:7
+msgid "Description must be in the range of 1 to 500 characters"
+msgstr "A descrição deve conter de 1 a 500 caracteres"
+
+#: ../admin/views/faq/add.php:19 ../admin/views/faq/add.php:109
+#: ../admin/views/faq/copy.php:122 ../admin/views/faq/edit.php:121
+msgid "Add"
+msgstr "Adicionar"
+
+#: ../admin/views/faq/add.php:34 ../admin/views/faq/copy.php:34
+#: ../admin/views/faq/edit.php:34 ../admin/views/faq/index.php:127
+msgid "Title"
+msgstr "Título"
+
+#: ../admin/views/faq/add.php:51 ../admin/views/faq/copy.php:55
+#: ../admin/views/faq/edit.php:55 ../admin/views/faq/index.php:146
+#: ../admin/views/faq/index.php:243
+msgid "Status"
+msgstr "Situação"
+
+#: ../admin/views/faq/add.php:66 ../admin/views/faq/copy.php:70
+#: ../admin/views/faq/edit.php:70
+msgid "Description"
+msgstr "Descrição"
+
+#: ../admin/views/faq/add.php:82 ../admin/views/faq/add.php:124
+#: ../admin/views/faq/copy.php:87 ../admin/views/faq/copy.php:137
+#: ../admin/views/faq/edit.php:86 ../admin/views/faq/edit.php:136
+msgid "Question"
+msgstr "Pregunta"
+
+#: ../admin/views/faq/add.php:90 ../admin/views/faq/add.php:132
+#: ../admin/views/faq/copy.php:99 ../admin/views/faq/copy.php:148
+#: ../admin/views/faq/edit.php:98 ../admin/views/faq/edit.php:147
+msgid "Answer"
+msgstr "Resposta"
+
+#: ../admin/views/faq/add.php:104 ../admin/views/faq/copy.php:117
+#: ../admin/views/faq/edit.php:116
+msgid "Please input number of questions and click Add"
+msgstr "Insira o número de preguntas e clique Adicionar"
+
+#: ../admin/views/faq/add.php:105 ../admin/views/faq/copy.php:118
+#: ../admin/views/faq/edit.php:117
+msgid ""
+"You can add maximum 50 questions at a time. You can order questions by "
+"dragging them"
+msgstr ""
+"Você pode adicionar no máximo 50 perguntas de cada vez. Você pode pedir "
+"perguntas, arrastando..."
+
+#: ../admin/views/faq/add.php:213 ../admin/views/faq/add.php:231
+#: ../admin/views/faq/copy.php:228 ../admin/views/faq/copy.php:246
+#: ../admin/views/faq/edit.php:234 ../admin/views/faq/edit.php:252
+#: ../admin/views/faq/edit.php:282 ../admin/views/faq/index.php:303
+#: ../admin/views/faq/index.php:315 ../admin/views/faq/index.php:336
+#: ../admin/views/faq/index.php:380 ../admin/views/faq/index.php:393
+#: ../admin/views/faq/index.php:402 ../admin/views/faq/index.php:409
+#: ../admin/views/faq/index.php:424 ../admin/views/faq/index.php:448
+#: ../admin/views/faq/index.php:476 ../admin/views/faq/index.php:493
+#: ../admin/views/faq/index.php:511
+msgid "Loading..."
+msgstr "Carregando..."
+
+#: ../admin/views/faq/add.php:227 ../admin/views/faq/copy.php:242
+#: ../admin/views/faq/edit.php:248 ../admin/views/faq/edit.php:278
+msgid "The field is required"
+msgstr "O campo é obrigatório"
+
+#: ../admin/views/faq/add.php:228 ../admin/views/faq/add.php:239
+#: ../admin/views/faq/copy.php:243 ../admin/views/faq/copy.php:254
+#: ../admin/views/faq/edit.php:249 ../admin/views/faq/edit.php:260
+#: ../admin/views/faq/edit.php:279 ../admin/views/faq/index.php:357
+#: ../admin/views/faq/index.php:415 ../admin/views/faq/index.php:430
+#: ../admin/views/faq/index.php:453
+msgid "There is an error, please check again!"
+msgstr "Erro, por favor, verifique novamente!"
+
+#: ../admin/views/faq/add.php:244
+msgid "FAQ is created successfully"
+msgstr "FAQ foi criado com sucesso!"
+
+#: ../admin/views/faq/copy.php:19
+msgid "Copy"
+msgstr "Copiar"
+
+#: ../admin/views/faq/copy.php:259
+msgid "FAQ is copied successfully"
+msgstr "FAQ foi copiado com sucesso!"
+
+#: ../admin/views/faq/edit.php:19
+msgid "Edit"
+msgstr "Editar"
+
+#: ../admin/views/faq/edit.php:265 ../admin/views/faq/edit.php:291
+msgid "FAQ is updated successfully"
+msgstr "FAQ foi atualizado com sucesso!"
+
+#: ../admin/views/faq/index.php:5 ../admin/views/faq/index.php:224
+#: ../admin/views/faq/index.php:254
+msgid "Search"
+msgstr "Pesquisar"
+
+#: ../admin/views/faq/index.php:22
+msgid "New"
+msgstr "Novo"
+
+#: ../admin/views/faq/index.php:26 ../admin/views/faq/index.php:31
+#: ../admin/views/faq/index.php:37
+msgid "Save"
+msgstr "Salvar"
+
+#: ../admin/views/faq/index.php:27 ../admin/views/faq/index.php:33
+#: ../admin/views/faq/index.php:38
+msgid "Cancel"
+msgstr "Cancelar"
+
+#: ../admin/views/faq/index.php:32
+msgid "Apply"
+msgstr "Aplicar"
+
+#: ../admin/views/faq/index.php:50
+msgid "FAQ"
+msgstr "FAQ"
+
+#: ../admin/views/faq/index.php:50
+msgid "List"
+msgstr "Lista"
+
+#: ../admin/views/faq/index.php:62
+msgid "Bulk Action"
+msgstr "Ações em Bloco"
+
+#: ../admin/views/faq/index.php:67 ../admin/views/faq/index.php:445
+msgid "Delete"
+msgstr "Excluir"
+
+#: ../admin/views/faq/index.php:69
+msgid "Publish"
+msgstr "Publicar"
+
+#: ../admin/views/faq/index.php:71
+msgid "Unpublish"
+msgstr "Sem publicar"
+
+#: ../admin/views/faq/index.php:83 ../admin/views/faq/index.php:88
+msgid "All"
+msgstr "Tudo"
+
+#: ../admin/views/faq/index.php:151
+msgid "Actions"
+msgstr "Ações"
+
+#: ../admin/views/faq/index.php:222 ../admin/views/faq/index.php:255
+msgid "Close"
+msgstr "Fechar"
+
+#: ../admin/views/faq/index.php:235
+msgid "FAQ Title"
+msgstr "Título do FAQ"
+
+#: ../admin/views/faq/index.php:329
+msgid "Are you sure with this action?"
+msgstr "Tem certeza com esta ação?"
+
+#: ../admin/views/faq/index.php:347 ../admin/views/faq/index.php:451
+msgid "FAQ is deleted successfully"
+msgstr "FAQ foi excluído com sucesso!"
+
+#: ../admin/views/faq/index.php:350
+msgid "FAQ is published successfully"
+msgstr "FAQ foi publicado com sucesso!"
+
+#: ../admin/views/faq/index.php:353
+msgid "FAQ is unpublished successfully"
+msgstr "FAQ não publicado"
+
+#: ../faq.php:24
+msgid "FAQs"
+msgstr "FAQs"
+
+#: ../shortcodes/controllers/faq-shortcode.php:277
+msgid "No answer yet"
+msgstr "Nenhuma resposta ainda"
+
+#: ../shortcodes/controllers/faq-shortcode.php:279
+msgid "Search Result"
+msgstr "Resultado da pesquisa"
+
+#: ../shortcodes/views/faq/main.php:39
+msgid "FAQ Lists"
+msgstr "Lista de Perguntas mais Frequentes"
+
+#~ msgid "Your action is successful"
+#~ msgstr "Su acción es exitosa"
+
+#~ msgid "Answers"
+#~ msgstr "Respuestas"
+
+#~ msgid "No item are selected"
+#~ msgstr "No se ha seleccionado ningún ítem"
+
+#~ msgid "Please enter the search conditions"
+#~ msgstr "Selecciona las condiciones de búsqueda"
+
+#~ msgid "Select Action "
+#~ msgstr "Seleccionar Acción "
+
+#~ msgid "%s"
+#~ msgstr "%s"
+
+#~ msgid "Shortcode"
+#~ msgstr "Shortcode"
+
+#~ msgid "Delete FAQ"
+#~ msgstr "Eliminar preguntas frecuentes"
+
+#~ msgid "Are you sure you want to delete this item?"
+#~ msgstr "¿Seguro que quiere eliminar este ítem?"
+
+#~ msgid "Please enter a search term"
+#~ msgstr "Introduzca término de búsqueda"

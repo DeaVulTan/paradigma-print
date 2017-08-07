@@ -1,0 +1,418 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Aphrodite theme\n"
+"POT-Creation-Date: 2015-01-13 14:22+0700\n"
+"PO-Revision-Date: 2015-01-13 14:22+0700\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.4\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../navigation.php:30
+#: ../plugins/default/user/widgets/views/user/index.php:43
+msgid "Sign In"
+msgstr "Anmelden"
+
+#: ../navigation.php:43
+#: ../plugins/default/user/widgets/views/user/index.php:28
+msgid "My Profile"
+msgstr "Mein Profil "
+
+#: ../navigation.php:44
+#: ../plugins/default/user/widgets/views/user/index.php:25
+msgid "Admin Panel"
+msgstr "Admin Panel"
+
+#: ../navigation.php:45
+#: ../plugins/default/user/widgets/views/user/index.php:31
+msgid "Sign Out"
+msgstr "Austragen"
+
+#: ../navigation.php:62 ../navigation.php:81
+msgid "Search"
+msgstr "Suche"
+
+#: ../navigation.php:64
+msgid "Go"
+msgstr "Gehen"
+
+#: ../options/options-ajax.php:5
+msgid "Theme option is updated successfully"
+msgstr "Theme-Option erfolgreich aktualisiert"
+
+#: ../options/options.php:97
+msgid "Default"
+msgstr "Default"
+
+#: ../options/options.php:98
+msgid "Atlantis"
+msgstr ""
+
+#: ../options/options.php:99
+msgid "Blue Chill"
+msgstr ""
+
+#: ../options/options.php:100
+msgid "Cadillac"
+msgstr ""
+
+#: ../options/options.php:101
+msgid "Cascade"
+msgstr ""
+
+#: ../options/options.php:102
+msgid "Cinnabar"
+msgstr ""
+
+#: ../options/options.php:103
+msgid "Froly"
+msgstr ""
+
+#: ../options/options.php:104
+msgid "Go Ben"
+msgstr ""
+
+#: ../options/options.php:105
+msgid "Lochmara"
+msgstr ""
+
+#: ../options/options.php:106
+msgid "Smart Blue"
+msgstr ""
+
+#: ../options/options.php:113
+msgid "Logo"
+msgstr "Logo"
+
+#: ../options/options.php:188
+msgid "Google fonts"
+msgstr "Google fonts"
+
+#: ../options/options.php:199
+msgid "Bottom content"
+msgstr "Bottom Inhalt"
+
+#: ../plugins/default/menu/widgets/views/menu/index.php:15
+#: ../plugins/others/shop/widgets/views/shop-category/index.php:10
+msgid "Please choose a menu"
+msgstr "Bitte wählen Sie ein Menü"
+
+#: ../plugins/default/user/widgets/views/user/index.php:47
+msgid "Sign Up"
+msgstr "Registrieren"
+
+#: ../plugins/others/galleries/shortcodes/views/galleries/breadcrumb.php:9
+#: ../plugins/others/testimonials/shortcodes/views/testimonials/breadcrumb.php:9
+msgid "Home"
+msgstr ""
+
+#: ../plugins/others/galleries/shortcodes/views/galleries/data.php:35
+#: ../plugins/others/galleries/shortcodes/views/galleries/display.php:55
+msgid "No Data"
+msgstr ""
+
+#: ../plugins/others/galleries/shortcodes/views/galleries/display_once.php:52
+msgid "Views"
+msgstr ""
+
+#: ../plugins/others/galleries/shortcodes/views/galleries/display_once.php:59
+msgid "Total"
+msgstr ""
+
+#: ../plugins/others/shop/widgets/views/shop-product-features/index.php:58
+msgid "No Features Products !"
+msgstr ""
+
+#: ../plugins/others/shop/widgets/views/shop-product-hot/index.php:58
+msgid "No Hot Products !"
+msgstr ""
+
+#: ../plugins/others/shop/widgets/views/shop-product-new/index.php:60
+msgid "No New Products !"
+msgstr ""
+
+#: ../plugins/others/shop/widgets/views/shop-products/index.php:58
+msgid "No Products !"
+msgstr ""
+
+#: ../plugins/others/testimonials/shortcodes/views/testimonials/display.php:23
+msgid "No Testimonial"
+msgstr ""
+
+#: ../post_templates.php:29 ../post_templates.php:56 ../post_templates.php:84
+#: ../post_templates.php:114 ../post_templates.php:146
+#: ../post_templates.php:177
+msgid "There is no post"
+msgstr "Es gibt keine Post"
+
+#: ../post_templates.php:51 ../post_templates.php:79
+msgid "Read more"
+msgstr "Weiterlesen"
+
+#~ msgid "There is no tweet yet or wrong twitter name"
+#~ msgstr "Es gibt keine tweet noch nicht oder falsch Twitternamen"
+
+#~ msgid "Edit Profile"
+#~ msgstr "Profil bearbeiten"
+
+#~ msgid "Logout"
+#~ msgstr "Abmelden"
+
+#~ msgid "Theme option is reset successfully"
+#~ msgstr "Theme-Option erfolgreich zurückgesetzt "
+
+#~ msgid "Example: "
+#~ msgstr "Beispiel: "
+
+#~ msgid "tag"
+#~ msgstr "Anhänger"
+
+#~ msgid "class"
+#~ msgstr "klasse"
+
+#~ msgid "Apply for: "
+#~ msgstr "Bewerben Sie sich für: "
+
+#~ msgid "Background"
+#~ msgstr "Hintergrund"
+
+#~ msgid "Colors"
+#~ msgstr "Farben"
+
+#~ msgid "Fonts"
+#~ msgstr "Schriftart"
+
+#~ msgid "Navigation"
+#~ msgstr "Navigation"
+
+#~ msgid "Footer"
+#~ msgstr "Fußzeile"
+
+#~ msgid "Logo type"
+#~ msgstr "Logo Typ"
+
+#~ msgid "Text"
+#~ msgstr "Text"
+
+#~ msgid "Image"
+#~ msgstr "Bild"
+
+#~ msgid "Font-family"
+#~ msgstr "Schriftart"
+
+#~ msgid "Font-size"
+#~ msgstr "Schriftgröße"
+
+#~ msgid "Color"
+#~ msgstr "Farbe"
+
+#~ msgid "Select image"
+#~ msgstr "Motiv auswählen"
+
+#~ msgid "Example: Image size (Width: %spx, Height: %spx)"
+#~ msgstr "Beispiel:Bildgröße aus() (Width: %spx, Height: %spx)"
+
+#~ msgid "Image width"
+#~ msgstr "Bildbreite"
+
+#~ msgid "Image height"
+#~ msgstr "Bildhöhe"
+
+#~ msgid "Background type"
+#~ msgstr "Hintergrund Typ"
+
+#~ msgid "Both"
+#~ msgstr "Beide"
+
+#~ msgid "Background color"
+#~ msgstr "Hintergrundfarbe"
+
+#~ msgid "Wrapper background color"
+#~ msgstr "Wrapper Hintergrundfarbe"
+
+#~ msgid "Background images"
+#~ msgstr "Hintergrundbilder"
+
+#~ msgid "Background position"
+#~ msgstr "Hintergrund Position"
+
+#~ msgid "Background repeat"
+#~ msgstr "Hintergrund wiederholen"
+
+#~ msgid "Repeat"
+#~ msgstr "Wiederholung"
+
+#~ msgid "Repeat-x"
+#~ msgstr "Wiederholen-x"
+
+#~ msgid "Repeat-y"
+#~ msgstr "Wiederholen-y"
+
+#~ msgid "No-repeat"
+#~ msgstr "No-repeat"
+
+#~ msgid "Background attachment"
+#~ msgstr "Hintergrund Befestigung"
+
+#~ msgid "Scroll"
+#~ msgstr "Blättern"
+
+#~ msgid "Fixed"
+#~ msgstr "Fest"
+
+#~ msgid "Color type"
+#~ msgstr "Farbtyp"
+
+#~ msgid "Theme style"
+#~ msgstr "Thema Stil"
+
+#~ msgid "Custom style"
+#~ msgstr "Individuelle Stil"
+
+#~ msgid "Custom color"
+#~ msgstr "Kundenspezifische Farbe"
+
+#~ msgid "Color style"
+#~ msgstr "Farbe Stil"
+
+#~ msgid "Body font family"
+#~ msgstr "Körperschrift"
+
+#~ msgid "Body font size"
+#~ msgstr "Körperschriftgröße"
+
+#~ msgid "Title font family"
+#~ msgstr "Titel der Schrift"
+
+#~ msgid "Title font size"
+#~ msgstr "Titel Schriftgröße"
+
+#~ msgid "Content font family"
+#~ msgstr "Inhalt der Schrift"
+
+#~ msgid "Content font size"
+#~ msgstr "Inhalt Schriftgröße"
+
+#~ msgid "Color (hover, active)"
+#~ msgstr "Farbe(,aktiv)"
+
+#~ msgid "Title color"
+#~ msgstr "Titelfarbe"
+
+#~ msgid "Content color"
+#~ msgstr "Inhalt Farbe"
+
+#~ msgid "Are you sure to reset to default value?"
+#~ msgstr "Sind Sie sicher, dass Sie auf den Standardwert zurückgesetzt?"
+
+#~ msgid "Cancel"
+#~ msgstr "Stornieren"
+
+#~ msgid "Ok"
+#~ msgstr "Ok"
+
+#~ msgid "Title"
+#~ msgstr "Titel"
+
+#~ msgid "Widget Title"
+#~ msgstr "Widget Titel"
+
+#~ msgid "Gallery page"
+#~ msgstr "Galerie-Seite"
+
+#~ msgid "Image sources"
+#~ msgstr "Bildquellen"
+
+#~ msgid "All Galleries"
+#~ msgstr "Alle Galerien"
+
+#~ msgid "Random Gallery"
+#~ msgstr "Zufällige Galerie"
+
+#~ msgid "Menu layout"
+#~ msgstr "Menüaufbau"
+
+#~ msgid "Type"
+#~ msgstr "Typ"
+
+#~ msgid "Number of posts"
+#~ msgstr "Anzahl der Beiträge"
+
+#~ msgid "Post list"
+#~ msgstr "Beitrag Liste"
+
+#~ msgid "Display type"
+#~ msgstr "Anzeigetyp"
+
+#~ msgid "Cloud"
+#~ msgstr "Wolke"
+
+#~ msgid "Maximum tags"
+#~ msgstr "Maximale Tags"
+
+#~ msgid "Style"
+#~ msgstr "Stil"
+
+#~ msgid "Tags"
+#~ msgstr "Tags"
+
+#~ msgid "Error detected!"
+#~ msgstr "Fehler erkannt!"
+
+#~ msgid "You do not have permission to write files"
+#~ msgstr "Sie haben keine Berechtigung, Dateien zu schreiben"
+
+#~ msgid "Content font-family"
+#~ msgstr "Inhalt font-family"
+
+#~ msgid "Content font-size"
+#~ msgstr "Inhalt font-size"
+
+#, fuzzy
+#~ msgid "Title font-size"
+#~ msgstr "Titel Schriftgröße"
+
+#, fuzzy
+#~ msgid "Title font-family"
+#~ msgstr "Titel der Schrift"
+
+#~ msgid "Footer background color"
+#~ msgstr "Footer Hintergrundfarbe"
+
+#~ msgid "Font family"
+#~ msgstr "Schriftfamilie"
+
+#~ msgid "Font size"
+#~ msgstr "Schriftgröße"
+
+#~ msgid "Top content"
+#~ msgstr "Top-Gehalt"
+
+#~ msgid "Navigation font family"
+#~ msgstr "Navigation Schrift"
+
+#~ msgid "Navigation font size"
+#~ msgstr "Navigation Schriftgröße"
+
+#~ msgid "No post"
+#~ msgstr "Kein Post"
+
+#~ msgid "Post category key"
+#~ msgstr "Beitrag Kategorie Schlüssel"
+
+#~ msgid ""
+#~ "is the parameter which you declare in post shortcode (category = [get: "
+#~ "key]) "
+#~ msgstr ""
+#~ "wird der Parameter, die Sie in der Postshort erklären (category = [get: "
+#~ "key]) "
+
+#~ msgid "Gallery"
+#~ msgstr "Galerie"

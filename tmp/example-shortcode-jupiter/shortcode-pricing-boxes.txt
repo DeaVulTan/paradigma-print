@@ -1,0 +1,205 @@
+{html:row}
+  {html:col class="col-sm-12"}
+    {html:h3 class="headline first-child"}{html:span}Please choose one of the pricings options below to subscribe{/html:span}{/html:h3}
+    {html:p}
+      Donec tincidunt nec mi eu venenatis. Nulla facilisi. Maecenas venenatis condimentum porttitor. Aliquam erat volutpat. In ac mollis odio. Praesent ac mi nisi. Nulla congue mi at porttitor ultrices. Nulla pellentesque placerat elit, sit amet egestas mi consectetur eleifend. Integer molestie ultricies libero ut consectetur. Maecenas consectetur quis elit quis consequat. Sed tincidunt nulla in lorem ullamcorper, ut aliquam odio malesuada.
+    {/html:p}
+  {/html:col}
+{/html:row}
+{html:row}
+  {html:col class="col-sm-6 col-md-3"}
+    {pricings:option}
+      {pricings:inner}
+        {pricings:header}
+          {html:h5}Basic Plan{/html:h5}
+        {/pricings:header}
+        {pricings:number}
+          25${html:span}/month{/html:span}
+        {/pricings:number}
+        {pricings:body}
+          {list:ul class="list-style-none"}
+            {list:li}Lorem ipsum dolor sit amet{/list:li}
+            {list:li}Lorem ipsum dolor sit amet{/list:li}
+            {list:li}Lorem ipsum dolor sit amet{/list:li}
+            {list:li}Lorem ipsum dolor sit amet{/list:li}
+          {/list:ul}
+          {html:a href="#" class="btn btn-theme-secondary"}Subscribe{/html:a}
+        {/pricings:body}
+      {/pricings:inner}
+    {/pricings:option}
+  {/html:col}
+  {html:col class="col-sm-6 col-md-3"}
+    {pricings:option id="bonus"}
+      {pricings:inner}
+        {pricings:header}
+          {html:h5}Pro Plan{/html:h5}
+        {/pricings:header}
+        {pricings:number}
+          35${html:span}/month{/html:span}
+        {html:i class="fa fa-scissors" option ="id='bonus-tip' data-toggle='tooltip' data-placement='top' title='' data-original-title='Click to reach a secret level.' "}{/html:i}
+        {/pricings:number}
+        {pricings:body}
+          {list:ul class="list-style-none"}
+            {list:li}Lorem ipsum dolor sit amet{/list:li}
+            {list:li}Lorem ipsum dolor sit amet{/list:li}
+            {list:li}Lorem ipsum dolor sit amet{/list:li}
+            {list:li}Lorem ipsum dolor sit amet{/list:li}
+          {/list:ul}
+          {html:p class="text-center"}
+            {html:i class="fa fa-unlock fa-lg"}{/html:i}{html:br}
+            Congratulations! You have unlocked a secret level.{html:br}
+            As a bonus you get a 5% discount, but keep it on the down low!
+          {/html:p}
+          {html:a href="#" class="btn btn-theme-secondary"}Subscribe{/html:a}
+         {/pricings:body}
+      {/pricings:inner}
+    {/pricings:option}
+  {/html:col}
+  {html:div class="clearfix visible-sm"}{/html:div}
+  {html:col class="col-sm-6 col-md-3"}
+    {pricings:option}
+      {pricings:inner}
+        {pricings:header}
+          {html:h5}Business Plan{/html:h5}
+        {/pricings:header}
+        {pricings:number}
+          45${html:span}/month{/html:span}
+        {/pricings:number}
+        {pricings:body}
+          {list:ul class="list-style-none"}
+            {list:li}Lorem ipsum dolor sit amet{/list:li}
+            {list:li}Lorem ipsum dolor sit amet{/list:li}
+            {list:li}Lorem ipsum dolor sit amet{/list:li}
+            {list:li}Lorem ipsum dolor sit amet{/list:li}
+           {/list:ul}
+          {html:a href="#" class="btn btn-theme-secondary"}Subscribe{/html:a}
+        {/pricings:body}
+      {/pricings:inner}
+    {/pricings:option}
+  {/html:col}
+  {html:col class="col-sm-6 col-md-3"}
+    {pricings:option}
+      {pricings:inner}
+        {pricings:header}
+          {html:h5}Exclusive Plan{/html:h5}
+        {/pricings:header}
+        {pricings:number}
+          55${html:span}/month{/html:span}
+        {/pricings:number}
+        {pricings:body}
+          {list:ul class="list-style-none"}
+            {list:li}Lorem ipsum dolor sit amet{/list:li}
+            {list:li}Lorem ipsum dolor sit amet{/list:li}
+            {list:li}Lorem ipsum dolor sit amet{/list:li}
+            {list:li}Lorem ipsum dolor sit amet{/list:li}
+          {/list:ul}
+           {html:a href="#" class="btn btn-theme-secondary"}Subscribe{/html:a}
+        {/pricings:body}
+      {/pricings:inner}
+    {/pricings:option}
+  {/html:col}
+{/html:row}
+{html:br}
+{html:code linenums='1'}
+{html:row}
+  {html:col class="col-sm-12"}
+    {html:h3 class="headline first-child"}{html:span}Please choose one of the pricings options below to subscribe{/html:span}{/html:h3}
+    {html:p}
+      Donec tincidunt nec mi eu venenatis. Nulla facilisi. Maecenas venenatis condimentum porttitor. Aliquam erat volutpat. In ac mollis odio. Praesent ac mi nisi. Nulla congue mi at porttitor ultrices. Nulla pellentesque placerat elit, sit amet egestas mi consectetur eleifend. Integer molestie ultricies libero ut consectetur. Maecenas consectetur quis elit quis consequat. Sed tincidunt nulla in lorem ullamcorper, ut aliquam odio malesuada.
+    {/html:p}
+  {/html:col}
+{/html:row}
+{html:row}
+  {html:col class="col-sm-6 col-md-3"}
+    {pricings:option}
+      {pricings:inner}
+        {pricings:header}
+          {html:h5}Basic Plan{/html:h5}
+        {/pricings:header}
+        {pricings:number}
+          25${html:span}/month{/html:span}
+        {/pricings:number}
+        {pricings:body}
+          {list:ul class="list-style-none"}
+            {list:li}Lorem ipsum dolor sit amet{/list:li}
+            {list:li}Lorem ipsum dolor sit amet{/list:li}
+            {list:li}Lorem ipsum dolor sit amet{/list:li}
+            {list:li}Lorem ipsum dolor sit amet{/list:li}
+          {/list:ul}
+          {html:a href="#" class="btn btn-theme-secondary"}Subscribe{/html:a}
+        {/pricings:body}
+      {/pricings:inner}
+    {/pricings:option}
+  {/html:col}
+  {html:col class="col-sm-6 col-md-3"}
+    {pricings:option id="bonus"}
+      {pricings:inner}
+        {pricings:header}
+          {html:h5}Pro Plan{/html:h5}
+        {/pricings:header}
+        {pricings:number}
+          35${html:span}/month{/html:span}
+        {html:i class="fa fa-scissors" option ="id='bonus-tip' data-toggle='tooltip' data-placement='top' title='' data-original-title='Click to reach a secret level.' "}{/html:i}
+        {/pricings:number}
+        {pricings:body}
+          {list:ul class="list-style-none"}
+            {list:li}Lorem ipsum dolor sit amet{/list:li}
+            {list:li}Lorem ipsum dolor sit amet{/list:li}
+            {list:li}Lorem ipsum dolor sit amet{/list:li}
+            {list:li}Lorem ipsum dolor sit amet{/list:li}
+          {/list:ul}
+          {html:p class="text-center"}
+            {html:i class="fa fa-unlock fa-lg"}{/html:i}{html:br}
+            Congratulations! You have unlocked a secret level.{html:br}
+            As a bonus you get a 5% discount, but keep it on the down low!
+          {/html:p}
+          {html:a href="#" class="btn btn-theme-secondary"}Subscribe{/html:a}
+         {/pricings:body}
+      {/pricings:inner}
+    {/pricings:option}
+  {/html:col}
+  {html:div class="clearfix visible-sm"}{/html:div}
+  {html:col class="col-sm-6 col-md-3"}
+    {pricings:option}
+      {pricings:inner}
+        {pricings:header}
+          {html:h5}Business Plan{/html:h5}
+        {/pricings:header}
+        {pricings:number}
+          45${html:span}/month{/html:span}
+        {/pricings:number}
+        {pricings:body}
+          {list:ul class="list-style-none"}
+            {list:li}Lorem ipsum dolor sit amet{/list:li}
+            {list:li}Lorem ipsum dolor sit amet{/list:li}
+            {list:li}Lorem ipsum dolor sit amet{/list:li}
+            {list:li}Lorem ipsum dolor sit amet{/list:li}
+           {/list:ul}
+          {html:a href="#" class="btn btn-theme-secondary"}Subscribe{/html:a}
+        {/pricings:body}
+      {/pricings:inner}
+    {/pricings:option}
+  {/html:col}
+  {html:col class="col-sm-6 col-md-3"}
+    {pricings:option}
+      {pricings:inner}
+        {pricings:header}
+          {html:h5}Exclusive Plan{/html:h5}
+        {/pricings:header}
+        {pricings:number}
+          55${html:span}/month{/html:span}
+        {/pricings:number}
+        {pricings:body}
+          {list:ul class="list-style-none"}
+            {list:li}Lorem ipsum dolor sit amet{/list:li}
+            {list:li}Lorem ipsum dolor sit amet{/list:li}
+            {list:li}Lorem ipsum dolor sit amet{/list:li}
+            {list:li}Lorem ipsum dolor sit amet{/list:li}
+          {/list:ul}
+           {html:a href="#" class="btn btn-theme-secondary"}Subscribe{/html:a}
+        {/pricings:body}
+      {/pricings:inner}
+    {/pricings:option}
+  {/html:col}
+{/html:row}
+{/html:code}

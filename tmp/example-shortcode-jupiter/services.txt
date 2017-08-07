@@ -1,0 +1,100 @@
+<div class="container">
+        <div class="row">
+          <div class="col-sm-7">
+            <h3 class="headline"><span>Vitubo CMS Introduction</span></h3>
+            <p>
+              Vitubo is a flexible Content Management System which built for not only web agencies, web developers but also normal users. Using Vitubo CMS you may edit your website content, add new pages, edit and delete the existing pages, manage your website’s menus, galleries, contact forms, portfolio, testimonials, etc… 
+            </p><br />
+            <div class="info-board info-board-theme-primary">
+              <h4>Welcome Aboard</h4>
+              <p>
+                Due to the SEO support, security enhancement and integrate external plugins and widgets, websites empowered by Vitubo CMS have a range of advantages over the ordinary websites.
+              </p>
+            </div>
+          </div>
+          <div class="col-sm-5">
+            <h3 class="headline"><span>Video Guide</span></h3>
+            <div class="embed-responsive embed-responsive-16by9">
+              {vimeo:video id="91440169" width="500" height="281"}
+            </div>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-sm-12">
+            <h3 class="headline"><span>Main Services Provided By Your Company</span></h3>
+            <p>
+              In order to support customers with any customization, even with white labelling.
+            </p>
+          </div>
+        </div> <!-- / .row -->
+        <div class="row">
+          <div class="col-sm-4">
+            <div class="services">
+              <div class="service-item">
+                <i class="fa fa-gear"></i>
+                <div class="service-desc">
+                  <h4>Powerful security</h4>
+                  <p>Vitubo provides security protection against SQL Injection, XSS, CSRF which keep your website safe.</p>
+                </div>
+              </div>
+            </div> <!-- / .services -->
+          </div>
+          <div class="col-sm-4">
+            <div class="services">
+              <div class="service-item">
+                <i class="fa fa-arrows-alt"></i>
+                <div class="service-desc">
+                  <h4>Responsive Design</h4>
+                  <p>Vitubo fully supports responsive design techniques and support responsive design in both backed and frontend.</p>
+                </div>
+              </div>
+            </div> <!-- / .services -->
+          </div>
+          <div class="col-sm-4">
+            <div class="services">
+              <div class="service-item">
+                <i class="fa fa-refresh"></i>
+                <div class="service-desc">
+                  <h4>Easy to Customize</h4>
+                  <p>Additional features can be programmed in so called plugins and be installed on Vitubo. This allows you to have the features you want.</p>
+                </div>
+              </div>
+            </div> <!-- / .services -->
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-sm-4">
+            <div class="services">
+              <div class="service-item">
+                <i class="fa fa-plus"></i>
+                <div class="service-desc">
+                  <h4>Built With Bootstrap 3</h4>
+                  <p>Bootstrap is the most popular HTML, CSS, and JS framework for developing responsive, mobile first projects on the web.</p>
+                </div>
+              </div>
+            </div> <!-- / .services -->
+          </div>
+          <div class="col-sm-4">
+            <div class="services">
+              <div class="service-item">
+                <i class="fa fa-envelope"></i>
+                <div class="service-desc">
+                  <h4>24/7 Support</h4>
+                  <p>If you have any issue, question or suggestion, please contact us anytime. We will answer in maximum 24 hours.</p>
+                </div>
+              </div>
+            </div> <!-- / .services -->
+          </div>
+          <div class="col-sm-4">
+            <div class="services">
+              <div class="service-item">
+                <i class="fa fa-picture-o"></i>
+                <div class="service-desc">
+                  <h4>White label</h4>
+                  <p>A white-label product is a product created by one company (the producer) that other companies (the marketers) rebrand to make it appear as if they made it.</p>
+                </div>
+              </div>
+            </div> <!-- / .services -->
+          </div>
+        </div> <!-- / .row -->
+      </div>

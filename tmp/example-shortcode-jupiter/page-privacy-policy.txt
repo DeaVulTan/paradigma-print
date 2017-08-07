@@ -1,0 +1,54 @@
+
+{html:row}
+  {html:col class="col-md-12"}
+  {html:h3 class="text-title title text-color"}Where can I get some{/html:h3}
+  {html:p class="text-indent content"}
+	 a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', 
+	 making it look like readable English. Many desktop publishing packages and web
+  {/html:p}
+  {html:ul}
+      {html:li}Contrary to popular belief, Lorem Ipsum is not simply random text{/html:li}
+      {html:li} It has roots in a piece of classical Latin literature from 45 BC{/html:li}
+      {html:li}Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia{/html:li}
+  {/html:ul}
+  {/html:col}
+{/html:row}
+{html:hr}{/html:hr}
+{html:row}
+  {html:col class="col-md-12"}
+  {html:h3 class="text-title title text-color"}Why do we use it?{/html:h3}
+  {html:p class="text-indent"}There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour .Ipsum generators on the Internet tend to repeat predefined{/html:p}
+  {html:p class="content"}you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text.Ipsum generators on the Internet tend to repeat predefined{/html:p}
+  {/html:col}
+{/html:row}
+{html:hr class="hr-line"}{/html:hr}
+{html:row}
+  {html:col class="col-md-12"}
+  {html:h3 class="text-title title text-color"}The standard Lorem Ipsum passage, used since the 1500s{/html:h3}
+  {html:p class="text-indent content"}There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour .Ipsum generators on the Internet tend to repeat predefined{/html:p}
+  {html:ul}
+      {html:li}Contrary to popular belief, Lorem Ipsum is not simply random text{/html:li}
+      {html:li} It has roots in a piece of classical Latin literature from 45 BC{/html:li}
+      {html:li}Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia{/html:li}
+  {/html:ul}
+  {/html:col}
+{/html:row}
+{html:hr}{/html:hr}
+{html:row}
+{html:col class="col-md-12"}
+  {html:h3 class="text-title title text-color"}Section 1.10.32 of "de Finibus Bonorum et Malorum", written by Cicero in 45 BC{/html:h3}
+  {html:p class="text-indent content"}There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour .Ipsum generators on the Internet tend to repeat predefined{/html:p}
+  {html:p class="content"}There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour .Ipsum generators on the Internet tend to repeat predefined{/html:p}
+  {html:p class="content"}you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text.Ipsum generators on the Internet tend to repeat predefined{\html:p}
+   {/html:col}
+{/html:row}
+{html:hr}{/html:hr}
+{html:row}
+   {html:col class="col-md-12"}
+  {html:h3 class="text-title title text-color"}The standard chunk of Lorem Ipsum used since the 1500s{/html:h3}
+  {html:p class="text-indent content"}There are many variations of passages of Lorem Ipsum available,
+  but <strong>the majority have suffered alteration in some form, by injected humour<strong> .
+  Ipsum generators on the Internet tend to repeat predefined
+  {/html:p}
+     {/html:col}
+{/html:row}

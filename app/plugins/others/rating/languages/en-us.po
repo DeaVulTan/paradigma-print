@@ -1,0 +1,72 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Rating\n"
+"POT-Creation-Date: 2014-10-13 10:46+0700\n"
+"PO-Revision-Date: 2014-10-13 10:46+0700\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.4\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../public/pf-rating-shortcode.php:74
+msgid "vote"
+msgstr "vote"
+
+#: ../public/pf-rating-shortcode.php:74
+msgid "votes"
+msgstr "votes"
+
+#: ../public/pf-rating-shortcode.php:96
+msgid "You unauthorized access"
+msgstr "You unauthorized access"
+
+#: ../public/pf-rating-shortcode.php:100
+msgid "You can not rate"
+msgstr "You can not rate"
+
+#: ../public/pf-rating-shortcode.php:103
+msgid "Your session has ended"
+msgstr "Your session has ended"
+
+#: ../public/pf-rating-shortcode.php:118
+msgid "Thank you for rating"
+msgstr "Thank you for rating"
+
+#: ../public/pf-rating-shortcode.php:120
+msgid "There is an error"
+msgstr "There is an error"
+
+#: ../public/views/include.php:4
+msgid "Are you sure to delete this rating?"
+msgstr "Are you sure to delete this rating?"
+
+#: ../rating-config.php:17
+msgid "Rating settings"
+msgstr "Rating settings"
+
+#: ../rating-config.php:21
+msgid "Only user"
+msgstr "Only user"
+
+#: ../rating-config.php:21
+msgid "Everyone"
+msgstr "Everyone"
+
+#: ../rating-config.php:22
+msgid "Enable rating?"
+msgstr "Enable rating?"
+
+#: ../rating-config.php:23
+msgid "Permission"
+msgstr "Permission"
+
+#: ../rating.php:4
+msgid "Rating"
+msgstr "Rating"

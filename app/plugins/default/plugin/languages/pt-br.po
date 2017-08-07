@@ -1,0 +1,92 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Plugin\n"
+"POT-Creation-Date: 2015-01-19 14:08+0700\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Alexandre Benegas <info@adaptivemobile.com.br>\n"
+"Language-Team: Alexandre Benegas <info@adaptivemobile.com.br>\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.5\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../admin/views/plugin/index.php:5 ../admin/views/plugin/index.php:166
+#: ../admin/views/plugin/index.php:196
+msgid "Search"
+msgstr "Procurar"
+
+#: ../admin/views/plugin/index.php:32 ../admin/views/plugin/index.php:105
+#: ../admin/views/plugin/index.php:166 ../admin/views/plugin/index.php:177
+#: ../plugin.php:11
+msgid "Plugins"
+msgstr "Plugins"
+
+#: ../admin/views/plugin/index.php:44
+msgid "Bulk Actions"
+msgstr "Ações em Bloco"
+
+#: ../admin/views/plugin/index.php:48 ../admin/views/plugin/index.php:67
+#: ../admin/views/plugin/index.php:132 ../admin/views/plugin/index.php:361
+#: ../admin/views/plugin/index.php:380
+msgid "Activate"
+msgstr "Ativar"
+
+#: ../admin/views/plugin/index.php:49 ../admin/views/plugin/index.php:69
+#: ../admin/views/plugin/index.php:134 ../admin/views/plugin/index.php:363
+#: ../admin/views/plugin/index.php:382
+msgid "Deactivate"
+msgstr "Desativar"
+
+#: ../admin/views/plugin/index.php:61 ../admin/views/plugin/index.php:66
+msgid "All"
+msgstr "Todos"
+
+#: ../admin/views/plugin/index.php:110
+msgid "Version"
+msgstr "Versão"
+
+#: ../admin/views/plugin/index.php:111
+msgid "Description"
+msgstr "Descrição"
+
+#: ../admin/views/plugin/index.php:112 ../admin/views/plugin/index.php:185
+msgid "Actions"
+msgstr "Ações"
+
+#: ../admin/views/plugin/index.php:164 ../admin/views/plugin/index.php:197
+msgid "Close"
+msgstr "Fechar"
+
+#: ../admin/views/plugin/index.php:245 ../admin/views/plugin/index.php:257
+#: ../admin/views/plugin/index.php:278 ../admin/views/plugin/index.php:318
+#: ../admin/views/plugin/index.php:331 ../admin/views/plugin/index.php:340
+#: ../admin/views/plugin/index.php:355 ../admin/views/plugin/index.php:374
+msgid "Loading..."
+msgstr "Carregando..."
+
+#: ../admin/views/plugin/index.php:271
+msgid "Are you sure with this action?"
+msgstr "Tem certeza em executar esta ação?"
+
+#: ../admin/views/plugin/index.php:290
+msgid "Plugins is activated successfully"
+msgstr "Plugin ativado com sucesso!"
+
+#: ../admin/views/plugin/index.php:293
+msgid "Plugins is deactivated successfully"
+msgstr "Plugin desativado com sucesso!"
+
+#: ../admin/views/plugin/index.php:297
+msgid "There is an error, please check again!"
+msgstr "Erro, por favor, verifique novamente!"
+
+#~ msgid "Please enter the search conditions"
+#~ msgstr "Introduzca las condiciones de búsqueda"
+
+#~ msgid "Plugin"
+#~ msgstr "Plugin"

@@ -1,0 +1,397 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Pages\n"
+"POT-Creation-Date: 2015-01-19 13:53+0700\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.4\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../admin/models/page-model.php:29 ../admin/views/page/index.php:89
+#: ../admin/views/page/index.php:190 ../admin/views/page/index.php:510
+#: ../admin/views/page/index.php:527
+msgid "Published"
+msgstr "已经发布"
+
+#: ../admin/models/page-model.php:29 ../admin/views/page/index.php:91
+#: ../admin/views/page/index.php:194 ../admin/views/page/index.php:512
+#: ../admin/views/page/index.php:529
+msgid "Unpublished"
+msgstr "未发布"
+
+#: ../admin/models/page-model.php:33
+msgid "Choose layout"
+msgstr "选择布局"
+
+#: ../admin/models/page-model.php:42
+msgid "Default"
+msgstr "默认"
+
+#: ../admin/models/page-model.php:42
+msgid "Landing page"
+msgstr "登陆页面"
+
+#: ../admin/views/page/add.php:11 ../admin/views/page/copy.php:11
+#: ../admin/views/page/edit.php:11 ../admin/views/page/index.php:50
+#: ../admin/views/page/index.php:245 ../page.php:38
+msgid "Pages"
+msgstr "页面"
+
+#: ../admin/views/page/add.php:11
+msgid "Add"
+msgstr "添加"
+
+#: ../admin/views/page/add.php:17 ../admin/views/page/copy.php:16
+#: ../admin/views/page/edit.php:16
+msgid "Please enter at least 1 character"
+msgstr "请输入至少一个字符"
+
+#: ../admin/views/page/add.php:18 ../admin/views/page/copy.php:17
+#: ../admin/views/page/edit.php:17
+msgid "URL already exists. Please use other url"
+msgstr "该网址已存在。请使用其它网址"
+
+#: ../admin/views/page/add.php:19 ../admin/views/page/copy.php:18
+#: ../admin/views/page/edit.php:18
+msgid "URL should not be empty"
+msgstr "网址不能为空"
+
+#: ../admin/views/page/add.php:29 ../admin/views/page/add.php:134
+#: ../admin/views/page/copy.php:29 ../admin/views/page/copy.php:133
+#: ../admin/views/page/edit.php:29 ../admin/views/page/edit.php:135
+msgid "Content"
+msgstr "内容"
+
+#: ../admin/views/page/add.php:30 ../admin/views/page/copy.php:30
+#: ../admin/views/page/edit.php:30
+msgid "Permission"
+msgstr "许可"
+
+#: ../admin/views/page/add.php:31 ../admin/views/page/copy.php:31
+#: ../admin/views/page/edit.php:31
+msgid "Background settings"
+msgstr "背景设置"
+
+#: ../admin/views/page/add.php:39 ../admin/views/page/copy.php:39
+#: ../admin/views/page/edit.php:39 ../admin/views/page/index.php:125
+msgid "Title"
+msgstr "标题"
+
+#: ../admin/views/page/add.php:53 ../admin/views/page/copy.php:53
+#: ../admin/views/page/edit.php:54
+msgid "URL"
+msgstr "网址"
+
+#: ../admin/views/page/add.php:60 ../admin/views/page/copy.php:60
+#: ../admin/views/page/edit.php:61
+msgid "Edit URL"
+msgstr "编辑网址"
+
+#: ../admin/views/page/add.php:61 ../admin/views/page/copy.php:61
+#: ../admin/views/page/edit.php:62 ../admin/views/page/index.php:26
+#: ../admin/views/page/index.php:31 ../admin/views/page/index.php:37
+msgid "Save"
+msgstr "保存"
+
+#: ../admin/views/page/add.php:62 ../admin/views/page/copy.php:62
+#: ../admin/views/page/edit.php:63 ../admin/views/page/index.php:27
+#: ../admin/views/page/index.php:33 ../admin/views/page/index.php:38
+msgid "Cancel"
+msgstr "取消"
+
+#: ../admin/views/page/add.php:63 ../admin/views/page/edit.php:64
+msgid "Go to URL"
+msgstr "URLに移動..."
+
+#: ../admin/views/page/add.php:74 ../admin/views/page/copy.php:73
+#: ../admin/views/page/edit.php:75
+msgid "Layout"
+msgstr "布局"
+
+#: ../admin/views/page/add.php:85 ../admin/views/page/copy.php:84
+#: ../admin/views/page/edit.php:86 ../admin/views/page/index.php:161
+#: ../admin/views/page/index.php:263
+msgid "Status"
+msgstr "状态"
+
+#: ../admin/views/page/add.php:96 ../admin/views/page/copy.php:95
+#: ../admin/views/page/edit.php:97
+msgid "Page Type"
+msgstr "页面类型"
+
+#: ../admin/views/page/add.php:109 ../admin/views/page/copy.php:108
+#: ../admin/views/page/edit.php:110
+msgid "Meta title"
+msgstr "Meta 标题"
+
+#: ../admin/views/page/add.php:116 ../admin/views/page/copy.php:115
+#: ../admin/views/page/edit.php:117
+msgid "Meta keywords"
+msgstr "Meta 关键词"
+
+#: ../admin/views/page/add.php:123 ../admin/views/page/copy.php:122
+#: ../admin/views/page/edit.php:124
+msgid "Meta description"
+msgstr "Meta 描述"
+
+#: ../admin/views/page/add.php:146 ../admin/views/page/copy.php:145
+#: ../admin/views/page/edit.php:147
+msgid "Groups"
+msgstr "团体"
+
+#: ../admin/views/page/add.php:150 ../admin/views/page/copy.php:150
+#: ../admin/views/page/edit.php:152 ../admin/views/page/index.php:83
+#: ../admin/views/page/index.php:88
+msgid "All"
+msgstr "全部"
+
+#: ../admin/views/page/add.php:162 ../admin/views/page/copy.php:162
+#: ../admin/views/page/edit.php:164
+msgid "Users"
+msgstr "用户"
+
+#: ../admin/views/page/add.php:192 ../admin/views/page/copy.php:195
+#: ../admin/views/page/edit.php:197
+msgid "Background color"
+msgstr "背景颜色"
+
+#: ../admin/views/page/add.php:202 ../admin/views/page/copy.php:205
+#: ../admin/views/page/edit.php:207
+msgid "Wrapper background color"
+msgstr "包装背景颜色"
+
+#: ../admin/views/page/add.php:214 ../admin/views/page/copy.php:217
+#: ../admin/views/page/edit.php:219
+msgid "Background images"
+msgstr "背景图片"
+
+#: ../admin/views/page/add.php:261 ../admin/views/page/add.php:272
+#: ../admin/views/page/copy.php:264 ../admin/views/page/copy.php:275
+#: ../admin/views/page/edit.php:268 ../admin/views/page/edit.php:279
+#: ../admin/views/page/edit.php:308 ../admin/views/page/index.php:326
+#: ../admin/views/page/index.php:338 ../admin/views/page/index.php:359
+#: ../admin/views/page/index.php:391 ../admin/views/page/index.php:404
+#: ../admin/views/page/index.php:413 ../admin/views/page/index.php:420
+#: ../admin/views/page/index.php:435 ../admin/views/page/index.php:459
+#: ../admin/views/page/index.php:487 ../admin/views/page/index.php:504
+#: ../admin/views/page/index.php:521
+msgid "Loading..."
+msgstr "加载中..."
+
+#: ../admin/views/page/add.php:280 ../admin/views/page/copy.php:283
+#: ../admin/views/page/edit.php:287 ../admin/views/page/edit.php:317
+#: ../admin/views/page/index.php:368 ../admin/views/page/index.php:426
+#: ../admin/views/page/index.php:441 ../admin/views/page/index.php:464
+msgid "There is an error, please check again!"
+msgstr "有错误，请重新检查！"
+
+#: ../admin/views/page/add.php:291
+msgid "Page is added successfully"
+msgstr "Page is added successfully"
+
+#: ../admin/views/page/copy.php:11
+msgid "Copy"
+msgstr "复制"
+
+#: ../admin/views/page/copy.php:294
+msgid "Page is copied successfully"
+msgstr "页面复制成功"
+
+#: ../admin/views/page/edit.php:11
+msgid "Edit"
+msgstr "编辑"
+
+#: ../admin/views/page/edit.php:298 ../admin/views/page/edit.php:324
+msgid "Page is updated successfully"
+msgstr "页面更新成功"
+
+#: ../admin/views/page/index.php:5 ../admin/views/page/index.php:245
+#: ../admin/views/page/index.php:276
+msgid "Search"
+msgstr "搜索"
+
+#: ../admin/views/page/index.php:22
+msgid "New"
+msgstr "新"
+
+#: ../admin/views/page/index.php:32
+msgid "Apply"
+msgstr "申请"
+
+#: ../admin/views/page/index.php:50
+msgid "List"
+msgstr "名单"
+
+#: ../admin/views/page/index.php:62
+msgid "Bulk Actions"
+msgstr "批量操作"
+
+#: ../admin/views/page/index.php:67 ../admin/views/page/index.php:456
+msgid "Delete"
+msgstr "删除"
+
+#: ../admin/views/page/index.php:69
+msgid "Publish"
+msgstr "公开"
+
+#: ../admin/views/page/index.php:71
+msgid "Unpublish"
+msgstr "不公开"
+
+#: ../admin/views/page/index.php:143
+msgid "Created date"
+msgstr "创建日期"
+
+#: ../admin/views/page/index.php:166
+msgid "Actions"
+msgstr "操作"
+
+#: ../admin/views/page/index.php:243 ../admin/views/page/index.php:278
+msgid "Close"
+msgstr "近"
+
+#: ../admin/views/page/index.php:255
+msgid "Page title"
+msgstr "页面标题"
+
+#: ../admin/views/page/index.php:352
+msgid "Are you sure to perform this action?"
+msgstr "您确定要执行此操作？"
+
+#: ../admin/views/page/index.php:356
+msgid "OK"
+msgstr "OK"
+
+#: ../admin/views/page/index.php:366 ../admin/views/page/index.php:462
+msgid "Page is deleted successfully"
+msgstr "页面删除成功！"
+
+#: ../admin/views/page/index.php:452
+msgid "Are you sure to delete this page?"
+msgstr "你确定要删除这个页面？"
+
+#: ../theme_options.php:29
+msgid "Select image"
+msgstr "选择图片"
+
+#: ../theme_options.php:40
+msgid "Background position"
+msgstr "背景位置"
+
+#: ../theme_options.php:53
+msgid "Repeat"
+msgstr "重复"
+
+#: ../theme_options.php:54
+msgid "Repeat-x"
+msgstr "重复-X"
+
+#: ../theme_options.php:55
+msgid "Repeat-y"
+msgstr "重复-Y"
+
+#: ../theme_options.php:56
+msgid "No-repeat"
+msgstr "不重复"
+
+#: ../theme_options.php:58
+msgid "Background repeat"
+msgstr "背景重复"
+
+#: ../theme_options.php:78
+msgid "Background attachment"
+msgstr "背景附件"
+
+#: ../theme_options.php:84
+msgid "Scroll"
+msgstr "滚动"
+
+#: ../theme_options.php:91
+msgid "Fixed"
+msgstr "固定"
+
+#: ../theme_options.php:103
+msgid "Color"
+msgstr "颜色"
+
+#: ../theme_options.php:104
+msgid "Image"
+msgstr "图片"
+
+#: ../theme_options.php:106
+msgid "Background type"
+msgstr "背景类型"
+
+#: ../theme_options.php:119
+msgid "Both"
+msgstr "这两个"
+
+#~ msgid "Status is updated successfully"
+#~ msgstr "状态更新成功！"
+
+#~ msgid "An error has occurred. Please try again"
+#~ msgstr "出现错误。请再试一次！"
+
+#~ msgid "You have successfully created page new"
+#~ msgstr "成功创建新页面了！"
+
+#~ msgid "Please check the data field!"
+#~ msgstr "请查看数据字段！"
+
+#~ msgid "You have successfully updated page"
+#~ msgstr "成功更新页面了！"
+
+#~ msgid "Page"
+#~ msgstr "页面"
+
+#~ msgid "New Page"
+#~ msgstr "新页面"
+
+#~ msgid "No page are selected"
+#~ msgstr "没有页面被选中"
+
+#~ msgid "Please enter a search term"
+#~ msgstr "请输入要搜索的项目"
+
+#~ msgid "Please enter title of the page"
+#~ msgstr "请输入页面的标题"
+
+#~ msgid "%s"
+#~ msgstr "%s"
+
+#~ msgid "Sort by"
+#~ msgstr "排序方式"
+
+#~ msgid "Date"
+#~ msgstr "日期"
+
+#~ msgid "Alphabet"
+#~ msgstr "字母"
+
+#~ msgid "Descending"
+#~ msgstr "降"
+
+#~ msgid "Ascending"
+#~ msgstr "升序"
+
+#~ msgid "Duplicate page"
+#~ msgstr "重复的页面"
+
+#~ msgid "There is no page"
+#~ msgstr "没有页面"
+
+#~ msgid "Visible Group"
+#~ msgstr "可见集团"
+
+#~ msgid "Visible Users"
+#~ msgstr "可见用户"
+
+#~ msgid "Slider"
+#~ msgstr "Slider"

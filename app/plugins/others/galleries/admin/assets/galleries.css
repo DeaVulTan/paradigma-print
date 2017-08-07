@@ -1,0 +1,28 @@
+.requiredfield {color: red;}
+.padding-left-8 {padding-left: 8px; }
+.medium-action {
+    padding: 10px 0 10px 0;
+}
+.width40 {width: 40px;}
+.width80 {width: 80px;}
+.width100 {width: 100px;}
+.width300 {width: 300px;}
+.width400 {width: 400px;}
+.widthfull {width: 100%;}
+#action-box {
+    display: none; 
+    padding-right: 5px;
+}
+.control-label .col-sm-10{
+    text-align: center;
+}
+input {margin-bottom: 10px}
+.table-configuration tbody > tr > th {background-color: #F9F9F9; }
+.no-pad {padding: 0 !important}
+.thumbcheck {
+    float: left;
+    margin-top: 5px;
+    margin-left: 5px;
+    font-size: 16px;
+}
+img.width100{width:100%}

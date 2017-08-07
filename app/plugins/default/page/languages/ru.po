@@ -1,0 +1,335 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Page\n"
+"POT-Creation-Date: 2015-01-19 13:51+0700\n"
+"PO-Revision-Date: 2015-03-01 15:22+0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.4\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../admin/models/page-model.php:29 ../admin/views/page/index.php:89
+#: ../admin/views/page/index.php:190 ../admin/views/page/index.php:510
+#: ../admin/views/page/index.php:527
+msgid "Published"
+msgstr "Опубликована"
+
+#: ../admin/models/page-model.php:29 ../admin/views/page/index.php:91
+#: ../admin/views/page/index.php:194 ../admin/views/page/index.php:512
+#: ../admin/views/page/index.php:529
+msgid "Unpublished"
+msgstr "Неопубликована"
+
+#: ../admin/models/page-model.php:33
+msgid "Choose layout"
+msgstr "Выберите шаблон"
+
+#: ../admin/models/page-model.php:42
+msgid "Default"
+msgstr "По умолчанию"
+
+#: ../admin/models/page-model.php:42
+msgid "Landing page"
+msgstr "Одностраничный"
+
+#: ../admin/views/page/add.php:11 ../admin/views/page/copy.php:11
+#: ../admin/views/page/edit.php:11 ../admin/views/page/index.php:50
+#: ../admin/views/page/index.php:245 ../page.php:38
+msgid "Pages"
+msgstr "Страницы"
+
+#: ../admin/views/page/add.php:11
+msgid "Add"
+msgstr "Добавить"
+
+#: ../admin/views/page/add.php:17 ../admin/views/page/copy.php:16
+#: ../admin/views/page/edit.php:16
+msgid "Please enter at least 1 character"
+msgstr "Введите хотя бы 1 символ"
+
+#: ../admin/views/page/add.php:18 ../admin/views/page/copy.php:17
+#: ../admin/views/page/edit.php:17
+msgid "URL already exists. Please use other url"
+msgstr "Эта ссылка уже есть. Введите другой URL"
+
+#: ../admin/views/page/add.php:19 ../admin/views/page/copy.php:18
+#: ../admin/views/page/edit.php:18
+msgid "URL should not be empty"
+msgstr "Ссылка не должна быть пустой"
+
+#: ../admin/views/page/add.php:29 ../admin/views/page/add.php:134
+#: ../admin/views/page/copy.php:29 ../admin/views/page/copy.php:133
+#: ../admin/views/page/edit.php:29 ../admin/views/page/edit.php:135
+msgid "Content"
+msgstr "Содержимое старницы"
+
+#: ../admin/views/page/add.php:30 ../admin/views/page/copy.php:30
+#: ../admin/views/page/edit.php:30
+msgid "Permission"
+msgstr "Права доступа"
+
+#: ../admin/views/page/add.php:31 ../admin/views/page/copy.php:31
+#: ../admin/views/page/edit.php:31
+msgid "Background settings"
+msgstr "Фон страницы"
+
+#: ../admin/views/page/add.php:39 ../admin/views/page/copy.php:39
+#: ../admin/views/page/edit.php:39 ../admin/views/page/index.php:125
+msgid "Title"
+msgstr "Заголовок"
+
+#: ../admin/views/page/add.php:53 ../admin/views/page/copy.php:53
+#: ../admin/views/page/edit.php:54
+msgid "URL"
+msgstr "Ссылка"
+
+#: ../admin/views/page/add.php:60 ../admin/views/page/copy.php:60
+#: ../admin/views/page/edit.php:61
+msgid "Edit URL"
+msgstr "Изменить ссылку"
+
+#: ../admin/views/page/add.php:61 ../admin/views/page/copy.php:61
+#: ../admin/views/page/edit.php:62 ../admin/views/page/index.php:26
+#: ../admin/views/page/index.php:31 ../admin/views/page/index.php:37
+msgid "Save"
+msgstr "Сохранить"
+
+#: ../admin/views/page/add.php:62 ../admin/views/page/copy.php:62
+#: ../admin/views/page/edit.php:63 ../admin/views/page/index.php:27
+#: ../admin/views/page/index.php:33 ../admin/views/page/index.php:38
+msgid "Cancel"
+msgstr "Отмена"
+
+#: ../admin/views/page/add.php:63 ../admin/views/page/edit.php:64
+msgid "Go to URL"
+msgstr "Перейти по этой ссылке"
+
+#: ../admin/views/page/add.php:74 ../admin/views/page/copy.php:73
+#: ../admin/views/page/edit.php:75
+msgid "Layout"
+msgstr "Шаблон"
+
+#: ../admin/views/page/add.php:85 ../admin/views/page/copy.php:84
+#: ../admin/views/page/edit.php:86 ../admin/views/page/index.php:161
+#: ../admin/views/page/index.php:263
+msgid "Status"
+msgstr "Статус"
+
+#: ../admin/views/page/add.php:96 ../admin/views/page/copy.php:95
+#: ../admin/views/page/edit.php:97
+msgid "Page Type"
+msgstr "Тип старницы"
+
+#: ../admin/views/page/add.php:109 ../admin/views/page/copy.php:108
+#: ../admin/views/page/edit.php:110
+msgid "Meta title"
+msgstr "Текст для тега title"
+
+#: ../admin/views/page/add.php:116 ../admin/views/page/copy.php:115
+#: ../admin/views/page/edit.php:117
+msgid "Meta keywords"
+msgstr "Текст для meta keywords"
+
+#: ../admin/views/page/add.php:123 ../admin/views/page/copy.php:122
+#: ../admin/views/page/edit.php:124
+msgid "Meta description"
+msgstr "Текст для meta description"
+
+#: ../admin/views/page/add.php:146 ../admin/views/page/copy.php:145
+#: ../admin/views/page/edit.php:147
+msgid "Groups"
+msgstr "Группы"
+
+#: ../admin/views/page/add.php:150 ../admin/views/page/copy.php:150
+#: ../admin/views/page/edit.php:152 ../admin/views/page/index.php:83
+#: ../admin/views/page/index.php:88
+msgid "All"
+msgstr "Все"
+
+#: ../admin/views/page/add.php:162 ../admin/views/page/copy.php:162
+#: ../admin/views/page/edit.php:164
+msgid "Users"
+msgstr "Пользователи"
+
+#: ../admin/views/page/add.php:192 ../admin/views/page/copy.php:195
+#: ../admin/views/page/edit.php:197
+msgid "Background color"
+msgstr "Цвет фона"
+
+#: ../admin/views/page/add.php:202 ../admin/views/page/copy.php:205
+#: ../admin/views/page/edit.php:207
+msgid "Wrapper background color"
+msgstr "Цвет под содержимым старницы"
+
+#: ../admin/views/page/add.php:214 ../admin/views/page/copy.php:217
+#: ../admin/views/page/edit.php:219
+msgid "Background images"
+msgstr "Фонове изображение"
+
+#: ../admin/views/page/add.php:261 ../admin/views/page/add.php:272
+#: ../admin/views/page/copy.php:264 ../admin/views/page/copy.php:275
+#: ../admin/views/page/edit.php:268 ../admin/views/page/edit.php:279
+#: ../admin/views/page/edit.php:308 ../admin/views/page/index.php:326
+#: ../admin/views/page/index.php:338 ../admin/views/page/index.php:359
+#: ../admin/views/page/index.php:391 ../admin/views/page/index.php:404
+#: ../admin/views/page/index.php:413 ../admin/views/page/index.php:420
+#: ../admin/views/page/index.php:435 ../admin/views/page/index.php:459
+#: ../admin/views/page/index.php:487 ../admin/views/page/index.php:504
+#: ../admin/views/page/index.php:521
+msgid "Loading..."
+msgstr "Загрузка..."
+
+#: ../admin/views/page/add.php:280 ../admin/views/page/copy.php:283
+#: ../admin/views/page/edit.php:287 ../admin/views/page/edit.php:317
+#: ../admin/views/page/index.php:368 ../admin/views/page/index.php:426
+#: ../admin/views/page/index.php:441 ../admin/views/page/index.php:464
+msgid "There is an error, please check again!"
+msgstr "Возникла ошибка. Повторите еще раз."
+
+#: ../admin/views/page/add.php:291
+msgid "Page is added successfully"
+msgstr "Странирца добавлена"
+
+#: ../admin/views/page/copy.php:11
+msgid "Copy"
+msgstr "Копировать"
+
+#: ../admin/views/page/copy.php:294
+msgid "Page is copied successfully"
+msgstr "Страница скопирована"
+
+#: ../admin/views/page/edit.php:11
+msgid "Edit"
+msgstr "Правка"
+
+#: ../admin/views/page/edit.php:298 ../admin/views/page/edit.php:324
+msgid "Page is updated successfully"
+msgstr "Страница обновлена"
+
+#: ../admin/views/page/index.php:5 ../admin/views/page/index.php:245
+#: ../admin/views/page/index.php:276
+msgid "Search"
+msgstr "Поиск"
+
+#: ../admin/views/page/index.php:22
+msgid "New"
+msgstr "Добавить новую"
+
+#: ../admin/views/page/index.php:32
+msgid "Apply"
+msgstr "Применить"
+
+#: ../admin/views/page/index.php:50
+msgid "List"
+msgstr "Список"
+
+#: ../admin/views/page/index.php:62
+msgid "Bulk Actions"
+msgstr "Быстрые действия"
+
+#: ../admin/views/page/index.php:67 ../admin/views/page/index.php:456
+msgid "Delete"
+msgstr "Удалить"
+
+#: ../admin/views/page/index.php:69
+msgid "Publish"
+msgstr "Опубликовать"
+
+#: ../admin/views/page/index.php:71
+msgid "Unpublish"
+msgstr "Снять с публикации"
+
+#: ../admin/views/page/index.php:143
+msgid "Created date"
+msgstr "Дата создания"
+
+#: ../admin/views/page/index.php:166
+msgid "Actions"
+msgstr "Действия"
+
+#: ../admin/views/page/index.php:243 ../admin/views/page/index.php:278
+msgid "Close"
+msgstr "Закрыть"
+
+#: ../admin/views/page/index.php:255
+msgid "Page title"
+msgstr "Заголвоок старницы"
+
+#: ../admin/views/page/index.php:352
+msgid "Are you sure to perform this action?"
+msgstr "Вы уверены?"
+
+#: ../admin/views/page/index.php:356
+msgid "OK"
+msgstr "OK"
+
+#: ../admin/views/page/index.php:366 ../admin/views/page/index.php:462
+msgid "Page is deleted successfully"
+msgstr "Страница удалена"
+
+#: ../admin/views/page/index.php:452
+msgid "Are you sure to delete this page?"
+msgstr "Вы хотите удалить страницу?"
+
+#: ../theme_options.php:29
+msgid "Select image"
+msgstr "Выберите изображение"
+
+#: ../theme_options.php:40
+msgid "Background position"
+msgstr "Положение фоновой картинки"
+
+#: ../theme_options.php:53
+msgid "Repeat"
+msgstr "Замостить на весь экран"
+
+#: ../theme_options.php:54
+msgid "Repeat-x"
+msgstr "Повторять по горизонтали"
+
+#: ../theme_options.php:55
+msgid "Repeat-y"
+msgstr "Повторять по вертикали"
+
+#: ../theme_options.php:56
+msgid "No-repeat"
+msgstr "Не повторять"
+
+#: ../theme_options.php:58
+msgid "Background repeat"
+msgstr "Повторение фона на странице"
+
+#: ../theme_options.php:78
+msgid "Background attachment"
+msgstr "Фоновая картинка"
+
+#: ../theme_options.php:84
+msgid "Scroll"
+msgstr "Фон будет скользить"
+
+#: ../theme_options.php:91
+msgid "Fixed"
+msgstr "Фон остается на месте"
+
+#: ../theme_options.php:103
+msgid "Color"
+msgstr "Цвет"
+
+#: ../theme_options.php:104
+msgid "Image"
+msgstr "Изображение"
+
+#: ../theme_options.php:106
+msgid "Background type"
+msgstr "Тип фона"
+
+#: ../theme_options.php:119
+msgid "Both"
+msgstr "Смешанный вариант"

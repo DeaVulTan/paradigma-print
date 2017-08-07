@@ -1,0 +1,116 @@
+
+{html:row}
+    {html:col}
+        {html:title size=2}Button{/html:title}
+    {/html:col}
+{/html:row}
+{html:row class='margin-bottom-15'}
+    {html:col}
+        {html:button class='margin-bottom-15 btn btn-danger' } danger{/html:button}
+        {html:button class='margin-bottom-15 btn btn-default' } default{/html:button}
+        {html:button class='margin-bottom-15 btn btn-primary' } primary{/html:button}
+        {html:button class='margin-bottom-15 btn btn-success' } success{/html:button}
+        {html:button class='margin-bottom-15 btn btn-info' } info{/html:button}
+        {html:button class='margin-bottom-15 btn btn-warning' }warning{/html:button}
+        {html:button class='margin-bottom-15 btn btn-link' }link{/html:button}
+    {/html:col}
+{/html:row}
+{html:code linenums='1'}{html:button class=&#39;btn btn-danger&#39; } danger{/html:button}<br />
+{html:button class=&#39;btn btn-default&#39; } default{/html:button}<br />
+{html:button class=&#39;btn btn-primary&#39; } primary{/html:button}<br />
+{html:button class=&#39;btn btn-success&#39; } success{/html:button}<br />
+{html:button class=&#39;btn btn-info&#39; } info{/html:button}<br />
+{html:button class=&#39;btn btn-warning&#39; }warning{/html:button}<br />
+{html:button class=&#39;btn btn-link&#39; }link{/html:button}{/html:code}
+
+{html:row}
+    {html:col}
+        {html:title size=2}Button Icon{/html:title}
+    {/html:col}
+{/html:row}
+{html:row class='margin-bottom-15'}
+    {html:col}
+        {html:button class='margin-bottom-15 btn btn-danger' }{html:icon name='trash-o'} Button{/html:button}
+        {html:button class='margin-bottom-15 btn btn-default' }{html:icon name='ban'} Button{/html:button}
+        {html:button class='margin-bottom-15 btn btn-primary' }{html:icon name='check'} Button{/html:button}
+        {html:button class='margin-bottom-15 btn btn-success' }{html:icon name='pencil-square-o'} Button{/html:button}
+        {html:button class='margin-bottom-15 btn btn-info' }{html:icon name='cogs'} Button{/html:button}
+        {html:button class='margin-bottom-15 btn btn-warning' }{html:icon name='wrench'} Button{/html:button}
+        {html:button class='margin-bottom-15 btn btn-link' }{html:icon name='question-circle'} Button{/html:button}
+    {/html:col}
+{/html:row}
+
+{html:code linenums='1'}{html:button class=&#39;btn btn-danger&#39; }{html:icon name=&#39;trash-o&#39;} Button{/html:button}<br />
+{html:button class=&#39;btn btn-default&#39; }{html:icon name=&#39;ban&#39;} Button{/html:button}<br />
+{html:button class=&#39;btn btn-primary&#39; }{html:icon name=&#39;check&#39;} Button{/html:button}<br />
+{html:button class=&#39;btn btn-success&#39; }{html:icon name=&#39;pencil-square-o&#39;} Button{/html:button}<br />
+{html:button class=&#39;btn btn-info&#39; }{html:icon name=&#39;cogs&#39;} Button{/html:button}<br />
+{html:button class=&#39;btn btn-warning&#39; }{html:icon name=&#39;wrench&#39;} Button{/html:button}<br />
+{html:button class=&#39;btn btn-link&#39; }{html:icon name=&#39;question-circle&#39;} Button{/html:button}{/html:code}
+
+{html:row}
+    {html:col}
+        {html:title size=2}Button Group{/html:title}
+    {/html:col}
+{/html:row}
+{html:row class='margin-bottom-15'}
+    {html:col}
+       {html:button_group}
+        {html:button class='margin-bottom-15 btn btn-danger' }{html:icon name='trash-o'} Button trash{/html:button}
+        {html:button class='margin-bottom-15 btn btn-danger' data-container="body" data-toggle="popover" data-placement="right" data-content="Vivamus sagittis lacus vel augue laoreet rutrum faucibus."}Other{/html:button}
+       {/html:button_group}
+       {html:button_group}
+         {html:button class='margin-bottom-15 btn btn-default' }{html:icon name='ban'} Button Ban{/html:button}
+         {html:button class='margin-bottom-15 btn btn-default' data-container="body" data-toggle="popover" data-placement="right" data-content="Vivamus sagittis lacus vel augue laoreet rutrum faucibus."}Other{/html:button}
+       {/html:button_group}
+       {html:button_group}
+            {html:button class='margin-bottom-15 btn btn-primary' }{html:icon name='check'} Button check{/html:button}
+            {html:button class='margin-bottom-15 btn btn-primary' data-container="body" data-toggle="popover" data-placement="right" data-content="Vivamus sagittis lacus vel augue laoreet rutrum faucibus."}Other{/html:button}
+       {/html:button_group}
+       {html:button_group}
+           {html:button class='margin-bottom-15 btn btn-success' }{html:icon name='pencil-square-o'} Button pencil{/html:button}
+           {html:button class='margin-bottom-15 btn btn-success' data-container="body" data-toggle="popover" data-placement="right" data-content="Vivamus sagittis lacus vel augue laoreet rutrum faucibus."}Other{/html:button}
+       {/html:button_group}
+       {html:button_group}
+            {html:button class='margin-bottom-15 btn btn-info' }{html:icon name='cogs'} Button info{/html:button}
+            {html:button class='margin-bottom-15 btn btn-info' data-container="body" data-toggle="popover" data-placement="right" data-content="Vivamus sagittis lacus vel augue laoreet rutrum faucibus."}Other{/html:button}
+       {/html:button_group}
+       {html:button_group}
+            {html:button class='margin-bottom-15 btn btn-warning' }{html:icon name='wrench'} Button wrench{/html:button}
+            {html:button class='margin-bottom-15 btn btn-warning' data-container="body" data-toggle="popover" data-placement="right" data-content="Vivamus sagittis lacus vel augue laoreet rutrum faucibus."}Other{/html:button}
+       {/html:button_group}
+       {html:button_group}
+            {html:button class='margin-bottom-15 btn btn-link' }{html:icon name='link'} Button link{/html:button}
+            {html:button class='margin-bottom-15 btn btn-link' data-container="body" data-toggle="popover" data-placement="right" data-content="Vivamus sagittis lacus vel augue laoreet rutrum faucibus."}Other{/html:button}
+       {/html:button_group}
+   {/html:col}
+{/html:row}
+
+{html:code linenums='1'}{html:button_group}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; {html:button class=&#39;btn btn-danger&#39; }{html:icon name=&#39;trash-o&#39;} Button trash{/html:button}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; {html:button class=&#39;btn btn-danger&#39; data-container=&quot;body&quot; data-toggle=&quot;popover&quot; data-placement=&quot;right&quot; data-content=&quot;Vivamus sagittis lacus vel augue laoreet rutrum faucibus.&quot;}Other{/html:button}<br />
+{/html:button_group}<br />
+{html:button_group}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; {html:button class=&#39;btn btn-default&#39; }{html:icon name=&#39;ban&#39;} Button Ban{/html:button}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; {html:button class=&#39;btn btn-default&#39; data-container=&quot;body&quot; data-toggle=&quot;popover&quot; data-placement=&quot;right&quot; data-content=&quot;Vivamus sagittis lacus vel augue laoreet rutrum faucibus.&quot;}Other{/html:button}<br />
+{/html:button_group}<br />
+{html:button_group}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; {html:button class=&#39;btn btn-primary&#39; }{html:icon name=&#39;check&#39;} Button check{/html:button}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; {html:button class=&#39;btn btn-primary&#39; data-container=&quot;body&quot; data-toggle=&quot;popover&quot; data-placement=&quot;right&quot; data-content=&quot;Vivamus sagittis lacus vel augue laoreet rutrum faucibus.&quot;}Other{/html:button}<br />
+{/html:button_group}<br />
+{html:button_group}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; {html:button class=&#39;btn btn-success&#39; }{html:icon name=&#39;pencil-square-o&#39;} Button pencil{/html:button}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; {html:button class=&#39;btn btn-success&#39; data-container=&quot;body&quot; data-toggle=&quot;popover&quot; data-placement=&quot;right&quot; data-content=&quot;Vivamus sagittis lacus vel augue laoreet rutrum faucibus.&quot;}Other{/html:button}<br />
+{/html:button_group}<br />
+{html:button_group}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; {html:button class=&#39;btn btn-info&#39; }{html:icon name=&#39;cogs&#39;} Button info{/html:button}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; {html:button class=&#39;btn btn-info&#39; data-container=&quot;body&quot; data-toggle=&quot;popover&quot; data-placement=&quot;right&quot; data-content=&quot;Vivamus sagittis lacus vel augue laoreet rutrum faucibus.&quot;}Other{/html:button}<br />
+{/html:button_group}<br />
+{html:button_group}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; {html:button class=&#39;btn btn-warning&#39; }{html:icon name=&#39;wrench&#39;} Button wrench{/html:button}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; {html:button class=&#39;btn btn-warning&#39; data-container=&quot;body&quot; data-toggle=&quot;popover&quot; data-placement=&quot;right&quot; data-content=&quot;Vivamus sagittis lacus vel augue laoreet rutrum faucibus.&quot;}Other{/html:button}<br />
+{/html:button_group}<br />
+{html:button_group}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; {html:button class=&#39;btn btn-link&#39; }{html:icon name=&#39;link&#39;} Button link{/html:button}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; {html:button class=&#39;btn btn-link&#39; data-container=&quot;body&quot; data-toggle=&quot;popover&quot; data-placement=&quot;right&quot; data-content=&quot;Vivamus sagittis lacus vel augue laoreet rutrum faucibus.&quot;}Other{/html:button}<br />
+{/html:button_group}{/html:code}

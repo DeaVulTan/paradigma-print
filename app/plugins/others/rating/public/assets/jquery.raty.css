@@ -1,0 +1,104 @@
+.cancel-on-png, .cancel-off-png, .star-on-png, .star-off-png, .star-half-png {
+    font-size: 14px;
+    line-height: 14px;
+}
+
+.body-green .cancel-on-png,.body-green .cancel-off-png, .body-green .star-on-png, .body-green .star-off-png, .body-green .star-half-png{
+    color: #27ae60
+}
+.body-blue .cancel-on-png,.body-blue .cancel-off-png, .body-blue .star-on-png, .body-blue .star-off-png, .body-blue .star-half-png{
+    color: #3498db
+}
+.body-red .cancel-on-png,.body-red .cancel-off-png, .body-red .star-on-png, .body-red .star-off-png, .body-red .star-half-png{
+    color: #e74c3c
+}
+.body-amethyst .cancel-on-png,.body-amethyst .cancel-off-png,.body-amethyst .star-on-png,.body-amethyst .star-off-png,.body-amethyst .star-half-png{
+    color: #9b59b6
+}
+
+.body-orange .cancel-on-png,.body-orange .cancel-off-png,.body-orange .star-on-png,.body-orange .star-off-png,.body-orange .star-half-png{
+    color: rgb(247,83,83)
+}
+.body-lblue .cancel-on-png,.body-lblue .cancel-off-png,.body-lblue .star-on-png,.body-lblue .star-off-png,.body-lblue .star-half-png{
+    color:rgb(50,200,222)
+}
+.body-black .cancel-on-png,.body-black .cancel-off-png,.body-black .star-on-png,.body-black .star-off-png,.body-black .star-half-png{
+    color:rgb(85,85,85)
+}
+.body-brown .cancel-on-png,.body-brown .cancel-off-png,.body-brown .star-on-png,.body-brown .star-off-png,.body-brown .star-half-png{
+    color:rgb(191,103,72)
+}
+.body-yellow .cancel-on-png,.body-yellow .cancel-off-png,.body-yellow .star-on-png,.body-yellow .star-off-png,.body-yellow .star-half-png{
+    color:rgb(233,197,27)
+}
+.body-rose .cancel-on-png,.body-rose .cancel-off-png,.body-rose .star-on-png,.body-rose .star-off-png,.body-rose .star-half-png{
+    color:rgb(255,91,231)
+}
+
+@font-face {
+    font-family: "raty";
+    font-style: normal;
+    font-weight: normal;
+    src: url("fonts/raty.eot");
+    src: url("fonts/raty.eot?#iefix") format("embedded-opentype");
+    src: url("fonts/raty.svg#raty") format("svg");
+    src: url("fonts/raty.ttf") format("truetype");
+    src: url("fonts/raty.woff") format("woff");
+}
+
+.cancel-on-png, .cancel-off-png, .star-on-png, .star-off-png, .star-half-png {
+    -moz-osx-font-smoothing: grayscale;
+    -webkit-font-smoothing: antialiased;
+    font-family: "raty";
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    line-height: 1;
+    speak: none;
+    text-transform: none;
+}
+
+.cancel-on-png:before {
+    content: "\e600";
+}
+
+.cancel-off-png:before {
+    content: "\e601";
+}
+
+.star-on-png:before {
+    content: "\f005";
+}
+
+.star-off-png:before {
+    content: "\f006";
+}
+
+.star-half-png:before {
+    content: "\f123";
+}
+
+.ratingWrap{
+    overflow: hidden;
+}
+.ratingBox {
+    display: inline-block;
+    margin-right: 8px;
+}
+.ratingWrap  strong{
+    display: inline-block;
+    font-size: 12px;
+    line-height: 14px;
+}
+
+.ratingWrap .messageRating{
+    clear: both;
+    font-size: 12px;
+    font-weight: bold;
+}
+.ratingWrap .messageRating.error{
+    color: #a94442;
+}
+.ratingWrap .messageRating.success{
+    color: #3c763d;
+}

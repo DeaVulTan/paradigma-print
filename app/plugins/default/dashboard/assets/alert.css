@@ -1,0 +1,49 @@
+.block{
+    margin-top: 15px;
+}
+.alerts {
+    padding: 15px;
+    margin-bottom: 20px;
+    border: 1px solid transparent;
+    border-radius: 4px;
+}
+.alerts h4 {
+    margin-top: 0;
+    color: inherit;
+}
+.alerts .alert-link {
+    font-weight: bold;
+}
+.alerts > p,
+.alerts > ul {
+    margin-bottom: 0;
+}
+.alerts > p + p {
+    margin-top: 5px;
+}
+.alerts {
+    padding-left: 30px;
+    margin-left: 15px;
+    position: relative;
+}
+.alerts > .fa,
+.alerts > .glyphicon {
+    position: absolute;
+    left: -15px;
+    top: -15px;
+    width: 35px;
+    height: 35px;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    border-radius: 50%;
+    line-height: 35px;
+    text-align: center;
+    background: inherit;
+    border: inherit;
+}
+.alert-dismissable .close {
+    position: relative;
+    top: -2px;
+    right: 0px;
+    color: inherit;
+}

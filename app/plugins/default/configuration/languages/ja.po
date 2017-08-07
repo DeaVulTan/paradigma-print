@@ -1,0 +1,564 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Configuration\n"
+"POT-Creation-Date: 2015-02-26 13:39+0700\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.4\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../admin-menu/templates/index.php:2 ../blacklist/templates/index.php:26
+#: ../email-templates/templates/index.php:59 ../settings/templates/index.php:4
+msgid "Save changes"
+msgstr "変更保存"
+
+#: ../admin-menu/templates/index.php:7 ../configuration.php:17
+msgid "Admin menu"
+msgstr "[管理]メニュー"
+
+#: ../admin-menu/templates/index.php:14
+#: ../admin-menu/templates/setting-menu-item-template.php:12
+msgid "Show"
+msgstr "ショー"
+
+#: ../admin-menu/templates/index.php:16
+#: ../admin-menu/templates/setting-menu-item-template.php:13
+msgid "Hide"
+msgstr "隠す"
+
+#: ../admin-menu/templates/index.php:47
+msgid "Admin menu setting is updated successfully"
+msgstr "管理メニューの設定が正常に更新されます"
+
+#: ../admin-menu/templates/setting-menu-item-template.php:3
+msgid "Item"
+msgstr "アイテム"
+
+#: ../admin-menu/templates/setting-menu-item-template.php:9
+msgid "Visibility"
+msgstr "可視性"
+
+#: ../admin-menu/templates/setting-menu-item-template.php:18
+msgid "Icon"
+msgstr "アイコン"
+
+#: ../admin-menu/templates/setting-menu-item-template.php:24
+msgid "Icon color"
+msgstr "アイコンの色"
+
+#: ../backup/action/main.php:33
+msgid "Backup file is removed successfully"
+msgstr "バックアップファイルの抜去が完了しました。"
+
+#: ../backup/action/main.php:49
+msgid "Access Denied!"
+msgstr "アクセスが拒否されました！"
+
+#: ../backup/action/main_tpl.php:14
+#, php-format
+msgid "<p>The backup folder does not exist. Please check folder <b>%s</b></p>"
+msgstr ""
+"<p>バックアップフォルダーが存在しません。フォルダーをご確認お願いします。 <b>"
+"%s</b></p>"
+
+#: ../backup/action/main_tpl.php:16
+#, php-format
+msgid "<p>The backup folder is not writable! Please check folder <b>%s</b></p>"
+msgstr ""
+"<p>バックアップフォルダーが書き込み不可です。フォルダーをご確認お願いいたしま"
+"す。<b>%s</b></p>"
+
+#: ../backup/action/main_tpl.php:18
+#, php-format
+msgid "<p>The backup folder is not readable! Please check folder <b>%s</b></p>"
+msgstr ""
+"<p>バックアップフォルダが読み込み不可です。フォルダーをご確認お願いします。"
+"<b>%s</b></p>"
+
+#: ../backup/action/main_tpl.php:26
+msgid "Backup - Restore"
+msgstr "バックアップ・復元"
+
+#: ../backup/action/main_tpl.php:39 ../backup/action/main_tpl.php:98
+msgid "Backup Now"
+msgstr "今すぐバックアップ"
+
+#: ../backup/action/main_tpl.php:40 ../backup/action/main_tpl.php:83
+msgid "Upload and Restore"
+msgstr "アップロードとリストア"
+
+#: ../backup/action/main_tpl.php:50 ../backup/backup-class.php:104
+#: ../error-log/templates/index.php:13
+msgid "File Name"
+msgstr "ファイル名"
+
+#: ../backup/action/main_tpl.php:51 ../backup/backup-class.php:105
+msgid "Created Date"
+msgstr "作成日"
+
+#: ../backup/action/main_tpl.php:52 ../backup/backup-class.php:106
+msgid "File Size (kB)"
+msgstr "ファイルサイズ（kB）"
+
+#: ../backup/action/main_tpl.php:53 ../backup/backup-class.php:107
+msgid "Actions"
+msgstr "アクション"
+
+#: ../backup/action/main_tpl.php:76
+msgid "Upload"
+msgstr "アップロード"
+
+#: ../backup/action/main_tpl.php:82
+msgid "Delete uploaded file after restore?"
+msgstr "リストア後にアップロードされたファイルを削除しますか？"
+
+#: ../backup/action/main_tpl.php:86
+msgid "Upload failed! Please try again"
+msgstr "アップロードに失敗しました！もう一度やり直してください"
+
+#: ../backup/action/main_tpl.php:87
+msgid "Please upload ZIP file only"
+msgstr "唯一のZIPファイルをアップロードしてください"
+
+#: ../backup/action/main_tpl.php:88 ../backup/backup-class.php:197
+msgid "Your file is not in Vitubo backup format."
+msgstr "あなたのファイルは、バックアップ形式Vituboではありません。"
+
+#: ../backup/action/main_tpl.php:95
+msgid "Action is performed successfully"
+msgstr "アクションが実施されました。"
+
+#: ../backup/action/main_tpl.php:96 ../error-log/templates/index.php:55
+msgid "Are you sure with this action?"
+msgstr "本当にこのアクションを実施したいですか？"
+
+#: ../backup/action/main_tpl.php:97
+msgid "Confirm"
+msgstr "確認する"
+
+#: ../backup/action/main_tpl.php:99
+msgid "Do you want to backup current database before uploading new one?"
+msgstr ""
+"あなたが新しいものをアップロードする前に、現在のデータベースをバックアップし"
+"ますか？"
+
+#: ../backup/action/main_tpl.php:100 ../backup/backup-class.php:180
+msgid "Backup successfully"
+msgstr "バックアップが完了しました。"
+
+#: ../backup/action/main_tpl.php:101
+msgid "Restore only"
+msgstr "のみの復元"
+
+#: ../backup/action/main_tpl.php:102
+msgid "Cancel"
+msgstr "キャンセル"
+
+#: ../backup/backup-class.php:59 ../backup/backup-class.php:86
+msgid "Restore"
+msgstr "復元"
+
+#: ../backup/backup-class.php:62 ../backup/backup-class.php:89
+msgid "Download"
+msgstr "ダウンロード"
+
+#: ../backup/backup-class.php:65 ../backup/backup-class.php:92
+#: ../error-log/templates/index.php:59
+msgid "Delete"
+msgstr "削除"
+
+#: ../backup/backup-class.php:231
+msgid "Restore successfully"
+msgstr "復元が完了しました。"
+
+#: ../blacklist/templates/index.php:6 ../configuration.php:21
+msgid "IP Blacklist"
+msgstr "IPブラックリスト"
+
+#: ../blacklist/templates/index.php:18
+msgid "Enter IP addresses here, one IP per line."
+msgstr "ここでは、IPアドレス、1行に1つのIPを入力します。"
+
+#: ../blacklist/templates/index.php:44
+msgid "Error update failed"
+msgstr "エラーページ"
+
+#: ../blacklist/templates/index.php:46
+msgid "Blacklist is updated successfully"
+msgstr "ブラックリストが正常に更新されます"
+
+#: ../configuration.php:4 ../configuration.php:14
+msgid "Configuration"
+msgstr "コンフィギュレーション"
+
+#: ../configuration.php:15 ../settings/templates/index.php:12
+msgid "Settings"
+msgstr "設定"
+
+#: ../configuration.php:16 ../email-templates/templates/index.php:6
+msgid "Email templates"
+msgstr "Eメールテンプレート"
+
+#: ../configuration.php:18
+msgid "Backup"
+msgstr "バックアップ"
+
+#: ../configuration.php:19 ../system-info/templates/index.php:6
+msgid "System information"
+msgstr "システム情報"
+
+#: ../configuration.php:20 ../error-log/templates/index.php:6
+msgid "Error log"
+msgstr "エラーログ"
+
+#: ../email-templates/templates/index.php:13
+msgid "Templates"
+msgstr "テンプレート"
+
+#: ../email-templates/templates/index.php:40
+msgid "Email subject"
+msgstr "Eメールの件名"
+
+#: ../email-templates/templates/index.php:44
+msgid "Email content"
+msgstr "Eメール内容"
+
+#: ../email-templates/templates/index.php:88
+msgid "Email template is updated successfully"
+msgstr "Eメールテンプレートが更新されました。"
+
+#: ../error-log/templates/index.php:12
+msgid "#"
+msgstr "#"
+
+#: ../error-log/templates/index.php:14
+msgid "Size"
+msgstr "サイズ"
+
+#: ../error-log/templates/index.php:15
+msgid "View"
+msgstr "ビュー"
+
+#: ../settings/templates/index.php:19
+msgid "General settings"
+msgstr "一般設定"
+
+#: ../settings/templates/index.php:35
+msgid "Site name"
+msgstr "サイト名"
+
+#: ../settings/templates/index.php:39
+msgid "Site offline"
+msgstr "サイトが一時的に稼動していません。"
+
+#: ../settings/templates/index.php:42 ../settings/templates/index.php:665
+#: ../settings/templates/index.php:855 ../settings/templates/index.php:862
+#: ../settings/templates/index.php:873
+msgid "Yes"
+msgstr "はい"
+
+#: ../settings/templates/index.php:43 ../settings/templates/index.php:666
+#: ../settings/templates/index.php:856 ../settings/templates/index.php:863
+#: ../settings/templates/index.php:874
+msgid "No"
+msgstr "いいえ"
+
+#: ../settings/templates/index.php:57
+msgid "Please choose the page which will be displayed in offline mode"
+msgstr "オフモードで表示するページをご選択お願いいたします。"
+
+#: ../settings/templates/index.php:63
+msgid "Accessibility"
+msgstr "接近性"
+
+#: ../settings/templates/index.php:68
+msgid "Everyone"
+msgstr "すべての人"
+
+#: ../settings/templates/index.php:69
+msgid "Member only"
+msgstr "メンバー専用"
+
+#: ../settings/templates/index.php:77
+msgid "Homepage"
+msgstr "ホームページ"
+
+#: ../settings/templates/index.php:92
+msgid "Error page"
+msgstr "エラーページ"
+
+#: ../settings/templates/index.php:107
+msgid "HTML Charset"
+msgstr "HTMLの文字セット"
+
+#: ../settings/templates/index.php:117
+msgid "Main Menu"
+msgstr "メインメニュー"
+
+#: ../settings/templates/index.php:136
+msgid "Backup Folder"
+msgstr "バックアップフォルダー"
+
+#: ../settings/templates/index.php:137
+msgid "Absolute path to backup folder, with slash in the end. Example:"
+msgstr "最後にスラッシュを使用したバックアップフォルダへの絶対パス。例："
+
+#: ../settings/templates/index.php:137
+msgid "For security reason, we recommend you to create new backup folder"
+msgstr ""
+"セキュリティ上の理由のために、私たちは新しいバックアップフォルダを作成するこ"
+"とをお勧め "
+
+#: ../settings/templates/index.php:140
+msgid "Items per page"
+msgstr "表示件数"
+
+#: ../settings/templates/index.php:154
+msgid "Timezone"
+msgstr "時間帯"
+
+#: ../settings/templates/index.php:579
+msgid "Short date"
+msgstr "短い日付"
+
+#: ../settings/templates/index.php:597
+msgid "Long date"
+msgstr "長い日付"
+
+#: ../settings/templates/index.php:613
+msgid "Mailer"
+msgstr "メイラー"
+
+#: ../settings/templates/index.php:616
+msgid "PHP"
+msgstr "PHP"
+
+#: ../settings/templates/index.php:617
+msgid "SMTP"
+msgstr "SMTP"
+
+#: ../settings/templates/index.php:632 ../settings/templates/index.php:634
+msgid "Server"
+msgstr "サーバー"
+
+#: ../settings/templates/index.php:635 ../settings/templates/index.php:643
+#: ../settings/templates/index.php:651 ../settings/templates/index.php:658
+msgid "The field is required"
+msgstr "フィールドは必須項目です"
+
+#: ../settings/templates/index.php:640 ../settings/templates/index.php:642
+msgid "Port"
+msgstr "Port"
+
+#: ../settings/templates/index.php:648 ../settings/templates/index.php:650
+msgid "Username"
+msgstr "ユーザ名"
+
+#: ../settings/templates/index.php:655 ../settings/templates/index.php:657
+msgid "Password"
+msgstr "パスワード"
+
+#: ../settings/templates/index.php:662
+msgid "SSL"
+msgstr "SSL"
+
+#: ../settings/templates/index.php:674
+msgid "Site meta keywords"
+msgstr "サイトメタキーワード"
+
+#: ../settings/templates/index.php:678
+msgid "Site meta description"
+msgstr "サイトメタ"
+
+#: ../settings/templates/index.php:682
+msgid "Site languages"
+msgstr "サイト言語"
+
+#: ../settings/templates/index.php:697
+msgid "HTML language"
+msgstr "HTML言語"
+
+#: ../settings/templates/index.php:853
+msgid "Enable log"
+msgstr "ログを有効化します。"
+
+#: ../settings/templates/index.php:860
+msgid "Enable search"
+msgstr "検索を有効化します。"
+
+#: ../settings/templates/index.php:867
+msgid "Google analytics"
+msgstr "グーグル分析"
+
+#: ../settings/templates/index.php:871
+msgid "Enable reCAPTCHA"
+msgstr "再セキュリティコードを有効化します。"
+
+#: ../settings/templates/index.php:878
+msgid "reCAPTCHA"
+msgstr "再セキュリティコード"
+
+#: ../settings/templates/index.php:881
+msgid "Public key"
+msgstr "公開キー"
+
+#: ../settings/templates/index.php:885
+msgid "Private key"
+msgstr "個人キー"
+
+#: ../settings/templates/index.php:962
+msgid "Configuration is updated successfully"
+msgstr "コンフィギュレーションが更新されました。"
+
+#: ../system-info/templates/index.php:12
+msgid "PHP Information"
+msgstr "PHP情報"
+
+#: ../system-info/templates/index.php:13
+msgid "Server Information"
+msgstr "Server Information"
+
+#: ../system-info/templates/index.php:22
+msgid "Current PHP Version "
+msgstr "Current PHP Version "
+
+#: ../system-info/templates/index.php:26
+msgid "GD version "
+msgstr "GD version "
+
+#: ../system-info/templates/index.php:30
+msgid "PHP Effective Memory Limit "
+msgstr "PHP Effective Memory Limit "
+
+#: ../system-info/templates/index.php:34
+msgid "Maximum Execution Time "
+msgstr "Maximum Execution Time "
+
+#: ../system-info/templates/index.php:38
+msgid "PHP output_buffering "
+msgstr "PHP output_buffering "
+
+#: ../system-info/templates/index.php:42
+msgid "PHP Safe Mode "
+msgstr "PHP Safe Mode "
+
+#: ../system-info/templates/index.php:46
+msgid "File uploads "
+msgstr "File uploads "
+
+#: ../system-info/templates/index.php:50
+msgid "Maximum Post Size "
+msgstr "Maximum Post Size "
+
+#: ../system-info/templates/index.php:54
+msgid "Maximum Upload Size"
+msgstr "Maximum Upload Size"
+
+#: ../system-info/templates/index.php:58
+msgid "Session Save Path "
+msgstr "Session Save Path "
+
+#: ../system-info/templates/index.php:62
+msgid "Sessions are allowed to use Cookies"
+msgstr "Sessions are allowed to use Cookies"
+
+#: ../system-info/templates/index.php:66
+msgid "Checking for the XMLReader class "
+msgstr "Checking for the XMLReader class "
+
+#: ../system-info/templates/index.php:70
+msgid "PHP register_gobals "
+msgstr "PHP register_gobals "
+
+#: ../system-info/templates/index.php:74
+msgid "PHP Open Basedir "
+msgstr "PHP Open Basedir "
+
+#: ../system-info/templates/index.php:78
+msgid "Curl version "
+msgstr "Curl version "
+
+#: ../system-info/templates/index.php:87
+msgid "Server API "
+msgstr "Server API "
+
+#: ../system-info/templates/index.php:91
+msgid "Server Database Version "
+msgstr "Server Database Version "
+
+#: ../system-info/templates/index.php:95
+msgid "Server software"
+msgstr "Server software"
+
+#: ../system-info/templates/index.php:99
+msgid "Server IP"
+msgstr "Server IP"
+
+#: ../system-info/templates/index.php:103
+msgid "Server doccument root"
+msgstr "Server doccument root"
+
+#: ../system-info/templates/index.php:107
+msgid "Server Operating System "
+msgstr "Server Operating System "
+
+#~ msgid "Awesome Icons"
+#~ msgstr "Awesome Icons"
+
+#~ msgid "Web Application Icons"
+#~ msgstr "Web Application Icons"
+
+#~ msgid "File Type Icons"
+#~ msgstr "File Type Icons"
+
+#~ msgid "Spinner Icons"
+#~ msgstr "Spinner Icons"
+
+#~ msgid "Form Control Icons"
+#~ msgstr "Form Control Icons"
+
+#~ msgid "Payment Icons"
+#~ msgstr "Payment Icons"
+
+#~ msgid "Chart Icons"
+#~ msgstr "Chart Icons"
+
+#~ msgid "Currency Icons"
+#~ msgstr "Currency Icons"
+
+#~ msgid "Text Editor Icons"
+#~ msgstr "Text Editor Icons"
+
+#~ msgid "Directional Icons"
+#~ msgstr "Directional Icons"
+
+#~ msgid "Video Player Icons"
+#~ msgstr "Video Player Icons"
+
+#~ msgid "Brand Icons"
+#~ msgstr "Brand Icons"
+
+#~ msgid "Medical Icons"
+#~ msgstr "Medical Icons"
+
+#~ msgid "Default page"
+#~ msgstr "デフォールトページ"
+
+#~ msgid "Top content"
+#~ msgstr "トップ内容"
+
+#~ msgid "Bottom content"
+#~ msgstr "ボトム内容"
+
+#~ msgid "Restore unsuccessfully"
+#~ msgstr "失敗したリストアの"
+
+#~ msgid "Website email"
+#~ msgstr "ウェブサイトEメール"

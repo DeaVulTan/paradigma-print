@@ -1,0 +1,281 @@
+/*Theme Post*/
+.margin-bottom-40{
+    margin-bottom: 40px;
+}
+.post-lists .post-item h2 {
+    color: #555555;
+    font-size: 21px;
+    margin: 0px 0px 10px;
+}
+.post-lists .post-item .post-info li {
+    color: #777777;
+    font-size: 13px;
+    line-height: 1.3;
+}
+.post-item .metadata{
+    overflow: hidden;
+}
+.post-item .metadata > li{
+    display: block;
+    float: left;
+}
+.post-lists .post-item .description{
+    margin-bottom: 10px;
+}
+.post-item img.thumbnails{
+    border: 1px solid #eee;
+    margin: 5px 10px 5px 5px;
+    padding: 10px;
+    width: 250px;
+}
+.post-item .description{
+    overflow: hidden;
+}
+.post-item .tag-lists{
+    clear: both;
+}
+.post-item .tag-lists a:before {
+    color: #fff;
+    content: "";
+    font-family: FontAwesome;
+    margin-right: 5px;
+}
+.post-item .tag-lists a{
+    background-color: #27ae60;
+    color: #fff;
+    display: inline-block;
+    font-size: 12px;
+    margin: 4px 4px 4px 0;
+    padding: 3px 4px;
+    text-decoration: none;
+    white-space: nowrap;
+}
+.post-item img.thumbnails.left{
+    margin-left: 10px;
+    margin-right: 0px;
+}
+.post-item img.thumbnails.right{
+    margin-left: 0px;
+    margin-right: 10px;
+}
+.post-lists.right .post-item img.thumbnails{
+    margin-left: 10px;
+    margin-right: 5px;
+}
+.post-item .metadata > li{
+    padding: 0px 5px;
+}
+@media (max-width: 360px) {
+    .post-lists .visible-xs-custom{
+        display: inline-block;
+    }
+}
+
+/* Timeline */
+.post-lists .timeline-info .shortdate{
+    display: block;
+    color: #999;
+    font-style: italic;
+    padding: 5px 6px;
+}
+.post-lists .timeline .blg-summary.post-item .description{
+    overflow: hidden;
+}
+.post-lists .timeline .post-item .thumbnails{
+    width: 180px;
+    padding: 5px;
+}
+.post-lists .timeline .item-date{
+    border-radius: 50%;
+    color: #fff;
+    padding-top: 2px;
+    position: absolute;
+    text-align: center;
+    top: 0;
+    width: 30px;
+    height: 30px;
+    font-size: 9px;
+}
+.post-lists .timeline .item-date strong{
+    display: inline-block;
+    border-bottom: 1px solid #fff;
+}
+.post-lists .timeline .item-date span{
+    display: block;
+    font-weight: bold;
+}
+/* Left */
+/*.post-lists .timeline.left{
+    border-left: 3px solid #eee;
+    margin-left: 50px;
+    padding: 30px 0px 30px 30px;
+}
+.post-lists .timeline.left .item-date{
+    top: 0px;
+    left: -46px;
+}
+*/
+@media (max-width: 768px) { /* Removing timeline for mobile */
+    .post-lists .timeline.left{
+        border-left: 0;
+        padding-left: 0;
+        margin-left: 0;
+    }
+}
+.post-lists .visible-xs-custom{
+    display: none;
+}
+/* Right */
+.post-lists .timeline.right{
+    border-right: 3px solid #eee;
+    margin-right: 50px;
+    padding: 30px 30px 30px 0px;
+}
+.post-lists .timeline.right .item-date{
+    top: 0px;
+    right: -46px;
+}
+
+@media (max-width: 768px) { /* Removing timeline for mobile */
+    .post-lists .timeline.right{
+        border-right: 0;
+        padding-right: 0;
+        margin-right: 0;
+    }
+}
+/* Mid */
+.post-lists .timeline.mid{
+    overflow: hidden;
+}
+.post-lists .timeline.mid:after{
+    background: #eee;
+    content: "";
+    display: block;
+    height: 100%;
+    left: 50%;
+    margin-left: -2px;
+    opacity: 0.35;
+    position: absolute;
+    width: 3px;
+    top: 0px;
+}
+.post-lists .timeline.mid .post-item {
+    background-color: #fff;
+    border-radius: 6px;
+    float: left;
+    margin: 20px 10px 30px;
+    padding: 20px;
+    position: relative;
+    width: 43%;
+    z-index: 1;
+}
+.post-lists .timeline.mid .post-item h2{
+    font-size: 18px;
+}
+.post-lists .timeline.mid .post-item.pull-right{
+    margin-top: 120px;
+}
+.post-lists .timeline.mid .post-item .item-date{
+    top: 18px;
+}
+.post-lists .timeline.mid .post-item.pull-left .item-date {
+    right: -86px;
+}
+.post-lists .timeline.mid .post-item.pull-right .item-date {
+    left: -86px;
+}
+@media (max-width: 768px) { /* Removing timeline for mobile */
+    .post-lists .timeline.mid:after{
+        width: 100%;
+        background: #fff;
+    }
+    .post-lists .timeline.mid .post-item{
+        width: 100%;
+        float: none !important;
+        margin: 30px 0 0 0 !important;
+        padding: 0px;
+    }
+}
+
+/* Full Width */
+.post-lists .full-width .description{
+    margin-bottom: 15px;
+}
+
+/* Multi Columns */
+.post-lists .multiple-columns .item{
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+.post-lists .multiple-columns h2{
+    font-size: 18px;
+}
+.post-lists .multiple-columns .item img{
+    margin-bottom: 10px;
+}
+.post-lists .multiple-columns .description{
+    text-align: justify;
+    margin-bottom: 10px;
+}
+
+/* POST Detail*/
+.post-detail .content{
+    margin-bottom: 10px;
+}
+.post-detail .tag-lists a{
+    color: #27AE60;
+    padding: 0px;
+    margin: 0px;
+}
+
+/* PAGINATION */
+.post-lists .load-more {
+    position: relative;
+    margin-top: 60px;
+}
+
+.ajaxLoader{
+    display: none;
+    margin: 20px 0px;
+}
+.ajaxLoader img{
+    display: block;
+    margin: 0px auto;
+}
+
+.loading-timeline{
+    display: block;
+}
+
+.pagination-posts i.loading-timeline{
+    display: none;
+}
+
+/*Post Theme Multiple Columns 06/10/2014*/
+.post-lists .multiple-columns .item .post-item{
+    box-shadow: 0 0 5px #DBD4D4;
+    padding: 20px;
+}
+.post-lists .multiple-columns .item img{
+    width: 100%;
+}
+
+.post-lists > .default > .row > .col-md-12 > h3{margin: 0px 0px 10px 0px}
+.post-lists > .default > .row > .col-md-12 > h3 > a{
+font-size: 20px;
+font-family: 'Source Sans Pro', sans-serif;
+font-weight: 400;
+margin: 0 0 5px 0;
+-webkit-transition: color 300ms;
+-o-transition: color 300ms;
+transition: color 300ms;
+color: #333333;
+}
+.post-lists > .default > .row > .col-md-12 > h3 > a:hover {
+color: #ed3e49;
+text-decoration: none;
+}
+.panel-body > ul.b-categories-list > li{float: left;}
+.panel-body > ul.b-categories-list > li > a{text-transform: none;padding-top: 0px;clear: left;}
+.post-lists > .row > .multiple-columns > .item > .post-item > h2 > a{color: #333333;text-decoration: none}
+.post-lists > .row > .multiple-columns > .item > .post-item > h2 > a:hover{color: #ed3e49;}

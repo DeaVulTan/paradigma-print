@@ -1,0 +1,52 @@
+
+{html:row}
+    {html:col}
+        {html:title size=2}Social Icons{/html:title}
+    {/html:col}
+{/html:row}
+{html:row}
+   {html:col}
+            {social:rss} http://demo-cms.vitubo.com{/social:rss}
+            {social:facebook} http://demo-cms.vitubo.com{/social:facebook}
+            {social:twitter} http://demo-cms.vitubo.com{/social:twitter}
+            {social:vimeo} http://demo-cms.vitubo.com{/social:vimeo}
+            {social:googleplus} http://demo-cms.vitubo.com{/social:googleplus}
+            {social:pintrest} http://demo-cms.vitubo.com{/social:pintrest}
+            {social:linkedin} http://demo-cms.vitubo.com{/social:linkedin}
+            {social:dropbox} http://demo-cms.vitubo.com{/social:dropbox}
+            {social:picasa} http://demo-cms.vitubo.com{/social:picasa}
+            {social:spotify} http://demo-cms.vitubo.com{/social:spotify}
+            {social:jolicloud} http://demo-cms.vitubo.com{/social:jolicloud}
+            {social:wordpress} http://demo-cms.vitubo.com{/social:wordpress}
+            {social:github} http://demo-cms.vitubo.com{/social:github}
+            {social:xing} http://demo-cms.vitubo.com{/social:xing}
+    {/html:col}
+{/html:row}
+{html:code linenums='1'}<br />
+&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp; {social:rss} http://demo-cms.vitubo.com{/social:rss}<br />
+&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp; {social:facebook} http://demo-cms.vitubo.com{/social:facebook}<br />
+&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp; {social:twitter} http://demo-cms.vitubo.com{/social:twitter}<br />
+&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp; {social:vimeo} http://demo-cms.vitubo.com{/social:vimeo}<br />
+&nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; {social:googleplus} http://demo-cms.vitubo.com{/social:googleplus}<br />
+&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp; {social:pintrest} http://demo-cms.vitubo.com{/social:pintrest}<br />
+&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp; {social:linkedin} http://demo-cms.vitubo.com{/social:linkedin}<br />
+&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp; {social:dropbox} http://demo-cms.vitubo.com{/social:dropbox}<br />
+&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp; {social:picasa} http://demo-cms.vitubo.com{/social:picasa}<br />
+&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp; {social:spotify} http://demo-cms.vitubo.com{/social:spotify}<br />
+&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp; {social:jolicloud} http://demo-cms.vitubo.com{/social:jolicloud}<br />
+&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp; {social:wordpress} http://demo-cms.vitubo.com{/social:wordpress}<br />
+&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp; {social:github} http://demo-cms.vitubo.com{/social:github}<br />
+&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp; {social:xing} http://demo-cms.vitubo.com{/social:xing}<br />
+{/html:code}
+
+{html:row}
+    {html:col}
+        {html:title size=2}Lastest Tweets{/html:title}
+    {/html:col}
+{/html:row}
+{html:row class='margin-bottom-15'}
+    {html:col}
+        {social:tweets twitter='vitubocms' num=3}{/social:tweets}
+    {/html:col}
+{/html:row}
+{html:code}{social:tweets twitter='vitubocms' num=3}{/social:tweets}{/html:code}

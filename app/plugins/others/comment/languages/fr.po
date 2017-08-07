@@ -1,0 +1,335 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Comment\n"
+"POT-Creation-Date: 2015-01-19 15:26+0700\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.4\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../admin/views/comment/edit.php:11 ../admin/views/comment/index.php:37
+#: ../admin/views/comment/index.php:269 ../comment-config.php:32
+#: ../shortcodes/views/emails/approve.php:9
+msgid "Comment"
+msgstr "Commentaire"
+
+#: ../admin/views/comment/edit.php:11 ../helper.php:33
+#: ../shortcodes/views/comment/element.php:43
+msgid "Edit"
+msgstr "Modifier"
+
+#: ../admin/views/comment/edit.php:23 ../admin/views/comment/index.php:122
+#: ../admin/views/comment/index.php:280
+msgid "Content"
+msgstr "Contenu"
+
+#: ../admin/views/comment/edit.php:50 ../admin/views/comment/edit.php:61
+#: ../admin/views/comment/edit.php:84 ../admin/views/comment/index.php:381
+#: ../admin/views/comment/index.php:393 ../admin/views/comment/index.php:414
+#: ../admin/views/comment/index.php:446 ../admin/views/comment/index.php:459
+#: ../admin/views/comment/index.php:468 ../admin/views/comment/index.php:475
+#: ../admin/views/comment/index.php:490 ../admin/views/comment/index.php:514
+#: ../admin/views/comment/index.php:542 ../admin/views/comment/index.php:559
+#: ../admin/views/comment/index.php:576
+msgid "Loading..."
+msgstr "Chargement ..."
+
+#: ../admin/views/comment/edit.php:69 ../admin/views/comment/edit.php:95
+#: ../admin/views/comment/index.php:423 ../admin/views/comment/index.php:481
+#: ../admin/views/comment/index.php:496 ../admin/views/comment/index.php:519
+msgid "There is an error, please check again!"
+msgstr "Il ya une erreur, se il vous plaît vérifier à nouveau!"
+
+#: ../admin/views/comment/edit.php:74 ../admin/views/comment/edit.php:93
+msgid "Comment is updated successfully"
+msgstr "Commentaire est mis à jour avec succès"
+
+#: ../admin/views/comment/index.php:5 ../admin/views/comment/index.php:269
+#: ../admin/views/comment/index.php:299
+msgid "Search"
+msgstr "Recherche"
+
+#: ../admin/views/comment/index.php:23
+#: ../shortcodes/views/comment/element.php:71
+msgid "Save"
+msgstr "Conserver"
+
+#: ../admin/views/comment/index.php:24
+msgid "Apply"
+msgstr "Appliquer"
+
+#: ../admin/views/comment/index.php:25
+msgid "Cancel"
+msgstr "Annuler"
+
+#: ../admin/views/comment/index.php:37
+msgid "List"
+msgstr "Liste"
+
+#: ../admin/views/comment/index.php:49
+msgid "Bulk Actions"
+msgstr "Actions globales"
+
+#: ../admin/views/comment/index.php:54 ../admin/views/comment/index.php:511
+msgid "Delete"
+msgstr "Effacer"
+
+#: ../admin/views/comment/index.php:56
+msgid "Publish"
+msgstr "Publier"
+
+#: ../admin/views/comment/index.php:58
+msgid "Unpublish"
+msgstr "Dépublier"
+
+#: ../admin/views/comment/index.php:71 ../admin/views/comment/index.php:76
+msgid "All"
+msgstr "Tout"
+
+#: ../admin/views/comment/index.php:77 ../admin/views/comment/index.php:220
+#: ../admin/views/comment/index.php:565 ../admin/views/comment/index.php:582
+msgid "Published"
+msgstr "Publié"
+
+#: ../admin/views/comment/index.php:79 ../admin/views/comment/index.php:224
+#: ../admin/views/comment/index.php:567 ../admin/views/comment/index.php:584
+msgid "Unpublished"
+msgstr "Dépulié"
+
+#: ../admin/views/comment/index.php:144 ../admin/views/comment/index.php:288
+msgid "Author"
+msgstr "Auteur"
+
+#: ../admin/views/comment/index.php:166
+msgid "Comment date"
+msgstr "Jour de commentaire "
+
+#: ../admin/views/comment/index.php:188
+msgid "Status"
+msgstr "Statut"
+
+#: ../admin/views/comment/index.php:195
+msgid "Actions"
+msgstr "Actes"
+
+#: ../admin/views/comment/index.php:230
+msgid "View comment field"
+msgstr "Voir champ de commentaire"
+
+#: ../admin/views/comment/index.php:267 ../admin/views/comment/index.php:300
+#: ../admin/views/comment/index.php:342
+#: ../shortcodes/views/comment/element.php:70
+msgid "Close"
+msgstr "Fermer"
+
+#: ../admin/views/comment/index.php:335
+msgid "Detail comment"
+msgstr "Détail commentaire"
+
+#: ../admin/views/comment/index.php:407
+msgid "Are you sure to perform this action?"
+msgstr "Etes-vous sûr de vouloir effectuer cette action?"
+
+#: ../admin/views/comment/index.php:411
+msgid "OK"
+msgstr "OK"
+
+#: ../admin/views/comment/index.php:421 ../admin/views/comment/index.php:517
+msgid "Comment is deleted successfully"
+msgstr "Commentaire supprimé avec succès"
+
+#: ../admin/views/comment/index.php:507
+#: ../shortcodes/views/comment/include.php:6
+msgid "Are you sure to delete this comment?"
+msgstr "Etes-vous sûr de vouloir supprimer ce commentaire?"
+
+#: ../comment-config.php:17
+msgid "Comment settings"
+msgstr "Paramètres des commentaires"
+
+#: ../comment-config.php:22
+msgid "Enable comment?"
+msgstr "Activer commentaire?"
+
+#: ../comment-config.php:23
+msgid "Comment approval?"
+msgstr "Commentaire approbation?"
+
+#: ../comment-config.php:24
+msgid "Ordering"
+msgstr "Commande"
+
+#: ../comment-config.php:27
+msgid "Who will approve comment?"
+msgstr "Qui approuvera commentaire?"
+
+#: ../comment-config.php:28
+msgid "Maximum characters"
+msgstr "Caractères maximum"
+
+#: ../comment-config.php:33
+msgid "Comment notification"
+msgstr "Notification de commentaire"
+
+#: ../comment.php:34 ../shortcodes/views/comment/display.php:22
+#: ../shortcodes/views/comment/display.php:33
+msgid "Comments"
+msgstr "Commentaires"
+
+#: ../helper.php:31 ../shortcodes/views/comment/element.php:17
+#: ../shortcodes/views/comment/element.php:47
+msgid "Reply"
+msgstr "Répondre"
+
+#: ../helper.php:34 ../shortcodes/views/comment/element.php:51
+msgid "Remove"
+msgstr "Supprimer"
+
+#: ../shortcodes/views/comment/display.php:29
+msgid "In order to comment, please sign in"
+msgstr "Pour commenter, veuillez vous connecter "
+
+#: ../shortcodes/views/comment/element.php:32
+msgid "a few seconds ago"
+msgstr "il ya quelques secondes"
+
+#: ../shortcodes/views/comment/include.php:7
+msgid "Comment can not be empty and less than "
+msgstr "Commentaire ne peut être vide et moins de"
+
+#: ../shortcodes/views/comment/include.php:8
+msgid ""
+"You do not have permission or the session has ended. Please visit again!"
+msgstr ""
+"Vous n'avez pas la permission ou la session est terminée. Veuillez visiter à "
+"nouveau!"
+
+#: ../shortcodes/views/comment/include.php:9
+msgid "There was an error Please try again"
+msgstr "Il y avait une erreur, veuillez essayer à nouveau"
+
+#: ../shortcodes/views/comment/include.php:10
+msgid "Thank you for comment. We will moderate and approve it maximum 8 hours."
+msgstr ""
+"Merci pour le commentaire. Nous le modérerons et l'approuverons un maximum "
+"de 8 heures."
+
+#: ../shortcodes/views/comment/include.php:11
+msgid "The message field is required."
+msgstr "Le champ de message est requis."
+
+#: ../shortcodes/views/emails/approve.php:7
+msgid "Site name"
+msgstr "Nom du site"
+
+#: ../shortcodes/views/emails/approve.php:8
+msgid "Username"
+msgstr "Nom d'utilisateur"
+
+#~ msgid "Custom fields"
+#~ msgstr "Les champs personnalisés"
+
+#~ msgid "An error has occurred. Please try again"
+#~ msgstr "Une erreur s'est produite. Veuillez essayer à nouveau"
+
+#~ msgid "Status is updated successfully"
+#~ msgstr "L'état est mis à jour avec succès"
+
+#~ msgid "This name already exists."
+#~ msgstr "Ce nom existe déjà."
+
+#~ msgid "Custom fields are updated successfully."
+#~ msgstr "Les champs personnalisés sont mis à jour avec succès."
+
+#~ msgid "Comment Form"
+#~ msgstr "Formulaire de commentaires"
+
+#~ msgid "Comment Display"
+#~ msgstr "Commentaire affichage"
+
+#~ msgid "Name"
+#~ msgstr "Nom"
+
+#~ msgid "Value"
+#~ msgstr "Valeur"
+
+#~ msgid "ID"
+#~ msgstr "ID"
+
+#~ msgid "Class"
+#~ msgstr "Class"
+
+#~ msgid "Rows"
+#~ msgstr "Rows"
+
+#~ msgid "Cols"
+#~ msgstr "Cols"
+
+#~ msgid "Collections"
+#~ msgstr "Collections"
+
+#~ msgid "Add item"
+#~ msgstr "Ajouter un objet"
+
+#~ msgid "Placeholder"
+#~ msgstr "Placeholder"
+
+#~ msgid "Read only"
+#~ msgstr "Lecture seule"
+
+#~ msgid "Yes"
+#~ msgstr "Oui"
+
+#~ msgid "No"
+#~ msgstr "Cucun"
+
+#~ msgid "Required"
+#~ msgstr "Requis"
+
+#~ msgid "Min length"
+#~ msgstr "Longueur min"
+
+#~ msgid "Max length"
+#~ msgstr "Longueur max"
+
+#~ msgid "Update"
+#~ msgstr "Mise à jour"
+
+#~ msgid "No comment is selected"
+#~ msgstr "Aucun commentaire est sélectionné"
+
+#~ msgid "Please enter a search term"
+#~ msgstr "Veuillez entrer un terme de recherche"
+
+#~ msgid "Please choose an author"
+#~ msgstr "Veuillez choisir un auteur"
+
+#~ msgid ""
+#~ "Content must be at least 2 characters and no more than 500 characters"
+#~ msgstr ""
+#~ "Le contenu doit être au moins 2 caractères et pas plus de 500 caractères"
+
+#~ msgid "Incorrect ID"
+#~ msgstr "Mauvaise ID"
+
+#~ msgid "No custom field data"
+#~ msgstr "Pas de données de champs personnalisés"
+
+#~ msgid "Edit comment"
+#~ msgstr "Modifier ce commentaire"
+
+#~ msgid "Select Action "
+#~ msgstr "Sélectionner une action"
+
+#~ msgid "Please enter the search conditions"
+#~ msgstr "Veuillez entrer les critères de recherche"
+
+#~ msgid "%s"
+#~ msgstr "%s"

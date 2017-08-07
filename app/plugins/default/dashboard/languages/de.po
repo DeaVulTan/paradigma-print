@@ -1,0 +1,178 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Dashboard\n"
+"POT-Creation-Date: 2014-06-03 15:59+0700\n"
+"PO-Revision-Date: 2014-06-03 15:59+0700\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.4\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../dashboard-config-array.php:25
+msgid "Comments"
+msgstr "Kommentare"
+
+#: ../dashboard-config-array.php:31
+msgid "Latest Unpublished Comments"
+msgstr "Unveröffentlichte Neueste Kommentare"
+
+#: ../dashboard-config-array.php:51
+msgid "Users"
+msgstr "Benutzer"
+
+#: ../dashboard-config-array.php:64
+msgid "Posts"
+msgstr "Beiträge"
+
+#: ../dashboard-config-array.php:71
+msgid "Latest Unpublished Posts"
+msgstr "Neueste Unveröffentlichte Beiträge"
+
+#: ../dashboard-config-array.php:91
+msgid "Pages"
+msgstr "Seiten"
+
+#: ../dashboard.php:14 ../dashboard.php:71
+msgid "Dashboard"
+msgstr "Armaturenbrett"
+
+#: ../views/main.php:7
+msgid "Please rename or remove installation directory"
+msgstr "Bitte benennen oder entfernen Installationsverzeichnis"
+
+#: ../views/main.php:19
+msgid "Are you sure to change this event?"
+msgstr "Sind Sie sicher, um dieses Ereignis zu ändern?"
+
+#: ../views/main.php:20
+msgid "Are you sure to drop this event?"
+msgstr "Sind Sie sicher, dass Sie diese Veranstaltung fallen zu lassen?"
+
+#: ../views/main.php:21
+msgid "Content must be at least [1] characters and no more than [2] characters"
+msgstr ""
+"Inhalt muss mindestens [1] Zeichen lang sein und nicht mehr als [2] Zeichen"
+
+#: ../views/main.php:22
+msgid "Content should not be empty"
+msgstr "Inhalt sollte nicht leer sein"
+
+#: ../views/main.php:23
+msgid "Wrong format!"
+msgstr "Falsches Format!"
+
+#: ../views/main.php:37
+msgid "View Event"
+msgstr "View Event"
+
+#: ../views/main.php:53 ../views/main.php:138 ../views/main.php:142
+msgid "Title"
+msgstr "Titel"
+
+#: ../views/main.php:61 ../views/main.php:149 ../views/main.php:153
+msgid "Url"
+msgstr "Url"
+
+#: ../views/main.php:64
+msgid "Go to this URL"
+msgstr "Gehen Sie zu dieser URL"
+
+#: ../views/main.php:70 ../views/main.php:161 ../views/main.php:168
+msgid "Start Date"
+msgstr "Startdatum"
+
+#: ../views/main.php:81 ../views/main.php:177 ../views/main.php:182
+msgid "End Date"
+msgstr "End Date"
+
+#: ../views/main.php:93 ../views/main.php:193 ../views/main.php:197
+#: ../views/main.php:225 ../views/widget/approve.php:36
+msgid "Content"
+msgstr "Inhalt"
+
+#: ../views/main.php:102
+msgid "Delete"
+msgstr "Löschen"
+
+#: ../views/main.php:103
+msgid "Edit"
+msgstr "Bearbeiten"
+
+#: ../views/main.php:104 ../views/main.php:205 ../views/main.php:232
+msgid "Close"
+msgstr "In der Nähe"
+
+#: ../views/main.php:122
+msgid "Event Manager"
+msgstr "Event Manager"
+
+#: ../views/main.php:206
+msgid "Save"
+msgstr "Sparen"
+
+#: ../views/main.php:218 ../views/widget/approve.php:62
+msgid "View "
+msgstr "Anzeigen"
+
+#: ../views/widget/approve.php:19 ../views/widget/approve.php:21
+msgid "View All"
+msgstr "Alle anzeigen"
+
+#: ../views/widget/approve.php:24 ../views/widget/approve.php:26
+msgid "Public All"
+msgstr "Öffentliche Alle"
+
+#: ../views/widget/approve.php:37
+msgid "Author"
+msgstr "Autor"
+
+#: ../views/widget/approve.php:38
+msgid "Date"
+msgstr "Datum"
+
+#: ../views/widget/approve.php:39
+msgid "View"
+msgstr "Anzeigen"
+
+#: ../views/widget/approve.php:75
+msgid "There are "
+msgstr "Es gibt"
+
+#: ../views/widget/approve.php:77
+msgid "unpublished items"
+msgstr "Unveröffentlichte Artikel"
+
+#: ../views/widget/approve.php:80
+msgid "Publish"
+msgstr "Veröffentlichen"
+
+#: ../views/widget/calendar.php:3
+msgid "Are you sure with this action?"
+msgstr "Sind Sie sicher, dass mit dieser Aktion?"
+
+#: ../views/widget/calendar.php:10
+msgid "My Calendar"
+msgstr "Mein Kalender"
+
+#: ../views/widget/calendar.php:18
+msgid "Add new event"
+msgstr "Neues Ereignis hinzufügen"
+
+#: ../views/widget/calendar.php:19
+msgid "Clear events"
+msgstr "Klar Veranstaltungen"
+
+#: ../views/widget/calendar.php:21
+msgid "Clear all events"
+msgstr "Deaktivieren Sie alle Veranstaltungen"
+
+#: ../views/widget/count.php:18
+msgid "Details"
+msgstr "Details"

@@ -1,0 +1,245 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Libraries\n"
+"POT-Creation-Date: 2014-10-13 10:46+0700\n"
+"PO-Revision-Date: 2015-03-01 18:46+0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ru_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.4\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../common/libs/category/pf-lib-category.php:62
+msgid "No parent"
+msgstr "Нет родителя"
+
+#: ../common/plugin/helpers/helper.php:334
+msgid "No date provided"
+msgstr "No date provided"
+
+#: ../common/plugin/helpers/helper.php:338
+msgid "second"
+msgstr "сек."
+
+#: ../common/plugin/helpers/helper.php:339
+msgid "minute"
+msgstr "мин."
+
+#: ../common/plugin/helpers/helper.php:340
+msgid "hour"
+msgstr "час."
+
+#: ../common/plugin/helpers/helper.php:341
+msgid "day"
+msgstr "день"
+
+#: ../common/plugin/helpers/helper.php:342
+msgid "week"
+msgstr "неделя"
+
+#: ../common/plugin/helpers/helper.php:343
+msgid "month"
+msgstr "месяц"
+
+#: ../common/plugin/helpers/helper.php:344
+msgid "year"
+msgstr "год"
+
+#: ../common/plugin/helpers/helper.php:345
+msgid "decade"
+msgstr "декада"
+
+#: ../common/plugin/helpers/helper.php:359
+msgid "Bad date"
+msgstr "Неверная дата"
+
+#: ../common/plugin/helpers/helper.php:364
+msgid "ago"
+msgstr "спустя"
+
+#: ../common/plugin/helpers/helper.php:367
+msgid "from now"
+msgstr "сейчас"
+
+#: ../common/plugin/helpers/helper.php:452
+#: ../common/plugin/helpers/helper.php:467
+msgid "Published"
+msgstr "Опубликован"
+
+#: ../common/plugin/helpers/helper.php:455
+#: ../common/plugin/helpers/helper.php:463
+msgid "Unpublished"
+msgstr "Снят с публикации"
+
+#: ../common/plugin/helpers/helper.php:465
+msgid "All status"
+msgstr "Все статусы"
+
+#: ../common/plugin/utiles/pf-plugin-setting.php:37
+msgid "Yes "
+msgstr "Да"
+
+#: ../common/plugin/utiles/pf-plugin-setting.php:38
+msgid "No"
+msgstr "Нет"
+
+#: ../gump/gump.class.php:397 ../gump/gump.class.php:400
+#: ../gump/gump.class.php:403 ../gump/gump.class.php:407
+#: ../gump/gump.class.php:409 ../gump/gump.class.php:414
+#: ../gump/gump.class.php:416 ../gump/gump.class.php:421
+#: ../gump/gump.class.php:423 ../gump/gump.class.php:427
+#: ../gump/gump.class.php:430 ../gump/gump.class.php:433
+#: ../gump/gump.class.php:436 ../gump/gump.class.php:439
+#: ../gump/gump.class.php:442 ../gump/gump.class.php:445
+#: ../gump/gump.class.php:448 ../gump/gump.class.php:451
+#: ../gump/gump.class.php:454 ../gump/gump.class.php:457
+#: ../gump/gump.class.php:460 ../gump/gump.class.php:463
+#: ../gump/gump.class.php:466 ../gump/gump.class.php:469
+#: ../gump/gump.class.php:472 ../gump/gump.class.php:475
+#: ../gump/gump.class.php:478
+msgid "The "
+msgstr "The "
+
+#: ../gump/gump.class.php:397 ../gump/gump.class.php:400
+msgid "field is required"
+msgstr "поле обязательно"
+
+#: ../gump/gump.class.php:403
+msgid "field is required to be a valid email address"
+msgstr "field is required to be a valid email address"
+
+#: ../gump/gump.class.php:407 ../gump/gump.class.php:409
+#: ../gump/gump.class.php:414 ../gump/gump.class.php:416
+msgid "field needs to be shorter than"
+msgstr "field needs to be shorter than"
+
+#: ../gump/gump.class.php:407 ../gump/gump.class.php:409
+#: ../gump/gump.class.php:414 ../gump/gump.class.php:416
+msgid "characters"
+msgstr "символы"
+
+#: ../gump/gump.class.php:421 ../gump/gump.class.php:423
+msgid "field needs to be exactly"
+msgstr "field needs to be exactly"
+
+#: ../gump/gump.class.php:421 ../gump/gump.class.php:423
+msgid "characters in length"
+msgstr "characters in length"
+
+#: ../gump/gump.class.php:427
+msgid "field may only contain alpha characters(a-z)"
+msgstr "field may only contain alpha characters(a-z)"
+
+#: ../gump/gump.class.php:430
+msgid "field may only contain alpha and space characters."
+msgstr "field may only contain alpha and space characters."
+
+#: ../gump/gump.class.php:433
+msgid "field may only contain alpha-numeric characters"
+msgstr "field may only contain alpha-numeric characters"
+
+#: ../gump/gump.class.php:436
+msgid "field may only contain alpha characters &amp; dashes"
+msgstr "field may only contain alpha characters &amp; dashes"
+
+#: ../gump/gump.class.php:439
+msgid "field may only contain numeric characters"
+msgstr "field may only contain numeric characters"
+
+#: ../gump/gump.class.php:442
+msgid "field may only contain a numeric value"
+msgstr "поле должно содержать только цифры"
+
+#: ../gump/gump.class.php:445
+msgid "field may only contain a true or false value"
+msgstr "field may only contain a true or false value"
+
+#: ../gump/gump.class.php:448
+msgid "field may only contain a float value"
+msgstr "field may only contain a float value"
+
+#: ../gump/gump.class.php:451
+msgid "field is required to be a valid URL"
+msgstr "field is required to be a valid URL"
+
+#: ../gump/gump.class.php:454
+msgid "URL does not exist"
+msgstr "URL не существует"
+
+#: ../gump/gump.class.php:457
+msgid "field needs to contain a valid IP address"
+msgstr "field needs to contain a valid IP address"
+
+#: ../gump/gump.class.php:460
+msgid "field needs to contain a valid credit card number"
+msgstr "field needs to contain a valid credit card number"
+
+#: ../gump/gump.class.php:463
+msgid "field needs to contain a valid human name"
+msgstr "field needs to contain a valid human name"
+
+#: ../gump/gump.class.php:466
+msgid "field needs to contain one of these values"
+msgstr "field needs to contain one of these values"
+
+#: ../gump/gump.class.php:469
+msgid "field needs to be a valid street address"
+msgstr "field needs to be a valid street address"
+
+#: ../gump/gump.class.php:472
+msgid "field needs to be a valid date (yyyy-dd-mm)"
+msgstr "field needs to be a valid date (yyyy-dd-mm)"
+
+#: ../gump/gump.class.php:475
+msgid "field needs to be a numeric value, equal to, or higher than "
+msgstr "field needs to be a numeric value, equal to, or higher than "
+
+#: ../gump/gump.class.php:478
+msgid "field needs to be a numeric value, equal to, or lower than "
+msgstr "field needs to be a numeric value, equal to, or lower than "
+
+#: ../paginator-class.php:63
+msgid "Displaying records "
+msgstr "Displaying records "
+
+#: ../paginator-class.php:63
+msgid " of "
+msgstr " of "
+
+#: ../paginator-class.php:65
+msgid "Displaying "
+msgstr "Отображение"
+
+#: ../paginator-class.php:65
+msgid " records "
+msgstr "записей"
+
+#: ../paginator-class.php:89
+msgid "Page: "
+msgstr "Страница:"
+
+#: ../paginator-class.php:122 ../paginator-class.php:124
+msgid "Previous"
+msgstr "Предыдущая"
+
+#: ../paginator-class.php:171 ../paginator-class.php:173
+msgid "Next"
+msgstr "Следующая"
+
+#~ msgid "An error has occurred! Please try again later"
+#~ msgstr "An error has occurred! Please try again later"
+
+#~ msgid "Yes"
+#~ msgstr "Yes"
+
+#~ msgid "character in length"
+#~ msgstr "character in length"
+
+#~ msgid "Error"
+#~ msgstr "Error"

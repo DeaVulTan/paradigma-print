@@ -1,0 +1,397 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Pages\n"
+"POT-Creation-Date: 2015-01-19 13:52+0700\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.4\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../admin/models/page-model.php:29 ../admin/views/page/index.php:89
+#: ../admin/views/page/index.php:190 ../admin/views/page/index.php:510
+#: ../admin/views/page/index.php:527
+msgid "Published"
+msgstr "公開されました"
+
+#: ../admin/models/page-model.php:29 ../admin/views/page/index.php:91
+#: ../admin/views/page/index.php:194 ../admin/views/page/index.php:512
+#: ../admin/views/page/index.php:529
+msgid "Unpublished"
+msgstr "非公開されました"
+
+#: ../admin/models/page-model.php:33
+msgid "Choose layout"
+msgstr "レイアウト"
+
+#: ../admin/models/page-model.php:42
+msgid "Default"
+msgstr "デフォルト"
+
+#: ../admin/models/page-model.php:42
+msgid "Landing page"
+msgstr "ランディングページ"
+
+#: ../admin/views/page/add.php:11 ../admin/views/page/copy.php:11
+#: ../admin/views/page/edit.php:11 ../admin/views/page/index.php:50
+#: ../admin/views/page/index.php:245 ../page.php:38
+msgid "Pages"
+msgstr "ページ"
+
+#: ../admin/views/page/add.php:11
+msgid "Add"
+msgstr "加える"
+
+#: ../admin/views/page/add.php:17 ../admin/views/page/copy.php:16
+#: ../admin/views/page/edit.php:16
+msgid "Please enter at least 1 character"
+msgstr "少なくとも1文字をご入力ください。"
+
+#: ../admin/views/page/add.php:18 ../admin/views/page/copy.php:17
+#: ../admin/views/page/edit.php:17
+msgid "URL already exists. Please use other url"
+msgstr "ご入力されたURLが既に存在しています。他のURLをご利用ください。"
+
+#: ../admin/views/page/add.php:19 ../admin/views/page/copy.php:18
+#: ../admin/views/page/edit.php:18
+msgid "URL should not be empty"
+msgstr "URLは空ではないこと。"
+
+#: ../admin/views/page/add.php:29 ../admin/views/page/add.php:134
+#: ../admin/views/page/copy.php:29 ../admin/views/page/copy.php:133
+#: ../admin/views/page/edit.php:29 ../admin/views/page/edit.php:135
+msgid "Content"
+msgstr "内容"
+
+#: ../admin/views/page/add.php:30 ../admin/views/page/copy.php:30
+#: ../admin/views/page/edit.php:30
+msgid "Permission"
+msgstr "許可"
+
+#: ../admin/views/page/add.php:31 ../admin/views/page/copy.php:31
+#: ../admin/views/page/edit.php:31
+msgid "Background settings"
+msgstr "背景の設定"
+
+#: ../admin/views/page/add.php:39 ../admin/views/page/copy.php:39
+#: ../admin/views/page/edit.php:39 ../admin/views/page/index.php:125
+msgid "Title"
+msgstr "タイトル"
+
+#: ../admin/views/page/add.php:53 ../admin/views/page/copy.php:53
+#: ../admin/views/page/edit.php:54
+msgid "URL"
+msgstr "URL"
+
+#: ../admin/views/page/add.php:60 ../admin/views/page/copy.php:60
+#: ../admin/views/page/edit.php:61
+msgid "Edit URL"
+msgstr "URL編集"
+
+#: ../admin/views/page/add.php:61 ../admin/views/page/copy.php:61
+#: ../admin/views/page/edit.php:62 ../admin/views/page/index.php:26
+#: ../admin/views/page/index.php:31 ../admin/views/page/index.php:37
+msgid "Save"
+msgstr "保存"
+
+#: ../admin/views/page/add.php:62 ../admin/views/page/copy.php:62
+#: ../admin/views/page/edit.php:63 ../admin/views/page/index.php:27
+#: ../admin/views/page/index.php:33 ../admin/views/page/index.php:38
+msgid "Cancel"
+msgstr "キャンセル"
+
+#: ../admin/views/page/add.php:63 ../admin/views/page/edit.php:64
+msgid "Go to URL"
+msgstr "URLに移動"
+
+#: ../admin/views/page/add.php:74 ../admin/views/page/copy.php:73
+#: ../admin/views/page/edit.php:75
+msgid "Layout"
+msgstr "レイアウト"
+
+#: ../admin/views/page/add.php:85 ../admin/views/page/copy.php:84
+#: ../admin/views/page/edit.php:86 ../admin/views/page/index.php:161
+#: ../admin/views/page/index.php:263
+msgid "Status"
+msgstr "ステータス"
+
+#: ../admin/views/page/add.php:96 ../admin/views/page/copy.php:95
+#: ../admin/views/page/edit.php:97
+msgid "Page Type"
+msgstr "ページタイプ"
+
+#: ../admin/views/page/add.php:109 ../admin/views/page/copy.php:108
+#: ../admin/views/page/edit.php:110
+msgid "Meta title"
+msgstr "Metaのタイトル"
+
+#: ../admin/views/page/add.php:116 ../admin/views/page/copy.php:115
+#: ../admin/views/page/edit.php:117
+msgid "Meta keywords"
+msgstr "Metaのキーワード"
+
+#: ../admin/views/page/add.php:123 ../admin/views/page/copy.php:122
+#: ../admin/views/page/edit.php:124
+msgid "Meta description"
+msgstr "Metaの説明"
+
+#: ../admin/views/page/add.php:146 ../admin/views/page/copy.php:145
+#: ../admin/views/page/edit.php:147
+msgid "Groups"
+msgstr "グループ"
+
+#: ../admin/views/page/add.php:150 ../admin/views/page/copy.php:150
+#: ../admin/views/page/edit.php:152 ../admin/views/page/index.php:83
+#: ../admin/views/page/index.php:88
+msgid "All"
+msgstr "全部"
+
+#: ../admin/views/page/add.php:162 ../admin/views/page/copy.php:162
+#: ../admin/views/page/edit.php:164
+msgid "Users"
+msgstr "ユーザー"
+
+#: ../admin/views/page/add.php:192 ../admin/views/page/copy.php:195
+#: ../admin/views/page/edit.php:197
+msgid "Background color"
+msgstr "背景色"
+
+#: ../admin/views/page/add.php:202 ../admin/views/page/copy.php:205
+#: ../admin/views/page/edit.php:207
+msgid "Wrapper background color"
+msgstr "ラッパーの背景色"
+
+#: ../admin/views/page/add.php:214 ../admin/views/page/copy.php:217
+#: ../admin/views/page/edit.php:219
+msgid "Background images"
+msgstr "背景画像"
+
+#: ../admin/views/page/add.php:261 ../admin/views/page/add.php:272
+#: ../admin/views/page/copy.php:264 ../admin/views/page/copy.php:275
+#: ../admin/views/page/edit.php:268 ../admin/views/page/edit.php:279
+#: ../admin/views/page/edit.php:308 ../admin/views/page/index.php:326
+#: ../admin/views/page/index.php:338 ../admin/views/page/index.php:359
+#: ../admin/views/page/index.php:391 ../admin/views/page/index.php:404
+#: ../admin/views/page/index.php:413 ../admin/views/page/index.php:420
+#: ../admin/views/page/index.php:435 ../admin/views/page/index.php:459
+#: ../admin/views/page/index.php:487 ../admin/views/page/index.php:504
+#: ../admin/views/page/index.php:521
+msgid "Loading..."
+msgstr "読み込んでいます..."
+
+#: ../admin/views/page/add.php:280 ../admin/views/page/copy.php:283
+#: ../admin/views/page/edit.php:287 ../admin/views/page/edit.php:317
+#: ../admin/views/page/index.php:368 ../admin/views/page/index.php:426
+#: ../admin/views/page/index.php:441 ../admin/views/page/index.php:464
+msgid "There is an error, please check again!"
+msgstr "エラーがあると、再度確認してください！"
+
+#: ../admin/views/page/add.php:291
+msgid "Page is added successfully"
+msgstr "ページが正常に追加された"
+
+#: ../admin/views/page/copy.php:11
+msgid "Copy"
+msgstr "コピー"
+
+#: ../admin/views/page/copy.php:294
+msgid "Page is copied successfully"
+msgstr "ページが正常にコピーされている"
+
+#: ../admin/views/page/edit.php:11
+msgid "Edit"
+msgstr "編集"
+
+#: ../admin/views/page/edit.php:298 ../admin/views/page/edit.php:324
+msgid "Page is updated successfully"
+msgstr "ページが正常に更新されている"
+
+#: ../admin/views/page/index.php:5 ../admin/views/page/index.php:245
+#: ../admin/views/page/index.php:276
+msgid "Search"
+msgstr "検索"
+
+#: ../admin/views/page/index.php:22
+msgid "New"
+msgstr "新しい"
+
+#: ../admin/views/page/index.php:32
+msgid "Apply"
+msgstr "適用する"
+
+#: ../admin/views/page/index.php:50
+msgid "List"
+msgstr "リスト"
+
+#: ../admin/views/page/index.php:62
+msgid "Bulk Actions"
+msgstr "一括操作"
+
+#: ../admin/views/page/index.php:67 ../admin/views/page/index.php:456
+msgid "Delete"
+msgstr "削除"
+
+#: ../admin/views/page/index.php:69
+msgid "Publish"
+msgstr "公開"
+
+#: ../admin/views/page/index.php:71
+msgid "Unpublish"
+msgstr "非公開"
+
+#: ../admin/views/page/index.php:143
+msgid "Created date"
+msgstr "作成日付"
+
+#: ../admin/views/page/index.php:166
+msgid "Actions"
+msgstr "アクション"
+
+#: ../admin/views/page/index.php:243 ../admin/views/page/index.php:278
+msgid "Close"
+msgstr "クローズ"
+
+#: ../admin/views/page/index.php:255
+msgid "Page title"
+msgstr "ページタイトル"
+
+#: ../admin/views/page/index.php:352
+msgid "Are you sure to perform this action?"
+msgstr "あなたはこのアクションを実行しますか？"
+
+#: ../admin/views/page/index.php:356
+msgid "OK"
+msgstr "OK"
+
+#: ../admin/views/page/index.php:366 ../admin/views/page/index.php:462
+msgid "Page is deleted successfully"
+msgstr "ページが削除されました。"
+
+#: ../admin/views/page/index.php:452
+msgid "Are you sure to delete this page?"
+msgstr "本ページを削除しても宜しいでしょうか？"
+
+#: ../theme_options.php:29
+msgid "Select image"
+msgstr "画像を選択"
+
+#: ../theme_options.php:40
+msgid "Background position"
+msgstr "背景の位置"
+
+#: ../theme_options.php:53
+msgid "Repeat"
+msgstr "リピート"
+
+#: ../theme_options.php:54
+msgid "Repeat-x"
+msgstr "リピート-X"
+
+#: ../theme_options.php:55
+msgid "Repeat-y"
+msgstr "リピート-Y"
+
+#: ../theme_options.php:56
+msgid "No-repeat"
+msgstr "繰り返しなしません"
+
+#: ../theme_options.php:58
+msgid "Background repeat"
+msgstr "背景リピート"
+
+#: ../theme_options.php:78
+msgid "Background attachment"
+msgstr "背景添付ファイル"
+
+#: ../theme_options.php:84
+msgid "Scroll"
+msgstr "スクロール"
+
+#: ../theme_options.php:91
+msgid "Fixed"
+msgstr "一定の"
+
+#: ../theme_options.php:103
+msgid "Color"
+msgstr "カラー"
+
+#: ../theme_options.php:104
+msgid "Image"
+msgstr "画像"
+
+#: ../theme_options.php:106
+msgid "Background type"
+msgstr "背景タイプ"
+
+#: ../theme_options.php:119
+msgid "Both"
+msgstr "両方"
+
+#~ msgid "Status is updated successfully"
+#~ msgstr "ステータスが更新されました。"
+
+#~ msgid "An error has occurred. Please try again"
+#~ msgstr "エラーが発生しました。もう一度お願いいたします。"
+
+#~ msgid "You have successfully created page new"
+#~ msgstr "新しいページを作成できました。"
+
+#~ msgid "Please check the data field!"
+#~ msgstr "データフィールドをご確認お願いいたします！"
+
+#~ msgid "You have successfully updated page"
+#~ msgstr "ぺーじの更新が完了されました。"
+
+#~ msgid "Page"
+#~ msgstr "ページ"
+
+#~ msgid "New Page"
+#~ msgstr "ページ作成"
+
+#~ msgid "No page are selected"
+#~ msgstr "選択されたページはありません。"
+
+#~ msgid "Please enter a search term"
+#~ msgstr "検索項目をご入力ください。"
+
+#~ msgid "Please enter title of the page"
+#~ msgstr "本ページのタイトルをご入力ください。"
+
+#~ msgid "%s"
+#~ msgstr "%s"
+
+#~ msgid "Sort by"
+#~ msgstr "並び替え"
+
+#~ msgid "Date"
+#~ msgstr "日付"
+
+#~ msgid "Alphabet"
+#~ msgstr "アルファベット"
+
+#~ msgid "Descending"
+#~ msgstr "降順"
+
+#~ msgid "Ascending"
+#~ msgstr "上昇する"
+
+#~ msgid "Duplicate page"
+#~ msgstr "重複ページ"
+
+#~ msgid "There is no page"
+#~ msgstr "こちらはページがありません。"
+
+#~ msgid "Visible Group"
+#~ msgstr "可視グループ"
+
+#~ msgid "Visible Users"
+#~ msgstr "可視ユーザー"
+
+#~ msgid "Slider"
+#~ msgstr "スライダー"

@@ -1,0 +1,11 @@
+@CHARSET "UTF-8";
+.table-configuration > tbody > tr  > th{
+    background-color: #F9F9F9;    
+}
+
+.nav-email-template-left > .email-template-item{
+    border-bottom:1px solid #EEEEEE;
+}
+.requiredfield {
+    color: red;
+}

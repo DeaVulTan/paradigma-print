@@ -1,0 +1,74 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Media\n"
+"POT-Creation-Date: 2015-02-26 13:53+0700\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.4\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../media-config.php:17
+msgid "Media settings"
+msgstr "媒体设置"
+
+#: ../media-config.php:49
+msgid "Path (Ex: uploads/)"
+msgstr "路径 （例如：上传/）"
+
+#: ../media-config.php:50
+msgid "Maximum size of upload file (MB)"
+msgstr "上传文件的最大尺寸（MB）"
+
+#: ../media-config.php:51
+msgid "Image file extention (jpg, png, gif...)"
+msgstr "图片文件扩展名 （jpg, png, gif 等）"
+
+#: ../media-config.php:52
+msgid "Audio file extention (mp3, ogg, wav...)"
+msgstr "音频文件扩展名 (mp3, ogg, wav 等)"
+
+#: ../media-config.php:53
+msgid "Video file extention file(mp4, mov, mpeg...)"
+msgstr "视频文件扩展名 (mp4, mov, mpeg 等)"
+
+#: ../media-config.php:54
+msgid "Document file extention"
+msgstr "文档文件扩展名"
+
+#: ../media-config.php:55
+msgid "Misc file extention"
+msgstr "杂项文件扩展名"
+
+#: ../media-config.php:56
+msgid "Hidden folder (do not remove: thumbnails)"
+msgstr "隐藏文件夹（不要删除：缩略图）"
+
+#: ../media-config.php:57
+msgid "Hidden file"
+msgstr "隐藏文件"
+
+#: ../media-config.php:58
+msgid "Allow image resize when upload"
+msgstr "让图像大小调整时上传"
+
+#: ../media-config.php:59
+msgid "Image width"
+msgstr "图像宽度"
+
+#: ../media-config.php:60
+msgid "Image height"
+msgstr "图像高度"
+
+#: ../media.php:4 ../media.php:29
+msgid "Media"
+msgstr "媒体"
+
+#~ msgid "Allow using java"
+#~ msgstr "允许使用Java"

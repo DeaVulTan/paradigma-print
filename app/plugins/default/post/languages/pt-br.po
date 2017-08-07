@@ -1,0 +1,502 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Post\n"
+"POT-Creation-Date: 2015-01-19 14:17+0700\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Alexandre Benegas <info@adaptivemobile.com.br>\n"
+"Language-Team: Alexandre Benegas <info@adaptivemobile.com.br>\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.5\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../admin/models/category-model.php:23 ../admin/models/post-model.php:27
+#: ../admin/views/category/index.php:88 ../admin/views/category/index.php:226
+#: ../admin/views/category/index.php:577 ../admin/views/category/index.php:594
+#: ../admin/views/post/index.php:88 ../admin/views/post/index.php:225
+#: ../admin/views/post/index.php:583 ../admin/views/post/index.php:600
+msgid "Published"
+msgstr "Publicado"
+
+#: ../admin/models/category-model.php:23 ../admin/models/post-model.php:27
+#: ../admin/views/category/index.php:90 ../admin/views/category/index.php:228
+#: ../admin/views/category/index.php:579 ../admin/views/category/index.php:596
+#: ../admin/views/post/index.php:90 ../admin/views/post/index.php:227
+#: ../admin/views/post/index.php:585 ../admin/views/post/index.php:602
+msgid "Unpublished"
+msgstr "Não publicado"
+
+#: ../admin/models/post-model.php:31 ../admin/models/post-model.php:35
+msgid "Yes"
+msgstr "Sim"
+
+#: ../admin/models/post-model.php:31 ../admin/models/post-model.php:35
+msgid "No"
+msgstr "Não"
+
+#: ../admin/views/category/add.php:11 ../admin/views/category/copy.php:11
+#: ../admin/views/category/edit.php:11 ../admin/views/category/index.php:50
+#: ../admin/views/category/index.php:278 ../admin/views/post/add.php:42
+#: ../admin/views/post/copy.php:33 ../admin/views/post/edit.php:33
+#: ../admin/views/post/index.php:155 ../admin/views/post/index.php:295
+#: ../post.php:70
+msgid "Category"
+msgstr "Categoria"
+
+#: ../admin/views/category/add.php:11 ../admin/views/post/add.php:11
+msgid "Add"
+msgstr "Adicionar"
+
+#: ../admin/views/category/add.php:25 ../admin/views/category/copy.php:25
+#: ../admin/views/category/edit.php:25 ../admin/views/category/index.php:133
+#: ../admin/views/category/index.php:290
+msgid "Name"
+msgstr "Nome"
+
+#: ../admin/views/category/add.php:37 ../admin/views/category/copy.php:37
+#: ../admin/views/category/edit.php:37 ../admin/views/category/index.php:199
+#: ../admin/views/category/index.php:307 ../admin/views/post/add.php:74
+#: ../admin/views/post/copy.php:64 ../admin/views/post/edit.php:65
+#: ../admin/views/post/index.php:199 ../admin/views/post/index.php:315
+msgid "Status"
+msgstr "Situação"
+
+#: ../admin/views/category/add.php:52 ../admin/views/category/copy.php:52
+#: ../admin/views/category/edit.php:52
+msgid "Parent"
+msgstr "Parent"
+
+#: ../admin/views/category/add.php:72 ../admin/views/category/copy.php:72
+#: ../admin/views/category/edit.php:72 ../admin/views/category/index.php:155
+#: ../admin/views/category/index.php:299
+msgid "Description"
+msgstr "Descrição"
+
+#: ../admin/views/category/add.php:96 ../admin/views/category/add.php:107
+#: ../admin/views/category/copy.php:96 ../admin/views/category/copy.php:107
+#: ../admin/views/category/edit.php:97 ../admin/views/category/edit.php:108
+#: ../admin/views/category/edit.php:131 ../admin/views/category/index.php:369
+#: ../admin/views/category/index.php:381 ../admin/views/category/index.php:402
+#: ../admin/views/category/index.php:444 ../admin/views/category/index.php:457
+#: ../admin/views/category/index.php:466 ../admin/views/category/index.php:473
+#: ../admin/views/category/index.php:488 ../admin/views/category/index.php:512
+#: ../admin/views/category/index.php:542 ../admin/views/category/index.php:558
+#: ../admin/views/category/index.php:571 ../admin/views/category/index.php:588
+#: ../admin/views/post/add.php:181 ../admin/views/post/add.php:192
+#: ../admin/views/post/copy.php:166 ../admin/views/post/copy.php:177
+#: ../admin/views/post/edit.php:172 ../admin/views/post/edit.php:183
+#: ../admin/views/post/edit.php:206 ../admin/views/post/index.php:376
+#: ../admin/views/post/index.php:388 ../admin/views/post/index.php:409
+#: ../admin/views/post/index.php:452 ../admin/views/post/index.php:465
+#: ../admin/views/post/index.php:474 ../admin/views/post/index.php:481
+#: ../admin/views/post/index.php:496 ../admin/views/post/index.php:520
+#: ../admin/views/post/index.php:548 ../admin/views/post/index.php:564
+#: ../admin/views/post/index.php:576 ../admin/views/post/index.php:594
+msgid "Loading..."
+msgstr "Carregando..."
+
+#: ../admin/views/category/add.php:115 ../admin/views/category/copy.php:115
+#: ../admin/views/category/edit.php:116 ../admin/views/category/edit.php:142
+#: ../admin/views/category/index.php:421 ../admin/views/category/index.php:479
+#: ../admin/views/category/index.php:494 ../admin/views/category/index.php:519
+#: ../admin/views/post/add.php:200 ../admin/views/post/copy.php:185
+#: ../admin/views/post/edit.php:191 ../admin/views/post/edit.php:217
+#: ../admin/views/post/index.php:428 ../admin/views/post/index.php:487
+#: ../admin/views/post/index.php:502 ../admin/views/post/index.php:525
+msgid "There is an error, please check again!"
+msgstr "Erro, por favor, verifique novamente!"
+
+#: ../admin/views/category/add.php:120
+msgid "Category is added successfully"
+msgstr "Categoria foi adicionada com sucesso!"
+
+#: ../admin/views/category/copy.php:11 ../admin/views/post/copy.php:11
+msgid "Copy"
+msgstr "Copiar"
+
+#: ../admin/views/category/copy.php:120
+msgid "Category is copied successfully"
+msgstr "Categoria foi copiada com sucesso!"
+
+#: ../admin/views/category/edit.php:11 ../admin/views/post/edit.php:11
+msgid "Edit"
+msgstr "Editar"
+
+#: ../admin/views/category/edit.php:121 ../admin/views/category/edit.php:140
+msgid "Category is updated successfully"
+msgstr "Categoria foi atualizada com sucesso!"
+
+#: ../admin/views/category/index.php:5 ../admin/views/category/index.php:278
+#: ../admin/views/category/index.php:319 ../admin/views/post/index.php:5
+#: ../admin/views/post/index.php:277 ../admin/views/post/index.php:327
+msgid "Search"
+msgstr "Pesquisar"
+
+#: ../admin/views/category/index.php:22 ../admin/views/post/index.php:22
+msgid "New"
+msgstr "Novo"
+
+#: ../admin/views/category/index.php:26 ../admin/views/category/index.php:31
+#: ../admin/views/category/index.php:37 ../admin/views/post/index.php:26
+#: ../admin/views/post/index.php:31 ../admin/views/post/index.php:37
+msgid "Save"
+msgstr "Salvar"
+
+#: ../admin/views/category/index.php:27 ../admin/views/category/index.php:33
+#: ../admin/views/category/index.php:38 ../admin/views/post/index.php:27
+#: ../admin/views/post/index.php:33 ../admin/views/post/index.php:38
+msgid "Cancel"
+msgstr "Cancelar"
+
+#: ../admin/views/category/index.php:32 ../admin/views/post/index.php:32
+msgid "Apply"
+msgstr "Aplicar"
+
+#: ../admin/views/category/index.php:50 ../admin/views/post/index.php:50
+msgid "List"
+msgstr "Lista"
+
+#: ../admin/views/category/index.php:62 ../admin/views/post/index.php:62
+msgid "Bulk Action"
+msgstr "Ação em Bloco"
+
+#: ../admin/views/category/index.php:67 ../admin/views/category/index.php:509
+#: ../admin/views/post/index.php:67 ../admin/views/post/index.php:517
+msgid "Delete"
+msgstr "Excluir"
+
+#: ../admin/views/category/index.php:69 ../admin/views/post/index.php:69
+msgid "Publish"
+msgstr "Publicar"
+
+#: ../admin/views/category/index.php:71 ../admin/views/post/index.php:71
+msgid "Unpublish"
+msgstr "Não publicar"
+
+#: ../admin/views/category/index.php:83 ../admin/views/category/index.php:87
+#: ../admin/views/post/index.php:83 ../admin/views/post/index.php:87
+msgid "All"
+msgstr "Todo"
+
+#: ../admin/views/category/index.php:177
+msgid "Author"
+msgstr "Autor"
+
+#: ../admin/views/category/index.php:206 ../admin/views/post/index.php:206
+msgid "Actions"
+msgstr "Ações"
+
+#: ../admin/views/category/index.php:276 ../admin/views/category/index.php:321
+#: ../admin/views/post/index.php:275 ../admin/views/post/index.php:329
+msgid "Close"
+msgstr "Fechar"
+
+#: ../admin/views/category/index.php:395 ../admin/views/post/index.php:402
+msgid "Are you sure to perform this action?"
+msgstr "Tem certeza que deseja realizar esta ação?"
+
+#: ../admin/views/category/index.php:411 ../admin/views/category/index.php:515
+msgid "Category is deleted successfully"
+msgstr "Categoria foi excluída com sucesso!"
+
+#: ../admin/views/category/index.php:414
+msgid "Category is published successfully"
+msgstr "Categoria foi adicionada com sucesso!"
+
+#: ../admin/views/category/index.php:417
+msgid "Category is unpublished successfully"
+msgstr "Categoria não foi adicionada."
+
+#: ../admin/views/category/index.php:505 ../admin/views/post/index.php:513
+msgid "Are you sure to delete this item?"
+msgstr "Tem certeza que deseja excluir este item?"
+
+#: ../admin/views/category/index.php:517
+msgid "There are contents within this category, please delete them first!"
+msgstr "Existe conteúdo dentro desta categoria, por favor, exclua-os primeiro!"
+
+#: ../admin/views/post/add.php:11 ../admin/views/post/edit.php:11
+#: ../admin/views/post/index.php:50 ../admin/views/post/index.php:277
+msgid "Post"
+msgstr "Postagem"
+
+#: ../admin/views/post/add.php:17
+msgid "Are you sure you want to delete?"
+msgstr "Tem certeza de que deseja excluir?"
+
+#: ../admin/views/post/add.php:18
+msgid "An error has occurred. Please try again"
+msgstr "Erro. Por favor, tente novamente"
+
+#: ../admin/views/post/add.php:19
+msgid "You must select at least one tag"
+msgstr "Você deve selecionar pelo menos um tag"
+
+#: ../admin/views/post/add.php:30 ../admin/views/post/copy.php:21
+#: ../admin/views/post/edit.php:21
+msgid "Title "
+msgstr "Titulo"
+
+#: ../admin/views/post/add.php:63 ../admin/views/post/copy.php:54
+#: ../admin/views/post/edit.php:54
+msgid "Published date"
+msgstr "Data publicada"
+
+#: ../admin/views/post/add.php:87 ../admin/views/post/copy.php:77
+#: ../admin/views/post/edit.php:78
+msgid "Unpublished date"
+msgstr "Data não publicado"
+
+#: ../admin/views/post/add.php:98 ../admin/views/post/copy.php:86
+#: ../admin/views/post/edit.php:89
+msgid "Allow comment"
+msgstr "Permitir comentário"
+
+#: ../admin/views/post/add.php:111 ../admin/views/post/copy.php:99
+#: ../admin/views/post/edit.php:102
+msgid "Allow rating"
+msgstr "Permitir avaliação"
+
+#: ../admin/views/post/add.php:126 ../admin/views/post/copy.php:113
+#: ../admin/views/post/edit.php:117
+msgid "Thumbnail"
+msgstr "Miniaturas"
+
+#: ../admin/views/post/add.php:138 ../admin/views/post/copy.php:124
+#: ../admin/views/post/edit.php:129
+msgid "Content"
+msgstr "Conteúdo"
+
+#: ../admin/views/post/add.php:150 ../admin/views/post/copy.php:136
+#: ../admin/views/post/edit.php:141
+msgid "Tags"
+msgstr "Etiquetas"
+
+#: ../admin/views/post/add.php:154 ../admin/views/post/copy.php:140
+#: ../admin/views/post/edit.php:145
+msgid "Add tags"
+msgstr "Adicionar tags"
+
+#: ../admin/views/post/add.php:155 ../admin/views/post/copy.php:141
+#: ../admin/views/post/edit.php:146
+msgid "Tags manager"
+msgstr "Gerenciar tags"
+
+#: ../admin/views/post/add.php:158 ../admin/views/post/copy.php:144
+#: ../admin/views/post/edit.php:149
+#, php-format
+msgid ""
+"Notice: You are allowed to use up to %s tag and you can add multiple tags at "
+"once. Each tag separated by a comma"
+msgstr ""
+"Aviso: Você está autorizado a usar até %s tag e você pode adicionar várias "
+"tags ao mesmo tempo. Cada tag separadas por uma vírgula"
+
+#: ../admin/views/post/add.php:205
+msgid "Post is added successfully"
+msgstr "Postagem foi adicionada com sucesso!"
+
+#: ../admin/views/post/copy.php:190
+msgid "Post is copied successfully"
+msgstr "Postagem foi copiada com sucesso!"
+
+#: ../admin/views/post/edit.php:196 ../admin/views/post/edit.php:215
+msgid "Post is updated successfully"
+msgstr "Postagem foi atualizada com sucesso!"
+
+#: ../admin/views/post/index.php:133 ../admin/views/post/index.php:287
+#: ../widgets/views/category/setting.php:3 ../widgets/views/post/setting.php:3
+#: ../widgets/views/tag/setting.php:3
+msgid "Title"
+msgstr "Titulo"
+
+#: ../admin/views/post/index.php:177
+msgid "Created date"
+msgstr "Data de criação"
+
+#: ../admin/views/post/index.php:418 ../admin/views/post/index.php:523
+msgid "Post is deleted successfully"
+msgstr "Postagem foi excluída com sucesso!"
+
+#: ../admin/views/post/index.php:421
+msgid "Post is published successfully"
+msgstr "Postagem foi publicada com sucesso!"
+
+#: ../admin/views/post/index.php:424
+msgid "Post is unpublished successfully"
+msgstr "Postagem foi retirada da publicação com sucesso!"
+
+#: ../post-config.php:17
+msgid "Post settings"
+msgstr "Configuração da postagem"
+
+#: ../post-config.php:21
+msgid "Enable comment?"
+msgstr "Ativar comentário?"
+
+#: ../post-config.php:22
+msgid "Enable rating?"
+msgstr "Ativar avaliação?"
+
+#: ../post-config.php:24
+msgid "Newest first"
+msgstr "Mais recentes primeiro"
+
+#: ../post-config.php:25
+msgid "Oldest first"
+msgstr "Mais antigo primeiro"
+
+#: ../post-config.php:27
+msgid "Ordering"
+msgstr "Pedido"
+
+#: ../post-config.php:28 ../widgets/views/tag/setting.php:31
+msgid "Maximum number of tags"
+msgstr "Número máximo de tags"
+
+#: ../post-config.php:29
+msgid "Length of description"
+msgstr "Comprimento da descrição"
+
+#: ../post-config.php:31
+msgid "Post listing page"
+msgstr "Página de lista das publicações"
+
+#: ../post-config.php:32
+msgid "Post detail page"
+msgstr "Página das publicações detalhadas"
+
+#: ../post-config.php:34
+msgid "Show post title on URL"
+msgstr "Mostrar título do post no URL"
+
+#: ../post-config.php:35
+msgid "Show category name on URL"
+msgstr "Mostrar nome da categoria na URL"
+
+#: ../post.php:65 ../post.php:66
+msgid "Posts"
+msgstr "Postagens"
+
+#: ../shortcodes/controllers/posts-shortcode.php:345
+msgid "No post"
+msgstr "Não publicar"
+
+#: ../shortcodes/views/post/breadcrumb.php:9
+#: ../shortcodes/views/posts/breadcrumb.php:9
+msgid "Homepage"
+msgstr "Página inicial"
+
+#: ../shortcodes/views/post/template.php:17
+#: ../shortcodes/views/posts/pagination.php:5
+#: ../shortcodes/views/posts/template.php:17
+msgid "Read more"
+msgstr "Ler mais"
+
+#: ../widgets/views/post/index.php:3
+msgid "Post list"
+msgstr "Lista Publicações"
+
+#: ../widgets/views/post/setting.php:7
+msgid "Type"
+msgstr "Tipo"
+
+#: ../widgets/views/post/setting.php:11
+msgid "Number of posts"
+msgstr "Número de postagens"
+
+#: ../widgets/views/tag/setting.php:20
+msgid "Display type"
+msgstr "Tpo de visualização"
+
+#: ../widgets/views/tag/setting.php:24
+msgid "Default"
+msgstr "Padrão"
+
+#: ../widgets/views/tag/setting.php:25
+msgid "Cloud"
+msgstr "Nuvem"
+
+#: ../widgets/views/tag/setting.php:42
+msgid "Style"
+msgstr "Estilo"
+
+#~ msgid "New category is created successfully"
+#~ msgstr "Nueva categoría ha sido creada con éxito"
+
+#~ msgid "Please check the data field!"
+#~ msgstr "¡Revise campo de datos!"
+
+#~ msgid "Status is updated successfully"
+#~ msgstr "El estado ha sido actualizado con éxito"
+
+#~ msgid "You have successfully created a new post"
+#~ msgstr "Una nueva publicación ha sido creada con éxito"
+
+#~ msgid ""
+#~ "Your session has ended or you are not allowed to manipulate this action."
+#~ msgstr ""
+#~ "Se ha caducado tiempo de la sesión o no está permitido para gestionar "
+#~ "esta acción"
+
+#~ msgid "Choose category"
+#~ msgstr "Seleccionar categoría"
+
+#~ msgid "Show tag name on URL"
+#~ msgstr "Mostrar nombre de etiqueta en el URL"
+
+#~ msgid "New Category"
+#~ msgstr "Nueva categoría"
+
+#~ msgid "Edit Category"
+#~ msgstr "Editar categoría"
+
+#~ msgid "Are you sure to delete this category?"
+#~ msgstr "Seguro que desea eliminar esta categoría?"
+
+#~ msgid "No item are selected"
+#~ msgstr "Ningun ítem ha sido seleccionado"
+
+#~ msgid "Please enter the search conditions"
+#~ msgstr "Introduzca condiciones de búsqueda"
+
+#~ msgid "Categories"
+#~ msgstr "Categorías"
+
+#~ msgid "Select Action "
+#~ msgstr "Seleccionar acción"
+
+#~ msgid "%s"
+#~ msgstr "%s"
+
+#~ msgid "Delete Category"
+#~ msgstr "Eliminar categoría"
+
+#~ msgid "New Post"
+#~ msgstr "Nueva publicación"
+
+#~ msgid "Please wait,your post is under approval process"
+#~ msgstr "Por favor espere, su puesto está en proceso de aprobación"
+
+#~ msgid "Choose Tags"
+#~ msgstr "Seleccionar Etiquetas"
+
+#~ msgid "No post are selected"
+#~ msgstr "Ninguna publicación ha sido seleccionada"
+
+#~ msgid "All Category"
+#~ msgstr "Todas las categorías"
+
+#~ msgid "Edit post"
+#~ msgstr "Editar publicación"
+
+#~ msgid "Delete post"
+#~ msgstr "Eliminar publicación"
+
+#~ msgid "Notice: You are allowed to use up to "
+#~ msgstr "Atención: Podrá utilizar hasta "

@@ -1,0 +1,251 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Include\n"
+"POT-Creation-Date: 2015-01-28 15:11-0300\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Alexandre Benegas <info@adaptivemobile.com.br>\n"
+"Language-Team: Alexandre Benegas <info@adaptivemobile.com.br>\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.5\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../common/libs/category/pf-lib-category.php:62
+msgid "No parent"
+msgstr "Nenhum pai"
+
+#: ../common/plugin/helpers/helper.php:334
+msgid "No date provided"
+msgstr "NInguna fecha ha sido proporcionada"
+
+#: ../common/plugin/helpers/helper.php:338
+msgid "second"
+msgstr "segundo"
+
+#: ../common/plugin/helpers/helper.php:339
+msgid "minute"
+msgstr "minuto"
+
+#: ../common/plugin/helpers/helper.php:340
+msgid "hour"
+msgstr "hora"
+
+#: ../common/plugin/helpers/helper.php:341
+msgid "day"
+msgstr "dia"
+
+#: ../common/plugin/helpers/helper.php:342
+msgid "week"
+msgstr "semana"
+
+#: ../common/plugin/helpers/helper.php:343
+msgid "month"
+msgstr "mês"
+
+#: ../common/plugin/helpers/helper.php:344
+msgid "year"
+msgstr "ano"
+
+#: ../common/plugin/helpers/helper.php:345
+msgid "decade"
+msgstr "década"
+
+#: ../common/plugin/helpers/helper.php:359
+msgid "Bad date"
+msgstr "Data incorreta"
+
+#: ../common/plugin/helpers/helper.php:364
+msgid "ago"
+msgstr "pasado"
+
+#: ../common/plugin/helpers/helper.php:367
+msgid "from now"
+msgstr "a partir de ahora"
+
+#: ../common/plugin/helpers/helper.php:452
+#: ../common/plugin/helpers/helper.php:467
+msgid "Published"
+msgstr "Publicado"
+
+#: ../common/plugin/helpers/helper.php:455
+#: ../common/plugin/helpers/helper.php:463
+msgid "Unpublished"
+msgstr "Não publicado"
+
+#: ../common/plugin/helpers/helper.php:465
+msgid "All status"
+msgstr "Todos los estados"
+
+#: ../common/plugin/utiles/pf-plugin-setting.php:37
+msgid "Yes "
+msgstr "Sim"
+
+#: ../common/plugin/utiles/pf-plugin-setting.php:38
+msgid "No"
+msgstr "Não"
+
+#: ../gump/gump.class.php:409 ../gump/gump.class.php:412
+#: ../gump/gump.class.php:415 ../gump/gump.class.php:419
+#: ../gump/gump.class.php:421 ../gump/gump.class.php:426
+#: ../gump/gump.class.php:428 ../gump/gump.class.php:433
+#: ../gump/gump.class.php:435 ../gump/gump.class.php:439
+#: ../gump/gump.class.php:442 ../gump/gump.class.php:445
+#: ../gump/gump.class.php:448 ../gump/gump.class.php:451
+#: ../gump/gump.class.php:454 ../gump/gump.class.php:457
+#: ../gump/gump.class.php:460 ../gump/gump.class.php:463
+#: ../gump/gump.class.php:466 ../gump/gump.class.php:469
+#: ../gump/gump.class.php:472 ../gump/gump.class.php:475
+#: ../gump/gump.class.php:478 ../gump/gump.class.php:481
+#: ../gump/gump.class.php:484 ../gump/gump.class.php:487
+#: ../gump/gump.class.php:490
+msgid "The "
+msgstr "O"
+
+#: ../gump/gump.class.php:409 ../gump/gump.class.php:412
+msgid "field is required"
+msgstr "este campo é necessário"
+
+#: ../gump/gump.class.php:415
+msgid "field is required to be a valid email address"
+msgstr "campo es requerido para ser una dirección de email válida"
+
+#: ../gump/gump.class.php:419 ../gump/gump.class.php:421
+#: ../gump/gump.class.php:426 ../gump/gump.class.php:428
+msgid "field needs to be shorter than"
+msgstr "campo deberá ser más corto que"
+
+#: ../gump/gump.class.php:419 ../gump/gump.class.php:421
+#: ../gump/gump.class.php:426 ../gump/gump.class.php:428
+msgid "characters"
+msgstr "caracter"
+
+#: ../gump/gump.class.php:433 ../gump/gump.class.php:435
+msgid "field needs to be exactly"
+msgstr "campo deberá ser correcto"
+
+#: ../gump/gump.class.php:433 ../gump/gump.class.php:435
+msgid "characters in length"
+msgstr "longitud de los carácteres"
+
+#: ../gump/gump.class.php:439
+msgid "field may only contain alpha characters(a-z)"
+msgstr "campo podrá contener solamente carácteres alfa (a-z)"
+
+#: ../gump/gump.class.php:442
+msgid "field may only contain alpha and space characters."
+msgstr "campo só pode conter caracteres alfa e espaço."
+
+#: ../gump/gump.class.php:445
+msgid "field may only contain alpha-numeric characters"
+msgstr "campo podrá contener solamente carácteres alfanuméricos"
+
+#: ../gump/gump.class.php:448
+msgid "field may only contain alpha characters &amp; dashes"
+msgstr "campo podrá contener solamente carácteres alfa &amp; barras"
+
+#: ../gump/gump.class.php:451
+msgid "field may only contain numeric characters"
+msgstr "campo podrá contener solamente carácteres numéricos"
+
+#: ../gump/gump.class.php:454
+msgid "field may only contain a numeric value"
+msgstr "campo podrá contener solamente un valor numérico"
+
+#: ../gump/gump.class.php:457
+msgid "field may only contain a true or false value"
+msgstr "campo podrá contener solamente valor verdadero o falso"
+
+#: ../gump/gump.class.php:460
+msgid "field may only contain a float value"
+msgstr "campo podrá contener solamente valor float"
+
+#: ../gump/gump.class.php:463
+msgid "field is required to be a valid URL"
+msgstr "campo es requerido para ser un URL válido"
+
+#: ../gump/gump.class.php:466
+msgid "URL does not exist"
+msgstr "URL não existe"
+
+#: ../gump/gump.class.php:469
+msgid "field needs to contain a valid IP address"
+msgstr "campo deve conter um endereço de IP válido"
+
+#: ../gump/gump.class.php:472
+msgid "field needs to contain a valid credit card number"
+msgstr "campo deve conter um número de cartão de crédito válido"
+
+#: ../gump/gump.class.php:475
+msgid "field needs to contain a valid human name"
+msgstr "campo deve conter um nome de pessoa válido"
+
+#: ../gump/gump.class.php:478
+msgid "field needs to contain one of these values"
+msgstr "campo deve conter um de estes valores"
+
+#: ../gump/gump.class.php:481
+msgid "field needs to be a valid street address"
+msgstr "campo deve ter um endereço de rua válido"
+
+#: ../gump/gump.class.php:484
+msgid "field needs to be a valid date (yyyy-dd-mm)"
+msgstr "campo deve ser uma data válida (aaaa-dd-mm)"
+
+#: ../gump/gump.class.php:487
+msgid "field needs to be a numeric value, equal to, or higher than "
+msgstr "campo deve ser um valor numérico, equivalente a, ou maior que "
+
+#: ../gump/gump.class.php:490
+msgid "field needs to be a numeric value, equal to, or lower than "
+msgstr "campo deve ser um valor numérico, equivalente a, ou menor que "
+
+#: ../paginator-class.php:63
+msgid "Displaying records "
+msgstr "Exibir gravações "
+
+#: ../paginator-class.php:63
+msgid " of "
+msgstr " de "
+
+#: ../paginator-class.php:65
+msgid "Displaying "
+msgstr "Exibindo "
+
+#: ../paginator-class.php:65
+msgid " records "
+msgstr " arquivos"
+
+#: ../paginator-class.php:89
+msgid "Page: "
+msgstr "Página: "
+
+#: ../paginator-class.php:122 ../paginator-class.php:124
+msgid "Previous"
+msgstr "Anterior"
+
+#: ../paginator-class.php:171 ../paginator-class.php:173
+msgid "Next"
+msgstr "Próxima"
+
+#~ msgid "No "
+#~ msgstr "Não"
+
+#~ msgid "field needs to be a valid date"
+#~ msgstr "campo debe ser una fecha válida"
+
+#~ msgid "An error has occurred! Please try again later"
+#~ msgstr "Se ha producido un error! Por favor, inténtelo de nuevo más tarde"
+
+#~ msgid "Yes"
+#~ msgstr "Sí"
+
+#~ msgid "Error"
+#~ msgstr "Error"
+
+#~ msgid "character in length"
+#~ msgstr "longitud del carácter"

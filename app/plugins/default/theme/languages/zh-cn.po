@@ -1,0 +1,295 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Theme\n"
+"POT-Creation-Date: 2015-01-19 15:10+0700\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.4\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../admin/views/layouts/add.php:11 ../admin/views/layouts/add.php:85
+#: ../admin/views/layouts/add.php:168 ../admin/views/layouts/add.php:250
+#: ../admin/views/layouts/copy.php:11 ../admin/views/layouts/copy.php:85
+#: ../admin/views/layouts/copy.php:168 ../admin/views/layouts/copy.php:250
+#: ../admin/views/layouts/edit.php:11 ../admin/views/layouts/edit.php:85
+#: ../admin/views/layouts/edit.php:168 ../admin/views/layouts/edit.php:250
+#: ../admin/views/layouts/get-pattern.php:9
+#: ../admin/views/layouts/index.php:52 ../theme.php:18
+msgid "Layouts"
+msgstr "布局"
+
+#: ../admin/views/layouts/add.php:12 ../admin/views/layouts/add.php:86
+#: ../admin/views/layouts/add.php:169 ../admin/views/layouts/add.php:251
+#: ../admin/views/layouts/copy.php:12 ../admin/views/layouts/copy.php:86
+#: ../admin/views/layouts/copy.php:169 ../admin/views/layouts/copy.php:251
+#: ../admin/views/layouts/edit.php:12 ../admin/views/layouts/edit.php:86
+#: ../admin/views/layouts/edit.php:169 ../admin/views/layouts/edit.php:251
+msgid "Layout designer"
+msgstr "布局设计师"
+
+#: ../admin/views/layouts/add.php:21 ../admin/views/layouts/add.php:94
+#: ../admin/views/layouts/add.php:177 ../admin/views/layouts/add.php:259
+#: ../admin/views/layouts/copy.php:21 ../admin/views/layouts/copy.php:94
+#: ../admin/views/layouts/copy.php:177 ../admin/views/layouts/copy.php:259
+#: ../admin/views/layouts/edit.php:21 ../admin/views/layouts/edit.php:94
+#: ../admin/views/layouts/edit.php:177 ../admin/views/layouts/edit.php:259
+#: ../admin/views/layouts/index.php:88
+msgid "Layout name"
+msgstr "布局名称"
+
+#: ../admin/views/layouts/add.php:30 ../admin/views/layouts/copy.php:30
+#: ../admin/views/layouts/edit.php:30
+msgid "Layout type"
+msgstr "布局类型"
+
+#: ../admin/views/layouts/add.php:57 ../admin/views/layouts/add.php:123
+#: ../admin/views/layouts/add.php:211 ../admin/views/layouts/add.php:293
+#: ../admin/views/layouts/copy.php:57 ../admin/views/layouts/copy.php:123
+#: ../admin/views/layouts/copy.php:211 ../admin/views/layouts/copy.php:293
+#: ../admin/views/layouts/edit.php:57 ../admin/views/layouts/edit.php:123
+#: ../admin/views/layouts/edit.php:211 ../admin/views/layouts/edit.php:293
+msgid "Main"
+msgstr "主"
+
+#: ../admin/views/layouts/add.php:151 ../admin/views/layouts/add.php:234
+#: ../admin/views/layouts/add.php:321 ../admin/views/layouts/copy.php:151
+#: ../admin/views/layouts/copy.php:234 ../admin/views/layouts/copy.php:320
+#: ../admin/views/layouts/edit.php:151 ../admin/views/layouts/edit.php:234
+#: ../admin/views/layouts/edit.php:321 ../admin/views/layouts/index.php:26
+#: ../admin/views/layouts/index.php:29 ../footer/templates/index.php:65
+msgid "Back"
+msgstr "返回"
+
+#: ../admin/views/layouts/add.php:154 ../admin/views/layouts/add.php:237
+#: ../admin/views/layouts/add.php:324 ../admin/views/layouts/copy.php:154
+#: ../admin/views/layouts/copy.php:237 ../admin/views/layouts/copy.php:323
+#: ../admin/views/layouts/edit.php:154 ../admin/views/layouts/edit.php:237
+#: ../admin/views/layouts/edit.php:324 ../admin/views/layouts/index.php:30
+#: ../admin/views/layouts/index.php:34 ../admin/views/layouts/index.php:40
+#: ../footer/templates/index.php:68
+msgid "Save"
+msgstr "保存"
+
+#: ../admin/views/layouts/add.php:343 ../admin/views/layouts/copy.php:341
+#: ../admin/views/layouts/edit.php:342 ../footer/templates/index.php:80
+msgid "Are you sure to delete widget?"
+msgstr "您确定要删除小工具？"
+
+#: ../admin/views/layouts/add.php:344 ../admin/views/layouts/copy.php:342
+#: ../admin/views/layouts/edit.php:343 ../footer/templates/index.php:81
+msgid "Ok"
+msgstr "是"
+
+#: ../admin/views/layouts/add.php:345 ../admin/views/layouts/copy.php:343
+#: ../admin/views/layouts/edit.php:344 ../admin/views/layouts/index.php:317
+#: ../footer/templates/index.php:82
+msgid "Delete"
+msgstr "删除"
+
+#: ../admin/views/layouts/add.php:346 ../admin/views/layouts/copy.php:344
+#: ../admin/views/layouts/edit.php:345 ../admin/views/layouts/index.php:36
+#: ../admin/views/layouts/index.php:41 ../footer/templates/index.php:83
+msgid "Cancel"
+msgstr "取消"
+
+#: ../admin/views/layouts/add.php:369 ../admin/views/layouts/add.php:386
+#: ../admin/views/layouts/copy.php:364 ../admin/views/layouts/copy.php:374
+#: ../admin/views/layouts/copy.php:393 ../admin/views/layouts/edit.php:365
+#: ../admin/views/layouts/edit.php:375 ../admin/views/layouts/edit.php:394
+#: ../admin/views/layouts/edit.php:422
+#: ../admin/views/layouts/get-pattern.php:99
+#: ../admin/views/layouts/get-pattern.php:112
+#: ../admin/views/layouts/index.php:227 ../admin/views/layouts/index.php:239
+#: ../admin/views/layouts/index.php:252 ../admin/views/layouts/index.php:265
+#: ../admin/views/layouts/index.php:273 ../admin/views/layouts/index.php:281
+#: ../admin/views/layouts/index.php:296 ../admin/views/layouts/index.php:320
+#: ../admin/views/layouts/index.php:349 ../admin/views/widgets/index.php:244
+#: ../admin/views/widgets/index.php:256 ../admin/views/widgets/index.php:277
+#: ../admin/views/widgets/index.php:317 ../admin/views/widgets/index.php:330
+#: ../admin/views/widgets/index.php:339 ../admin/views/widgets/index.php:354
+#: ../admin/views/widgets/index.php:369
+msgid "Loading..."
+msgstr "加载中..."
+
+#: ../admin/views/layouts/add.php:382 ../admin/views/layouts/copy.php:389
+#: ../admin/views/layouts/edit.php:390 ../admin/views/layouts/edit.php:418
+msgid "The field is required"
+msgstr "该字段是必须的"
+
+#: ../admin/views/layouts/add.php:383 ../admin/views/layouts/copy.php:390
+#: ../admin/views/layouts/edit.php:391 ../admin/views/layouts/edit.php:419
+#: ../admin/views/layouts/index.php:287 ../admin/views/layouts/index.php:302
+#: ../admin/views/layouts/index.php:326 ../admin/views/widgets/index.php:296
+msgid "There is an error, please check again!"
+msgstr "有错误，请再次检查！"
+
+#: ../admin/views/layouts/add.php:396 ../admin/views/layouts/copy.php:404
+#: ../admin/views/layouts/edit.php:405 ../admin/views/layouts/edit.php:433
+msgid "Layout is created successfully"
+msgstr "布局创建成功"
+
+#: ../admin/views/layouts/get-pattern.php:10
+msgid "Please choose the layout pattern"
+msgstr "请选择布局模式"
+
+#: ../admin/views/layouts/index.php:5 ../admin/views/layouts/index.php:152
+#: ../admin/views/layouts/index.php:174 ../admin/views/widgets/index.php:5
+#: ../admin/views/widgets/index.php:165 ../admin/views/widgets/index.php:195
+msgid "Search"
+msgstr "搜索"
+
+#: ../admin/views/layouts/index.php:22
+msgid "New layout"
+msgstr "新布局"
+
+#: ../admin/views/layouts/index.php:27
+msgid "Next"
+msgstr "下一页"
+
+#: ../admin/views/layouts/index.php:35
+msgid "Apply"
+msgstr "申请"
+
+#: ../admin/views/layouts/index.php:93 ../admin/views/widgets/index.php:111
+#: ../admin/views/widgets/index.php:184
+msgid "Actions"
+msgstr "操作"
+
+#: ../admin/views/layouts/index.php:150 ../admin/views/layouts/index.php:175
+#: ../admin/views/widgets/index.php:163 ../admin/views/widgets/index.php:196
+msgid "Close"
+msgstr "近"
+
+#: ../admin/views/layouts/index.php:163 ../admin/views/widgets/index.php:32
+#: ../admin/views/widgets/index.php:165 ../admin/views/widgets/index.php:176
+#: ../theme.php:20
+msgid "Widgets"
+msgstr "小工具"
+
+#: ../admin/views/layouts/index.php:313
+msgid "Are you sure to delete this item?"
+msgstr "您确定要删除这个项目吗？"
+
+#: ../admin/views/layouts/index.php:324
+msgid "Layouts is deleted successfully"
+msgstr "布局被成功删除"
+
+#: ../admin/views/layouts/setting-form.php:2
+#: ../footer/templates/setting-form.php:2
+msgid "Container"
+msgstr "集装箱"
+
+#: ../admin/views/layouts/setting-form.php:5
+#: ../footer/templates/setting-form.php:5
+msgid "Yes"
+msgstr "是的"
+
+#: ../admin/views/layouts/setting-form.php:7
+#: ../footer/templates/setting-form.php:7
+msgid "No"
+msgstr "没有"
+
+#: ../admin/views/layouts/setting-form.php:13
+#: ../footer/templates/setting-form.php:13
+msgid "Background color"
+msgstr "背景颜色"
+
+#: ../admin/views/widgets/index.php:44
+msgid "Bulk Actions"
+msgstr "批量操作"
+
+#: ../admin/views/widgets/index.php:48 ../admin/views/widgets/index.php:67
+#: ../admin/views/widgets/index.php:131 ../admin/views/widgets/index.php:360
+#: ../admin/views/widgets/index.php:375 ../themes/templates/index.php:51
+msgid "Activate"
+msgstr "活动"
+
+#: ../admin/views/widgets/index.php:49 ../admin/views/widgets/index.php:68
+#: ../admin/views/widgets/index.php:133 ../admin/views/widgets/index.php:362
+#: ../admin/views/widgets/index.php:377
+msgid "Deactivate"
+msgstr "停用"
+
+#: ../admin/views/widgets/index.php:61 ../admin/views/widgets/index.php:66
+msgid "All"
+msgstr "所有"
+
+#: ../admin/views/widgets/index.php:104
+msgid "Widget Name"
+msgstr "小工具的名称"
+
+#: ../admin/views/widgets/index.php:109
+msgid "Version"
+msgstr "版本"
+
+#: ../admin/views/widgets/index.php:110
+msgid "Description"
+msgstr "描述"
+
+#: ../admin/views/widgets/index.php:270
+msgid "Are you sure to perform this action?"
+msgstr "您确定要执行此操作？"
+
+#: ../admin/views/widgets/index.php:289
+msgid "Widgets is activated successfully"
+msgstr "Widgets是成功激活"
+
+#: ../admin/views/widgets/index.php:292
+msgid "Widgets is deactivated successfully"
+msgstr "Widgets是成功停用"
+
+#: ../footer/footer.php:15
+msgid "Footer is updated successfully"
+msgstr "页脚成功更新"
+
+#: ../footer/templates/index.php:6 ../theme.php:22
+msgid "Footer"
+msgstr "底部"
+
+#: ../footer/templates/index.php:7
+msgid "Footer description"
+msgstr "底部描述"
+
+#: ../options/options.php:6
+msgid "Save changes"
+msgstr "保存更改"
+
+#: ../options/options.php:14 ../theme.php:16
+msgid "Theme Options"
+msgstr "主题选项"
+
+#: ../theme.php:3 ../theme.php:13 ../theme.php:14
+#: ../themes/templates/index.php:8
+msgid "Themes"
+msgstr "主题"
+
+#: ../themes/templates/index.php:9
+msgid "Please choose the theme"
+msgstr "请选择主题"
+
+#: ../themes/templates/index.php:27
+msgid "Activated"
+msgstr "已活动"
+
+#~ msgid "Please enter the search conditions"
+#~ msgstr "请输入搜索条件"
+
+#~ msgid "Edit"
+#~ msgstr "编辑"
+
+#~ msgid "<i class=\"fa fa-times-circle\"></i> Delete"
+#~ msgstr "<i class=\"fa fa-times-circle\"></i> 删除"
+
+#~ msgid "Reset to theme default"
+#~ msgstr "重置为默认主题"
+
+#, fuzzy
+#~ msgid "Options"
+#~ msgstr "操作"

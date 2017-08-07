@@ -1,0 +1,253 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Announcement\n"
+"POT-Creation-Date: 2014-11-06 13:14+0700\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.4\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../admin/views/announcement/add.php:11
+msgid "Add"
+msgstr "添加"
+
+#: ../admin/views/announcement/add.php:20
+#: ../admin/views/announcement/copy.php:32
+#: ../admin/views/announcement/edit.php:32
+#: ../admin/views/announcement/index.php:143
+#: ../admin/views/announcement/index.php:288
+msgid "Publish date"
+msgstr "公开日期"
+
+#: ../admin/views/announcement/add.php:37
+#: ../admin/views/announcement/copy.php:50
+#: ../admin/views/announcement/edit.php:50
+#: ../admin/views/announcement/index.php:161
+#: ../admin/views/announcement/index.php:296
+msgid "Unpublish date"
+msgstr "不公开日期"
+
+#: ../admin/views/announcement/add.php:53
+#: ../admin/views/announcement/copy.php:67
+#: ../admin/views/announcement/edit.php:67
+msgid "Type"
+msgstr "类型"
+
+#: ../admin/views/announcement/add.php:65
+#: ../admin/views/announcement/copy.php:80
+#: ../admin/views/announcement/edit.php:79
+msgid "Announce to user:"
+msgstr "通知到用户"
+
+#: ../admin/views/announcement/add.php:88
+#: ../admin/views/announcement/copy.php:105
+#: ../admin/views/announcement/edit.php:104
+msgid "Announce to group:"
+msgstr "通知到组合"
+
+#: ../admin/views/announcement/add.php:93
+#: ../admin/views/announcement/copy.php:117
+#: ../admin/views/announcement/edit.php:115
+#: ../admin/views/announcement/index.php:78
+#: ../admin/views/announcement/index.php:83
+msgid "All"
+msgstr "全部"
+
+#: ../admin/views/announcement/add.php:112
+#: ../admin/views/announcement/copy.php:137
+#: ../admin/views/announcement/edit.php:133
+#: ../admin/views/announcement/index.php:125
+#: ../admin/views/announcement/index.php:280
+msgid "Content"
+msgstr "内容"
+
+#: ../admin/views/announcement/add.php:123
+#: ../admin/views/announcement/copy.php:148
+#: ../admin/views/announcement/edit.php:144
+#: ../admin/views/announcement/index.php:178
+#: ../admin/views/announcement/index.php:304
+msgid "Status"
+msgstr "状态"
+
+#: ../admin/views/announcement/add.php:131
+#: ../admin/views/announcement/copy.php:157
+#: ../admin/views/announcement/edit.php:153
+#: ../admin/views/announcement/index.php:221
+#: ../admin/views/announcement/index.php:556
+msgid "Published"
+msgstr "已公开"
+
+#: ../admin/views/announcement/add.php:151
+#: ../admin/views/announcement/add.php:163
+#: ../admin/views/announcement/copy.php:178
+#: ../admin/views/announcement/copy.php:190
+#: ../admin/views/announcement/edit.php:173
+#: ../admin/views/announcement/edit.php:185
+#: ../admin/views/announcement/edit.php:208
+#: ../admin/views/announcement/index.php:363
+#: ../admin/views/announcement/index.php:375
+#: ../admin/views/announcement/index.php:396
+#: ../admin/views/announcement/index.php:439
+#: ../admin/views/announcement/index.php:452
+#: ../admin/views/announcement/index.php:461
+#: ../admin/views/announcement/index.php:468
+#: ../admin/views/announcement/index.php:483
+#: ../admin/views/announcement/index.php:507
+#: ../admin/views/announcement/index.php:535
+#: ../admin/views/announcement/index.php:550
+#: ../admin/views/announcement/index.php:564
+msgid "Loading..."
+msgstr "加载中..."
+
+#: ../admin/views/announcement/add.php:171
+#: ../admin/views/announcement/copy.php:198
+#: ../admin/views/announcement/edit.php:193
+#: ../admin/views/announcement/edit.php:219
+#: ../admin/views/announcement/index.php:416
+#: ../admin/views/announcement/index.php:474
+#: ../admin/views/announcement/index.php:489
+#: ../admin/views/announcement/index.php:512
+msgid "There is an error, please check again!"
+msgstr "有错误，请重新检查！"
+
+#: ../admin/views/announcement/add.php:176
+msgid "Announcement is added successfully"
+msgstr "公告成功添加"
+
+#: ../admin/views/announcement/copy.php:23
+msgid "Copy"
+msgstr "复制"
+
+#: ../admin/views/announcement/copy.php:203
+msgid "Announcement is copied successfully"
+msgstr "公告被成功复制"
+
+#: ../admin/views/announcement/edit.php:23
+msgid "Edit"
+msgstr "编辑"
+
+#: ../admin/views/announcement/edit.php:198
+#: ../admin/views/announcement/edit.php:217
+msgid "Announcement is updated successfully"
+msgstr "公告更新成功"
+
+#: ../admin/views/announcement/index.php:5
+#: ../admin/views/announcement/index.php:271
+#: ../admin/views/announcement/index.php:314
+msgid "Search"
+msgstr "搜索"
+
+#: ../admin/views/announcement/index.php:11
+msgid "New"
+msgstr "新"
+
+#: ../admin/views/announcement/index.php:15
+#: ../admin/views/announcement/index.php:20
+#: ../admin/views/announcement/index.php:26
+msgid "Save"
+msgstr "保存"
+
+#: ../admin/views/announcement/index.php:16
+#: ../admin/views/announcement/index.php:22
+#: ../admin/views/announcement/index.php:27
+msgid "Cancel"
+msgstr "取消"
+
+#: ../admin/views/announcement/index.php:21
+msgid "Apply"
+msgstr "申请"
+
+#: ../admin/views/announcement/index.php:39
+msgid "List"
+msgstr "名单"
+
+#: ../admin/views/announcement/index.php:51
+msgid "Select Action"
+msgstr "选择操作"
+
+#: ../admin/views/announcement/index.php:55
+#: ../admin/views/announcement/index.php:504
+msgid "Delete"
+msgstr "删除"
+
+#: ../admin/views/announcement/index.php:58
+#: ../admin/views/announcement/index.php:86
+msgid "Publish"
+msgstr "发布"
+
+#: ../admin/views/announcement/index.php:61
+#: ../admin/views/announcement/index.php:89
+msgid "Unpublish"
+msgstr "不公开"
+
+#: ../admin/views/announcement/index.php:183
+msgid "Actions"
+msgstr "操作"
+
+#: ../admin/views/announcement/index.php:223
+#: ../admin/views/announcement/index.php:558
+msgid "Unpublished"
+msgstr "已不公开"
+
+#: ../admin/views/announcement/index.php:269
+#: ../admin/views/announcement/index.php:315
+msgid "Close"
+msgstr "近"
+
+#: ../admin/views/announcement/index.php:389
+msgid "Are you sure to perform this action?"
+msgstr "您确定要执行此操作？"
+
+#: ../admin/views/announcement/index.php:405
+#: ../admin/views/announcement/index.php:510
+msgid "Announcement is deleted successfully"
+msgstr "公告被成功删除"
+
+#: ../admin/views/announcement/index.php:409
+msgid "Announcement is published successfully"
+msgstr "发布成功发布"
+
+#: ../admin/views/announcement/index.php:412
+msgid "Announcement is unpublished successfully"
+msgstr "公告未发表的成功"
+
+#: ../admin/views/announcement/index.php:500
+msgid "Are you sure to delete this item?"
+msgstr "你确定要删除这个项目吗？"
+
+#~ msgid "Announcement is created successfully"
+#~ msgstr "通知已创建成功"
+
+#~ msgid "Action is performed successfully!"
+#~ msgstr "操作实现成功！"
+
+#~ msgid "Announcement"
+#~ msgstr "通知"
+
+#~ msgid "Please enter announcement content!"
+#~ msgstr "请输入通知内容！"
+
+#~ msgid "Announcement can not more than 255 characters!"
+#~ msgstr "公告不能超过255个字符！"
+
+#~ msgid "Access Denied!"
+#~ msgstr "拒绝访问！"
+
+#~ msgid "New announcement"
+#~ msgstr "新通知"
+
+#~ msgid "Please enter the search conditions"
+#~ msgstr "请输入搜索条件"
+
+#~ msgid "Confirm"
+#~ msgstr "确认"
+
+#~ msgid "Author"
+#~ msgstr "作者"

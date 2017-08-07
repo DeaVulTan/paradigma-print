@@ -1,0 +1,239 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Include\n"
+"POT-Creation-Date: 2014-06-30 17:43+0700\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.5\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../common/libs/category/pf-lib-category.php:62
+msgid "No parent"
+msgstr "親のフォルダーがありません"
+
+#: ../common/plugin/helpers/helper.php:358
+msgid "No date provided"
+msgstr "日付を入力していません"
+
+#: ../common/plugin/helpers/helper.php:362
+msgid "second"
+msgstr "秒"
+
+#: ../common/plugin/helpers/helper.php:363
+msgid "minute"
+msgstr "分"
+
+#: ../common/plugin/helpers/helper.php:364
+msgid "hour"
+msgstr "時"
+
+#: ../common/plugin/helpers/helper.php:365
+msgid "day"
+msgstr "日"
+
+#: ../common/plugin/helpers/helper.php:366
+msgid "week"
+msgstr "週"
+
+#: ../common/plugin/helpers/helper.php:367
+msgid "month"
+msgstr "月"
+
+#: ../common/plugin/helpers/helper.php:368
+msgid "year"
+msgstr "年"
+
+#: ../common/plugin/helpers/helper.php:369
+msgid "decade"
+msgstr "十年"
+
+#: ../common/plugin/helpers/helper.php:383
+msgid "Bad date"
+msgstr "正しくない日"
+
+#: ../common/plugin/helpers/helper.php:388
+msgid "ago"
+msgstr "前"
+
+#: ../common/plugin/helpers/helper.php:391
+msgid "from now"
+msgstr "これから"
+
+#: ../common/plugin/helpers/helper.php:501
+#: ../common/plugin/helpers/helper.php:517
+msgid "Published"
+msgstr "公開されました"
+
+#: ../common/plugin/helpers/helper.php:504
+#: ../common/plugin/helpers/helper.php:513
+msgid "Unpublished"
+msgstr "非公開されました。"
+
+#: ../common/plugin/helpers/helper.php:515
+msgid "All status"
+msgstr "全部ステータス"
+
+#: ../common/plugin/utiles/pf-plugin-setting.php:37
+msgid "Yes "
+msgstr "はい"
+
+#: ../common/plugin/utiles/pf-plugin-setting.php:38
+msgid "No "
+msgstr "いいえ"
+
+#: ../gump/gump.class.php:397 ../gump/gump.class.php:400
+#: ../gump/gump.class.php:404 ../gump/gump.class.php:406
+#: ../gump/gump.class.php:411 ../gump/gump.class.php:413
+#: ../gump/gump.class.php:418 ../gump/gump.class.php:420
+#: ../gump/gump.class.php:424 ../gump/gump.class.php:427
+#: ../gump/gump.class.php:430 ../gump/gump.class.php:433
+#: ../gump/gump.class.php:436 ../gump/gump.class.php:439
+#: ../gump/gump.class.php:442 ../gump/gump.class.php:445
+#: ../gump/gump.class.php:448 ../gump/gump.class.php:451
+#: ../gump/gump.class.php:454 ../gump/gump.class.php:457
+#: ../gump/gump.class.php:460 ../gump/gump.class.php:463
+#: ../gump/gump.class.php:466 ../gump/gump.class.php:469
+#: ../gump/gump.class.php:472
+msgid "The "
+msgstr "この_"
+
+#: ../gump/gump.class.php:397
+msgid "field is required"
+msgstr "フィールドは必須です。"
+
+#: ../gump/gump.class.php:400
+msgid "field is required to be a valid email address"
+msgstr "フィールドは有効なEメールアドレスであること。"
+
+#: ../gump/gump.class.php:404 ../gump/gump.class.php:406
+#: ../gump/gump.class.php:411 ../gump/gump.class.php:413
+msgid "field needs to be shorter than"
+msgstr "フィールドは_より短くする必要があります。"
+
+#: ../gump/gump.class.php:404 ../gump/gump.class.php:406
+#: ../gump/gump.class.php:411 ../gump/gump.class.php:413
+msgid "characters"
+msgstr "文字"
+
+#: ../gump/gump.class.php:418 ../gump/gump.class.php:420
+msgid "field needs to be exactly"
+msgstr "フィールドは正確である必要があります。"
+
+#: ../gump/gump.class.php:418 ../gump/gump.class.php:420
+msgid "characters in length"
+msgstr "文字の長さ"
+
+#: ../gump/gump.class.php:424
+msgid "field may only contain alpha characters(a-z)"
+msgstr "フィールド英字（a～z）だけを含むことができます。"
+
+#: ../gump/gump.class.php:427
+msgid "field may only contain alpha-numeric characters"
+msgstr "フィールド英数字だけを含むことができます。"
+
+#: ../gump/gump.class.php:430
+msgid "field may only contain alpha characters &amp; dashes"
+msgstr "フィールドは英字&amp;ダッシュだけを含むことができます。"
+
+#: ../gump/gump.class.php:433
+msgid "field may only contain numeric characters"
+msgstr "フィールドは数字だけを含むことができます。"
+
+#: ../gump/gump.class.php:436
+msgid "field may only contain a numeric value"
+msgstr "フィールドは数値だけを含むことができます。"
+
+#: ../gump/gump.class.php:439
+msgid "field may only contain a true or false value"
+msgstr "フィールドは正しいまたは正しくない値だけを含むことができます。"
+
+#: ../gump/gump.class.php:442
+msgid "field may only contain a float value"
+msgstr "フィールドはfloat値だけを含むことができます。"
+
+#: ../gump/gump.class.php:445
+msgid "field is required to be a valid URL"
+msgstr "フィールドは有効なURLであること。"
+
+#: ../gump/gump.class.php:448
+msgid "URL does not exist"
+msgstr "URLが存在していません。"
+
+#: ../gump/gump.class.php:451
+msgid "field needs to contain a valid IP address"
+msgstr "フィールドは有効なIPアドレスを含む必要があります。"
+
+#: ../gump/gump.class.php:454
+msgid "field needs to contain a valid credit card number"
+msgstr "フィールドは有効なクレジットカード番号を含む必要があります。"
+
+#: ../gump/gump.class.php:457
+msgid "field needs to contain a valid human name"
+msgstr "フィールドは有効な氏名を含む必要があります。"
+
+#: ../gump/gump.class.php:460
+msgid "field needs to contain one of these values"
+msgstr "フィールドは次のいずれかの値を含む必要があります。"
+
+#: ../gump/gump.class.php:463
+msgid "field needs to be a valid street address"
+msgstr "フィールドが有効な町アドレスである必要がある"
+
+#: ../gump/gump.class.php:466
+msgid "field needs to be a valid date"
+msgstr "フィールドが有効な日付である必要があります。"
+
+#: ../gump/gump.class.php:469
+msgid "field needs to be a numeric value, equal to, or higher than "
+msgstr "フィールドは数値で、_以上である必要があります。"
+
+#: ../gump/gump.class.php:472
+msgid "field needs to be a numeric value, equal to, or lower than "
+msgstr "フィールドは数値で、_以下である必要があります。"
+
+#: ../paginator-class.php:63
+msgid "Displaying records "
+msgstr "レコード表示_"
+
+#: ../paginator-class.php:63
+msgid " of "
+msgstr "_の_"
+
+#: ../paginator-class.php:65
+msgid "Displaying "
+msgstr "表示 "
+
+#: ../paginator-class.php:65
+msgid " records "
+msgstr " レコードを"
+
+#: ../paginator-class.php:89
+msgid "Page: "
+msgstr "ページ_"
+
+#: ../paginator-class.php:122 ../paginator-class.php:124
+msgid "Previous"
+msgstr "前のページ"
+
+#: ../paginator-class.php:171 ../paginator-class.php:173
+msgid "Next"
+msgstr "次のページ"
+
+#~ msgid "An error has occurred! Please try again later"
+#~ msgstr "エラーが発生しました！後でもう一度お試しください"
+
+#~ msgid "Yes"
+#~ msgstr "はい"
+
+#~ msgid "Error"
+#~ msgstr "エラー"
+
+#~ msgid "character in length"
+#~ msgstr "文字の長さ"

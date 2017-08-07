@@ -1,0 +1,325 @@
+<div class="home-slider">
+    <!-- Carousel -->
+    <div id="home-slider" class="carousel slide" data-ride="carousel">
+    <!-- Indicators -->
+    <ol class="carousel-indicators">
+        <li data-target="#home-slider" data-slide-to="0" class=""></li>
+        <li data-target="#home-slider" data-slide-to="1" class=""></li>
+        <li data-target="#home-slider" data-slide-to="2" class="active"></li>
+    </ol>
+      <!-- Wrapper for slides -->
+      <div class="carousel-inner">
+        <!-- Slide #1 -->
+        <div class="item" id="item-1">
+          <div class="container">
+            <div class="row">
+              <div class="col-sm-6">
+                <div class="home-slider__content">
+                  <h1 class="first-child animated slideInDown delay-2">Powerful Responsive Theme For Business and Personal Projects</h1>
+                  <h3 class="animated slideInDown delay-3">Beautiful Theme That Works Out Of The Box</h3>
+                  <p class="text-muted animated slideInLeft delay-4">Vitubo is a flexible Content Management System which built for not only web agencies, web developers but also normal users. Using Vitubo CMS you may edit your website content, add new pages, edit and delete the existing pages, manage your website’s menus, galleries, contact forms, portfolio, testimonials, etc…</p>
+                  <a href="http://codecanyon.net/item/vitubo-cms-version-133/8164443" class="btn btn-lg btn-theme-primary animated fadeInUpBig delay-5">Purchase Now</a>
+                </div>
+              </div>
+            </div> <!-- / .row -->
+          </div> <!-- / .container -->
+          <div class="bg-img hidden-xs">
+            <img src="app/themes/jupiter/img/item-1.png" alt="...">
+          </div>
+        </div> <!-- / .item -->
+        <!-- Slide #2 -->
+        <div class="item" id="item-2">
+          <div class="container">
+            <div class="row">
+              <div class="col-sm-6">
+                <div class="home-slider__content">
+                  <ul class="lead">
+                    <li class="animated slideInLeft delay-2"><span>Powerful security</span></li>
+                    <li class="animated slideInLeft delay-3"><span>Shortcode management</span></li>
+                    <li class="animated slideInLeft delay-3"><span>Flexible and dynamic plugins</span></li>
+                    <li class="animated slideInLeft delay-2"><span>Built with Bootstrap 3x</span></li>
+                    <li class="animated slideInLeft delay-3"><span>Responsive Layouts</span></li>
+                  </ul>
+                  <ul class="lead string">
+                    <li class="animated fadeInUpBig delay-6"><span>6 popular languages</span></li>
+                    <li class="animated fadeInUpBig delay-7"><span>Easy installation</span></li>
+                  </ul>
+                </div>
+              </div>
+            </div> <!-- / .row -->
+          </div> <!-- / .container -->
+          <div class="bg-img hidden-xs">
+            <img src="app/themes/jupiter/img/item-2.png" alt="...">
+          </div>         
+        </div> <!-- / .item -->
+        <!-- Slide #3 -->
+        <div class="item active" id="item-3">
+          <div class="container">
+            <div class="row">
+              <div class="col-sm-6">
+                <div class="home-slider__content">
+                  <h1 class="first-child animated slideInDown delay-2">Fully Packed With Features</h1>
+                  <h3 class="animated slideInDown delay-3">Look No Further</h3>
+                  <ul>
+                    <li class="animated slideInLeft delay-4"><i class="fa fa-chevron-circle-right fa-fw"></i> Menu Management</li>
+                    <li class="animated slideInLeft delay-5"><i class="fa fa-chevron-circle-right fa-fw"></i> Page Management</li>
+                    <li class="animated slideInLeft delay-6"><i class="fa fa-chevron-circle-right fa-fw"></i> User Management</li>
+                    <li class="animated slideInLeft delay-7"><i class="fa fa-chevron-circle-right fa-fw"></i> Comments Management</li>
+                  </ul>
+                  <a href="http://codecanyon.net/item/vitubo-cms-version-133/8164443" class="btn btn-lg btn-theme-secondary animated fadeInUpBig delay-4">and much more...</a>
+                </div>
+              </div>
+            </div> <!-- / .row -->
+          </div> <!-- / .container -->
+          <div class="bg-img hidden-xs">
+            <img src="app/themes/jupiter/img/item-3.png" alt="...">
+          </div>       
+        </div> <!-- / .item -->
+      </div> <!-- / .carousel -->
+      <!-- Controls -->
+      <a class="carousel-arrow carousel-arrow-prev" href="#home-slider" data-slide="prev">
+        <i class="fa fa-angle-left"></i>
+      </a>
+      <a class="carousel-arrow carousel-arrow-next" href="#home-slider" data-slide="next">
+        <i class="fa fa-angle-right"></i>
+      </a>
+    </div>
+</div>
+{html:div class="home-services"}
+    {html:container class="container"}
+      {html:row}
+        {html:col class="col-sm-12 col-md-7"}
+          {list:ul}
+            {list:li}
+              {html:i class="fa fa-shield"}{/html:i}
+              {html:p}{html:span}Powerful {/html:span} Security{/html:p}
+            {/list:li}
+            {list:li}
+              {html:i class="fa fa-flag"}{/html:i}
+              {html:p}Font Awesome {html:span}Icons{/html:span}{/html:p}
+            {/list:li}
+            {list:li}
+              {html:i class="fa fa-arrows-alt"}{/html:i}
+              {html:p}Responsive {html:span} Designs {/html:span}{/html:p}
+            {/list:li}
+            {list:li}
+              {html:i class="fa fa-envelope-o"}{/html:i}
+              {html:p}24/7 Support {html:span}by e-mail{/html:span}{/html:p}
+            {/list:li}
+          {/list:ul}
+        {/html:col}
+        {html:col class="col-md-5 hidden-sm hidden-xs"}
+          {html:p class="lead"}Vitubo: Multi-purpose Professional CMS{/html:p}
+        {html:col}
+      {/html:row} <!-- / .row -->
+    {/html:container} <!-- / .container -->
+{/html:div}
+{html:container}
+    {html:row}
+      {html:col class="col-sm-12"}
+        {html:h2 class="headline-lg"}Vitubo CMS: Multi-purpose Professional CMS{/html:h2}
+        {html:h4 class="text-theme-secondary"}Perfect for any type of websiets.{/html:h4}
+        {html:div class="browser-showcase"}
+          {html:img src="app/themes/jupiter/img/browsers.png" class="img-responsive" alt="..."}
+        {/html:div}
+      {/html:col}
+    {/html:row} <!-- / .row -->
+{/html:container}
+{html:div class="main-services"}
+{html:container}
+  {html:row}
+    {html:col class="col-sm-4"}
+      <div class="services">
+        <div class="service-item">
+          {html:i class="fa fa-gear"}{/html:i}
+          <div class="service-desc">
+        	{html:h4}Powerful security{/html:h4}
+        	{html:p} Vitubo provides security protection against SQL Injection, XSS, CSRF which keep your website safe.{/html:p}
+          </div>
+        </div>
+      </div> <!-- / .services -->
+    {/html:col}
+    {html:col class="col-sm-4"}
+      <div class="services">
+        <div class="service-item">
+          {html:i class="fa fa-arrows-alt"}{/html:i}
+          <div class="service-desc">
+        	{html:h4}Responsive Design{/html:h4}
+        	{html:p} Vitubo fully supports responsive design techniques and support responsive design in both backed and frontend.{/html:p}
+          </div>
+        </div>
+      </div> <!-- / .services -->
+    {/html:col}
+    {html:col class="col-sm-4"}
+      <div class="services">
+        <div class="service-item">
+          {html:i class="fa fa-refresh"}{/html:i}
+          <div class="service-desc">
+            {html:h4}Easy to Customize{/html:h4}
+            {html:p} Additional features can be programmed in so called plugins and be installed on Vitubo. This allows you to have the features you want.{/html:p}
+          </div>
+        </div>
+      </div> <!-- / .services -->
+    {/html:col}
+  {/html:row}
+ {html:row}
+    {html:col class="col-sm-4"}
+      <div class="services">
+        <div class="service-item">
+          {html:i class="fa fa-plus "}{/html:i}
+          <div class="service-desc">
+            {html:h4}Built With Bootstrap 3{/html:h4}
+            {html:p} Bootstrap is the most popular HTML, CSS, and JS framework for developing responsive, mobile first projects on the web.{/html:p}
+          </div>
+        </div>
+      </div> <!-- / .services -->
+    {/html:col}
+    {html:col class="col-sm-4"}
+      <div class="services">
+        <div class="service-item">
+          {html:i class="fa fa-envelope"}{/html:i}
+          <div class="service-desc">
+            {html:h4}24/7 Support{/html:h4}
+            {html:p} If you have any issue, question or suggestion, please contact us anytime. We will answer in maximum 24 hours.{/html:p}
+          </div>
+        </div>
+      </div> <!-- / .services -->
+    {/html:col}
+    {html:col class="col-sm-4"}
+      <div class="services">
+        <div class="service-item">
+          {html:i class="fa fa-picture-o"}{/html:i}
+          <div class="service-desc">
+            {html:h4}White label{/html:h4}
+            {html:p} A white-label product is a product created by one company (the producer) that other companies (the marketers) rebrand to make it appear as if they made it.{/html:p}
+          </div>
+        </div>
+      </div> <!-- / .services -->
+    {/html:col}
+  {/html:row}
+{/html:container} <!-- / .container -->
+{/html:div}
+{html:div class="responsive-showcase"}
+    {html:container}
+      <div class="responsive-design">
+        {html:row}
+          {html:col class="col-sm-6"}
+            {html:h2 class="headline-lg headline-lg_left first-child"}Fully Responsive Design{/html:h2}
+            {html:p class="lead text-muted"}
+              Vitubo CMS supports responsive design in both frontend and backend. Responsive design means your website responds to the width of the browser, offering you a single website that looks great on any device!
+            {/html:p}
+            {list:ul class="list-inline hidden-xs"}
+              {list:li}{html:i class="fa fa-mobile text-theme-secondary inactive" data-device="#iphone"}{/html:i}{/list:li}
+              {list:li}{html:i class="fa fa-tablet text-theme-secondary inactive" data-device="#ipad"}{/html:i}{/list:li}
+              {list:li}{html:i class="fa fa-laptop text-theme-secondary" data-device="#macbook"}{/html:i}{/list:li}
+              {list:li}{html:i class="fa fa-desktop text-theme-secondary inactive" data-device="#imac"}{/html:i}{/list:li}
+            {/list:ul}
+          {/html:col}
+          {html:col class="col-sm-6 hidden-xs"}
+            {html:img class="img-responsive show" src="app/themes/jupiter/img/macbook.png" alt="..." id="macbook"}
+            {html:img class="img-responsive hidden" src="app/themes/jupiter/img/imac.png" alt="..." id="imac"}
+            {html:img class="img-responsive hidden" src="app/themes/jupiter/img/ipad.png" alt="..." id="ipad"}
+            {html:img class="img-responsive hidden" src="app/themes/jupiter/img/iphone.png" alt="..." id="iphone"}
+          {/html:col}
+        {/html:row}<!-- / .row -->
+      </div> <!-- / .template-thumbnails -->
+    {/html:container} <!-- / .container -->
+{/html:div}
+{html:div class="feedbacks"}
+    {html:container}
+      {html:row}
+        {html:col class="col-sm-12"}
+          {html:h2 class="headline-lg"}What Clients Say About Vitubo CMS{/html:h2}
+        {/html:col}
+      {/html:row} <!-- / .row -->
+      {html:row}
+        {html:col class="col-sm-6 col-md-4"}
+          <div class="feedback">
+            {html:i class="fa fa-user fa-2x"}{/html:i}
+            <div>
+              {html:p}
+                Thank you and congratulate you for your speed and skill. It’s really a nice CMS, I really look forward to the next release.
+              {/html:p}
+            </div>
+          </div>
+        {/html:col}
+        <div class="col-sm-6 col-md-4">
+          <div class="feedback">
+            {html:i class="fa fa-user fa-2x"}{/html:i}
+            <div>
+               {html:p}
+                Hey first of all i would like to congratulate you on this project. Well, although i use WP for most all my projects, i found a weak spot in me to purchase most cms platforms published on Codecanyon. This project seems very promising and feature packed out of the box. 
+               {/html:p}
+            </div>
+          </div>
+        </div>
+        <div class="hidden-sm col-md-4">
+          <div class="feedback">
+            {html:i class="fa fa-user fa-2x"}{/html:i}
+            <div>
+               {html:p}
+                It looks really awesome!!! shopping theme with shopping feature will be really great!
+              {/html:p}
+            </div>
+          </div>
+        </div>
+        <div class="col-sm-6 col-md-6">
+          <div class="feedback">
+            {html:i class="fa fa-user fa-2x"}{/html:i}
+            <div>
+              {html:p}
+                This is the closest script I have found to being exactly what I have been looking for, for many months... This is Very Well Done! and I think it may be one of the Best Scripts You Have Provided Here (and you have some really nice scripts)!
+              {/html:p}
+            </div>
+          </div>
+        </div>
+        <div class="col-sm-6 col-md-6">
+          <div class="feedback">
+            {html:i class="fa fa-user fa-2x"}{/html:i}
+            <div>
+               {html:p}
+                Simple and successful installation, good manual, complete management, elegant presentation and very modern. I wish you success in your previous sales and good projects. Five Stars. Thanks for your work
+              {/html:p}
+            </div>
+          </div>
+        </div>
+      {/html:row} <!-- / .row -->
+    {/html:container} <!-- / .container -->
+{/html:div}
+{html:container}
+    {html:row}
+      {html:col class="col-sm-12"}
+        {html:h2 class="headline-lg"}Premium Plugins{/html:h2}
+      {/html:col}
+    {/html:row} <!-- / .row -->
+    {html:row}
+      {html:col class="col-sm-6"}
+        <div class="blog">
+          {html:img src="app/themes/jupiter/img/vitubo-shop.png" alt="..."}
+          <div class="blog-desc">
+            {html:h3}
+              {html:a href="post.html"}Vitubo Shop For Vitubo CMS{/html:a}
+            {/html:h3}
+            <hr>
+            {html:p class="text-muted"}$12{/html:p}
+            {html:p}Vitubo Shop is a plugin of Vitubo which gives you the ability to quickly add an online shop with a simple functional shopping cart into your Vitubo website. With this plugin you can specify tax and currencies for different countries. Vitubo Shop can be flexibility switched between selling and displaying products (catalogue only). Vitubo Shop is a perfect solution for medium and small shops.{/html:p}
+            {html:a class="btn btn-lg btn-theme-primary" href="http://codecanyon.net/item/vitubo-shop-for-vitubo-cms/8990177"}Purchase{/html:a}
+          </div>
+        </div>
+      {/html:col}
+      {html:col class="col-sm-6"}
+        <div class="blog">
+          {html:img src="app/themes/jupiter/img/moza-slider-builder.png" alt="..."}
+          <div class="blog-desc">
+            {html:h3}
+              {html:a href="blog-post.html"}Moza Slider Builder Plugin For Vitubo CMS{/html:a}
+            {/html:h3}
+            <hr>
+            {html:p class="text-muted"}9${/html:p}
+            {html:p}Moza Slider Builder is a plugin of Vitubo which allows you to build impressive sliders for your webpages in a few clicks without writing a single line of code. Vitubo Moza Slider Builder looks and works flawlessly on all mobile devices, modern and legacy browsers. This plugin provides 156 2D/3D effects and especially multiple transitions.{/html:p}
+            {html:a class="btn btn-lg btn-theme-primary" href="http://codecanyon.net/item/moza-slider-builder-plugin-for-vitubo-cms/8530134"}Purchase{/html:a}
+          </div>
+        </div>
+      {/html:col}
+    {/html:row} <!-- / .row -->
+{/html:container}

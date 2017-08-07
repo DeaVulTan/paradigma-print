@@ -1,0 +1,405 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Aphrodite\n"
+"POT-Creation-Date: 2015-01-13 14:26+0700\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.4\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../navigation.php:30
+#: ../plugins/default/user/widgets/views/user/index.php:43
+msgid "Sign In"
+msgstr "サイイン"
+
+#: ../navigation.php:43
+#: ../plugins/default/user/widgets/views/user/index.php:28
+msgid "My Profile"
+msgstr "マイプロフィール"
+
+#: ../navigation.php:44
+#: ../plugins/default/user/widgets/views/user/index.php:25
+msgid "Admin Panel"
+msgstr "管理パネル"
+
+#: ../navigation.php:45
+#: ../plugins/default/user/widgets/views/user/index.php:31
+msgid "Sign Out"
+msgstr "サインアウト"
+
+#: ../navigation.php:62 ../navigation.php:81
+msgid "Search"
+msgstr "検索"
+
+#: ../navigation.php:64
+msgid "Go"
+msgstr "行く"
+
+#: ../options/options-ajax.php:5
+msgid "Theme option is updated successfully"
+msgstr "テーマのオプションが正常に更新されます"
+
+#: ../options/options.php:97
+msgid "Default"
+msgstr "デフォルト"
+
+#: ../options/options.php:98
+msgid "Atlantis"
+msgstr ""
+
+#: ../options/options.php:99
+msgid "Blue Chill"
+msgstr ""
+
+#: ../options/options.php:100
+msgid "Cadillac"
+msgstr ""
+
+#: ../options/options.php:101
+msgid "Cascade"
+msgstr ""
+
+#: ../options/options.php:102
+msgid "Cinnabar"
+msgstr ""
+
+#: ../options/options.php:103
+msgid "Froly"
+msgstr ""
+
+#: ../options/options.php:104
+msgid "Go Ben"
+msgstr ""
+
+#: ../options/options.php:105
+msgid "Lochmara"
+msgstr ""
+
+#: ../options/options.php:106
+msgid "Smart Blue"
+msgstr ""
+
+#: ../options/options.php:113
+msgid "Logo"
+msgstr "ロゴ"
+
+#: ../options/options.php:188
+msgid "Google fonts"
+msgstr "Googleのフォント"
+
+#: ../options/options.php:199
+msgid "Bottom content"
+msgstr "下のコンテンツ"
+
+#: ../plugins/default/menu/widgets/views/menu/index.php:15
+#: ../plugins/others/shop/widgets/views/shop-category/index.php:10
+msgid "Please choose a menu"
+msgstr "メニューをご選択お願いいたします。"
+
+#: ../plugins/default/user/widgets/views/user/index.php:47
+msgid "Sign Up"
+msgstr "登録"
+
+#: ../plugins/others/galleries/shortcodes/views/galleries/breadcrumb.php:9
+#: ../plugins/others/testimonials/shortcodes/views/testimonials/breadcrumb.php:9
+msgid "Home"
+msgstr ""
+
+#: ../plugins/others/galleries/shortcodes/views/galleries/data.php:35
+#: ../plugins/others/galleries/shortcodes/views/galleries/display.php:55
+msgid "No Data"
+msgstr ""
+
+#: ../plugins/others/galleries/shortcodes/views/galleries/display_once.php:52
+msgid "Views"
+msgstr ""
+
+#: ../plugins/others/galleries/shortcodes/views/galleries/display_once.php:59
+msgid "Total"
+msgstr ""
+
+#: ../plugins/others/shop/widgets/views/shop-product-features/index.php:58
+msgid "No Features Products !"
+msgstr ""
+
+#: ../plugins/others/shop/widgets/views/shop-product-hot/index.php:58
+msgid "No Hot Products !"
+msgstr ""
+
+#: ../plugins/others/shop/widgets/views/shop-product-new/index.php:60
+msgid "No New Products !"
+msgstr ""
+
+#: ../plugins/others/shop/widgets/views/shop-products/index.php:58
+msgid "No Products !"
+msgstr ""
+
+#: ../plugins/others/testimonials/shortcodes/views/testimonials/display.php:23
+msgid "No Testimonial"
+msgstr ""
+
+#: ../post_templates.php:29 ../post_templates.php:56 ../post_templates.php:84
+#: ../post_templates.php:114 ../post_templates.php:146
+#: ../post_templates.php:177
+msgid "There is no post"
+msgstr "投稿がありません"
+
+#: ../post_templates.php:51 ../post_templates.php:79
+msgid "Read more"
+msgstr "続きを読む"
+
+#~ msgid "There is no tweet yet or wrong twitter name"
+#~ msgstr "全くまだつぶやきや、間違ったTwitterの名はありません"
+
+#~ msgid "Edit Profile"
+#~ msgstr "プロファイル編集"
+
+#~ msgid "Logout"
+#~ msgstr "ログアウト"
+
+#~ msgid "Theme option is reset successfully"
+#~ msgstr "テーマのオプションが正常にリセットされます"
+
+#~ msgid "Example: "
+#~ msgstr "例："
+
+#~ msgid "tag"
+#~ msgstr "タグ"
+
+#~ msgid "class"
+#~ msgstr "クラス"
+
+#~ msgid "Apply for: "
+#~ msgstr "適用されます。"
+
+#~ msgid "Background"
+#~ msgstr "背景"
+
+#~ msgid "Colors"
+#~ msgstr "色"
+
+#~ msgid "Fonts"
+#~ msgstr "フォント"
+
+#~ msgid "Navigation"
+#~ msgstr "ナビゲーション"
+
+#~ msgid "Footer"
+#~ msgstr "フッター"
+
+#~ msgid "Logo type"
+#~ msgstr "ロゴタイプ "
+
+#~ msgid "Text"
+#~ msgstr "テキスト"
+
+#~ msgid "Image"
+#~ msgstr "画像"
+
+#~ msgid "Font-family"
+#~ msgstr "フォント"
+
+#~ msgid "Font-size"
+#~ msgstr "フォントサイズ"
+
+#~ msgid "Color"
+#~ msgstr "カラー"
+
+#~ msgid "Select image"
+#~ msgstr "選択した画像"
+
+#~ msgid "Example: Image size (Width: %spx, Height: %spx)"
+#~ msgstr "例：画像サイズ（幅：%spx、高さ：%spx）"
+
+#~ msgid "Image width"
+#~ msgstr "画像の幅"
+
+#~ msgid "Image height"
+#~ msgstr "画像の高さ"
+
+#~ msgid "Background type"
+#~ msgstr "背景の種類"
+
+#~ msgid "Both"
+#~ msgstr "両方"
+
+#~ msgid "Background color"
+#~ msgstr "背景色"
+
+#~ msgid "Wrapper background color"
+#~ msgstr "ラッパーの背景色"
+
+#~ msgid "Background images"
+#~ msgstr "背景画像"
+
+#~ msgid "Background position"
+#~ msgstr "背景の位置"
+
+#~ msgid "Background repeat"
+#~ msgstr "背景リピート"
+
+#~ msgid "Repeat"
+#~ msgstr "リピート"
+
+#~ msgid "Repeat-x"
+#~ msgstr "リピート-X"
+
+#~ msgid "Repeat-y"
+#~ msgstr "リピート-Y"
+
+#~ msgid "No-repeat"
+#~ msgstr "いいえ繰り返さない "
+
+#~ msgid "Background attachment"
+#~ msgstr "背景アタッチメント"
+
+#~ msgid "Scroll"
+#~ msgstr "スクロール"
+
+#~ msgid "Fixed"
+#~ msgstr "一定の"
+
+#~ msgid "Color type"
+#~ msgstr "カラータイプ"
+
+#~ msgid "Theme style"
+#~ msgstr "テーマのスタイル"
+
+#~ msgid "Custom style"
+#~ msgstr "カスタムスタイル"
+
+#~ msgid "Custom color"
+#~ msgstr "カスタムカラー"
+
+#~ msgid "Color style"
+#~ msgstr "色スタイル"
+
+#~ msgid "Body font family"
+#~ msgstr "体フォント"
+
+#~ msgid "Body font size"
+#~ msgstr "本体のフォントサイズ"
+
+#~ msgid "Title font family"
+#~ msgstr "タイトルのフォント"
+
+#~ msgid "Title font size"
+#~ msgstr "タイトルのフォントサイズ"
+
+#~ msgid "Content font family"
+#~ msgstr "コンテンツのフォント"
+
+#~ msgid "Content font size"
+#~ msgstr "コンテンツのフォントサイズ "
+
+#~ msgid "Color (hover, active)"
+#~ msgstr "色（ホバー、アクティブ）"
+
+#~ msgid "Title color"
+#~ msgstr "タイトルのフォント"
+
+#~ msgid "Content color"
+#~ msgstr "コンテンツの色"
+
+#~ msgid "Are you sure to reset to default value?"
+#~ msgstr "あなたがデフォルト値にリセットしますか？ "
+
+#~ msgid "Cancel"
+#~ msgstr "キャンセル"
+
+#~ msgid "Ok"
+#~ msgstr "Ok"
+
+#~ msgid "Title"
+#~ msgstr "タイトル"
+
+#~ msgid "Widget Title"
+#~ msgstr "ウィジェットタイトル"
+
+#~ msgid "Gallery page"
+#~ msgstr "ギャラリーページ"
+
+#~ msgid "Image sources"
+#~ msgstr "画像ソース"
+
+#~ msgid "All Galleries"
+#~ msgstr "全部ギャラリー"
+
+#~ msgid "Random Gallery"
+#~ msgstr "任意ギャラリー"
+
+#~ msgid "Menu layout"
+#~ msgstr "メニューレイアウト"
+
+#~ msgid "Type"
+#~ msgstr "タイプ"
+
+#~ msgid "Number of posts"
+#~ msgstr "ポスト数"
+
+#~ msgid "Post list"
+#~ msgstr "ポスト一覧"
+
+#~ msgid "Display type"
+#~ msgstr "表示方式"
+
+#~ msgid "Cloud"
+#~ msgstr "雲"
+
+#~ msgid "Maximum tags"
+#~ msgstr "最大タグ"
+
+#~ msgid "Style"
+#~ msgstr "スタイル"
+
+#~ msgid "Tags"
+#~ msgstr "タグ"
+
+#~ msgid "Error detected!"
+#~ msgstr "エラー検出されました！"
+
+#~ msgid "You do not have permission to write files"
+#~ msgstr "あなたがファイルを書き込む権限がありません"
+
+#, fuzzy
+#~ msgid "Content font-family"
+#~ msgstr "コンテンツのフォント"
+
+#, fuzzy
+#~ msgid "Content font-size"
+#~ msgstr "コンテンツのフォントサイズ "
+
+#~ msgid "Footer background color"
+#~ msgstr "フッターの背景色"
+
+#~ msgid "Top content"
+#~ msgstr "上位のコンテンツ"
+
+#~ msgid "Navigation font family"
+#~ msgstr "ナビゲーションフォント"
+
+#~ msgid "Navigation font size"
+#~ msgstr "ナビゲーションフォントサイズ"
+
+#~ msgid "No post"
+#~ msgstr "ポストはありません。"
+
+#~ msgid "Post category key"
+#~ msgstr "ポストカテゴリキー"
+
+#~ msgid ""
+#~ "is the parameter which you declare in post shortcode (category = [get: "
+#~ "key]) "
+#~ msgstr ""
+#~ "あなたがポストショートコードで宣言したパラメータは (category = [get: "
+#~ "key]) "
+
+#~ msgid "Gallery"
+#~ msgstr "ギャラリー"

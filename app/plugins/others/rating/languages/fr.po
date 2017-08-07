@@ -1,0 +1,72 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Rating\n"
+"POT-Creation-Date: 2014-07-01 10:55+0700\n"
+"PO-Revision-Date: 2014-07-01 11:18+0700\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.5\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../public/pf-rating-shortcode.php:73
+msgid "vote"
+msgstr "vote"
+
+#: ../public/pf-rating-shortcode.php:73
+msgid "votes"
+msgstr "votes"
+
+#: ../public/pf-rating-shortcode.php:95
+msgid "You unauthorized access"
+msgstr "Vous l'accès non autorisé"
+
+#: ../public/pf-rating-shortcode.php:99
+msgid "You can not rate"
+msgstr "Vous ne pouvez pas noter"
+
+#: ../public/pf-rating-shortcode.php:102
+msgid "Your session has ended"
+msgstr "Votre session est terminée"
+
+#: ../public/pf-rating-shortcode.php:117
+msgid "Thank you for rating"
+msgstr "Merci de votre note"
+
+#: ../public/pf-rating-shortcode.php:119
+msgid "There is an error"
+msgstr "Il ya une erreur"
+
+#: ../public/views/include.php:3
+msgid "Are you sure to delete this rating?"
+msgstr "Etes-vous sûr de vouloir supprimer cette attribuée ?"
+
+#: ../rating-config.php:16
+msgid "Rating settings"
+msgstr "Réglages de notation"
+
+#: ../rating-config.php:20
+msgid "Only user"
+msgstr "Seuls les utilisateurs"
+
+#: ../rating-config.php:20
+msgid "Everyone"
+msgstr "tout le monde"
+
+#: ../rating-config.php:21
+msgid "Enable rating?"
+msgstr "Activer attribuée?"
+
+#: ../rating-config.php:22
+msgid "Permission"
+msgstr "autorisation"
+
+#: ../rating.php:3
+msgid "Rating"
+msgstr "évaluation"

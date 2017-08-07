@@ -1,0 +1,203 @@
+
+{html:row}
+{html:col class='col-md-9'}
+{html:_row}
+{html:_col class='col-md-12'}{html:title size=2}Color box{/html:title}{/html:_col}
+{html:_col class='col-md-4'}
+{style:colorbox color='red'}
+{html:h4}Red Color box {/html:h4}
+{html:i class='fa fa-cloud-download fa-2'} {/html:i}
+{html:p}
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua
+{/html:p}
+{/style:colorbox}
+{/html:_col}
+{html:_col class='col-md-4'}
+{style:colorbox color='sea'}
+{html:h4}Sea Color box {/html:h4}
+{html:i class='fa fa-cloud-download fa-2'} {/html:i}
+{html:p}
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua
+{/html:p}
+{/style:colorbox}
+{/html:_col}
+{html:_col class='col-md-4'}
+{style:colorbox color='yellow'}
+{html:h4}Yellow Color box {/html:h4}
+{html:i class='fa fa-cloud-download fa-2'} {/html:i}
+{html:p}
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua
+{/html:p}
+{/style:colorbox}
+{/html:_col}
+{/html:_row}
+{html:_row}
+{html:_col class='col-sm-6'}
+{html:title size=3}Carousel Slider {/html:title}
+{slider:carousel}
+{slider:img src='media/uploads/media/galleries/Edinburgh/DSC_6660.jpg' text='' link='http://demo-cms.vitubo.com'},
+{slider:img src='media/uploads/media/galleries/Edinburgh/DSC_6823.jpg' text='' link='http://demo-cms.vitubo.com'},
+{slider:img src='media/uploads/media/galleries/Edinburgh/DSC_6969.jpg' text='' link='http://demo-cms.vitubo.com'}
+{/slider:carousel}
+{/html:_col}
+{html:_col class='col-sm-6'}
+{html:h3}Table{/html:h3}
+{html:table class='table table-hover'}
+{html:tr}
+{html:th}Number{/html:th}
+{html:th}Name{/html:th}
+{html:th}Action{/html:th}
+{/html:tr}
+{html:tr}
+{html:td}1{/html:td}
+{html:td}TrungNN{/html:td}
+{html:td}
+{html:button class='btn btn-success btn-xs' }Edit{/html:button}
+{html:i}{html:i}
+{html:button class='btn btn-danger btn-xs' }Delete{/html:button}
+{/html:td}
+{/html:tr}
+{html:tr}
+{html:td}2{/html:td}
+{html:td}ThangVD{/html:td}
+{html:td}
+{html:button class='btn btn-success btn-xs' }Edit{/html:button}
+{html:i}{html:i}
+{html:button class='btn btn-danger btn-xs' }Delete{/html:button}
+{/html:td}
+{/html:tr}
+{html:tr}
+{html:td}3{/html:td}
+{html:td}TuanDV{/html:td}
+{html:td}
+{html:button class='btn btn-success btn-xs' }Edit{/html:button}
+{html:i}{html:i}
+{html:button class='btn btn-danger btn-xs' }Delete{/html:button}
+{/html:td}
+{/html:tr}
+{html:tr}
+{html:td}4{/html:td}
+{html:td}PhucPM{/html:td}
+{html:td}
+{html:button class='btn btn-success btn-xs' }Edit{/html:button}
+{html:i}{html:i}
+{html:button class='btn btn-danger btn-xs' }Delete{/html:button}
+{/html:td}
+{/html:tr}
+{html:tr}
+{html:td}5{/html:td}
+{html:td}TrungDM{/html:td}
+{html:td}
+{html:button class='btn btn-success btn-xs' }Edit{/html:button}
+{html:i}{html:i}
+{html:button class='btn btn-danger btn-xs' }Delete{/html:button}
+{/html:td}
+{/html:tr}
+{html:tr}
+{html:td}6{/html:td}
+{html:td}NhamHV{/html:td}
+{html:td}
+{html:button class='btn btn-success btn-xs' }Edit{/html:button}
+{html:i}{html:i}
+{html:button class='btn btn-danger btn-xs' }Delete{/html:button}
+{/html:td}
+{/html:tr}
+{/html:table}
+{/html:_col}
+{/html:_row}
+{html:_row}
+{html:_col class='col-sm-4'}
+{html:h3}Unordered Lists {/html:h3}
+{list:ul class='list-unstyled'}
+{list:li}Lorem ipsum dolor sit amet{/list:li}
+{list:li}Consectetur adipiscing elit{/list:li}
+{list:li}Integer molestie lorem at massa{/list:li}
+{list:li}Nulla volutpat aliquam velit
+{list:_ul}
+{list:_li}Lorem ipsum dolor sit amet{/list:_li}
+{list:_li}Consectetur adipiscing elit{/list:_li}
+{list:_li}Integer molestie lorem at massa{/list:_li}
+{/list:_ul}
+{/list:li}
+{list:li}Faucibus porta lacus fringilla vel{/list:li}
+{list:li}Aenean sit amet erat nunc{/list:li}
+{/list:ul}
+{/html:_col}
+{html:_col class='col-sm-4'}
+{html:h3}Ordered Lists{/html:h3}
+{list:ol}
+{list:li}Lorem ipsum dolor sit amet{/list:li}
+{list:li}Consectetur adipiscing elit{/list:li}
+{list:li}Integer molestie lorem at massa{/list:li}
+{list:li}Nulla volutpat aliquam velit
+{list:_ol}
+{list:_li}Lorem ipsum dolor sit amet{/list:_li}
+{list:_li}Consectetur adipiscing elit{/list:_li}
+{list:_li}Integer molestie lorem at massa{/list:_li}
+{/list:_ol}
+{/list:li}
+{list:li}Faucibus porta lacus fringilla vel{/list:li}
+{list:li}Aenean sit amet erat nunc{/list:li}
+{/list:ol}
+{/html:_col}
+{html:_col class='col-sm-4'}
+{html:h3}Unordered Lists{/html:h3}
+{list:ul}
+{list:li}Lorem ipsum dolor sit amet{/list:li}
+{list:li}Consectetur adipiscing elit{/list:li}
+{list:li}Integer molestie lorem at massa{/list:li}
+{list:li}Nulla volutpat aliquam velit
+{list:_ul}
+{list:_li}Lorem ipsum dolor sit amet{/list:_li}
+{list:_li}Consectetur adipiscing elit{/list:_li}
+{list:_li}Integer molestie lorem at massa{/list:_li}
+{/list:_ul}
+{/list:li}
+{list:li}Faucibus porta lacus fringilla vel{/list:li}
+{list:li}Aenean sit amet erat nunc{/list:li}
+{/list:ul}
+{/html:_col}
+{/html:_row}
+{/html:col}
+{html:col class='col-md-3'}
+{html:h3}Social Icon{/html:h3}
+{html:_row style='padding: 0 20px'}
+{social:rss} http://demo-cms.vitubo.com{/social:rss}
+{social:facebook} http://demo-cms.vitubo.com{/social:facebook}
+{social:twitter} http://demo-cms.vitubo.com{/social:twitter}
+{social:vimeo} http://demo-cms.vitubo.com{/social:vimeo}
+{social:googleplus} http://demo-cms.vitubo.com{/social:googleplus}
+{social:pintrest} http://demo-cms.vitubo.com{/social:pintrest}
+{social:linkedin} http://demo-cms.vitubo.com{/social:linkedin}
+{social:dropbox} http://demo-cms.vitubo.com{/social:dropbox}
+{social:picasa} http://demo-cms.vitubo.com{/social:picasa}
+{social:spotify} http://demo-cms.vitubo.com{/social:spotify}
+{social:jolicloud} http://demo-cms.vitubo.com{/social:jolicloud}
+{social:wordpress} http://demo-cms.vitubo.com{/social:wordpress}
+{social:github} http://demo-cms.vitubo.com{/social:github}
+{social:xing} http://demo-cms.vitubo.com{/social:xing}
+{/html:_row}
+{html:h3}Lastest Tweets{/html:h3}
+{social:tweets twitter='vitubocms' num=3}{/social:tweets}
+{borderbox:right style=''}
+{html:h4}Border box{/html:h4}
+{html:p}
+Et harum quidem rerum facilis est et expedita distinctio lorem ipsum dolor sit amet consectetur adipiscing elit. Ut non libero consectetur adipiscing elit magna. Sed et quam lacus. Fusce condimentum eleifend enim a feugiat.
+{/html:p}
+{/borderbox:right}
+{html:h3}Thumbnail{/html:h3}
+{thumb:zoom img='media/uploads/media/galleries/Edinburgh/DSC_6974.jpg'}
+Donec id elit non mi porta gravida at eget metus. Fusce dapibus, justo sit amet risus etiam porta sem.
+{/thumb:zoom}
+{/html:col}
+{/html:row}
+{slider:jcarousel}
+{slider:img src='media/uploads/media/galleries/Edinburgh/DSC_6386.jpg' text='' link='http://demo-cms.vitubo.com'},
+{slider:img src='media/uploads/media/galleries/Edinburgh/DSC_6404.JPG' text='' link='http://demo-cms.vitubo.com'},
+{slider:img src='media/uploads/media/galleries/Edinburgh/DSC_6427.jpg' text='' link='http://demo-cms.vitubo.com'},
+{slider:img src='media/uploads/media/galleries/Edinburgh/DSC_6477.jpg' text='' link='http://demo-cms.vitubo.com'},
+{slider:img src='media/uploads/media/galleries/Edinburgh/DSC_6514.jpg' text='' link='http://demo-cms.vitubo.com'},
+{slider:img src='media/uploads/media/galleries/Edinburgh/DSC_6586.jpg' text='' link='http://demo-cms.vitubo.com'},
+{slider:img src='media/uploads/media/galleries/Edinburgh/DSC_6638.jpg' text='' link='http://demo-cms.vitubo.com'},
+{slider:img src='media/uploads/media/galleries/Edinburgh/DSC_6641.jpg' text='' link='http://demo-cms.vitubo.com'}
+{/slider:jcarousel}

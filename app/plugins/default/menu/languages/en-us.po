@@ -1,0 +1,391 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Menu\n"
+"POT-Creation-Date: 2015-01-19 13:42+0700\n"
+"PO-Revision-Date: 2015-01-19 13:43+0700\n"
+"Last-Translator: \n"
+"Language-Team: Vitubo\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.4\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../action/once.php:31 ../admin/views/menu/add.php:296
+#: ../admin/views/menu/edit.php:305
+msgid "Menu is created successfully"
+msgstr "Menu is created successfully"
+
+#: ../action/once.php:40 ../action/once.php:60 ../admin/assets/js.php:226
+#: ../admin/views/menu/add.php:290 ../admin/views/menu/edit.php:299
+#: ../assets/js.php:217
+msgid "Menu name can not more than 255 characters"
+msgstr "Menu name can not more than 255 characters"
+
+#: ../action/once.php:54 ../admin/views/menu/edit.php:325
+msgid "Menu is updated successfully"
+msgstr "Menu is updated successfully"
+
+#: ../admin/assets/js.php:67 ../admin/views/menu/index.php:353
+#: ../assets/js.php:67
+msgid "Are you sure to delete this item?"
+msgstr "Are you sure to delete this item?"
+
+#: ../admin/assets/js.php:71 ../admin/views/menu/index.php:66
+#: ../admin/views/menu/index.php:357 ../assets/js.php:71
+msgid "Delete"
+msgstr "Delete"
+
+#: ../admin/assets/js.php:79 ../admin/assets/js.php:187
+#: ../admin/assets/js.php:248 ../admin/views/menu/index.php:27
+#: ../admin/views/menu/index.php:33 ../admin/views/menu/index.php:38
+#: ../assets/js.php:79 ../assets/js.php:178 ../assets/js.php:239
+msgid "Cancel"
+msgstr "Cancel"
+
+#: ../admin/assets/js.php:125 ../assets/js.php:116
+msgid "Please enter item name"
+msgstr "Please enter item name"
+
+#: ../admin/assets/js.php:126 ../assets/js.php:117
+msgid "Item name can not more than 75 characters"
+msgstr "Item name can not more than 75 characters"
+
+#: ../admin/assets/js.php:130 ../assets/js.php:121
+msgid "Please enter valid URL"
+msgstr "Please enter valid URL"
+
+#: ../admin/assets/js.php:168 ../assets/js.php:159
+msgid ""
+"Are you sure to delete this item? \\n (If this item has any children, it "
+"will be deleted also)"
+msgstr ""
+"Are you sure to delete this item? \\n (If this item has any children, it "
+"will be deleted also)"
+
+#: ../admin/assets/js.php:172 ../admin/assets/js.php:240 ../assets/js.php:163
+#: ../assets/js.php:231
+msgid "Confirm"
+msgstr "Confirm"
+
+#: ../admin/assets/js.php:213 ../assets/js.php:204
+msgid "Do you really want to cancel?"
+msgstr "Do you really want to cancel?"
+
+#: ../admin/assets/js.php:228 ../assets/js.php:219
+msgid "Please enter menu name"
+msgstr "Please enter menu name"
+
+#: ../admin/views/menu/add.php:11 ../admin/views/menu/edit.php:11
+#: ../admin/views/menu/index.php:50 ../admin/views/menu/index.php:169
+#: ../menu.php:3
+msgid "Menu"
+msgstr "Menu"
+
+#: ../admin/views/menu/add.php:11
+msgid "Add"
+msgstr "Add"
+
+#: ../admin/views/menu/add.php:28 ../admin/views/menu/edit.php:30
+#: ../admin/views/menu/index.php:106
+msgid "Menu Name"
+msgstr "Menu Name"
+
+#: ../admin/views/menu/add.php:40 ../admin/views/menu/edit.php:42
+msgid "Add Page"
+msgstr "Add Page"
+
+#: ../admin/views/menu/add.php:41 ../admin/views/menu/edit.php:43
+msgid "Add Link"
+msgstr "Add Link"
+
+#: ../admin/views/menu/add.php:42 ../admin/views/menu/edit.php:44
+msgid "Preview"
+msgstr "Preview"
+
+#: ../admin/views/menu/add.php:42 ../admin/views/menu/edit.php:44
+msgid "Notice: You can order menu by dragging them"
+msgstr "Notice: You can order menu by dragging them"
+
+#: ../admin/views/menu/add.php:67 ../admin/views/menu/edit.php:72
+msgid "Add Page to menu"
+msgstr "Add Page to menu"
+
+#: ../admin/views/menu/add.php:74 ../admin/views/menu/add.php:174
+#: ../admin/views/menu/edit.php:79 ../admin/views/menu/edit.php:183
+msgid "Name"
+msgstr "Name"
+
+#: ../admin/views/menu/add.php:81 ../admin/views/menu/edit.php:86
+msgid "Choose Page"
+msgstr "Choose Page"
+
+#: ../admin/views/menu/add.php:96 ../admin/views/menu/edit.php:101
+msgid "Options"
+msgstr "Options"
+
+#: ../admin/views/menu/add.php:99 ../admin/views/menu/edit.php:104
+msgid "Example: "
+msgstr "Example: "
+
+#: ../admin/views/menu/add.php:103 ../admin/views/menu/add.php:188
+#: ../admin/views/menu/edit.php:108 ../admin/views/menu/edit.php:197
+msgid "Icon"
+msgstr "Icon"
+
+#: ../admin/views/menu/add.php:106 ../admin/views/menu/add.php:191
+#: ../admin/views/menu/edit.php:111 ../admin/views/menu/edit.php:200
+msgid "CSS class"
+msgstr "CSS class"
+
+#: ../admin/views/menu/add.php:107 ../admin/views/menu/add.php:192
+#: ../admin/views/menu/edit.php:112 ../admin/views/menu/edit.php:201
+msgid "Images"
+msgstr "Images"
+
+#: ../admin/views/menu/add.php:127 ../admin/views/menu/add.php:212
+#: ../admin/views/menu/edit.php:134 ../admin/views/menu/edit.php:221
+msgid "Select Image"
+msgstr "Select Image"
+
+#: ../admin/views/menu/add.php:147 ../admin/views/menu/add.php:232
+#: ../admin/views/menu/edit.php:156 ../admin/views/menu/edit.php:241
+msgid "Description"
+msgstr "Description"
+
+#: ../admin/views/menu/add.php:155 ../admin/views/menu/add.php:240
+#: ../admin/views/menu/edit.php:164 ../admin/views/menu/edit.php:249
+#: ../admin/views/menu/index.php:167 ../admin/views/menu/index.php:194
+msgid "Close"
+msgstr "Close"
+
+#: ../admin/views/menu/add.php:156 ../admin/views/menu/add.php:241
+#: ../admin/views/menu/edit.php:165 ../admin/views/menu/edit.php:250
+#: ../admin/views/menu/index.php:32
+msgid "Apply"
+msgstr "Apply"
+
+#: ../admin/views/menu/add.php:166 ../admin/views/menu/edit.php:175
+msgid "Add URL to menu"
+msgstr "Add URL to menu"
+
+#: ../admin/views/menu/add.php:181 ../admin/views/menu/edit.php:190
+msgid "Enter Link"
+msgstr "Enter Link"
+
+#: ../admin/views/menu/add.php:264 ../admin/views/menu/add.php:275
+#: ../admin/views/menu/edit.php:273 ../admin/views/menu/edit.php:284
+#: ../admin/views/menu/edit.php:314 ../admin/views/menu/index.php:242
+#: ../admin/views/menu/index.php:254 ../admin/views/menu/index.php:275
+#: ../admin/views/menu/index.php:307 ../admin/views/menu/index.php:320
+#: ../admin/views/menu/index.php:329 ../admin/views/menu/index.php:336
+#: ../admin/views/menu/index.php:360 ../admin/views/menu/index.php:388
+msgid "Loading..."
+msgstr "Loading..."
+
+#: ../admin/views/menu/add.php:283 ../admin/views/menu/edit.php:292
+#: ../admin/views/menu/edit.php:329 ../admin/views/menu/index.php:284
+#: ../admin/views/menu/index.php:342 ../admin/views/menu/index.php:365
+msgid "There is an error, please check again!"
+msgstr "There is an error, please check again!"
+
+#: ../admin/views/menu/edit.php:11
+msgid "Edit"
+msgstr "Edit"
+
+#: ../admin/views/menu/index.php:5 ../admin/views/menu/index.php:169
+#: ../admin/views/menu/index.php:192
+msgid "Search"
+msgstr "Search"
+
+#: ../admin/views/menu/index.php:22
+msgid "New"
+msgstr "New"
+
+#: ../admin/views/menu/index.php:26 ../admin/views/menu/index.php:31
+#: ../admin/views/menu/index.php:37
+msgid "Save"
+msgstr "Save"
+
+#: ../admin/views/menu/index.php:50
+msgid "List"
+msgstr "List"
+
+#: ../admin/views/menu/index.php:62
+msgid "Bulk Actions"
+msgstr "Bulk Actions"
+
+#: ../admin/views/menu/index.php:113
+msgid "Shortcode"
+msgstr "Shortcode"
+
+#: ../admin/views/menu/index.php:116
+msgid "Actions"
+msgstr "Actions"
+
+#: ../admin/views/menu/index.php:179
+msgid "Menu Title"
+msgstr "Menu Title"
+
+#: ../admin/views/menu/index.php:268
+msgid "Are you sure with this action?"
+msgstr "Are you sure with this action?"
+
+#: ../admin/views/menu/index.php:272
+msgid "OK"
+msgstr "OK"
+
+#: ../admin/views/menu/index.php:282 ../admin/views/menu/index.php:363
+msgid "Menu is deleted successfully"
+msgstr "Menu is deleted successfully"
+
+#: ../menu.php:26
+msgid "Menus"
+msgstr "Menus"
+
+#: ../menu.php:70
+msgid "Access Denied!"
+msgstr "Access Denied!"
+
+#: ../widgets/views/menu/index.php:15 ../widgets/views/menu/setting.php:7
+msgid "Please choose a menu"
+msgstr "Please choose a menu"
+
+#: ../widgets/views/menu/setting.php:3
+msgid "Widget Title"
+msgstr "Widget Title"
+
+#: ../widgets/views/menu/setting.php:11
+msgid "Menu layout"
+msgstr "Menu layout"
+
+#, fuzzy
+#~ msgid "Are you sure to delete this menu?"
+#~ msgstr "Are you sure to delete this item?"
+
+#~ msgid "New Menu"
+#~ msgstr "New Menu"
+
+#~ msgid "Select Action"
+#~ msgstr "Select Action"
+
+#~ msgid "Add Menu"
+#~ msgstr "Add Menu"
+
+#~ msgid "Publish"
+#~ msgstr "Publish"
+
+#~ msgid "Yes"
+#~ msgstr "Yes"
+
+#~ msgid "No"
+#~ msgstr "No"
+
+#~ msgid "Item Name"
+#~ msgstr "Item Name"
+
+#~ msgid "Please enter name and URL"
+#~ msgstr "Please enter name and URL"
+
+#~ msgid "Add New Url Item"
+#~ msgstr "Add New Url Item"
+
+#~ msgid "Leave all changes?"
+#~ msgstr "Leave all changes?"
+
+#~ msgid "Update Successfully"
+#~ msgstr "Update Successfully"
+
+#~ msgid "This Item have children(s). You cannot delete it"
+#~ msgstr "This Item have children(s). You cannot delete it"
+
+#~ msgid "The email address you entered is already in use!"
+#~ msgstr "The email address you entered is already in use!"
+
+#~ msgid "The username you entered is already in use!"
+#~ msgstr "The username you entered is already in use!"
+
+#~ msgid "The passwords you entered do not match!"
+#~ msgstr "The passwords you entered do not match!"
+
+#~ msgid "Please review your information!"
+#~ msgstr "Please review your information!"
+
+#~ msgid "User successfully created!"
+#~ msgstr "User successfully created!"
+
+#~ msgid "Please select user"
+#~ msgstr "Please select user"
+
+#~ msgid "Email"
+#~ msgstr "Email"
+
+#~ msgid "Username"
+#~ msgstr "Username"
+
+#~ msgid "Password"
+#~ msgstr "Password"
+
+#~ msgid "Re-Password"
+#~ msgstr "Re-Password"
+
+#~ msgid "Displayname"
+#~ msgstr "Displayname"
+
+#~ msgid "Role"
+#~ msgstr "Role"
+
+#~ msgid "Error Detected! The Activation key invalid!"
+#~ msgstr "Error Detected! The Activation key invalid!"
+
+#~ msgid "This user aready activated!"
+#~ msgstr "This user aready activated!"
+
+#~ msgid "Activation Successfully!"
+#~ msgstr "Activation Successfully!"
+
+#~ msgid "All"
+#~ msgstr "All"
+
+#~ msgid "Activated"
+#~ msgstr "Activated"
+
+#~ msgid "Deactivated"
+#~ msgstr "Deactivated"
+
+#~ msgid "Manage"
+#~ msgstr "Manage"
+
+#~ msgid "Advance Search"
+#~ msgstr "Advance Search"
+
+#~ msgid "Username (Like)"
+#~ msgstr "Username (Like)"
+
+#~ msgid "Email (like)"
+#~ msgstr "Email (like)"
+
+#~ msgid "Unknown"
+#~ msgstr "Unknown"
+
+#~ msgid "Active"
+#~ msgstr "Active"
+
+#~ msgid "Inactive"
+#~ msgstr "Inactive"
+
+#~ msgid "Show Result"
+#~ msgstr "Show Result"
+
+#~ msgid "Check All"
+#~ msgstr "Check All"
+
+#~ msgid "Notification"
+#~ msgstr "Notification"
+
+#~ msgid "Really?"
+#~ msgstr "Really?"

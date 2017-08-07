@@ -1,0 +1,436 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Gallery\n"
+"POT-Creation-Date: 2014-11-06 15:29+0700\n"
+"PO-Revision-Date: 2015-03-01 18:14+0300\n"
+"Last-Translator: \n"
+"Language-Team: Vitubo\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.4\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../admin/models/galleries-model.php:22
+#: ../admin/views/galleries/index.php:73
+#: ../admin/views/galleries/index.php:155
+#: ../admin/views/galleries/index.php:468
+msgid "Published"
+msgstr "Опубликована"
+
+#: ../admin/models/galleries-model.php:22
+#: ../admin/views/galleries/index.php:74
+#: ../admin/views/galleries/index.php:159
+#: ../admin/views/galleries/index.php:470
+msgid "Unpublished"
+msgstr "Снята с публикации"
+
+#: ../admin/views/galleries/add.php:11
+msgid "Add"
+msgstr "Добавить"
+
+#: ../admin/views/galleries/add.php:21 ../admin/views/galleries/copy.php:21
+#: ../admin/views/galleries/edit.php:21 ../admin/views/galleries/index.php:109
+#: ../admin/views/galleries/index.php:217
+msgid "Gallery name"
+msgstr "Название галереи"
+
+#: ../admin/views/galleries/add.php:33 ../admin/views/galleries/copy.php:33
+#: ../admin/views/galleries/edit.php:33 ../admin/views/galleries/index.php:128
+#: ../admin/views/galleries/index.php:225
+msgid "Status"
+msgstr "Статус"
+
+#: ../admin/views/galleries/add.php:47 ../admin/views/galleries/copy.php:49
+#: ../admin/views/galleries/edit.php:48
+msgid "Description"
+msgstr "Описание"
+
+#: ../admin/views/galleries/add.php:61 ../admin/views/galleries/copy.php:93
+#: ../admin/views/galleries/edit.php:92
+msgid "Add Image"
+msgstr "Добавить изображение"
+
+#: ../admin/views/galleries/add.php:79 ../admin/views/galleries/copy.php:72
+#: ../admin/views/galleries/copy.php:110 ../admin/views/galleries/edit.php:71
+#: ../admin/views/galleries/edit.php:109
+msgid "Gallery Cover"
+msgstr "Обложка галереи"
+
+#: ../admin/views/galleries/add.php:80 ../admin/views/galleries/copy.php:73
+#: ../admin/views/galleries/copy.php:111 ../admin/views/galleries/edit.php:72
+#: ../admin/views/galleries/edit.php:110
+msgid "select image"
+msgstr "выберите изображение"
+
+#: ../admin/views/galleries/add.php:86 ../admin/views/galleries/copy.php:79
+#: ../admin/views/galleries/copy.php:117 ../admin/views/galleries/edit.php:78
+#: ../admin/views/galleries/edit.php:116
+msgid "Image title"
+msgstr "Заголовок изображение"
+
+#: ../admin/views/galleries/add.php:87 ../admin/views/galleries/copy.php:80
+#: ../admin/views/galleries/copy.php:118 ../admin/views/galleries/edit.php:79
+#: ../admin/views/galleries/edit.php:117
+msgid "Image alt"
+msgstr "Текст для тега alt"
+
+#: ../admin/views/galleries/add.php:105 ../admin/views/galleries/add.php:122
+#: ../admin/views/galleries/copy.php:136 ../admin/views/galleries/copy.php:153
+#: ../admin/views/galleries/edit.php:137 ../admin/views/galleries/edit.php:154
+#: ../admin/views/galleries/edit.php:183
+#: ../admin/views/galleries/index.php:284
+#: ../admin/views/galleries/index.php:296
+#: ../admin/views/galleries/index.php:317
+#: ../admin/views/galleries/index.php:349
+#: ../admin/views/galleries/index.php:362
+#: ../admin/views/galleries/index.php:371
+#: ../admin/views/galleries/index.php:378
+#: ../admin/views/galleries/index.php:393
+#: ../admin/views/galleries/index.php:417
+#: ../admin/views/galleries/index.php:445
+#: ../admin/views/galleries/index.php:462
+#: ../admin/views/galleries/index.php:479
+msgid "Loading..."
+msgstr "Загрузка..."
+
+#: ../admin/views/galleries/add.php:131 ../admin/views/galleries/copy.php:161
+#: ../admin/views/galleries/edit.php:162 ../admin/views/galleries/edit.php:194
+#: ../admin/views/galleries/index.php:326
+#: ../admin/views/galleries/index.php:384
+#: ../admin/views/galleries/index.php:399
+#: ../admin/views/galleries/index.php:422
+msgid "There is an error, please check again!"
+msgstr "Возникла ошибка. Попробуйте еще раз."
+
+#: ../admin/views/galleries/add.php:136
+msgid "Gallery is added successfully"
+msgstr "Галерея добавлена"
+
+#: ../admin/views/galleries/copy.php:11
+msgid "Copy"
+msgstr "Копировать"
+
+#: ../admin/views/galleries/copy.php:166
+msgid "Gallery is copied successfully"
+msgstr "Галерея скопирована"
+
+#: ../admin/views/galleries/edit.php:11
+msgid "Edit"
+msgstr "Править"
+
+#: ../admin/views/galleries/edit.php:167 ../admin/views/galleries/edit.php:192
+msgid "Gallery is updated successfully"
+msgstr "Галерея обновлена"
+
+#: ../admin/views/galleries/index.php:5 ../admin/views/galleries/index.php:208
+#: ../admin/views/galleries/index.php:235
+msgid "Search"
+msgstr "Поиск"
+
+#: ../admin/views/galleries/index.php:11
+msgid "New"
+msgstr "Добавить"
+
+#: ../admin/views/galleries/index.php:15 ../admin/views/galleries/index.php:20
+#: ../admin/views/galleries/index.php:26
+msgid "Save"
+msgstr "Сохранить"
+
+#: ../admin/views/galleries/index.php:16 ../admin/views/galleries/index.php:22
+#: ../admin/views/galleries/index.php:27
+msgid "Cancel"
+msgstr "Отмена"
+
+#: ../admin/views/galleries/index.php:21
+msgid "Apply"
+msgstr "Применить"
+
+#: ../admin/views/galleries/index.php:39
+msgid "List"
+msgstr "Список"
+
+#: ../admin/views/galleries/index.php:51
+msgid "Bulk Actions"
+msgstr "Выберите действие"
+
+#: ../admin/views/galleries/index.php:54
+msgid "Delete"
+msgstr "Удалить"
+
+#: ../admin/views/galleries/index.php:55
+msgid "Publish"
+msgstr "Опубликовать"
+
+#: ../admin/views/galleries/index.php:56
+msgid "Unpublish"
+msgstr "Снять с публикации"
+
+#: ../admin/views/galleries/index.php:68 ../admin/views/galleries/index.php:72
+msgid "All"
+msgstr "Все"
+
+#: ../admin/views/galleries/index.php:133
+msgid "Actions"
+msgstr "Действия"
+
+#: ../admin/views/galleries/index.php:206
+#: ../admin/views/galleries/index.php:236
+msgid "Close"
+msgstr "Закрыть"
+
+#: ../admin/views/galleries/index.php:310
+msgid "Are you sure with this action?"
+msgstr "Вы уверены?"
+
+#: ../admin/views/galleries/index.php:314
+#: ../admin/views/galleries/index.php:414
+msgid "OK"
+msgstr "OK"
+
+#: ../admin/views/galleries/index.php:324
+#: ../admin/views/galleries/index.php:420
+msgid "Gallery is deleted successfully"
+msgstr "Галерея удалена"
+
+#: ../admin/views/galleries/index.php:410
+msgid "Are you sure to delete this item?"
+msgstr "Вы уверены, что хотите удалить?"
+
+#: ../galleries.php:34
+msgid "Galleries"
+msgstr "Галереи"
+
+#: ../public/once-view.php:43
+msgid "Views"
+msgstr "Просмотров"
+
+#: ../public/once-view.php:50
+msgid "Total"
+msgstr "Всего"
+
+#: ../public/once-view.php:57
+msgid "Comments"
+msgstr "Комментарии"
+
+#: ../widgets/views/galleries/setting.php:4
+msgid "Widget Title"
+msgstr "Заголовок виджета"
+
+#: ../widgets/views/galleries/setting.php:8
+msgid "Gallery page"
+msgstr "Страница галереи"
+
+#: ../widgets/views/galleries/setting.php:14
+msgid "Image sources"
+msgstr "Источники изображения"
+
+#: ../widgets/views/galleries/setting.php:18
+msgid "All Galleries"
+msgstr "Все галереи"
+
+#: ../widgets/views/galleries/setting.php:19
+msgid "Random Gallery"
+msgstr "Случайная галерея"
+
+msgid "This gallery does not exist"
+msgstr "Галерея не существует"
+
+msgid "Gallery Description"
+msgstr "Описание галереи"
+
+msgid "New gallery"
+msgstr "Новая галерея"
+
+msgid "Shortcode"
+msgstr "Код вставки"
+
+msgid "<center>No Gallery</center>"
+msgstr "<center>Нет галерей</center>"
+
+#, fuzzy
+#~ msgid "search"
+#~ msgstr "Search"
+
+#~ msgid "The field is required"
+#~ msgstr "The field is required"
+
+#~ msgid "Select Action"
+#~ msgstr "Select Action"
+
+#~ msgid "Please enter gallery name"
+#~ msgstr "Please enter gallery name"
+
+#~ msgid "Confirm"
+#~ msgstr "Confirm"
+
+#~ msgid "Explore Our Gallery"
+#~ msgstr "Explore Our Gallery"
+
+#~ msgid "Browse through the gallery of our images here."
+#~ msgstr "Browse through the gallery of our images here."
+
+#~ msgid "Access Denied!"
+#~ msgstr "Access Denied!"
+
+#~ msgid "Gallery Name"
+#~ msgstr "Gallery Name"
+
+#~ msgid "Select"
+#~ msgstr "Select"
+
+#~ msgid "Submit"
+#~ msgstr "Submit"
+
+#~ msgid "Are you sure to "
+#~ msgstr "Are you sure to "
+
+#~ msgid "these items?"
+#~ msgstr "these items?"
+
+#~ msgid "With selections"
+#~ msgstr "With selections"
+
+#~ msgid "You can add maximum 50 questions at a time"
+#~ msgstr "You can add maximum 50 questions at a time"
+
+#~ msgid "Are you sure you want to delete this item?"
+#~ msgstr "Are you sure you want to delete this item?"
+
+#~ msgid "Title must be in the range of 2 to 255 characters"
+#~ msgstr "Title must be in the range of 2 to 255 characters"
+
+#~ msgid "Description must be in the range of 1 to 500 characters"
+#~ msgstr "Description must be in the range of 1 to 500 characters"
+
+#~ msgid "Title"
+#~ msgstr "Title"
+
+#~ msgid "Please input number of questions and click Add"
+#~ msgstr "Please input number of questions and click Add"
+
+#~ msgid "You can add maximum 50 questions at a time. You can order questions by dragging them"
+#~ msgstr "You can add maximum 50 questions at a time. You can order questions by dragging them"
+
+#~ msgid "No item are selected"
+#~ msgstr "No item are selected"
+
+#~ msgid "Please select the action to perform"
+#~ msgstr "Please select the action to perform"
+
+#~ msgid "Please enter at least one character"
+#~ msgstr "Please enter at least one character"
+
+#~ msgid "Content must be at least 2 characters and no more than 500 characters"
+#~ msgstr "Content must be at least 2 characters and no more than 500 characters"
+
+#~ msgid "Incorrect ID"
+#~ msgstr "Incorrect ID"
+
+#~ msgid "Your FAQ has been successfully updated"
+#~ msgstr "Your FAQ has been successfully updated"
+
+#~ msgid "%s"
+#~ msgstr "%s"
+
+#~ msgid "Go to page"
+#~ msgstr "Go to page"
+
+#~ msgid "Go"
+#~ msgstr "Go"
+
+#, fuzzy
+#~ msgid "You have successfully manipulated"
+#~ msgstr "Your FAQ has been successfully updated"
+
+#~ msgid "Please choose an author"
+#~ msgstr "Please choose an author"
+
+#~ msgid "Items per page"
+#~ msgstr "Items per page"
+
+#~ msgid "You just get more questions from 1 to 50"
+#~ msgstr "You just get more questions from 1 to 50"
+
+#~ msgid "Content"
+#~ msgstr "Content"
+
+#~ msgid "Delete status"
+#~ msgstr "Delete status"
+
+#~ msgid "File Size (kB)"
+#~ msgstr "File Size (kB)"
+
+#, fuzzy
+#~ msgid "New Menu"
+#~ msgstr "New Member"
+
+#~ msgid "The email address you entered is already in use!"
+#~ msgstr "The email address you entered is already in use!"
+
+#~ msgid "The username you entered is already in use!"
+#~ msgstr "The username you entered is already in use!"
+
+#~ msgid "The passwords you entered do not match!"
+#~ msgstr "The passwords you entered do not match!"
+
+#~ msgid "Please review your information!"
+#~ msgstr "Please review your information!"
+
+#~ msgid "User successfully created!"
+#~ msgstr "User successfully created!"
+
+#~ msgid "Error Detected! The Activation key invalid!"
+#~ msgstr "Error Detected! The Activation key invalid!"
+
+#~ msgid "This user aready activated!"
+#~ msgstr "This user aready activated!"
+
+#~ msgid "Activation Successfully!"
+#~ msgstr "Activation Successfully!"
+
+#~ msgid "Activated"
+#~ msgstr "Activated"
+
+#~ msgid "Deactivated"
+#~ msgstr "Deactivated"
+
+#~ msgid "Manage"
+#~ msgstr "Manage"
+
+#~ msgid "Advance Search"
+#~ msgstr "Advance Search"
+
+#~ msgid "Username (Like)"
+#~ msgstr "Username (Like)"
+
+#~ msgid "Email (like)"
+#~ msgstr "Email (like)"
+
+#~ msgid "Unknown"
+#~ msgstr "Unknown"
+
+#~ msgid "Active"
+#~ msgstr "Active"
+
+#~ msgid "Inactive"
+#~ msgstr "Inactive"
+
+#~ msgid "Show Result"
+#~ msgstr "Show Result"
+
+#~ msgid "Check All"
+#~ msgstr "Check All"
+
+#~ msgid "Notification"
+#~ msgstr "Notification"
+
+#~ msgid "Do you really want to do that?"
+#~ msgstr "Do you really want to do that?"
+
+#~ msgid "Really?"
+#~ msgstr "Really?"

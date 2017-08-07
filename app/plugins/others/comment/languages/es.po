@@ -1,0 +1,330 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Comment\n"
+"POT-Creation-Date: 2014-09-16 14:12+0700\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.1\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../comment-config.php:17
+msgid "Comment settings"
+msgstr "Configuración de comentarios"
+
+#: ../comment-config.php:22
+msgid "Enable comment?"
+msgstr "¿Permitir comentarios?"
+
+#: ../comment-config.php:23
+msgid "Comment approval?"
+msgstr "¿Aprobar comentarios?"
+
+#: ../comment-config.php:24
+msgid "Ordering"
+msgstr "Ordenación"
+
+#: ../comment-config.php:27
+msgid "Who will approve comment?"
+msgstr "¿Quien puede aprobar los comentarios?"
+
+#: ../comment-config.php:28
+msgid "Maximum characters"
+msgstr "Máximo de carácteres"
+
+#: ../comment-config.php:32 ../views/emails/approve.php:9
+msgid "Comment"
+msgstr "Comentar"
+
+#: ../comment-config.php:33
+msgid "Comment notification"
+msgstr "Notificación de comentarios"
+
+#: ../comment.php:4 ../comment.php:45 ../comment.php:46
+#: ../public/views/main.php:22 ../public/views/main.php:33
+#: ../views/main.php:23
+msgid "Comments"
+msgstr "Comentarios"
+
+#: ../comment.php:47 ../views/customfields/index.php:20
+msgid "Custom fields"
+msgstr "campos personalizados"
+
+#: ../controllers/pf-comment-controller.php:27
+#: ../controllers/pf-comment-controller.php:96
+#: ../controllers/pf-comment-controller.php:127
+#: ../controllers/pf-comment-controller.php:147
+#: ../controllers/pf-comment-controller.php:165
+msgid "An error has occurred. Please try again"
+msgstr "Ocurrió un Error. Inténtelo de nuevo."
+
+#: ../controllers/pf-comment-controller.php:95
+msgid "Status is updated successfully"
+msgstr "Estado ha sido actualizado con éxito"
+
+#: ../controllers/pf-comment-controller.php:126
+#: ../controllers/pf-comment-controller.php:162
+msgid "Comment is deleted successfully"
+msgstr "Comentario ha sido eliminado con éxito"
+
+#: ../controllers/pf-comment-controller.php:145 ../views/main.php:14
+msgid "Comment is updated successfully"
+msgstr "Comentario ha sido actualizado con éxito"
+
+#: ../helper.php:31 ../public/views/element.php:17
+#: ../public/views/element.php:47
+msgid "Reply"
+msgstr "Responder"
+
+#: ../helper.php:33 ../public/views/element.php:43
+msgid "Edit"
+msgstr "Editar"
+
+#: ../helper.php:34 ../public/views/element.php:51
+msgid "Remove"
+msgstr "Quitar"
+
+#: ../public/views/element.php:32
+msgid "a few seconds ago"
+msgstr "hace unos segundos"
+
+#: ../public/views/element.php:70 ../views/main.php:50 ../views/main.php:222
+msgid "Close"
+msgstr "Cerrar"
+
+#: ../public/views/element.php:71 ../views/customfields/index.php:13
+#: ../views/main.php:51
+msgid "Save"
+msgstr "Guardar"
+
+#: ../public/views/include.php:6 ../views/main.php:7
+msgid "Are you sure to delete this comment?"
+msgstr "¿Seguro que desea eliminar este comentario?"
+
+#: ../public/views/include.php:7
+msgid "Comment can not be empty and less than "
+msgstr "Comentario no puede estar vacío ni menos de "
+
+#: ../public/views/include.php:8
+msgid ""
+"You do not have permission or the session has ended. Please visit again!"
+msgstr "No tiene permiso o la sesión se ha caducado. Entre de nuevo"
+
+#: ../public/views/include.php:9 ../views/main.php:15
+msgid "There was an error Please try again"
+msgstr "Error detectado. Inténtelo de nuevo"
+
+#: ../public/views/include.php:10
+msgid "Thank you for comment. We will moderate and approve it maximum 8 hours."
+msgstr ""
+"Gracias por su comentario. Vamos a evaluar y aprobarlo después de mínimo 8 "
+"horas"
+
+#: ../public/views/main.php:29
+msgid "In order to comment, please sign in"
+msgstr "Registrese para comentar"
+
+#: ../views/customfields/index.php:6
+msgid "This name already exists."
+msgstr "Este nombre ya existe."
+
+#: ../views/customfields/index.php:7
+msgid "Custom fields are updated successfully."
+msgstr "Los campos personalizados se actualizaron correctamente."
+
+#: ../views/customfields/index.php:14
+msgid "Cancel"
+msgstr "Cancelar"
+
+#: ../views/customfields/index.php:52
+msgid "Comment Form"
+msgstr "Formulario de comentarios"
+
+#: ../views/customfields/index.php:58
+msgid "Comment Display"
+msgstr "Mostrar Comentario"
+
+#: ../views/customfields/template.php:166
+msgid "Name"
+msgstr "Nombre"
+
+#: ../views/customfields/template.php:173
+msgid "Value"
+msgstr "Valor"
+
+#: ../views/customfields/template.php:180
+msgid "ID"
+msgstr "ID"
+
+#: ../views/customfields/template.php:186
+msgid "Class"
+msgstr "Clase"
+
+#: ../views/customfields/template.php:193
+msgid "Rows"
+msgstr "Filas"
+
+#: ../views/customfields/template.php:199
+msgid "Cols"
+msgstr "Columnas"
+
+#: ../views/customfields/template.php:207
+#: ../views/customfields/template.php:233
+#: ../views/customfields/template.php:259
+msgid "Collections"
+msgstr "Colecciones"
+
+#: ../views/customfields/template.php:224
+#: ../views/customfields/template.php:250
+#: ../views/customfields/template.php:276
+msgid "Add item"
+msgstr "Añadir artículo"
+
+#: ../views/customfields/template.php:285
+msgid "Placeholder"
+msgstr "ejemplo de relleno"
+
+#: ../views/customfields/template.php:292
+msgid "Read only"
+msgstr "sólo lectura"
+
+#: ../views/customfields/template.php:296
+#: ../views/customfields/template.php:309
+msgid "Yes"
+msgstr "Sí"
+
+#: ../views/customfields/template.php:300
+#: ../views/customfields/template.php:313
+msgid "No"
+msgstr "No"
+
+#: ../views/customfields/template.php:305
+msgid "Required"
+msgstr "Requerido"
+
+#: ../views/customfields/template.php:319
+msgid "Min length"
+msgstr "Longitud mínima"
+
+#: ../views/customfields/template.php:325
+msgid "Max length"
+msgstr "Longitud máxima"
+
+#: ../views/customfields/template.php:334
+msgid "Update"
+msgstr "Actualización"
+
+#: ../views/emails/approve.php:7
+msgid "Site name"
+msgstr "Nombre de sitio"
+
+#: ../views/emails/approve.php:8
+msgid "Username"
+msgstr "Nombre de usuario"
+
+#: ../views/main.php:8
+msgid "No comment is selected"
+msgstr "Ningún comentario ha sido seleccionado"
+
+#: ../views/main.php:9
+msgid "Are you sure to perform this action?"
+msgstr "¿Seguro que desea realizar esta acción?"
+
+#: ../views/main.php:10
+msgid "Please enter a search term"
+msgstr "Introduzca un término de búsqueda"
+
+#: ../views/main.php:11
+msgid "Please choose an author"
+msgstr "Elija un autor"
+
+#: ../views/main.php:12
+msgid "Content must be at least 2 characters and no more than 500 characters"
+msgstr "Contenido deberá tener al menos 2 y no más de 500 carácteres"
+
+#: ../views/main.php:13
+msgid "Incorrect ID"
+msgstr "ID incorrecto"
+
+#: ../views/main.php:16
+msgid "No custom field data"
+msgstr "No hay datos de campos personalizados"
+
+#: ../views/main.php:33 ../views/main.php:161
+msgid "Edit comment"
+msgstr "Editar comentario"
+
+#: ../views/main.php:40 ../views/main.php:126
+msgid "Content"
+msgstr "Contenido"
+
+#: ../views/main.php:67
+msgid "Select Action "
+msgstr "Seleccionar acción "
+
+#: ../views/main.php:70 ../views/main.php:162
+msgid "Delete"
+msgstr "Eliminar"
+
+#: ../views/main.php:71
+msgid "Publish"
+msgstr "Publicar"
+
+#: ../views/main.php:72
+msgid "Unpublish"
+msgstr "Sin publicar"
+
+#: ../views/main.php:81
+msgid "Please enter the search conditions"
+msgstr "Introduzca las condiciones de búsqueda"
+
+#: ../views/main.php:84
+msgid "Search"
+msgstr "Buscar"
+
+#: ../views/main.php:100
+#, php-format
+msgid "%s"
+msgstr "%s"
+
+#: ../views/main.php:103
+msgid "All"
+msgstr "Todo"
+
+#: ../views/main.php:104
+msgid "Published"
+msgstr "Publicado"
+
+#: ../views/main.php:105
+msgid "Unpublished"
+msgstr "No publicado"
+
+#: ../views/main.php:127
+msgid "Author"
+msgstr "Autor"
+
+#: ../views/main.php:128
+msgid "Comment date"
+msgstr "Fecha de comentario"
+
+#: ../views/main.php:129
+msgid "Status"
+msgstr "Estado"
+
+#: ../views/main.php:131
+msgid "Actions"
+msgstr "Acciones"
+
+#: ../views/main.php:160
+msgid "View custom field"
+msgstr "Ver campo personalizado"
+
+#: ../views/main.php:210
+msgid "Detail comment"
+msgstr "Detalle comentario"

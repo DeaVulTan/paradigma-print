@@ -1,0 +1,308 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Polls\n"
+"POT-Creation-Date: 2015-02-04 10:58+0700\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.4\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../admin/views/polls/add.php:11
+msgid "Add"
+msgstr "添加"
+
+#: ../admin/views/polls/add.php:21 ../admin/views/polls/copy.php:21
+#: ../admin/views/polls/edit.php:21 ../admin/views/polls/index.php:117
+#: ../admin/views/polls/index.php:298
+msgid "Question"
+msgstr "问题"
+
+#: ../admin/views/polls/add.php:32 ../admin/views/polls/copy.php:32
+#: ../admin/views/polls/edit.php:32 ../admin/views/polls/index.php:140
+msgid "Publish Date"
+msgstr "公开日期"
+
+#: ../admin/views/polls/add.php:43 ../admin/views/polls/copy.php:43
+#: ../admin/views/polls/edit.php:43 ../admin/views/polls/index.php:158
+msgid "Unpublish Date"
+msgstr "不公开日期"
+
+#: ../admin/views/polls/add.php:59 ../admin/views/polls/add.php:117
+#: ../admin/views/polls/copy.php:57 ../admin/views/polls/copy.php:76
+#: ../admin/views/polls/copy.php:133 ../admin/views/polls/edit.php:57
+#: ../admin/views/polls/edit.php:119
+msgid "Answer "
+msgstr "答案"
+
+#: ../admin/views/polls/add.php:74 ../admin/views/polls/copy.php:91
+#: ../admin/views/polls/edit.php:77
+msgid "Add Answer"
+msgstr "添加答案"
+
+#: ../admin/views/polls/add.php:79 ../admin/views/polls/copy.php:96
+#: ../admin/views/polls/edit.php:82
+msgid "Multiple Answer?"
+msgstr "多个答案？"
+
+#: ../admin/views/polls/add.php:81 ../admin/views/polls/copy.php:98
+#: ../admin/views/polls/edit.php:84 ../polls-config.php:20
+#: ../polls-config.php:22
+msgid "Yes"
+msgstr "是的"
+
+#: ../admin/views/polls/add.php:82 ../admin/views/polls/copy.php:99
+#: ../admin/views/polls/edit.php:85 ../polls-config.php:20
+#: ../polls-config.php:22
+msgid "No"
+msgstr "没有"
+
+#: ../admin/views/polls/add.php:86 ../admin/views/polls/copy.php:103
+#: ../admin/views/polls/edit.php:89
+msgid "Number of allowed answer"
+msgstr "允许回答数"
+
+#: ../admin/views/polls/add.php:93 ../admin/views/polls/copy.php:110
+#: ../admin/views/polls/edit.php:96 ../admin/views/polls/index.php:176
+#: ../admin/views/polls/index.php:306
+msgid "Status"
+msgstr "状态"
+
+#: ../admin/views/polls/add.php:102 ../admin/views/polls/copy.php:119
+#: ../admin/views/polls/edit.php:105 ../admin/views/polls/index.php:238
+#: ../admin/views/polls/index.php:558
+msgid "Published"
+msgstr "已公开"
+
+#: ../admin/views/polls/add.php:142 ../admin/views/polls/add.php:153
+#: ../admin/views/polls/copy.php:159 ../admin/views/polls/copy.php:170
+#: ../admin/views/polls/edit.php:146 ../admin/views/polls/edit.php:157
+#: ../admin/views/polls/edit.php:189 ../admin/views/polls/edit.php:218
+#: ../admin/views/polls/index.php:365 ../admin/views/polls/index.php:377
+#: ../admin/views/polls/index.php:398 ../admin/views/polls/index.php:441
+#: ../admin/views/polls/index.php:454 ../admin/views/polls/index.php:463
+#: ../admin/views/polls/index.php:470 ../admin/views/polls/index.php:485
+#: ../admin/views/polls/index.php:509 ../admin/views/polls/index.php:537
+#: ../admin/views/polls/index.php:552 ../admin/views/polls/index.php:566
+msgid "Loading..."
+msgstr "加载中..."
+
+#: ../admin/views/polls/add.php:161 ../admin/views/polls/copy.php:178
+#: ../admin/views/polls/edit.php:165 ../admin/views/polls/edit.php:200
+#: ../admin/views/polls/index.php:418 ../admin/views/polls/index.php:476
+#: ../admin/views/polls/index.php:491 ../admin/views/polls/index.php:514
+msgid "There is an error, please check again!"
+msgstr "有错误，请重新检查！"
+
+#: ../admin/views/polls/add.php:175
+msgid "Poll is added successfully"
+msgstr "投票成功添加"
+
+#: ../admin/views/polls/copy.php:11
+msgid "Copy"
+msgstr "复制"
+
+#: ../admin/views/polls/copy.php:183
+msgid "Poll is copied successfully"
+msgstr "投票成功复制"
+
+#: ../admin/views/polls/edit.php:11
+msgid "Edit"
+msgstr "编辑"
+
+#: ../admin/views/polls/edit.php:60
+msgid "Voted"
+msgstr "投票数"
+
+#: ../admin/views/polls/edit.php:170 ../admin/views/polls/edit.php:198
+msgid "Poll is updated successfully"
+msgstr "民调是成功更新"
+
+#: ../admin/views/polls/index.php:5 ../admin/views/polls/index.php:289
+#: ../admin/views/polls/index.php:316
+msgid "Search"
+msgstr "搜索"
+
+#: ../admin/views/polls/index.php:11
+msgid "New"
+msgstr "新"
+
+#: ../admin/views/polls/index.php:15 ../admin/views/polls/index.php:20
+#: ../admin/views/polls/index.php:26
+msgid "Save"
+msgstr "保存"
+
+#: ../admin/views/polls/index.php:16 ../admin/views/polls/index.php:22
+#: ../admin/views/polls/index.php:27
+msgid "Cancel"
+msgstr "取消"
+
+#: ../admin/views/polls/index.php:21
+msgid "Apply"
+msgstr "申请"
+
+#: ../admin/views/polls/index.php:39
+msgid "List"
+msgstr "名单"
+
+#: ../admin/views/polls/index.php:51
+msgid "Bulk Action"
+msgstr "选择操作"
+
+#: ../admin/views/polls/index.php:54 ../admin/views/polls/index.php:506
+msgid "Delete"
+msgstr "删除"
+
+#: ../admin/views/polls/index.php:56 ../admin/views/polls/index.php:79
+msgid "Publish"
+msgstr "发布"
+
+#: ../admin/views/polls/index.php:59 ../admin/views/polls/index.php:82
+msgid "Unpublish"
+msgstr "不公开"
+
+#: ../admin/views/polls/index.php:71 ../admin/views/polls/index.php:76
+msgid "All"
+msgstr "全部"
+
+#: ../admin/views/polls/index.php:124
+msgid "Shortcode"
+msgstr "简"
+
+#: ../admin/views/polls/index.php:194 ../shortcodes/views/polls/display.php:52
+msgid "Total Votes"
+msgstr "总票数"
+
+#: ../admin/views/polls/index.php:199
+msgid "Actions"
+msgstr "操作"
+
+#: ../admin/views/polls/index.php:240 ../admin/views/polls/index.php:560
+msgid "Unpublished"
+msgstr "已不公开"
+
+#: ../admin/views/polls/index.php:287 ../admin/views/polls/index.php:317
+msgid "Close"
+msgstr "近"
+
+#: ../admin/views/polls/index.php:391
+msgid "Are you sure to perform this action?"
+msgstr "您确定要执行此操作？"
+
+#: ../admin/views/polls/index.php:407 ../admin/views/polls/index.php:512
+msgid "Poll is deleted successfully"
+msgstr "民调是成功删除"
+
+#: ../admin/views/polls/index.php:411
+msgid "Poll is published successfully"
+msgstr "投票成功发布"
+
+#: ../admin/views/polls/index.php:414
+msgid "Poll is unpublished successfully"
+msgstr "民意调查是未发表的成功"
+
+#: ../admin/views/polls/index.php:502
+msgid "Are you sure to delete this item?"
+msgstr "你确定要删除这个项目吗？"
+
+#: ../polls-config.php:14
+msgid "Polls settings"
+msgstr "民意调查设置"
+
+#: ../polls-config.php:16
+msgid "Answer Ordering"
+msgstr "答订购"
+
+#: ../polls-config.php:18
+msgid "Allow To Vote"
+msgstr "允许投票"
+
+#: ../polls-config.php:20
+msgid "Display number of vote"
+msgstr "投票显示编号"
+
+#: ../polls-config.php:22
+msgid "Display percentage of vote"
+msgstr "投票显示比例"
+
+#: ../polls.php:52
+msgid "Polls"
+msgstr "民意调查"
+
+#: ../shortcodes/controllers/polls-shortcode.php:29
+msgid "Only Members can vote"
+msgstr "只有会员才能投票"
+
+#: ../shortcodes/controllers/polls-shortcode.php:31
+msgid "Only Guests can vote"
+msgstr "只有客人可以投票"
+
+#: ../shortcodes/controllers/polls-shortcode.php:37
+msgid "The maximum number of votes is"
+msgstr "票的最大数量是"
+
+#: ../shortcodes/controllers/polls-shortcode.php:60
+msgid "Please vote"
+msgstr "请投票"
+
+#: ../shortcodes/views/polls/display.php:22
+msgid "Vote"
+msgstr "投票"
+
+#: ../shortcodes/views/polls/display.php:29
+#: ../shortcodes/views/polls/display.php:61
+msgid "Sorry, there are no polls available at the moment."
+msgstr "对不起，没有可用的时刻投票。"
+
+#: ../shortcodes/views/polls/display.php:48
+#: ../shortcodes/views/polls/display.php:53
+msgid "votes"
+msgstr "票"
+
+#~ msgid "Type"
+#~ msgstr "类型"
+
+#~ msgid "Announce to user:"
+#~ msgstr "通知到用户"
+
+#~ msgid "Announce to group:"
+#~ msgstr "通知到组合"
+
+#~ msgid "Content"
+#~ msgstr "内容"
+
+#~ msgid "Announcement is created successfully"
+#~ msgstr "通知已创建成功"
+
+#~ msgid "Action is performed successfully!"
+#~ msgstr "操作实现成功！"
+
+#~ msgid "Announcement"
+#~ msgstr "通知"
+
+#~ msgid "Please enter announcement content!"
+#~ msgstr "请输入通知内容！"
+
+#~ msgid "Announcement can not more than 255 characters!"
+#~ msgstr "公告不能超过255个字符！"
+
+#~ msgid "Access Denied!"
+#~ msgstr "拒绝访问！"
+
+#~ msgid "New announcement"
+#~ msgstr "新通知"
+
+#~ msgid "Please enter the search conditions"
+#~ msgstr "请输入搜索条件"
+
+#~ msgid "Confirm"
+#~ msgstr "确认"
+
+#~ msgid "Author"
+#~ msgstr "作者"

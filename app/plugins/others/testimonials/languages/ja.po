@@ -1,0 +1,260 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Testimonials\n"
+"POT-Creation-Date: 2015-01-19 15:44+0700\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.4\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../admin/views/testimonials/add.php:11
+#: ../admin/views/testimonials/copy.php:11
+#: ../admin/views/testimonials/edit.php:11
+#: ../admin/views/testimonials/index.php:50
+#: ../admin/views/testimonials/index.php:265 ../testimonials.php:29
+msgid "Testimonials"
+msgstr "顧客のフィードバック"
+
+#: ../admin/views/testimonials/add.php:11
+msgid "Add"
+msgstr "加える"
+
+#: ../admin/views/testimonials/add.php:23
+#: ../admin/views/testimonials/copy.php:23
+#: ../admin/views/testimonials/edit.php:23
+#: ../admin/views/testimonials/index.php:146
+#: ../admin/views/testimonials/index.php:276
+msgid "Customer name"
+msgstr "顧客名"
+
+#: ../admin/views/testimonials/add.php:35
+#: ../admin/views/testimonials/copy.php:35
+#: ../admin/views/testimonials/edit.php:35
+msgid "Customer info"
+msgstr "顧客情報"
+
+#: ../admin/views/testimonials/add.php:46
+#: ../admin/views/testimonials/copy.php:46
+#: ../admin/views/testimonials/edit.php:46
+#: ../admin/views/testimonials/index.php:128
+msgid "Image"
+msgstr "画像"
+
+#: ../admin/views/testimonials/add.php:61
+#: ../admin/views/testimonials/copy.php:61
+#: ../admin/views/testimonials/edit.php:61
+#: ../admin/views/testimonials/index.php:164
+#: ../admin/views/testimonials/index.php:285
+msgid "Content"
+msgstr "内容"
+
+#: ../admin/views/testimonials/add.php:102
+#: ../admin/views/testimonials/add.php:113
+#: ../admin/views/testimonials/copy.php:109
+#: ../admin/views/testimonials/copy.php:120
+#: ../admin/views/testimonials/edit.php:110
+#: ../admin/views/testimonials/edit.php:121
+#: ../admin/views/testimonials/edit.php:144
+#: ../admin/views/testimonials/index.php:345
+#: ../admin/views/testimonials/index.php:357
+#: ../admin/views/testimonials/index.php:378
+#: ../admin/views/testimonials/index.php:420
+#: ../admin/views/testimonials/index.php:433
+#: ../admin/views/testimonials/index.php:442
+#: ../admin/views/testimonials/index.php:449
+#: ../admin/views/testimonials/index.php:464
+#: ../admin/views/testimonials/index.php:488
+#: ../admin/views/testimonials/index.php:516
+#: ../admin/views/testimonials/index.php:533
+#: ../admin/views/testimonials/index.php:550
+msgid "Loading..."
+msgstr "読み込んでいます..."
+
+#: ../admin/views/testimonials/add.php:121
+#: ../admin/views/testimonials/copy.php:128
+#: ../admin/views/testimonials/edit.php:129
+#: ../admin/views/testimonials/edit.php:155
+#: ../admin/views/testimonials/index.php:397
+#: ../admin/views/testimonials/index.php:455
+#: ../admin/views/testimonials/index.php:470
+#: ../admin/views/testimonials/index.php:493
+msgid "There is an error, please check again!"
+msgstr "エラーがあり、再度確認してください！"
+
+#: ../admin/views/testimonials/add.php:126
+msgid "Testimonial is created successfully"
+msgstr "顧客のフィードバックの作成が完了しました。"
+
+#: ../admin/views/testimonials/add.php:138
+msgid "Choose Image"
+msgstr "画像を選択してください"
+
+#: ../admin/views/testimonials/copy.php:11
+msgid "Copy"
+msgstr "コピー"
+
+#: ../admin/views/testimonials/copy.php:133
+msgid "Testimonial is copied successfully"
+msgstr "紹介文は正常にコピーされている"
+
+#: ../admin/views/testimonials/edit.php:11
+msgid "Edit"
+msgstr "編集"
+
+#: ../admin/views/testimonials/edit.php:134
+#: ../admin/views/testimonials/edit.php:153
+msgid "Testimonial is updated successfully"
+msgstr "顧客のフィードバックの更新が完了しました。"
+
+#: ../admin/views/testimonials/index.php:5
+#: ../admin/views/testimonials/index.php:265
+#: ../admin/views/testimonials/index.php:296
+msgid "Search"
+msgstr "検索"
+
+#: ../admin/views/testimonials/index.php:22
+msgid "New"
+msgstr "新しい"
+
+#: ../admin/views/testimonials/index.php:26
+#: ../admin/views/testimonials/index.php:31
+#: ../admin/views/testimonials/index.php:37
+msgid "Save"
+msgstr "保存"
+
+#: ../admin/views/testimonials/index.php:27
+#: ../admin/views/testimonials/index.php:33
+#: ../admin/views/testimonials/index.php:38
+msgid "Cancel"
+msgstr "キャンセル"
+
+#: ../admin/views/testimonials/index.php:32
+msgid "Apply"
+msgstr "適用する"
+
+#: ../admin/views/testimonials/index.php:50
+msgid "List"
+msgstr "リスト"
+
+#: ../admin/views/testimonials/index.php:62
+msgid "Bulk Actions"
+msgstr "一括操作"
+
+#: ../admin/views/testimonials/index.php:67
+#: ../admin/views/testimonials/index.php:485
+msgid "Delete"
+msgstr "削除"
+
+#: ../admin/views/testimonials/index.php:69
+msgid "Publish"
+msgstr "公開"
+
+#: ../admin/views/testimonials/index.php:71
+msgid "Unpublish"
+msgstr "非公開"
+
+#: ../admin/views/testimonials/index.php:83
+#: ../admin/views/testimonials/index.php:88
+msgid "All"
+msgstr "全部"
+
+#: ../admin/views/testimonials/index.php:89
+#: ../admin/views/testimonials/index.php:213
+#: ../admin/views/testimonials/index.php:539
+#: ../admin/views/testimonials/index.php:556
+msgid "Published"
+msgstr "公開されました。"
+
+#: ../admin/views/testimonials/index.php:91
+#: ../admin/views/testimonials/index.php:215
+#: ../admin/views/testimonials/index.php:541
+#: ../admin/views/testimonials/index.php:558
+msgid "Unpublished"
+msgstr "非公開されました。"
+
+#: ../admin/views/testimonials/index.php:183
+msgid "Status"
+msgstr "ステータス"
+
+#: ../admin/views/testimonials/index.php:188
+msgid "Actions"
+msgstr "アクション"
+
+#: ../admin/views/testimonials/index.php:263
+#: ../admin/views/testimonials/index.php:297
+msgid "Close"
+msgstr "クローズ"
+
+#: ../admin/views/testimonials/index.php:371
+msgid "Are you sure with this action?"
+msgstr "本当にこのアクションを実施したいですか？"
+
+#: ../admin/views/testimonials/index.php:375
+msgid "OK"
+msgstr "OK"
+
+#: ../admin/views/testimonials/index.php:387
+#: ../admin/views/testimonials/index.php:491
+msgid "Testimonial is deleted successfully"
+msgstr "紹介文は正常に削除されます"
+
+#: ../admin/views/testimonials/index.php:390
+msgid "Testimonial is published successfully"
+msgstr "紹介文は正常に公開されている"
+
+#: ../admin/views/testimonials/index.php:393
+msgid "Testimonial is unpublished successfully"
+msgstr "紹介文は正常に未発表です"
+
+#: ../admin/views/testimonials/index.php:481
+msgid "Are you sure to delete this item?"
+msgstr "この項目を削除しても宜しいでしょうか？"
+
+#: ../shortcodes/views/testimonials/breadcrumb.php:9
+msgid "Homepage"
+msgstr "ホームページ"
+
+#: ../shortcodes/views/testimonials/display.php:23
+msgid "No Testimonial"
+msgstr "顧客のフィードバックはありません"
+
+#: ../widgets/testimonials/testimonials-form.php:3
+msgid "Widget Title"
+msgstr "ウィジェットタイトル"
+
+#~ msgid "This testimonial does not exist"
+#~ msgstr "この顧客のフィードバックがありません。"
+
+#~ msgid "Access Denied!"
+#~ msgstr "アクセスが拒否されました!"
+
+#~ msgid "select image"
+#~ msgstr "画像選択"
+
+#~ msgid "The field is required"
+#~ msgstr "フィールドは必須です。"
+
+#~ msgid "New testimonial"
+#~ msgstr "新しい顧客のフィードバック"
+
+#~ msgid "Select Action"
+#~ msgstr "アクション選択"
+
+#~ msgid "Please enter customer name"
+#~ msgstr "顧客名をご入力ください。"
+
+#~ msgid "Shortcode"
+#~ msgstr "ショートコード"
+
+#~ msgid "<center>No Testimonial</center>"
+#~ msgstr "<center>顧客のフィードバックはありません</center>"
+
+#~ msgid "Confirm"
+#~ msgstr "確認"

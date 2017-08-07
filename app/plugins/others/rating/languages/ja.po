@@ -1,0 +1,72 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Rating\n"
+"POT-Creation-Date: 2014-07-01 11:09+0700\n"
+"PO-Revision-Date: 2014-07-01 11:11+0700\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.5\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../public/pf-rating-shortcode.php:73
+msgid "vote"
+msgstr "vote"
+
+#: ../public/pf-rating-shortcode.php:73
+msgid "votes"
+msgstr "投票"
+
+#: ../public/pf-rating-shortcode.php:95
+msgid "You unauthorized access"
+msgstr "あなた不正アクセス"
+
+#: ../public/pf-rating-shortcode.php:99
+msgid "You can not rate"
+msgstr "あなたが評価することはできません"
+
+#: ../public/pf-rating-shortcode.php:102
+msgid "Your session has ended"
+msgstr "セッションは終了しました。"
+
+#: ../public/pf-rating-shortcode.php:117
+msgid "Thank you for rating"
+msgstr "評価していただきありがとうございます"
+
+#: ../public/pf-rating-shortcode.php:119
+msgid "There is an error"
+msgstr "エラーがあります"
+
+#: ../public/views/include.php:3
+msgid "Are you sure to delete this rating?"
+msgstr "あなたはこの評価分布を削除しますか？"
+
+#: ../rating-config.php:16
+msgid "Rating settings"
+msgstr "レーティングの設定"
+
+#: ../rating-config.php:20
+msgid "Only user"
+msgstr "ユーザのみが"
+
+#: ../rating-config.php:20
+msgid "Everyone"
+msgstr "皆"
+
+#: ../rating-config.php:21
+msgid "Enable rating?"
+msgstr "有効化 評価分布？"
+
+#: ../rating-config.php:22
+msgid "Permission"
+msgstr "許可"
+
+#: ../rating.php:3
+msgid "Rating"
+msgstr "レーティング"

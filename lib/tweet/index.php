@@ -1,0 +1,1 @@
+<?php defined('PF_VERSION') OR header('Location:404.html'); ?>

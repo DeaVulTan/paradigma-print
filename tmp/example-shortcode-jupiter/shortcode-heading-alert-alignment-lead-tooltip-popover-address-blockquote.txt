@@ -1,0 +1,252 @@
+
+{html:row}
+    {html:col}
+        {html:title size=2}Heading box{/html:title}
+    {/html:col}
+{/html:row}
+{html:row class='margin-bottom-15'}
+    {html:col}
+       {html:h1}h1. Bootstrap heading{/html:h1}
+       {html:h2}h2. Bootstrap heading{/html:h2}
+       {html:h3}h3. Bootstrap heading{/html:h3}
+       {html:h4}h4. Bootstrap heading{/html:h4}
+       {html:h5}h5. Bootstrap heading{/html:h5}
+       {html:h6}h6. Bootstrap heading{/html:h6}
+    {/html:col}
+{/html:row}
+
+{html:code linenums='1'}{html:h1}h1. Bootstrap heading{/html:h1}<br />
+{html:h2}h2. Bootstrap heading{/html:h2}<br />
+{html:h3}h3. Bootstrap heading{/html:h3}<br />
+{html:h4}h4. Bootstrap heading{/html:h4}<br />
+{html:h5}h5. Bootstrap heading{/html:h5}<br />
+{html:h6}h6. Bootstrap heading{/html:h6}{/html:code}
+
+
+{html:row class='margin-bottom-15'}
+    {html:col}
+       {html:h1}h1. Bootstrap heading {html:span class="small"}Secondary text{/html:span}{/html:h1}
+       {html:h2}h2. Bootstrap heading {html:span class="small"}Secondary text{/html:span}{/html:h2}
+       {html:h3}h3. Bootstrap heading {html:span class="small"}Secondary text{/html:span}{/html:h3}
+       {html:h4}h4. Bootstrap heading {html:span class="small"}Secondary text{/html:span}{/html:h4}
+       {html:h5}h5. Bootstrap heading {html:span class="small"}Secondary text{/html:span}{/html:h5}
+       {html:h6}h6. Bootstrap heading {html:span class="small"}Secondary text{/html:span}{/html:h6}
+    {/html:col}
+{/html:row}
+
+{html:code linenums='1'}{html:h1}h1. Bootstrap heading {html:span class=&quot;small&quot;}Secondary text{/html:span}{/html:h1}<br />
+{html:h2}h2. Bootstrap heading {html:span class=&quot;small&quot;}Secondary text{/html:span}{/html:h2}<br />
+{html:h3}h3. Bootstrap heading {html:span class=&quot;small&quot;}Secondary text{/html:span}{/html:h3}<br />
+{html:h4}h4. Bootstrap heading {html:span class=&quot;small&quot;}Secondary text{/html:span}{/html:h4}<br />
+{html:h5}h5. Bootstrap heading {html:span class=&quot;small&quot;}Secondary text{/html:span}{/html:h5}<br />
+{html:h6}h6. Bootstrap heading {html:span class=&quot;small&quot;}Secondary text{/html:span}{/html:h6}{/html:code}
+
+
+{html:row}
+    {html:col}
+        {html:title}Heading line{/html:title}
+    {/html:col}
+{/html:row}
+{html:row class='margin-bottom-15'}
+    {html:col}
+       {html:title size='2'}This is title{/html:title}
+       {html:title size='3'}This is title{/html:title}
+       {html:title size='4'}This is title{/html:title}
+    {/html:col}
+{/html:row}
+
+{html:code linenums='1'}{html:title}Heading line{/html:title}<br />
+{html:title size='2'}This is title{/html:title}<br />
+{html:title size='3'}This is title{/html:title}<br />
+{html:title size='4'}This is title{/html:title}{/html:code}
+
+
+{html:row}
+    {html:col}
+        {html:title size=2}Horizontal Lines{/html:title}
+    {/html:col}
+{/html:row}
+{html:row class='margin-bottom-15'}
+    {html:col}
+        {html:hr class='margin-bottom-15'}
+        {html:hr}
+    {/html:col}
+{/html:row}
+
+{html:code linenums='1'}{html:hr class='margin-bottom-15'}<br />
+{html:hr}}{/html:code}
+
+
+{html:row}
+    {html:col}
+        {html:title size=2}Alerts box{/html:title}
+    {/html:col}
+{/html:row}
+{html:row}
+    {html:col}
+        {html:alert-success}{html:strong}Well done!{/html:strong} You successfully read this important alert message. {/html:alert-success}
+        {html:alert-info} {html:strong}Heads up!{/html:strong} This alert needs your attention, but it's not super important. {/html:alert-info}
+        {html:alert-warning} {html:strong}Warning! {/html:strong} Better check yourself, you're not looking too good. {/html:alert-warning}
+        {html:alert-danger} {html:strong}Oh snap! {/html:strong} Change a few things up and try submitting again. {/html:alert-danger}
+    {/html:col}
+{/html:row}
+{html:code linenums='1'}{html:alert-success}{html:strong}Well done!{/html:strong} You successfully read this important alert message. {/html:alert-success}<br />
+{html:alert-info} {html:strong}Heads up!{/html:strong} This alert needs your attention, but it&#39;s not super important. {/html:alert-info}<br />
+{html:alert-warning} {html:strong}Warning! {/html:strong} Better check yourself, you&#39;re not looking too good. {/html:alert-warning}<br />
+{html:alert-danger} {html:strong}Oh snap! {/html:strong} Change a few things up and try submitting again. {/html:alert-danger}{/html:code}
+
+{html:row}
+    {html:col}
+        {html:title size=2}Alignment classes{/html:title}
+    {/html:col}
+{/html:row}
+
+{html:row style='border:1px sold'}
+    {html:col class='col-xs-12'}
+        {html:p class="text-left"}
+            Left aligned text.
+        {/html:p}
+    {/html:col}
+    {html:col class='col-xs-12'}
+        {html:p class="text-center"}
+            Center aligned text.
+        {/html:p}
+    {/html:col}
+    {html:col class='col-xs-12'}
+        {html:p class="text-right"}
+            Right aligned text.
+        {/html:p}
+    {/html:col}
+    {html:col class='col-xs-12'}
+        {html:p class="text-justify"}
+            Justified text.
+        {/html:p}
+    {/html:col}
+{/html:row}
+
+{html:code linenums='1'}{html:p class=&quot;text-left&quot;}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; Left aligned text.<br />
+{/html:p}<br />
+{html:p class=&quot;text-center&quot;}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; Center aligned text.<br />
+{/html:p}<br />
+{html:p class=&quot;text-right&quot;}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; Right aligned text.<br />
+{/html:p}<br />
+{html:p class=&quot;text-justify&quot;}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; Justified text.<br />
+{/html:p}{/html:code}
+
+
+{html:row}
+    {html:col}
+        {html:title size=2}Lead body copy{/html:title}
+    {/html:col}
+{/html:row}
+
+{html:row}
+    {html:col}
+        {html:p class="lead"}Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Duis mollis, est non commodo luctus.{/html:p}
+    {/html:col}
+{/html:row}
+
+{html:code}{html:p class=&quot;lead&quot;}Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Duis mollis,est non commodo luctus.{/html:p}{/html:code}
+
+{html:row}
+    {html:col class='col-xs-12'}
+        {html:h2}Tooltip{/html:h2}
+        {html:p}
+            The following snippet of text is {html:strong data-toggle='tooltip' data-placement="top" title="This is tooltip content"}rendered as bold text.{/html:strong}
+        {/html:p}
+    {/html:col}
+{/html:row}
+{html:code}The following snippet of text is {html:strong data-toggle='tooltip' data-placement="top" title="This is tooltip content"}rendered as bold text.{/html:strong}{/html:code}
+
+
+{html:row}
+    {html:col class='col-xs-12'}
+        {html:h2}Popover{/html:h2}
+        {html:p}
+            The following snippet of text is {html:em &nbsp;data-container="body" data-toggle="popover" data-placement="right" data-content="Vivamus sagittis lacus vel augue laoreet rutrum faucibus."}rendered as italicized text.{/html:em}
+        {/html:p}
+    {/html:col}
+{/html:row}
+{html:code}The following snippet of text is {html:em &nbsp;data-container="body" data-toggle="popover" data-placement="right" data-content="Vivamus sagittis lacus vel augue laoreet rutrum faucibus."}rendered as italicized text.{/html:em}{/html:code}
+
+{html:row}
+    {html:col}
+        {html:title size=2}Abbreviations{/html:title}
+    {/html:col}
+{/html:row}
+{html:row class='margin-bottom-15'}
+    {html:col}
+          An abbreviation of the word attribute is {html:abbr title="attribute"}attr{/html:abbr}
+          {html:abbr class="initialism" title="HyperText Markup Language"}HTML{/html:abbr} is the best thing since sliced bread.
+    {/html:col}
+{/html:row}
+{html:code}An abbreviation of the word attribute is {html:abbr title=&quot;attribute&quot;}attr{/html:abbr}<br />
+{html:abbr class=&quot;initialism&quot; title=&quot;HyperText Markup Language&quot;}HTML{/html:abbr} is the best thing since sliced bread.{/html:code}
+
+{html:row}
+    {html:col}
+        {html:title size=2}Addresses{/html:title}
+    {/html:col}
+{/html:row}
+{html:row}
+    {html:col}
+        {html:address}
+            {html:strong}Twitter, Inc.{/html:strong}
+            {html:br} 795 Folsom Ave, Suite 600
+            {html:br} San Francisco, CA 94107
+            {html:br} {html:abbr title="Phone"}P:{/html:abbr} (123) 456-7890
+        {/html:address}
+        {html:address}
+            {html:strong}Full Name{/html:strong} {html:br}
+            {html:a href="mailto:first.last@example.com"}first.last@example.com{/html:a}
+        {/html:address}
+    {/html:col}
+{/html:row}
+
+{html:code linenums='1'}{html:address}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; {html:strong}Twitter, Inc.{/html:strong}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; {html:br} 795 Folsom Ave, Suite 600<br />
+&nbsp; &nbsp; &nbsp; &nbsp; {html:br} San Francisco, CA 94107<br />
+&nbsp; &nbsp; &nbsp; &nbsp; {html:br} {html:abbr title=&quot;Phone&quot;}P:{/html:abbr} (123) 456-7890<br />
+{/html:address}<br />
+{html:address}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; {html:strong}Full Name{/html:strong} {html:br}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; {html:a href=&quot;mailto:first.last@example.com&quot;}first.last@example.com{/html:a}<br />
+{/html:address}{/html:code}
+
+{html:row}
+    {html:col}
+        {html:title size=2}Blockquotes{/html:title}
+    {/html:col}
+{/html:row}
+{html:row}
+    {html:col}
+       {html:blockquote}
+            {html:p}Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat a ante.{/html:p}
+       {/html:blockquote}
+       {html:blockquote}
+           {html:p}Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat a ante.{/html:p}
+           {html:footer}Someone famous in {html:cite title="Source Title"}Source Title{/html:cite}{/html:footer}
+       {/html:blockquote}
+       {html:blockquote class="blockquote-reverse"}
+           {html:p}Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat a ante.{/html:p}
+           {html:footer}Someone famous in {html:cite title="Source Title"}Source Title{/html:cite}{/html:footer}
+       {/html:blockquote}
+    {/html:col}
+{/html:row}
+
+{html:code linenums='1'}{html:blockquote}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; {html:p}Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat a ante.{/html:p}<br />
+{/html:blockquote}<br />
+{html:blockquote}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; {html:p}Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat a ante.{/html:p}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; {html:footer}Someone famous in {html:cite title=&quot;Source Title&quot;}Source Title{/html:cite}{/html:footer}<br />
+{/html:blockquote}<br />
+{html:blockquote class=&quot;blockquote-reverse&quot;}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; {html:p}Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat a ante.{/html:p}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; {html:footer}Someone famous in {html:cite title=&quot;Source Title&quot;}Source Title{/html:cite}{/html:footer}<br />
+{/html:blockquote}{/html:code}

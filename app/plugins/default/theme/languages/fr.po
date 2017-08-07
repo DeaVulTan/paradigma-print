@@ -1,0 +1,291 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Theme\n"
+"POT-Creation-Date: 2015-01-19 14:48+0700\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.4\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../admin/views/layouts/add.php:11 ../admin/views/layouts/add.php:85
+#: ../admin/views/layouts/add.php:168 ../admin/views/layouts/add.php:250
+#: ../admin/views/layouts/copy.php:11 ../admin/views/layouts/copy.php:85
+#: ../admin/views/layouts/copy.php:168 ../admin/views/layouts/copy.php:250
+#: ../admin/views/layouts/edit.php:11 ../admin/views/layouts/edit.php:85
+#: ../admin/views/layouts/edit.php:168 ../admin/views/layouts/edit.php:250
+#: ../admin/views/layouts/get-pattern.php:9
+#: ../admin/views/layouts/index.php:52 ../theme.php:18
+msgid "Layouts"
+msgstr "Présentation"
+
+#: ../admin/views/layouts/add.php:12 ../admin/views/layouts/add.php:86
+#: ../admin/views/layouts/add.php:169 ../admin/views/layouts/add.php:251
+#: ../admin/views/layouts/copy.php:12 ../admin/views/layouts/copy.php:86
+#: ../admin/views/layouts/copy.php:169 ../admin/views/layouts/copy.php:251
+#: ../admin/views/layouts/edit.php:12 ../admin/views/layouts/edit.php:86
+#: ../admin/views/layouts/edit.php:169 ../admin/views/layouts/edit.php:251
+msgid "Layout designer"
+msgstr "Créateur de la présentation"
+
+#: ../admin/views/layouts/add.php:21 ../admin/views/layouts/add.php:94
+#: ../admin/views/layouts/add.php:177 ../admin/views/layouts/add.php:259
+#: ../admin/views/layouts/copy.php:21 ../admin/views/layouts/copy.php:94
+#: ../admin/views/layouts/copy.php:177 ../admin/views/layouts/copy.php:259
+#: ../admin/views/layouts/edit.php:21 ../admin/views/layouts/edit.php:94
+#: ../admin/views/layouts/edit.php:177 ../admin/views/layouts/edit.php:259
+#: ../admin/views/layouts/index.php:88
+msgid "Layout name"
+msgstr "Nom de la présentation"
+
+#: ../admin/views/layouts/add.php:30 ../admin/views/layouts/copy.php:30
+#: ../admin/views/layouts/edit.php:30
+msgid "Layout type"
+msgstr "Type de mise en page"
+
+#: ../admin/views/layouts/add.php:57 ../admin/views/layouts/add.php:123
+#: ../admin/views/layouts/add.php:211 ../admin/views/layouts/add.php:293
+#: ../admin/views/layouts/copy.php:57 ../admin/views/layouts/copy.php:123
+#: ../admin/views/layouts/copy.php:211 ../admin/views/layouts/copy.php:293
+#: ../admin/views/layouts/edit.php:57 ../admin/views/layouts/edit.php:123
+#: ../admin/views/layouts/edit.php:211 ../admin/views/layouts/edit.php:293
+msgid "Main"
+msgstr "Principal"
+
+#: ../admin/views/layouts/add.php:151 ../admin/views/layouts/add.php:234
+#: ../admin/views/layouts/add.php:321 ../admin/views/layouts/copy.php:151
+#: ../admin/views/layouts/copy.php:234 ../admin/views/layouts/copy.php:320
+#: ../admin/views/layouts/edit.php:151 ../admin/views/layouts/edit.php:234
+#: ../admin/views/layouts/edit.php:321 ../admin/views/layouts/index.php:26
+#: ../admin/views/layouts/index.php:29 ../footer/templates/index.php:65
+msgid "Back"
+msgstr "Retour"
+
+#: ../admin/views/layouts/add.php:154 ../admin/views/layouts/add.php:237
+#: ../admin/views/layouts/add.php:324 ../admin/views/layouts/copy.php:154
+#: ../admin/views/layouts/copy.php:237 ../admin/views/layouts/copy.php:323
+#: ../admin/views/layouts/edit.php:154 ../admin/views/layouts/edit.php:237
+#: ../admin/views/layouts/edit.php:324 ../admin/views/layouts/index.php:30
+#: ../admin/views/layouts/index.php:34 ../admin/views/layouts/index.php:40
+#: ../footer/templates/index.php:68
+msgid "Save"
+msgstr "Conserver"
+
+#: ../admin/views/layouts/add.php:343 ../admin/views/layouts/copy.php:341
+#: ../admin/views/layouts/edit.php:342 ../footer/templates/index.php:80
+msgid "Are you sure to delete widget?"
+msgstr "Etes-vous sûr de vouloir supprimer le widget?"
+
+#: ../admin/views/layouts/add.php:344 ../admin/views/layouts/copy.php:342
+#: ../admin/views/layouts/edit.php:343 ../footer/templates/index.php:81
+msgid "Ok"
+msgstr "Bien"
+
+#: ../admin/views/layouts/add.php:345 ../admin/views/layouts/copy.php:343
+#: ../admin/views/layouts/edit.php:344 ../admin/views/layouts/index.php:317
+#: ../footer/templates/index.php:82
+msgid "Delete"
+msgstr "Supprimer"
+
+#: ../admin/views/layouts/add.php:346 ../admin/views/layouts/copy.php:344
+#: ../admin/views/layouts/edit.php:345 ../admin/views/layouts/index.php:36
+#: ../admin/views/layouts/index.php:41 ../footer/templates/index.php:83
+msgid "Cancel"
+msgstr "Annuler"
+
+#: ../admin/views/layouts/add.php:369 ../admin/views/layouts/add.php:386
+#: ../admin/views/layouts/copy.php:364 ../admin/views/layouts/copy.php:374
+#: ../admin/views/layouts/copy.php:393 ../admin/views/layouts/edit.php:365
+#: ../admin/views/layouts/edit.php:375 ../admin/views/layouts/edit.php:394
+#: ../admin/views/layouts/edit.php:422
+#: ../admin/views/layouts/get-pattern.php:99
+#: ../admin/views/layouts/get-pattern.php:112
+#: ../admin/views/layouts/index.php:227 ../admin/views/layouts/index.php:239
+#: ../admin/views/layouts/index.php:252 ../admin/views/layouts/index.php:265
+#: ../admin/views/layouts/index.php:273 ../admin/views/layouts/index.php:281
+#: ../admin/views/layouts/index.php:296 ../admin/views/layouts/index.php:320
+#: ../admin/views/layouts/index.php:349 ../admin/views/widgets/index.php:244
+#: ../admin/views/widgets/index.php:256 ../admin/views/widgets/index.php:277
+#: ../admin/views/widgets/index.php:317 ../admin/views/widgets/index.php:330
+#: ../admin/views/widgets/index.php:339 ../admin/views/widgets/index.php:354
+#: ../admin/views/widgets/index.php:369
+msgid "Loading..."
+msgstr "Chargement..."
+
+#: ../admin/views/layouts/add.php:382 ../admin/views/layouts/copy.php:389
+#: ../admin/views/layouts/edit.php:390 ../admin/views/layouts/edit.php:418
+msgid "The field is required"
+msgstr "Le champ est obligatoire"
+
+#: ../admin/views/layouts/add.php:383 ../admin/views/layouts/copy.php:390
+#: ../admin/views/layouts/edit.php:391 ../admin/views/layouts/edit.php:419
+#: ../admin/views/layouts/index.php:287 ../admin/views/layouts/index.php:302
+#: ../admin/views/layouts/index.php:326 ../admin/views/widgets/index.php:296
+msgid "There is an error, please check again!"
+msgstr "Il ya une erreur, se il vous plaît vérifier à nouveau!"
+
+#: ../admin/views/layouts/add.php:396 ../admin/views/layouts/copy.php:404
+#: ../admin/views/layouts/edit.php:405 ../admin/views/layouts/edit.php:433
+msgid "Layout is created successfully"
+msgstr "Mise en page est créée avec succès"
+
+#: ../admin/views/layouts/get-pattern.php:10
+msgid "Please choose the layout pattern"
+msgstr "Veuillez  choisir le modèle de mise en page"
+
+#: ../admin/views/layouts/index.php:5 ../admin/views/layouts/index.php:152
+#: ../admin/views/layouts/index.php:174 ../admin/views/widgets/index.php:5
+#: ../admin/views/widgets/index.php:165 ../admin/views/widgets/index.php:195
+msgid "Search"
+msgstr "Recherche"
+
+#: ../admin/views/layouts/index.php:22
+msgid "New layout"
+msgstr "Nouvelle présentation"
+
+#: ../admin/views/layouts/index.php:27
+msgid "Next"
+msgstr "Suivant"
+
+#: ../admin/views/layouts/index.php:35
+msgid "Apply"
+msgstr "Appliquer"
+
+#: ../admin/views/layouts/index.php:93 ../admin/views/widgets/index.php:111
+#: ../admin/views/widgets/index.php:184
+msgid "Actions"
+msgstr "Action"
+
+#: ../admin/views/layouts/index.php:150 ../admin/views/layouts/index.php:175
+#: ../admin/views/widgets/index.php:163 ../admin/views/widgets/index.php:196
+msgid "Close"
+msgstr "Près"
+
+#: ../admin/views/layouts/index.php:163 ../admin/views/widgets/index.php:32
+#: ../admin/views/widgets/index.php:165 ../admin/views/widgets/index.php:176
+#: ../theme.php:20
+msgid "Widgets"
+msgstr "Widgets"
+
+#: ../admin/views/layouts/index.php:313
+msgid "Are you sure to delete this item?"
+msgstr "Êtes-vous sûr de vouloir supprimer cet article?"
+
+#: ../admin/views/layouts/index.php:324
+msgid "Layouts is deleted successfully"
+msgstr "Layouts est supprimé avec succès"
+
+#: ../admin/views/layouts/setting-form.php:2
+#: ../footer/templates/setting-form.php:2
+msgid "Container"
+msgstr "Récipient"
+
+#: ../admin/views/layouts/setting-form.php:5
+#: ../footer/templates/setting-form.php:5
+msgid "Yes"
+msgstr "Oui"
+
+#: ../admin/views/layouts/setting-form.php:7
+#: ../footer/templates/setting-form.php:7
+msgid "No"
+msgstr "Aucun"
+
+#: ../admin/views/layouts/setting-form.php:13
+#: ../footer/templates/setting-form.php:13
+msgid "Background color"
+msgstr "Couleur de fond"
+
+#: ../admin/views/widgets/index.php:44
+msgid "Bulk Actions"
+msgstr "Actions globales"
+
+#: ../admin/views/widgets/index.php:48 ../admin/views/widgets/index.php:67
+#: ../admin/views/widgets/index.php:131 ../admin/views/widgets/index.php:360
+#: ../admin/views/widgets/index.php:375 ../themes/templates/index.php:51
+msgid "Activate"
+msgstr "Activer"
+
+#: ../admin/views/widgets/index.php:49 ../admin/views/widgets/index.php:68
+#: ../admin/views/widgets/index.php:133 ../admin/views/widgets/index.php:362
+#: ../admin/views/widgets/index.php:377
+msgid "Deactivate"
+msgstr "Désactiver"
+
+#: ../admin/views/widgets/index.php:61 ../admin/views/widgets/index.php:66
+msgid "All"
+msgstr "Tous"
+
+#: ../admin/views/widgets/index.php:104
+msgid "Widget Name"
+msgstr "Nom des widgets"
+
+#: ../admin/views/widgets/index.php:109
+msgid "Version"
+msgstr "Version"
+
+#: ../admin/views/widgets/index.php:110
+msgid "Description"
+msgstr "Description"
+
+#: ../admin/views/widgets/index.php:270
+msgid "Are you sure to perform this action?"
+msgstr "Êtes-vous sûr de vouloir effectuer cette action?"
+
+#: ../admin/views/widgets/index.php:289
+msgid "Widgets is activated successfully"
+msgstr "Widgets est activé avec succès"
+
+#: ../admin/views/widgets/index.php:292
+msgid "Widgets is deactivated successfully"
+msgstr "Widgets est désactivé avec succès"
+
+#: ../footer/footer.php:15
+msgid "Footer is updated successfully"
+msgstr "Pied de page est mise à jour avec succès"
+
+#: ../footer/templates/index.php:6 ../theme.php:22
+msgid "Footer"
+msgstr "Titre en bas de page"
+
+#: ../footer/templates/index.php:7
+msgid "Footer description"
+msgstr "Description en bas page"
+
+#: ../options/options.php:6
+msgid "Save changes"
+msgstr "enregistrer les modifications"
+
+#: ../options/options.php:14 ../theme.php:16
+msgid "Theme Options"
+msgstr "Options du thème"
+
+#: ../theme.php:3 ../theme.php:13 ../theme.php:14
+#: ../themes/templates/index.php:8
+msgid "Themes"
+msgstr "Thèmes"
+
+#: ../themes/templates/index.php:9
+msgid "Please choose the theme"
+msgstr "Veuillez  choisir le thème"
+
+#: ../themes/templates/index.php:27
+msgid "Activated"
+msgstr "Activé"
+
+#~ msgid "Please enter the search conditions"
+#~ msgstr "Veuillez  entrer les critères de recherche"
+
+#~ msgid "Edit"
+#~ msgstr "Modifier"
+
+#~ msgid "<i class=\"fa fa-times-circle\"></i> Delete"
+#~ msgstr "<i class=\"fa fa-times-circle\"></i> Supprimer"
+
+#~ msgid "Reset to theme default"
+#~ msgstr "Réinitialiser le thème par défaut"

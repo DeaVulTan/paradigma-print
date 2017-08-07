@@ -1,0 +1,260 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Testimonials\n"
+"POT-Creation-Date: 2015-01-19 15:46+0700\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.4\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../admin/views/testimonials/add.php:11
+#: ../admin/views/testimonials/copy.php:11
+#: ../admin/views/testimonials/edit.php:11
+#: ../admin/views/testimonials/index.php:50
+#: ../admin/views/testimonials/index.php:265 ../testimonials.php:29
+msgid "Testimonials"
+msgstr "客户的意见"
+
+#: ../admin/views/testimonials/add.php:11
+msgid "Add"
+msgstr "添加"
+
+#: ../admin/views/testimonials/add.php:23
+#: ../admin/views/testimonials/copy.php:23
+#: ../admin/views/testimonials/edit.php:23
+#: ../admin/views/testimonials/index.php:146
+#: ../admin/views/testimonials/index.php:276
+msgid "Customer name"
+msgstr "客户名称"
+
+#: ../admin/views/testimonials/add.php:35
+#: ../admin/views/testimonials/copy.php:35
+#: ../admin/views/testimonials/edit.php:35
+msgid "Customer info"
+msgstr "客户信息"
+
+#: ../admin/views/testimonials/add.php:46
+#: ../admin/views/testimonials/copy.php:46
+#: ../admin/views/testimonials/edit.php:46
+#: ../admin/views/testimonials/index.php:128
+msgid "Image"
+msgstr "图像"
+
+#: ../admin/views/testimonials/add.php:61
+#: ../admin/views/testimonials/copy.php:61
+#: ../admin/views/testimonials/edit.php:61
+#: ../admin/views/testimonials/index.php:164
+#: ../admin/views/testimonials/index.php:285
+msgid "Content"
+msgstr "内容"
+
+#: ../admin/views/testimonials/add.php:102
+#: ../admin/views/testimonials/add.php:113
+#: ../admin/views/testimonials/copy.php:109
+#: ../admin/views/testimonials/copy.php:120
+#: ../admin/views/testimonials/edit.php:110
+#: ../admin/views/testimonials/edit.php:121
+#: ../admin/views/testimonials/edit.php:144
+#: ../admin/views/testimonials/index.php:345
+#: ../admin/views/testimonials/index.php:357
+#: ../admin/views/testimonials/index.php:378
+#: ../admin/views/testimonials/index.php:420
+#: ../admin/views/testimonials/index.php:433
+#: ../admin/views/testimonials/index.php:442
+#: ../admin/views/testimonials/index.php:449
+#: ../admin/views/testimonials/index.php:464
+#: ../admin/views/testimonials/index.php:488
+#: ../admin/views/testimonials/index.php:516
+#: ../admin/views/testimonials/index.php:533
+#: ../admin/views/testimonials/index.php:550
+msgid "Loading..."
+msgstr "加载中..."
+
+#: ../admin/views/testimonials/add.php:121
+#: ../admin/views/testimonials/copy.php:128
+#: ../admin/views/testimonials/edit.php:129
+#: ../admin/views/testimonials/edit.php:155
+#: ../admin/views/testimonials/index.php:397
+#: ../admin/views/testimonials/index.php:455
+#: ../admin/views/testimonials/index.php:470
+#: ../admin/views/testimonials/index.php:493
+msgid "There is an error, please check again!"
+msgstr "有错误，请再次检查！"
+
+#: ../admin/views/testimonials/add.php:126
+msgid "Testimonial is created successfully"
+msgstr "客户的意见已创建成功"
+
+#: ../admin/views/testimonials/add.php:138
+msgid "Choose Image"
+msgstr "选择图片"
+
+#: ../admin/views/testimonials/copy.php:11
+msgid "Copy"
+msgstr "复制"
+
+#: ../admin/views/testimonials/copy.php:133
+msgid "Testimonial is copied successfully"
+msgstr "见证成功复制"
+
+#: ../admin/views/testimonials/edit.php:11
+msgid "Edit"
+msgstr "编辑"
+
+#: ../admin/views/testimonials/edit.php:134
+#: ../admin/views/testimonials/edit.php:153
+msgid "Testimonial is updated successfully"
+msgstr "客户的意见已更新成功"
+
+#: ../admin/views/testimonials/index.php:5
+#: ../admin/views/testimonials/index.php:265
+#: ../admin/views/testimonials/index.php:296
+msgid "Search"
+msgstr "搜索"
+
+#: ../admin/views/testimonials/index.php:22
+msgid "New"
+msgstr "新"
+
+#: ../admin/views/testimonials/index.php:26
+#: ../admin/views/testimonials/index.php:31
+#: ../admin/views/testimonials/index.php:37
+msgid "Save"
+msgstr "保存"
+
+#: ../admin/views/testimonials/index.php:27
+#: ../admin/views/testimonials/index.php:33
+#: ../admin/views/testimonials/index.php:38
+msgid "Cancel"
+msgstr "取消"
+
+#: ../admin/views/testimonials/index.php:32
+msgid "Apply"
+msgstr "申请"
+
+#: ../admin/views/testimonials/index.php:50
+msgid "List"
+msgstr "名单"
+
+#: ../admin/views/testimonials/index.php:62
+msgid "Bulk Actions"
+msgstr "批量操作"
+
+#: ../admin/views/testimonials/index.php:67
+#: ../admin/views/testimonials/index.php:485
+msgid "Delete"
+msgstr "删除"
+
+#: ../admin/views/testimonials/index.php:69
+msgid "Publish"
+msgstr "公开"
+
+#: ../admin/views/testimonials/index.php:71
+msgid "Unpublish"
+msgstr "不公开"
+
+#: ../admin/views/testimonials/index.php:83
+#: ../admin/views/testimonials/index.php:88
+msgid "All"
+msgstr "全部"
+
+#: ../admin/views/testimonials/index.php:89
+#: ../admin/views/testimonials/index.php:213
+#: ../admin/views/testimonials/index.php:539
+#: ../admin/views/testimonials/index.php:556
+msgid "Published"
+msgstr "已公开"
+
+#: ../admin/views/testimonials/index.php:91
+#: ../admin/views/testimonials/index.php:215
+#: ../admin/views/testimonials/index.php:541
+#: ../admin/views/testimonials/index.php:558
+msgid "Unpublished"
+msgstr "已不公开"
+
+#: ../admin/views/testimonials/index.php:183
+msgid "Status"
+msgstr "状态"
+
+#: ../admin/views/testimonials/index.php:188
+msgid "Actions"
+msgstr "操作"
+
+#: ../admin/views/testimonials/index.php:263
+#: ../admin/views/testimonials/index.php:297
+msgid "Close"
+msgstr "近"
+
+#: ../admin/views/testimonials/index.php:371
+msgid "Are you sure with this action?"
+msgstr "你对此操作确定吗？"
+
+#: ../admin/views/testimonials/index.php:375
+msgid "OK"
+msgstr "OK"
+
+#: ../admin/views/testimonials/index.php:387
+#: ../admin/views/testimonials/index.php:491
+msgid "Testimonial is deleted successfully"
+msgstr "证言被成功删除"
+
+#: ../admin/views/testimonials/index.php:390
+msgid "Testimonial is published successfully"
+msgstr "见证成功发布"
+
+#: ../admin/views/testimonials/index.php:393
+msgid "Testimonial is unpublished successfully"
+msgstr "见证是未发表的成功"
+
+#: ../admin/views/testimonials/index.php:481
+msgid "Are you sure to delete this item?"
+msgstr "你确定要删除这个项目？"
+
+#: ../shortcodes/views/testimonials/breadcrumb.php:9
+msgid "Homepage"
+msgstr "设为首页"
+
+#: ../shortcodes/views/testimonials/display.php:23
+msgid "No Testimonial"
+msgstr "没有客户的意见"
+
+#: ../widgets/testimonials/testimonials-form.php:3
+msgid "Widget Title"
+msgstr "小部件标题"
+
+#~ msgid "This testimonial does not exist"
+#~ msgstr "该客户意见不存在"
+
+#~ msgid "Access Denied!"
+#~ msgstr "拒绝访问"
+
+#~ msgid "select image"
+#~ msgstr "选择图片"
+
+#~ msgid "The field is required"
+#~ msgstr "该字段是必需的"
+
+#~ msgid "New testimonial"
+#~ msgstr "新的客户意见"
+
+#~ msgid "Select Action"
+#~ msgstr "选择操作"
+
+#~ msgid "Please enter customer name"
+#~ msgstr "请输入顾客的名称"
+
+#~ msgid "Shortcode"
+#~ msgstr "简码"
+
+#~ msgid "<center>No Testimonial</center>"
+#~ msgstr "<center>没有客户意见</center>"
+
+#~ msgid "Confirm"
+#~ msgstr "确认"

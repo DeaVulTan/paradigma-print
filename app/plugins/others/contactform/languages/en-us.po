@@ -1,0 +1,714 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Contact Form\n"
+"POT-Creation-Date: 2015-01-19 13:33+0700\n"
+"PO-Revision-Date: 2015-01-19 13:33+0700\n"
+"Last-Translator: \n"
+"Language-Team: Vitubo\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.4\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../admin/views/contactform/add.php:11
+#: ../admin/views/contactform/copy.php:11
+#: ../admin/views/contactform/edit.php:11
+#: ../admin/views/contactform/index.php:49
+#: ../admin/views/contactform/index.php:228 ../contactform.php:21
+msgid "Contact Forms"
+msgstr "Contact Forms"
+
+#: ../admin/views/contactform/add.php:11
+#: ../admin/views/contactform/add.php:236
+#: ../admin/views/contactform/copy.php:229
+#: ../admin/views/contactform/edit.php:231
+msgid "Add"
+msgstr "Add"
+
+#: ../admin/views/contactform/add.php:20
+#: ../admin/views/contactform/copy.php:20
+#: ../admin/views/contactform/edit.php:20
+#: ../admin/views/contactform/index.php:134
+#: ../admin/views/contactform/index.php:239
+msgid "Title"
+msgstr "Title"
+
+#: ../admin/views/contactform/add.php:30
+#: ../admin/views/contactform/copy.php:30
+#: ../admin/views/contactform/edit.php:30
+msgid "Form"
+msgstr "Form"
+
+#: ../admin/views/contactform/add.php:92
+#: ../admin/views/contactform/copy.php:92
+#: ../admin/views/contactform/edit.php:92
+msgid "Button"
+msgstr "Button"
+
+#: ../admin/views/contactform/add.php:108
+#: ../admin/views/contactform/copy.php:108
+#: ../admin/views/contactform/edit.php:108
+msgid "Single Recipient"
+msgstr "Single Recipient"
+
+#: ../admin/views/contactform/add.php:109
+#: ../admin/views/contactform/copy.php:109
+#: ../admin/views/contactform/edit.php:109
+msgid "List of Recipient"
+msgstr "List of Recipient"
+
+#: ../admin/views/contactform/add.php:115
+#: ../admin/views/contactform/add.php:127
+#: ../admin/views/contactform/copy.php:114
+#: ../admin/views/contactform/edit.php:114
+#: ../admin/views/contactform/edit.php:126
+msgid "To"
+msgstr "To"
+
+#: ../admin/views/contactform/add.php:120
+#: ../admin/views/contactform/copy.php:119
+#: ../admin/views/contactform/edit.php:119
+msgid "Receiver Email"
+msgstr "Receiver Email"
+
+#: ../admin/views/contactform/add.php:143
+#: ../admin/views/contactform/copy.php:136
+#: ../admin/views/contactform/edit.php:138
+msgid "From"
+msgstr "From"
+
+#: ../admin/views/contactform/add.php:148
+#: ../admin/views/contactform/copy.php:141
+#: ../admin/views/contactform/edit.php:143
+msgid "Sender Email"
+msgstr "Sender Email"
+
+#: ../admin/views/contactform/add.php:155
+#: ../admin/views/contactform/copy.php:148
+#: ../admin/views/contactform/edit.php:150
+msgid "Sender Name"
+msgstr "Sender Name"
+
+#: ../admin/views/contactform/add.php:166
+#: ../admin/views/contactform/copy.php:159
+#: ../admin/views/contactform/edit.php:161
+msgid "Subject"
+msgstr "Subject"
+
+#: ../admin/views/contactform/add.php:180
+#: ../admin/views/contactform/copy.php:173
+#: ../admin/views/contactform/edit.php:175
+msgid " Use HTML content type"
+msgstr " Use HTML content type"
+
+#: ../admin/views/contactform/add.php:187
+#: ../admin/views/contactform/copy.php:180
+#: ../admin/views/contactform/edit.php:182
+msgid "Message"
+msgstr "Message"
+
+#: ../admin/views/contactform/add.php:200
+#: ../admin/views/contactform/copy.php:193
+#: ../admin/views/contactform/edit.php:195
+msgid "Sending successfully notification"
+msgstr "Sending successfully notification"
+
+#: ../admin/views/contactform/add.php:212
+#: ../admin/views/contactform/copy.php:205
+#: ../admin/views/contactform/edit.php:207
+#: ../admin/views/contactform/index.php:153
+#: ../admin/views/contactform/index.php:247
+msgid "Status"
+msgstr "Status"
+
+#: ../admin/views/contactform/add.php:220
+#: ../admin/views/contactform/copy.php:213
+#: ../admin/views/contactform/edit.php:215
+#: ../admin/views/contactform/index.php:177
+#: ../admin/views/contactform/index.php:499
+#: ../admin/views/contactform/index.php:516
+msgid "Published"
+msgstr "Published"
+
+#: ../admin/views/contactform/add.php:235
+#: ../admin/views/contactform/copy.php:228
+#: ../admin/views/contactform/edit.php:230
+#: ../admin/views/contactform/index.php:226
+#: ../admin/views/contactform/index.php:259
+msgid "Close"
+msgstr "Close"
+
+#: ../admin/views/contactform/add.php:245
+#: ../admin/views/contactform/copy.php:238
+#: ../admin/views/contactform/edit.php:240
+msgid "Name must be between 1 and 32 characters"
+msgstr "Name must be between 1 and 32 characters"
+
+#: ../admin/views/contactform/add.php:252
+#: ../admin/views/contactform/add.php:305
+#: ../admin/views/contactform/add.php:375
+#: ../admin/views/contactform/copy.php:245
+#: ../admin/views/contactform/copy.php:298
+#: ../admin/views/contactform/copy.php:368
+#: ../admin/views/contactform/edit.php:247
+#: ../admin/views/contactform/edit.php:300
+#: ../admin/views/contactform/edit.php:370
+msgid "Required"
+msgstr "Required"
+
+#: ../admin/views/contactform/add.php:255
+#: ../admin/views/contactform/add.php:308
+#: ../admin/views/contactform/add.php:378
+#: ../admin/views/contactform/copy.php:248
+#: ../admin/views/contactform/copy.php:301
+#: ../admin/views/contactform/copy.php:371
+#: ../admin/views/contactform/edit.php:250
+#: ../admin/views/contactform/edit.php:303
+#: ../admin/views/contactform/edit.php:373
+msgid "No"
+msgstr "No"
+
+#: ../admin/views/contactform/add.php:258
+#: ../admin/views/contactform/add.php:311
+#: ../admin/views/contactform/add.php:381
+#: ../admin/views/contactform/copy.php:251
+#: ../admin/views/contactform/copy.php:304
+#: ../admin/views/contactform/copy.php:374
+#: ../admin/views/contactform/edit.php:253
+#: ../admin/views/contactform/edit.php:306
+#: ../admin/views/contactform/edit.php:376
+msgid "Yes"
+msgstr "Yes"
+
+#: ../admin/views/contactform/add.php:263
+#: ../admin/views/contactform/add.php:316
+#: ../admin/views/contactform/add.php:386
+#: ../admin/views/contactform/add.php:417
+#: ../admin/views/contactform/copy.php:256
+#: ../admin/views/contactform/copy.php:309
+#: ../admin/views/contactform/copy.php:379
+#: ../admin/views/contactform/copy.php:410
+#: ../admin/views/contactform/edit.php:258
+#: ../admin/views/contactform/edit.php:311
+#: ../admin/views/contactform/edit.php:381
+#: ../admin/views/contactform/edit.php:412
+msgid "Name"
+msgstr "Name"
+
+#: ../admin/views/contactform/add.php:269
+#: ../admin/views/contactform/add.php:322
+#: ../admin/views/contactform/copy.php:262
+#: ../admin/views/contactform/copy.php:315
+#: ../admin/views/contactform/edit.php:264
+#: ../admin/views/contactform/edit.php:317
+msgid "Default value"
+msgstr "Default value"
+
+#: ../admin/views/contactform/add.php:275
+#: ../admin/views/contactform/add.php:328
+#: ../admin/views/contactform/copy.php:268
+#: ../admin/views/contactform/copy.php:321
+#: ../admin/views/contactform/edit.php:270
+#: ../admin/views/contactform/edit.php:323
+msgid "Place holder"
+msgstr "Place holder"
+
+#: ../admin/views/contactform/add.php:281
+#: ../admin/views/contactform/add.php:346
+#: ../admin/views/contactform/copy.php:274
+#: ../admin/views/contactform/copy.php:339
+#: ../admin/views/contactform/edit.php:276
+#: ../admin/views/contactform/edit.php:341
+msgid "Size"
+msgstr "Size"
+
+#: ../admin/views/contactform/add.php:287
+#: ../admin/views/contactform/add.php:352
+#: ../admin/views/contactform/copy.php:280
+#: ../admin/views/contactform/copy.php:345
+#: ../admin/views/contactform/edit.php:282
+#: ../admin/views/contactform/edit.php:347
+msgid "Max length"
+msgstr "Max length"
+
+#: ../admin/views/contactform/add.php:293
+#: ../admin/views/contactform/copy.php:286
+#: ../admin/views/contactform/edit.php:288
+msgid "Class"
+msgstr "Class"
+
+#: ../admin/views/contactform/add.php:334
+#: ../admin/views/contactform/copy.php:327
+#: ../admin/views/contactform/edit.php:329
+msgid "Rows"
+msgstr "Rows"
+
+#: ../admin/views/contactform/add.php:340
+#: ../admin/views/contactform/copy.php:333
+#: ../admin/views/contactform/edit.php:335
+msgid "Columns"
+msgstr "Columns"
+
+#: ../admin/views/contactform/add.php:392
+#: ../admin/views/contactform/copy.php:385
+#: ../admin/views/contactform/edit.php:387
+msgid "Choice"
+msgstr "Choice"
+
+#: ../admin/views/contactform/add.php:395
+#: ../admin/views/contactform/copy.php:388
+#: ../admin/views/contactform/edit.php:390
+msgid "One value per line"
+msgstr "One value per line"
+
+#: ../admin/views/contactform/add.php:423
+#: ../admin/views/contactform/copy.php:416
+#: ../admin/views/contactform/edit.php:418
+msgid "Value"
+msgstr "Value"
+
+#: ../admin/views/contactform/add.php:429
+#: ../admin/views/contactform/copy.php:422
+#: ../admin/views/contactform/edit.php:424
+msgid "Type"
+msgstr "Type"
+
+#: ../admin/views/contactform/add.php:505
+#: ../admin/views/contactform/add.php:516
+#: ../admin/views/contactform/copy.php:498
+#: ../admin/views/contactform/copy.php:509
+#: ../admin/views/contactform/edit.php:501
+#: ../admin/views/contactform/edit.php:512
+#: ../admin/views/contactform/edit.php:535
+#: ../admin/views/contactform/index.php:306
+#: ../admin/views/contactform/index.php:318
+#: ../admin/views/contactform/index.php:338
+#: ../admin/views/contactform/index.php:380
+#: ../admin/views/contactform/index.php:393
+#: ../admin/views/contactform/index.php:402
+#: ../admin/views/contactform/index.php:409
+#: ../admin/views/contactform/index.php:424
+#: ../admin/views/contactform/index.php:448
+#: ../admin/views/contactform/index.php:476
+#: ../admin/views/contactform/index.php:493
+#: ../admin/views/contactform/index.php:510
+msgid "Loading..."
+msgstr ""
+
+#: ../admin/views/contactform/add.php:524
+#: ../admin/views/contactform/copy.php:517
+#: ../admin/views/contactform/edit.php:520
+#: ../admin/views/contactform/edit.php:546
+#: ../admin/views/contactform/index.php:357
+#: ../admin/views/contactform/index.php:415
+#: ../admin/views/contactform/index.php:430
+#: ../admin/views/contactform/index.php:453
+msgid "There is an error, please check again!"
+msgstr ""
+
+#: ../admin/views/contactform/add.php:527
+#, fuzzy
+msgid "Contact Forms is added successfully"
+msgstr "Status is updated successfully"
+
+#: ../admin/views/contactform/copy.php:11
+msgid "Copy"
+msgstr ""
+
+#: ../admin/views/contactform/copy.php:522
+#, fuzzy
+msgid "Contact Forms is copied successfully"
+msgstr "Status is updated successfully"
+
+#: ../admin/views/contactform/edit.php:11
+#, fuzzy
+msgid "Edit"
+msgstr "Edit FAQ"
+
+#: ../admin/views/contactform/edit.php:525
+#: ../admin/views/contactform/edit.php:544
+#, fuzzy
+msgid "Contact Forms is updated successfully"
+msgstr "Status is updated successfully"
+
+#: ../admin/views/contactform/index.php:5
+#: ../admin/views/contactform/index.php:228
+#: ../admin/views/contactform/index.php:258
+msgid "Search"
+msgstr "Search"
+
+#: ../admin/views/contactform/index.php:22
+msgid "New"
+msgstr ""
+
+#: ../admin/views/contactform/index.php:26
+#: ../admin/views/contactform/index.php:31
+#: ../admin/views/contactform/index.php:37
+msgid "Save"
+msgstr "Save"
+
+#: ../admin/views/contactform/index.php:27
+#: ../admin/views/contactform/index.php:33
+#: ../admin/views/contactform/index.php:38
+msgid "Cancel"
+msgstr "Cancel"
+
+#: ../admin/views/contactform/index.php:32
+msgid "Apply"
+msgstr ""
+
+#: ../admin/views/contactform/index.php:49
+msgid "List"
+msgstr ""
+
+#: ../admin/views/contactform/index.php:60
+#, fuzzy
+msgid "Bulk Actions"
+msgstr "Actions"
+
+#: ../admin/views/contactform/index.php:64
+#: ../admin/views/contactform/index.php:445
+msgid "Delete"
+msgstr "Delete"
+
+#: ../admin/views/contactform/index.php:67
+#: ../admin/views/contactform/index.php:95
+msgid "Publish"
+msgstr "Publish"
+
+#: ../admin/views/contactform/index.php:70
+#: ../admin/views/contactform/index.php:98
+msgid "Unpublish"
+msgstr "Unpublish"
+
+#: ../admin/views/contactform/index.php:87
+#: ../admin/views/contactform/index.php:92
+msgid "All"
+msgstr "All"
+
+#: ../admin/views/contactform/index.php:158
+msgid "Actions"
+msgstr "Actions"
+
+#: ../admin/views/contactform/index.php:179
+#: ../admin/views/contactform/index.php:501
+#: ../admin/views/contactform/index.php:518
+msgid "Unpublished"
+msgstr "Unpublished"
+
+#: ../admin/views/contactform/index.php:331
+#, fuzzy
+msgid "Are you sure with this action?"
+msgstr "Are you sure to perform this action?"
+
+#: ../admin/views/contactform/index.php:347
+#, fuzzy
+msgid "Contact Forms is deleted successfully"
+msgstr "Status is updated successfully"
+
+#: ../admin/views/contactform/index.php:350
+#, fuzzy
+msgid "Contact Forms is published successfully"
+msgstr "Status is updated successfully"
+
+#: ../admin/views/contactform/index.php:353
+#, fuzzy
+msgid "Contact Forms is unpublished successfully"
+msgstr "Status is updated successfully"
+
+#: ../admin/views/contactform/index.php:441
+msgid "Are you sure to delete this item?"
+msgstr "Are you sure to delete this item?"
+
+#: ../admin/views/contactform/index.php:451
+#, fuzzy
+msgid "contactform is deleted successfully"
+msgstr "Status is updated successfully"
+
+#: ../shortcodes/controllers/contactform-shortcode.php:39
+msgid "Captcha is not correct"
+msgstr "Captcha is not correct"
+
+#: ../shortcodes/controllers/contactform-shortcode.php:67
+msgid "Your message has been sent successfully"
+msgstr "Your message has been sent successfully"
+
+#: ../shortcodes/views/contactform/breadcrumb.php:9
+msgid "Home"
+msgstr ""
+
+#~ msgid "Contact Form"
+#~ msgstr "Contact Form"
+
+#~ msgid "Your action is successful"
+#~ msgstr "Your action is successful"
+
+#~ msgid "Please check the data field"
+#~ msgstr "Please check the data field"
+
+#~ msgid "Name must be between 6 and 32 characters"
+#~ msgstr "Name must be between 6 and 32 characters"
+
+#~ msgid "New Contact Form"
+#~ msgstr "New Contact Form"
+
+#~ msgid "No item are selected"
+#~ msgstr "No item are selected"
+
+#~ msgid "Please enter a search term"
+#~ msgstr "Please enter a search term"
+
+#~ msgid "Select Action "
+#~ msgstr "Select Action "
+
+#~ msgid "Please enter the search conditions"
+#~ msgstr "Please enter the search conditions"
+
+#~ msgid "%s"
+#~ msgstr "%s"
+
+#~ msgid "Shortcode"
+#~ msgstr "Shortcode"
+
+#~ msgid "Edit contact form"
+#~ msgstr "Edit contact form"
+
+#~ msgid "Delete contact form"
+#~ msgstr "Delete contact form"
+
+#~ msgid "Form ID"
+#~ msgstr "Form ID"
+
+#~ msgid "Attribute ID"
+#~ msgstr "Attribute ID"
+
+#~ msgid "Form Class"
+#~ msgstr "Form Class"
+
+#~ msgid "Attribute Class"
+#~ msgstr "Attribute Class"
+
+#~ msgid "Items"
+#~ msgstr "Items"
+
+#~ msgid "<h3>An error has occurred! Please try again later</h3>"
+#~ msgstr "<h3>An error has occurred! Please try again later</h3>"
+
+#~ msgid "Additional headers"
+#~ msgstr "Additional headers"
+
+#~ msgid "Please select the action to perform"
+#~ msgstr "Please select the action to perform"
+
+#~ msgid "Page"
+#~ msgstr "Page"
+
+#~ msgid "Go"
+#~ msgstr "Go"
+
+#~ msgid "No contact form"
+#~ msgstr "No contact form"
+
+#~ msgid "New contact form"
+#~ msgstr "New contact form"
+
+#, fuzzy
+#~ msgid "No correct"
+#~ msgstr "Incorrect ID"
+
+#~ msgid "Notify"
+#~ msgstr "Notify"
+
+#~ msgid "Create Contact Form"
+#~ msgstr "Create Contact Form"
+
+#~ msgid "Image size"
+#~ msgstr "Image size"
+
+#~ msgid "Small"
+#~ msgstr "Small"
+
+#~ msgid "Medium"
+#~ msgstr "Medium"
+
+#~ msgid "Big"
+#~ msgstr "Big"
+
+#~ msgid "Create contact form"
+#~ msgstr "Create contact form"
+
+#, fuzzy
+#~ msgid "Create contactform"
+#~ msgstr "Create contact form"
+
+#~ msgid "Go to page"
+#~ msgstr "Go to page"
+
+#~ msgid "You can add maximum 50 questions at a time"
+#~ msgstr "You can add maximum 50 questions at a time"
+
+#~ msgid "Are you sure you want to delete this item?"
+#~ msgstr "Are you sure you want to delete this item?"
+
+#~ msgid "Description must be in the range of 1 to 500 characters"
+#~ msgstr "Description must be in the range of 1 to 500 characters"
+
+#~ msgid "Description"
+#~ msgstr "Description"
+
+#~ msgid "Question"
+#~ msgstr "Question"
+
+#~ msgid "Answer"
+#~ msgstr "Answer"
+
+#~ msgid "Please input number of questions and click Add"
+#~ msgstr "Please input number of questions and click Add"
+
+#~ msgid ""
+#~ "You can add maximum 50 questions at a time. You can order questions by "
+#~ "dragging them"
+#~ msgstr ""
+#~ "You can add maximum 50 questions at a time. You can order questions by "
+#~ "dragging them"
+
+#~ msgid "Create FAQ"
+#~ msgstr "Create FAQ"
+
+#~ msgid "Answers"
+#~ msgstr "Answers"
+
+#~ msgid "Update FAQ"
+#~ msgstr "Update FAQ"
+
+#~ msgid "Please enter at least one character"
+#~ msgstr "Please enter at least one character"
+
+#~ msgid ""
+#~ "Content must be at least 2 characters and no more than 500 characters"
+#~ msgstr ""
+#~ "Content must be at least 2 characters and no more than 500 characters"
+
+#~ msgid "Delete FAQ"
+#~ msgstr "Delete FAQ"
+
+#~ msgid "No FAQ"
+#~ msgstr "No FAQ"
+
+#, fuzzy
+#~ msgid "You have successfully manipulated"
+#~ msgstr "Your FAQ has been successfully updated"
+
+#~ msgid "Please choose an author"
+#~ msgstr "Please choose an author"
+
+#~ msgid "Items per page"
+#~ msgstr "Items per page"
+
+#~ msgid "You just get more questions from 1 to 50"
+#~ msgstr "You just get more questions from 1 to 50"
+
+#~ msgid "Content"
+#~ msgstr "Content"
+
+#~ msgid "Backup Now"
+#~ msgstr "Backup Now"
+
+#~ msgid "File Size (kB)"
+#~ msgstr "File Size (kB)"
+
+#, fuzzy
+#~ msgid "New Menu"
+#~ msgstr "New Member"
+
+#~ msgid "The email address you entered is already in use!"
+#~ msgstr "The email address you entered is already in use!"
+
+#~ msgid "The username you entered is already in use!"
+#~ msgstr "The username you entered is already in use!"
+
+#~ msgid "The passwords you entered do not match!"
+#~ msgstr "The passwords you entered do not match!"
+
+#~ msgid "Please review your information!"
+#~ msgstr "Please review your information!"
+
+#~ msgid "Email"
+#~ msgstr "Email"
+
+#~ msgid "Username"
+#~ msgstr "Username"
+
+#~ msgid "Password"
+#~ msgstr "Password"
+
+#~ msgid "Re-Password"
+#~ msgstr "Re-Password"
+
+#~ msgid "Displayname"
+#~ msgstr "Displayname"
+
+#~ msgid "Role"
+#~ msgstr "Role"
+
+#~ msgid "Error Detected! The Activation key invalid!"
+#~ msgstr "Error Detected! The Activation key invalid!"
+
+#~ msgid "This user aready activated!"
+#~ msgstr "This user aready activated!"
+
+#~ msgid "Activation Successfully!"
+#~ msgstr "Activation Successfully!"
+
+#~ msgid "Activated"
+#~ msgstr "Activated"
+
+#~ msgid "Deactivated"
+#~ msgstr "Deactivated"
+
+#~ msgid "Manage"
+#~ msgstr "Manage"
+
+#~ msgid "Advance Search"
+#~ msgstr "Advance Search"
+
+#~ msgid "Username (Like)"
+#~ msgstr "Username (Like)"
+
+#~ msgid "Email (like)"
+#~ msgstr "Email (like)"
+
+#~ msgid "Unknown"
+#~ msgstr "Unknown"
+
+#~ msgid "Active"
+#~ msgstr "Active"
+
+#~ msgid "Inactive"
+#~ msgstr "Inactive"
+
+#~ msgid "Show Result"
+#~ msgstr "Show Result"
+
+#~ msgid "Check All"
+#~ msgstr "Check All"
+
+#~ msgid "With Selection"
+#~ msgstr "With Selection"
+
+#~ msgid "Notification"
+#~ msgstr "Notification"
+
+#~ msgid "Do you really want to do that?"
+#~ msgstr "Do you really want to do that?"
+
+#~ msgid "Confirm"
+#~ msgstr "Confirm"
+
+#~ msgid "Really?"
+#~ msgstr "Really?"

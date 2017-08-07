@@ -1,0 +1,336 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Menus\n"
+"POT-Creation-Date: 2014-10-27 13:41+0700\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.1\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../action/once.php:31
+msgid "Menu is created successfully"
+msgstr "Menú ha sido creado con éxito"
+
+#: ../action/once.php:40 ../action/once.php:60 ../assets/js.php:217
+msgid "Menu name can not more than 255 characters"
+msgstr "Nombre de menú no puede tener más que 255 caracteres"
+
+#: ../action/once.php:54
+msgid "Menu is updated successfully"
+msgstr "Menú ha sido actualizado con éxito"
+
+#: ../assets/js.php:67 ../views/views-list.php:155
+msgid "Are you sure to delete this item?"
+msgstr "¿Seguro que quiere eliminar este elemento?"
+
+#: ../assets/js.php:71 ../views/views-list.php:17 ../views/views-list.php:76
+#: ../views/views-list.php:159
+msgid "Delete"
+msgstr "Eliminar"
+
+#: ../assets/js.php:79 ../assets/js.php:178 ../assets/js.php:239
+#: ../views/views-list.php:167 ../views/views-list.php:191
+#: ../views/views-once.php:4
+msgid "Cancel"
+msgstr "Cancelar"
+
+#: ../assets/js.php:116
+msgid "Please enter item name"
+msgstr "Por favor ingrese el nombre del artículo"
+
+#: ../assets/js.php:117
+msgid "Item name can not more than 75 characters"
+msgstr "El nombre del artículo no puede más de 75 caracteres"
+
+#: ../assets/js.php:121
+msgid "Please enter valid URL"
+msgstr "Por favor introduzca un URL válido"
+
+#: ../assets/js.php:159
+msgid ""
+"Are you sure to delete this item? \\n (If this item has any children, it "
+"will be deleted also)"
+msgstr ""
+"¿Está seguro que desea eliminar este elemento? \\n (Si este elemento tiene "
+"dependencias, serán borradas también)"
+
+#: ../assets/js.php:163 ../assets/js.php:231 ../views/views-list.php:182
+msgid "Confirm"
+msgstr "Confirmar"
+
+#: ../assets/js.php:204
+msgid "Do you really want to cancel?"
+msgstr "¿Seguro que desear cancelar?"
+
+#: ../assets/js.php:219 ../views/views-list.php:25
+msgid "Please enter menu name"
+msgstr "Introduzca nombre de menú"
+
+#: ../menu.php:3 ../views/views-once.php:8
+msgid "Menu"
+msgstr "Menú"
+
+#: ../menu.php:25 ../views/views-list.php:7
+msgid "Menus"
+msgstr "Menú"
+
+#: ../menu.php:66
+msgid "Access Denied!"
+msgstr "Acceso denegado"
+
+#: ../views/views-list.php:3
+msgid "New Menu"
+msgstr "Nuevo menú"
+
+#: ../views/views-list.php:14
+msgid "Select Action"
+msgstr "Seleccionar acción"
+
+#: ../views/views-list.php:30
+msgid "Search"
+msgstr "Buscar"
+
+#: ../views/views-list.php:58 ../views/views-once.php:19
+msgid "Menu Name"
+msgstr "Nombre de menú"
+
+#: ../views/views-list.php:59
+msgid "Shortcode"
+msgstr "Shortcode"
+
+#: ../views/views-list.php:60
+msgid "Actions"
+msgstr "Acciones"
+
+#: ../views/views-list.php:72
+msgid "Edit"
+msgstr "Editar"
+
+#: ../views/views-list.php:122
+msgid "Add Menu"
+msgstr "Agregar menú"
+
+#: ../views/views-list.php:128
+msgid "Menu Title"
+msgstr "Título de menú"
+
+#: ../views/views-list.php:134
+msgid "Publish"
+msgstr "Publicar"
+
+#: ../views/views-list.php:137
+msgid "Yes"
+msgstr "Sí"
+
+#: ../views/views-list.php:138
+msgid "No"
+msgstr "No"
+
+#: ../views/views-list.php:144 ../views/views-once.php:151
+#: ../views/views-once.php:224
+msgid "Close"
+msgstr "Cerrar"
+
+#: ../views/views-list.php:145
+msgid "Add new"
+msgstr "Añadir nuevo"
+
+#: ../views/views-list.php:178
+msgid "Are you sure with this action?"
+msgstr "¿Seguro que desea realizar esta acción?"
+
+#: ../views/views-once.php:3
+msgid "Save"
+msgstr "Guardar"
+
+#: ../views/views-once.php:33
+msgid "Add Page"
+msgstr "Añadir página"
+
+#: ../views/views-once.php:34
+msgid "Add Link"
+msgstr "Añadir enlace"
+
+#: ../views/views-once.php:35
+msgid "Preview"
+msgstr "Vista previa"
+
+#: ../views/views-once.php:35
+msgid "Notice: You can order menu by dragging them"
+msgstr "Aviso: Usted puede ordenar el menú arrastrándolo los elementos"
+
+#: ../views/views-once.php:70
+msgid "Add Page to menu"
+msgstr "Añadir Página al menú"
+
+#: ../views/views-once.php:77 ../views/views-once.php:170
+msgid "Name"
+msgstr "Nombre"
+
+#: ../views/views-once.php:84
+msgid "Choose Page"
+msgstr "Seleccionar página"
+
+#: ../views/views-once.php:90
+msgid "Options"
+msgstr "Opciones"
+
+#: ../views/views-once.php:93
+msgid "Example: "
+msgstr "Ejemplo: "
+
+#: ../views/views-once.php:97 ../views/views-once.php:184
+msgid "Icon"
+msgstr "Icono"
+
+#: ../views/views-once.php:100 ../views/views-once.php:187
+msgid "CSS class"
+msgstr "Clase CSS"
+
+#: ../views/views-once.php:101 ../views/views-once.php:188
+msgid "Images"
+msgstr "Imágenes"
+
+#: ../views/views-once.php:123 ../views/views-once.php:196
+msgid "Select Image"
+msgstr "Seleccionar Imagen"
+
+#: ../views/views-once.php:143 ../views/views-once.php:216
+msgid "Description"
+msgstr "Descripción"
+
+#: ../views/views-once.php:152 ../views/views-once.php:225
+msgid "Apply"
+msgstr "Aplicar"
+
+#: ../views/views-once.php:162
+msgid "Add URL to menu"
+msgstr "Añadir"
+
+#: ../views/views-once.php:177
+msgid "Enter Link"
+msgstr "Introduzca enlace"
+
+#: ../widgets/views/menu/index.php:13 ../widgets/views/menu/setting.php:8
+msgid "Please choose a menu"
+msgstr "Por favor, elija un menú"
+
+#: ../widgets/views/menu/setting.php:4
+msgid "Widget Title"
+msgstr "Widget Título"
+
+#: ../widgets/views/menu/setting.php:12
+msgid "Menu layout"
+msgstr "Diseño del menú"
+
+msgid "Add New Url Item"
+msgstr "Añadir nueva URL al elemento"
+
+msgid "Leave all changes?"
+msgstr "¿Salir SIN guardar los cambios?"
+
+msgid "Update Successfully"
+msgstr "Actualizado correctamente"
+
+msgid "This Item have children(s). You cannot delete it"
+msgstr "Este elemento tiene otros que dependen de él, no puedes borrarlo"
+
+msgid "The email address you entered is already in use!"
+msgstr "El mail introducido ya existe!"
+
+msgid "The username you entered is already in use!"
+msgstr "En nombre de usuario ya existe!"
+
+msgid "The passwords you entered do not match!"
+msgstr "La password no coincide!"
+
+msgid "Please review your information!"
+msgstr "Revisa la información!"
+
+msgid "User successfully created!"
+msgstr "Usuario creado correctamente!"
+
+msgid "Please select user"
+msgstr "Por favor, selecciona usuario"
+
+msgid "Email"
+msgstr "Email"
+
+msgid "Username"
+msgstr "Nombre de usuario"
+
+msgid "Password"
+msgstr "Password"
+
+msgid "Re-Password"
+msgstr "Reintroduce Password"
+
+msgid "Displayname"
+msgstr "Alias"
+
+msgid "Role"
+msgstr "Permisos"
+
+msgid "Error Detected! The Activation key invalid!"
+msgstr "Error! , la clave de activación es incorrecta"
+
+msgid "This user aready activated!"
+msgstr "El usuario ya ha sido activado!"
+
+msgid "Activation Successfully!"
+msgstr "Activación correcta!"
+
+msgid "All"
+msgstr "Todo"
+
+msgid "Activated"
+msgstr "Activado"
+
+msgid "Deactivated"
+msgstr "Desactivado"
+
+msgid "Manage"
+msgstr "Configurar"
+
+msgid "Advance Search"
+msgstr "Busqueda avanzada"
+
+msgid "Username (Like)"
+msgstr "Usuario"
+
+msgid "Email (like)"
+msgstr "Email"
+
+msgid "Unknown"
+msgstr "Desconocido"
+
+msgid "Active"
+msgstr "Activo"
+
+msgid "Inactive"
+msgstr "No activo"
+
+msgid "Show Result"
+msgstr "Mostrar resultado(s)"
+
+msgid "Check All"
+msgstr "Seleccionar todo"
+
+msgid "Notification"
+msgstr "Notificación"
+
+msgid "Really?"
+msgstr "Seguro?"
+
+#~ msgid "Item Name"
+#~ msgstr "Nombre del ítem"
+
+#~ msgid "Please enter name and URL"
+#~ msgstr "Por favor introduzca nombre y URL"

@@ -1,0 +1,71 @@
+
+
+{html:row}
+    {html:col}
+        {html:title size=2}Soundcloud{/html:title}
+    {/html:col}
+{/html:row}
+{html:row class='margin-bottom-15'}
+    {html:col}
+        {html:div class='margin-bottom-15'}
+        {soundcloud:audio url="http://soundcloud.com/futuresounds-bgr/aaliyah-enough-said-feat-drake" comments="true" auto_play="false" color="ff7700" width="100%" height="81"}
+        {/html:div}
+        {html:code}{soundcloud:audio url=http://soundcloud.com/futuresounds-bgr/aaliyah-enough-said-feat-drake comments=true auto_play=false color=ff7700 width=100% height=81}{/html:code}
+    {/html:col}
+{/html:row}
+
+{html:row}
+    {html:col}
+        {html:title size=2}Youtube{/html:title}
+    {/html:col}
+{/html:row}
+{html:row class='margin-bottom-15'}
+    {html:col}
+        {html:div class='margin-bottom-15'}
+        {youtube:video id="6acRHWnfZAE" width="100%" height="525"}
+        {/html:div}
+        {html:code}{youtube:video id=6acRHWnfZAE width=100% height=525}{/html:code}
+    {/html:col}
+{/html:row}
+
+{html:row}
+    {html:col}
+        {html:title size=2}Vimeo{/html:title}
+    {/html:col}
+{/html:row}
+{html:row class='margin-bottom-15'}
+    {html:col}
+        {html:div class='margin-bottom-15'}
+        {vimeo:video id="91440169" width="100%" height="325"}
+        {/html:div}
+        {html:code}{vimeo:video id=91440169 width=100% height=325}{/html:code}
+    {/html:col}
+{/html:row}
+
+{html:row}
+    {html:col}
+        {html:title size=2}Livestream{/html:title}
+    {/html:col}
+{/html:row}
+{html:row class='margin-bottom-15'}
+    {html:col}
+        {html:div class='margin-bottom-15'}
+        {livestream:video acounts="3827561" events="2074586" videos="71902797" width="100%" height="550"}
+        {/html:div}
+        {html:code}{livestream:video acounts="3827561" events="2074586" videos="71902797" width="100%" height="550"}{/html:code}
+    {/html:col}
+{/html:row}
+
+{html:row}
+    {html:col}
+        {html:title size=2}Google map{/html:title}
+    {/html:col}
+{/html:row}
+{html:row class='margin-bottom-15'}
+    {html:col}
+        {html:div class='margin-bottom-15'}
+        {google:map address="Hanoi Vietnam" type="roadmap" width="100%" height="525px" zoom="8" scrollwheel="true" scale="true" zoom_pancontrol="true"}
+        {/html:div}
+        {html:code}{google:map address=Hanoi Vietnam type=roadmap width=100% height=525px zoom=8 scrollwheel=true scale=true zoom_pancontrol=true}{/html:code}
+    {/html:col}
+{/html:row}

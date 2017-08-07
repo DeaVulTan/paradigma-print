@@ -1,0 +1,40 @@
+
+{html:row}
+    {html:col}
+        {html:title size=2}Rating{/html:title}
+    {/html:col}
+{/html:row}
+{html:row class='margin-bottom-15'}
+    {html:col}
+        {rating:display key='your-key'}
+        {html:code}{rating:display key='your-key'}{/html:code}
+    {/html:col}
+{/html:row}
+{html:row}
+    {html:col}
+        {html:title size=2}Contact{/html:title}
+    {/html:col}
+{/html:row}
+{html:row class='margin-bottom-15'}
+    {html:col class='col-sm-2'}
+    {/html:col}
+    {html:col}
+        {html:div class="form-white"}
+        {contactform:display id=537195c27eedc}
+        {/html:div}
+        {html:code}{contactform:display id=537195c27eedc}{/html:code}
+    {/html:col}
+    {html:col class='col-sm-2'}
+    {/html:col}
+{/html:row}
+{html:row}
+    {html:col}
+        {html:title size=2}Comment{/html:title}
+    {/html:col}
+    {/html:row}
+{html:row class='margin-bottom-15'}
+    {html:col}
+        {comment:display key='your-key'}
+        {html:code}{comment:display key='your-key'}{/html:code}
+    {/html:col}
+{/html:row}

@@ -1,0 +1,32 @@
+/* Elements for Portfolio plugin */
+.custom-field {
+    border: 1px #00c0ef solid;
+    border-radius: 10px;
+    min-height: 40px;
+    padding: 20px;
+}
+.hidden-field {
+    display: none;
+}
+.requiredfield {color:red;}
+.center {text-align: center;}
+.width80 {width:80px;}
+.width100 {width:100px;}
+.width150 {width:150px;}
+.width200 {width:200px;}
+.width300 {width:300px;}
+.width400 {width:400px;}
+
+.padding-10-0 {padding: 10px 0;}
+#action-box {padding-right: 5px;}
+.table-configuration tbody > tr > th {background-color: #F9F9F9; }
+.thumbview{font-size:11px;width:18%;display:inline-block;float:left;overflow:hidden;text-align:center;margin:1%}
+.thumbview .inner{;border:solid #ccc 1px;background-color:#B1B6C4;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;padding:3px;position:relative}
+.thumbview .inner:hover{border:solid #ddd 1px}
+.thumbview div.title{margin-top:5px;background-color:#e2e2e2;-moz-border-radius:0 0 3px 3px;-webkit-border-radius:0 0 3px 3px;border-radius:0 0 3px 3px;background-image:url(../images/hr.png);background-repeat:repeat-x;background-position:left top;}
+.thumbview span.control{position:absolute;display:inline-block;top:5px;right:5px}
+.thumbview span.control a{display:block;margin-bottom:3px}
+
+.vertical-align{vertical-align: middle;}
+.set_thumb{font-size: 13px; color: #ffffff}
+.set_thumb .active{color: #ffff00}

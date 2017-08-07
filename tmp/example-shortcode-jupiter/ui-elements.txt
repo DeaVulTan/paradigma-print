@@ -1,0 +1,415 @@
+<div class="container">
+
+<div class="row">
+ <!-- Vertical Navigation -->
+
+<div class="col-md-3">
+
+<div class="panel panel-default bs-sidebar affix-top" data-spy="affix" data-offset-top="110" data-offset-bottom="379">
+
+<div class="panel-heading">
+ Elements</div>
+
+
+<div class="panel-body">
+
+<ul>
+<li><a href="#typography">Typography</a></li>
+<li><a href="#buttons">Buttons</a></li>
+<li><a href="#navs">Navs</a></li>
+<li><a href="#pagination">Pagination</a></li>
+<li><a href="#tooltips">Tooltips</a></li>
+<li><a href="#popovers">Popovers</a></li>
+<li><a href="#progress-bars">Proress Bars</a></li>
+<li><a href="#panels">Panels</a></li>
+<li><a href="#accordions">Accordion</a></li>
+<li><a href="#carousel">Carousel</a></li>
+<li><a href="#info-boards">Info Boards</a></li>
+<li><a href="#social-links">Social Links</a></li>
+<li><a href="#responsive-iframes">Responsive iFrames</a></li>
+</ul>
+</div>
+</div>
+</div>
+
+<!-- / .col-md-3 -->
+
+<div class="col-md-9"><!-- Typography -->
+
+<h2 id="typography" class="headline first-child"><span>Typography</span></h2>
+
+
+<div class="row">
+
+<div class="col-sm-8">
+
+<p class="lead">Phasellus a sem et augue ullamcorper gravida. Maecenas sed porta orci. Aliquam interdum felis sapien, vitae viverra diam consectetur a. Sed interdum quam leo, sed pretium eros mattis vitae.</p>
+
+
+<p>Phasellus a sem et augue ullamcorper gravida. Maecenas sed porta orci. Aliquam interdum felis sapien, vitae viverra diam consectetur a. Sed interdum quam leo, sed pretium eros mattis vitae.</p>
+</div>
+
+
+<div class="col-sm-4">
+
+<h1 class="first-child">Header 1</h1>
+
+
+<h2>Header 2</h2>
+
+
+<h3>Header 3</h3>
+
+
+<h4>Header 4</h4>
+
+
+<h5>Header 5</h5>
+
+
+<h6>Header 6</h6>
+</div>
+</div>
+
+<!-- Buttons -->
+
+<h2 class="headline" id="buttons"><span>Buttons</span></h2>
+    <div class="row">
+      <div class="col-sm-12">
+      <h3 class="first-child">Button</h3>
+        <div class="panel-body">
+	        {html:button class='margin-bottom-15 btn btn-danger' } danger{/html:button}
+	        {html:button class='margin-bottom-15 btn btn-default' } default{/html:button}
+	        {html:button class='margin-bottom-15 btn btn-primary' } primary{/html:button}
+	        {html:button class='margin-bottom-15 btn btn-success' } success{/html:button}
+	        {html:button class='margin-bottom-15 btn btn-info' } info{/html:button}
+	        {html:button class='margin-bottom-15 btn btn-warning' }warning{/html:button}
+	        {html:button class='margin-bottom-15 btn btn-link' }link{/html:button}
+        </div>
+      </div>
+      <div class="col-sm-12">
+      <h3 class="first-child">Button Icon</h3>
+        <div class="panel-body">
+	        {html:button class='margin-bottom-15 btn btn-danger' }{html:icon name='trash-o'} Button{/html:button}
+	        {html:button class='margin-bottom-15 btn btn-default' }{html:icon name='ban'} Button{/html:button}
+	        {html:button class='margin-bottom-15 btn btn-primary' }{html:icon name='check'} Button{/html:button}
+	        {html:button class='margin-bottom-15 btn btn-success' }{html:icon name='pencil-square-o'} Button{/html:button}
+	        {html:button class='margin-bottom-15 btn btn-info' }{html:icon name='cogs'} Button{/html:button}
+	        {html:button class='margin-bottom-15 btn btn-warning' }{html:icon name='wrench'} Button{/html:button}
+	        {html:button class='margin-bottom-15 btn btn-link' }{html:icon name='question-circle'} Button{/html:button}
+        </div>
+      </div>
+    </div>
+<!-- Navs -->
+
+<h2 id="navs" class="headline"><span>Navs</span></h2>
+
+
+<div class="row">
+
+<div class="col-sm-6">
+
+<h3 class="first-child">Tabs</h3>
+
+
+<ul class="nav nav-tabs">
+<li class="active"><a href="#">Home</a></li>
+<li><a href="#">Profile</a></li>
+<li><a href="#">Messages</a></li>
+</ul>
+</div>
+
+
+<div class="col-sm-6">
+
+<h3 class="second-child">Pills</h3>
+
+
+<ul class="nav nav-pills">
+<li class="active"><a href="#">Home</a></li>
+<li><a href="#">Profile</a></li>
+<li><a href="#">Messages</a></li>
+</ul>
+</div>
+</div>
+
+<!-- Pagination -->
+
+<h2 id="pagination" class="headline"><span>Pagination</span></h2>
+
+<!-- Pagination Large -->
+
+<div class="pagination-example">
+
+<ul class="pagination pagination-lg">
+<li><a href="#">&laquo;</a></li>
+<li class="active"><a href="#">1</a></li>
+<li><a href="#">2</a></li>
+<li><a href="#">3</a></li>
+<li><a href="#">4</a></li>
+<li><a href="#">5</a></li>
+<li><a href="#">&raquo;</a></li>
+</ul>
+</div>
+
+<!-- Pagination Default -->
+
+<div class="pagination-example">
+
+<ul class="pagination">
+<li><a href="#">&laquo;</a></li>
+<li class="active"><a href="#">1</a></li>
+<li><a href="#">2</a></li>
+<li><a href="#">3</a></li>
+<li><a href="#">4</a></li>
+<li><a href="#">5</a></li>
+<li><a href="#">&raquo;</a></li>
+</ul>
+</div>
+
+<!-- Pagination Small -->
+
+<div class="pagination-example">
+
+<ul class="pagination pagination-sm">
+<li><a href="#">&laquo;</a></li>
+<li class="active"><a href="#">1</a></li>
+<li><a href="#">2</a></li>
+<li><a href="#">3</a></li>
+<li><a href="#">4</a></li>
+<li><a href="#">5</a></li>
+<li><a href="#">&raquo;</a></li>
+</ul>
+</div>
+
+<!-- Tooltips -->
+
+<h2 id="tooltips" class="headline"><span>Tooltips</span></h2>
+
+
+<div class="tooltip-test"><button class="btn btn-default" title="Tooltip on left" data-toggle="tooltip" data-placement="left">Tooltip on left</button> <button class="btn btn-default" title="Tooltip on top" data-toggle="tooltip" data-placement="top">Tooltip on top</button> <button class="btn btn-default" title="Tooltip on bottom" data-toggle="tooltip" data-placement="bottom">Tooltip on bottom</button> <button class="btn btn-default" title="Tooltip on right" data-toggle="tooltip" data-placement="right">Tooltip on right</button></div>
+
+<!-- Popovers -->
+
+<h2 id="popovers" class="headline"><span>Popovers</span></h2>
+
+
+<div class="popover-test"><button class="btn btn-default" data-container="body" data-toggle="popover" data-placement="left" data-content="Vivamus sagittis lacus vel augue laoreet rutrum faucibus."> Popover on left </button> <button class="btn btn-default" data-container="body" data-toggle="popover" data-placement="top" data-content="Vivamus sagittis lacus vel augue laoreet rutrum faucibus."> Popover on top </button> <button class="btn btn-default" data-container="body" data-toggle="popover" data-placement="bottom" data-content="Vivamus              sagittis lacus vel augue laoreet rutrum faucibus."> Popover on bottom </button> <button class="btn btn-default" data-container="body" data-toggle="popover" data-placement="right" data-content="Vivamus sagittis lacus vel augue laoreet rutrum faucibus."> Popover on right </button></div>
+
+<!-- Progress Bars -->
+
+<h2 id="progress-bars" class="headline"><span>Progress Bars</span></h2>
+
+
+<div class="row">
+
+<div class="col-sm-6">
+
+<div class="progress">
+
+<div class="progress-bar progress-bar-theme-secondary" style="width: 40%;"><span class="sr-only">40% Complete (success)</span></div>
+</div>
+
+
+<div class="progress">
+
+<div class="progress-bar progress-bar-theme-primary" style="width: 60%;"><span class="sr-only">20% Complete</span></div>
+</div>
+</div>
+
+
+<div class="col-sm-6">
+
+<div class="progress">
+
+<div class="progress-bar progress-bar-theme-secondary progress-bar-striped" style="width: 40%;"><span class="sr-only">40% Complete (success)</span></div>
+</div>
+
+
+<div class="progress">
+
+<div class="progress-bar progress-bar-theme-primary progress-bar-striped" style="width: 60%;"><span class="sr-only">20% Complete</span></div>
+</div>
+</div>
+</div>
+
+<!-- Panels -->
+
+<h2 id="panels" class="headline"><span>Panels</span></h2>
+
+
+<div class="row">
+
+<div class="col-sm-4"><!-- Panel default -->
+
+<div class="panel panel-default">
+
+<div class="panel-heading">Panel default</div>
+
+
+<div class="panel-body">Panel content</div>
+</div>
+</div>
+
+
+<div class="col-sm-4"><!-- Panel Primary -->
+
+<div class="panel panel-theme-primary">
+
+<div class="panel-heading">Panel Primary</div>
+
+
+<div class="panel-body">Panel content</div>
+</div>
+</div>
+
+
+<div class="col-sm-4"><!-- Panel Secondary -->
+
+<div class="panel panel-theme-secondary">
+
+<div class="panel-heading">Panel Secondary</div>
+
+
+<div class="panel-body">Panel content</div>
+</div>
+</div>
+</div>
+
+
+<div class="row">
+
+<div class="col-sm-12">
+
+<p>Easily create a new panel of any color with a single mixin using LESS:</p>
+
+
+<p><code> #panel &gt; .panel(#333; #FFF); </code></p>
+
+
+<p>where <code>#333</code> is your panel title background color, and <code>#FFF</code> is your panel title text color.</p>
+</div>
+</div>
+
+<!-- Accordion -->
+
+<h2 id="accordions" class="headline"><span>Accordion</span></h2>
+
+
+<div id="accordion" class="panel-group">
+
+<div class="panel panel-default">
+
+<div class="panel-heading"><a href="#collapseOne" data-toggle="collapse" data-parent="#accordion"> Collapsible Group Item #1 </a></div>
+
+
+<div id="collapseOne" class="panel-collapse collapse in">
+
+<div class="panel-body">Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven't heard of them accusamus labore sustainable VHS.</div>
+</div>
+</div>
+
+
+<div class="panel panel-default">
+
+<div class="panel-heading"><a class="collapsed" href="#collapseTwo" data-toggle="collapse" data-parent="#accordion"> Collapsible Group Item #2 </a></div>
+
+
+<div id="collapseTwo" class="panel-collapse collapse">
+
+<div class="panel-body">Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven't heard of them accusamus labore sustainable VHS.</div>
+</div>
+</div>
+
+
+<div class="panel panel-default">
+
+<div class="panel-heading"><a class="collapsed" href="#collapseThree" data-toggle="collapse" data-parent="#accordion"> Collapsible Group Item #3 </a></div>
+
+
+<div id="collapseThree" class="panel-collapse collapse">
+
+<div class="panel-body">Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven't heard of them accusamus labore sustainable VHS.</div>
+</div>
+</div>
+</div>
+
+<!-- Carousel -->
+
+<h2 class="headline" id="carousel"><span>Carousel</span></h2>
+     {slider:carousel}
+	 {slider:img src='media/uploads/images/galleries/London/DSC_3501.jpg' },
+	 {slider:img src='media/uploads/images/galleries/London/DSC_3565.jpg' },
+	 {slider:img src='media/uploads/images/galleries/London/DSC_3563.jpg' },
+	 {slider:img src='media/uploads/images/galleries/London/DSC_3562.jpg' }
+	 {/slider:carousel}
+    
+    <!-- Info Boards -->
+    <h2 class="headline" id="info-boards"><span>Info Boards</span></h2>
+    <div class="row">
+      <div class="col-sm-6">
+        <!-- Info Board Primary -->
+        <div class="info-board info-board-theme-primary">
+          <h4>Welcome Aboard</h4>
+          <p>
+            Nunc in neque nec arcu vulputate ullamcorper. Ut id orci ac arcu consectetur fringilla. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.
+          </p>
+        </div>
+      </div>
+      <div class="col-sm-6">
+        <!-- Info Board Secondary -->
+        <div class="info-board info-board-theme-secondary">
+          <h4>Welcome Aboard</h4>
+          <p>
+            Nunc in neque nec arcu vulputate ullamcorper. Ut id orci ac arcu consectetur fringilla. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.
+          </p>
+        </div>
+      </div>
+    </div> <!-- / .row -->
+
+<!-- / .row --> <!-- Social Links -->
+
+<h2 class="headline" id="social-links"><span>Social Links</span></h2>
+    <div class="social social-lg">
+      {social:rss} http://demo-cms.vitubo.com{/social:rss}
+            {social:facebook} http://demo-cms.vitubo.com{/social:facebook}
+            {social:twitter} http://demo-cms.vitubo.com{/social:twitter}
+            {social:vimeo} http://demo-cms.vitubo.com{/social:vimeo}
+            {social:googleplus} http://demo-cms.vitubo.com{/social:googleplus}
+            {social:pintrest} http://demo-cms.vitubo.com{/social:pintrest}
+            {social:linkedin} http://demo-cms.vitubo.com{/social:linkedin}
+            {social:dropbox} http://demo-cms.vitubo.com{/social:dropbox}
+            {social:picasa} http://demo-cms.vitubo.com{/social:picasa}
+            {social:spotify} http://demo-cms.vitubo.com{/social:spotify}
+            {social:jolicloud} http://demo-cms.vitubo.com{/social:jolicloud}
+            {social:wordpress} http://demo-cms.vitubo.com{/social:wordpress}
+            {social:github} http://demo-cms.vitubo.com{/social:github}
+            {social:xing} http://demo-cms.vitubo.com{/social:xing}
+    </div>
+
+    <!-- Responsive iFrames -->
+    <h2 class="headline" id="responsive-iframes"><span>Responsive iFrames</span></h2>
+    <div class="row">
+      <div class="col-sm-6">
+        <div class="embed-responsive embed-responsive-16by9">
+          {html:div class='margin-bottom-15'}
+        	{vimeo:video id="91440169" width="100%" height="325"}
+          {/html:div}
+        </div>
+      </div>
+      <div class="col-sm-6">
+        <div class="embed-responsive embed-responsive-4by3">
+          {html:div class='margin-bottom-15'}
+        {google:map address="Hanoi Vietnam" type="roadmap" width="100%" height="525px" zoom="8" scrollwheel="true" scale="true" zoom_pancontrol="true"}
+        {/html:div}
+        {html:code}{google:map address=&quot;Hanoi Vietnam&quot; type=&quot;roadmap&quot; width=&quot;100%&quot; height=&quot;525px&quot; zoom=&quot;8&quot; scrollwheel=&quot;true&quot; scale=&quot;true&quot; zoom_pancontrol=&quot;true&quot;}{/html:code}
+        </div>
+      </div>
+    </div> <!-- / .row -->
+
+  </div> <!-- / .col-md-9 -->
+</div>
+
+<!-- / .container -->
+
+<script src="app/themes/jupiter/js/ui-elements.js"></script>

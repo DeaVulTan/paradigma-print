@@ -1,0 +1,297 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Menu\n"
+"POT-Creation-Date: 2015-01-19 13:40+0700\n"
+"PO-Revision-Date: 2015-01-19 13:42+0700\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.4\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../action/once.php:31 ../admin/views/menu/add.php:296
+#: ../admin/views/menu/edit.php:305
+msgid "Menu is created successfully"
+msgstr "Menü erfolgreich erstellt"
+
+#: ../action/once.php:40 ../action/once.php:60 ../admin/assets/js.php:226
+#: ../admin/views/menu/add.php:290 ../admin/views/menu/edit.php:299
+#: ../assets/js.php:217
+msgid "Menu name can not more than 255 characters"
+msgstr "Menüname kann nicht mehr als 255 Zeichen"
+
+#: ../action/once.php:54 ../admin/views/menu/edit.php:325
+msgid "Menu is updated successfully"
+msgstr "Menü erfolgreich aktualisiert"
+
+#: ../admin/assets/js.php:67 ../admin/views/menu/index.php:353
+#: ../assets/js.php:67
+msgid "Are you sure to delete this item?"
+msgstr "Sind Sie sicher, dass Sie diesen Artikel löschen?"
+
+#: ../admin/assets/js.php:71 ../admin/views/menu/index.php:66
+#: ../admin/views/menu/index.php:357 ../assets/js.php:71
+msgid "Delete"
+msgstr "Löschen"
+
+#: ../admin/assets/js.php:79 ../admin/assets/js.php:187
+#: ../admin/assets/js.php:248 ../admin/views/menu/index.php:27
+#: ../admin/views/menu/index.php:33 ../admin/views/menu/index.php:38
+#: ../assets/js.php:79 ../assets/js.php:178 ../assets/js.php:239
+msgid "Cancel"
+msgstr "Stornieren"
+
+#: ../admin/assets/js.php:125 ../assets/js.php:116
+msgid "Please enter item name"
+msgstr "Bitte geben Sie Artikelnamen"
+
+#: ../admin/assets/js.php:126 ../assets/js.php:117
+msgid "Item name can not more than 75 characters"
+msgstr "Item-Name kann nicht mehr als 75 Zeichen"
+
+#: ../admin/assets/js.php:130 ../assets/js.php:121
+msgid "Please enter valid URL"
+msgstr "Bitte geben Sie eine gültige URL"
+
+#: ../admin/assets/js.php:168 ../assets/js.php:159
+msgid ""
+"Are you sure to delete this item? \\n (If this item has any children, it "
+"will be deleted also)"
+msgstr ""
+"Sind Sie sicher, dass Sie diesen Artikel löschen?  (Ist dieser Punkt hat "
+"keine Kinder, wird es auch zu löschen)"
+
+#: ../admin/assets/js.php:172 ../admin/assets/js.php:240 ../assets/js.php:163
+#: ../assets/js.php:231
+msgid "Confirm"
+msgstr "Bestätigen"
+
+#: ../admin/assets/js.php:213 ../assets/js.php:204
+msgid "Do you really want to cancel?"
+msgstr "Wollen Sie wirklich abbrechen?"
+
+#: ../admin/assets/js.php:228 ../assets/js.php:219
+msgid "Please enter menu name"
+msgstr "Bitte geben Sie Menünamen"
+
+#: ../admin/views/menu/add.php:11 ../admin/views/menu/edit.php:11
+#: ../admin/views/menu/index.php:50 ../admin/views/menu/index.php:169
+#: ../menu.php:3
+msgid "Menu"
+msgstr "Menü"
+
+#: ../admin/views/menu/add.php:11
+msgid "Add"
+msgstr "Hinzufügen"
+
+#: ../admin/views/menu/add.php:28 ../admin/views/menu/edit.php:30
+#: ../admin/views/menu/index.php:106
+msgid "Menu Name"
+msgstr "Menüname"
+
+#: ../admin/views/menu/add.php:40 ../admin/views/menu/edit.php:42
+msgid "Add Page"
+msgstr "Seite hinzufügen"
+
+#: ../admin/views/menu/add.php:41 ../admin/views/menu/edit.php:43
+msgid "Add Link"
+msgstr "Link hinzufügen"
+
+#: ../admin/views/menu/add.php:42 ../admin/views/menu/edit.php:44
+msgid "Preview"
+msgstr "Vorschau"
+
+#: ../admin/views/menu/add.php:42 ../admin/views/menu/edit.php:44
+msgid "Notice: You can order menu by dragging them"
+msgstr "Hinweis: Sie können die Menü, indem Sie sie bestellen"
+
+#: ../admin/views/menu/add.php:67 ../admin/views/menu/edit.php:72
+msgid "Add Page to menu"
+msgstr "Seite hinzufügen zum Menü "
+
+#: ../admin/views/menu/add.php:74 ../admin/views/menu/add.php:174
+#: ../admin/views/menu/edit.php:79 ../admin/views/menu/edit.php:183
+msgid "Name"
+msgstr "Name"
+
+#: ../admin/views/menu/add.php:81 ../admin/views/menu/edit.php:86
+msgid "Choose Page"
+msgstr "Wählen Sie Seite"
+
+#: ../admin/views/menu/add.php:96 ../admin/views/menu/edit.php:101
+msgid "Options"
+msgstr "Optionen"
+
+#: ../admin/views/menu/add.php:99 ../admin/views/menu/edit.php:104
+msgid "Example: "
+msgstr "Beispiel:"
+
+#: ../admin/views/menu/add.php:103 ../admin/views/menu/add.php:188
+#: ../admin/views/menu/edit.php:108 ../admin/views/menu/edit.php:197
+msgid "Icon"
+msgstr "Symbol"
+
+#: ../admin/views/menu/add.php:106 ../admin/views/menu/add.php:191
+#: ../admin/views/menu/edit.php:111 ../admin/views/menu/edit.php:200
+msgid "CSS class"
+msgstr "CSS-Klasse"
+
+#: ../admin/views/menu/add.php:107 ../admin/views/menu/add.php:192
+#: ../admin/views/menu/edit.php:112 ../admin/views/menu/edit.php:201
+msgid "Images"
+msgstr "Bilder"
+
+#: ../admin/views/menu/add.php:127 ../admin/views/menu/add.php:212
+#: ../admin/views/menu/edit.php:134 ../admin/views/menu/edit.php:221
+msgid "Select Image"
+msgstr "Bild auswählen"
+
+#: ../admin/views/menu/add.php:147 ../admin/views/menu/add.php:232
+#: ../admin/views/menu/edit.php:156 ../admin/views/menu/edit.php:241
+msgid "Description"
+msgstr "Beschreibung"
+
+#: ../admin/views/menu/add.php:155 ../admin/views/menu/add.php:240
+#: ../admin/views/menu/edit.php:164 ../admin/views/menu/edit.php:249
+#: ../admin/views/menu/index.php:167 ../admin/views/menu/index.php:194
+msgid "Close"
+msgstr "Schließen"
+
+#: ../admin/views/menu/add.php:156 ../admin/views/menu/add.php:241
+#: ../admin/views/menu/edit.php:165 ../admin/views/menu/edit.php:250
+#: ../admin/views/menu/index.php:32
+msgid "Apply"
+msgstr "Anwenden"
+
+#: ../admin/views/menu/add.php:166 ../admin/views/menu/edit.php:175
+msgid "Add URL to menu"
+msgstr "URL hinzufügen zu Menü"
+
+#: ../admin/views/menu/add.php:181 ../admin/views/menu/edit.php:190
+msgid "Enter Link"
+msgstr "Geben Sie Link"
+
+#: ../admin/views/menu/add.php:264 ../admin/views/menu/add.php:275
+#: ../admin/views/menu/edit.php:273 ../admin/views/menu/edit.php:284
+#: ../admin/views/menu/edit.php:314 ../admin/views/menu/index.php:242
+#: ../admin/views/menu/index.php:254 ../admin/views/menu/index.php:275
+#: ../admin/views/menu/index.php:307 ../admin/views/menu/index.php:320
+#: ../admin/views/menu/index.php:329 ../admin/views/menu/index.php:336
+#: ../admin/views/menu/index.php:360 ../admin/views/menu/index.php:388
+msgid "Loading..."
+msgstr "Wird geladen..."
+
+#: ../admin/views/menu/add.php:283 ../admin/views/menu/edit.php:292
+#: ../admin/views/menu/edit.php:329 ../admin/views/menu/index.php:284
+#: ../admin/views/menu/index.php:342 ../admin/views/menu/index.php:365
+msgid "There is an error, please check again!"
+msgstr "Es ist ein Fehler, prüfen Sie bitte noch einmal!"
+
+#: ../admin/views/menu/edit.php:11
+msgid "Edit"
+msgstr "Bearbeiten"
+
+#: ../admin/views/menu/index.php:5 ../admin/views/menu/index.php:169
+#: ../admin/views/menu/index.php:192
+msgid "Search"
+msgstr "Suche"
+
+#: ../admin/views/menu/index.php:22
+msgid "New"
+msgstr "Neu"
+
+#: ../admin/views/menu/index.php:26 ../admin/views/menu/index.php:31
+#: ../admin/views/menu/index.php:37
+msgid "Save"
+msgstr "Sparen"
+
+#: ../admin/views/menu/index.php:50
+msgid "List"
+msgstr "Liste"
+
+#: ../admin/views/menu/index.php:62
+msgid "Bulk Actions"
+msgstr "Bulk-Aktionen"
+
+#: ../admin/views/menu/index.php:113
+msgid "Shortcode"
+msgstr "Shortcode"
+
+#: ../admin/views/menu/index.php:116
+msgid "Actions"
+msgstr "Aktionen"
+
+#: ../admin/views/menu/index.php:179
+msgid "Menu Title"
+msgstr "Menü-Titel"
+
+#: ../admin/views/menu/index.php:268
+msgid "Are you sure with this action?"
+msgstr "Sind Sie sicher, dass mit dieser Aktion?"
+
+#: ../admin/views/menu/index.php:272
+msgid "OK"
+msgstr "OK"
+
+#: ../admin/views/menu/index.php:282 ../admin/views/menu/index.php:363
+msgid "Menu is deleted successfully"
+msgstr "Menu erfolgreich gelöscht"
+
+#: ../menu.php:26
+msgid "Menus"
+msgstr "Menü"
+
+#: ../menu.php:70
+msgid "Access Denied!"
+msgstr "Access Denied!"
+
+#: ../widgets/views/menu/index.php:15 ../widgets/views/menu/setting.php:7
+msgid "Please choose a menu"
+msgstr "Bitte wählen Sie Ihr Menü"
+
+#: ../widgets/views/menu/setting.php:3
+msgid "Widget Title"
+msgstr "Widget Titel"
+
+#: ../widgets/views/menu/setting.php:11
+msgid "Menu layout"
+msgstr "Menüaufbau"
+
+#~ msgid "New Menu"
+#~ msgstr "Neues Menü"
+
+#~ msgid "Select Action"
+#~ msgstr "Aktion auswählen"
+
+#~ msgid "Add Menu"
+#~ msgstr "Menü hinzufügen"
+
+#~ msgid "Publish"
+#~ msgstr "Veröffentlichen"
+
+#~ msgid "Yes"
+#~ msgstr "Ja"
+
+#~ msgid "No"
+#~ msgstr "Nicht"
+
+#~ msgid "Item Name"
+#~ msgstr "Artikelname "
+
+#~ msgid "Please enter name and URL"
+#~ msgstr "Bitte geben Sie Namen und URL"
+
+#~ msgid "Add New Url Item"
+#~ msgstr "Neue Artikel URL"
+
+#~ msgid "Leave all changes?"
+#~ msgstr "Lassen Sie alle Änderungen?"
+
+#~ msgid "This Item have children(s). You cannot delete it"
+#~ msgstr "Diese Artikel haben Kinder (n). Sie können es nicht löschen "

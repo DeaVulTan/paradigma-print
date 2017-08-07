@@ -1,0 +1,165 @@
+
+{html:row}
+ {html:_col class='col-sm-6'}
+ {html:div}
+ {html:h2}Heading{/html:h2}
+ {html:h1}h1. Bootstrap heading {html:span class="small"}Secondary text{/html:span}{/html:h1}
+ {html:h2}h2. Bootstrap heading {html:span class="small"}Secondary text{/html:span}{/html:h2}
+ {html:h3}h3. Bootstrap heading {html:span class="small"}Secondary text{/html:span}{/html:h3}
+ {html:h4}h4. Bootstrap heading {html:span class="small"}Secondary text{/html:span}{/html:h4}
+ {html:h5}h5. Bootstrap heading {html:span class="small"}Secondary text{/html:span}{/html:h5}
+ {html:h6}h6. Bootstrap heading {html:span class="small"}Secondary text{/html:span}{/html:h6}
+ {/html:div}
+ {html:div}
+ {html:h2}Tooltip{/html:h2}
+ {html:p}
+ The following snippet of text is {html:strong data-toggle='tooltip' data-placement="top" title="This is tooltip content"}rendered as bold text.{/html:strong}
+ {/html:p}
+ {/html:div}
+ {html:div}
+ {html:h2}Popover{/html:h2}
+ {html:p}
+ The following snippet of text is {html:em &nbsp;data-container="body" data-toggle="popover" data-placement="right" data-content="Vivamus sagittis lacus vel augue laoreet rutrum faucibus."}rendered as italicized text.{/html:em}
+ {/html:p}
+ {/html:div}
+ {html:div}
+ {html:h2}Lead body copy{/html:h2}
+ {html:p class="lead"}
+ Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Duis mollis, est non commodo luctus.
+ {/html:p}
+ {/html:div}
+ {html:div}
+ {html:h2}Text alignment{/html:h2}
+ {html:p class="text-left"}Left aligned text.{/html:p}
+ {html:p class="text-center"}Center aligned text.{/html:p}
+ {html:p class="text-right"}Right aligned text.{/html:p}
+ {html:p class="text-justify"}Justified text.{/html:p}
+ {/html:div}
+ {html:div}
+ {html:h2}Addresses{/html:h2}
+ {html:address}
+ {html:strong}Twitter, Inc.{/html:strong}
+ {html:br} 795 Folsom Ave, Suite 600
+ {html:br} San Francisco, CA 94107
+ {html:br} {html:abbr title="Phone"}P:{/html:abbr} (123) 456-7890
+ {/html:address}
+ {html:address}
+ {html:strong}Full Name{/html:strong} {html:br}
+ {html:a href="mailto:first.last@example.com"}first.last@example.com{/html:a}
+ {/html:address}
+ {/html:div} {html:div}
+ {html:h2}Block quote{/html:h2}
+ {html:blockquote}
+ {html:p}Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat a ante.{/html:p}
+ {/html:blockquote}
+ {html:blockquote}
+ {html:p}Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat a ante.{/html:p}
+ {html:footer}Someone famous in {html:cite title="Source Title"}Source Title{/html:cite}{/html:footer}
+ {/html:blockquote}
+ {html:blockquote class="blockquote-reverse"}
+ {html:p}Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat a ante.{/html:p}
+ {html:footer}Someone famous in {html:cite title="Source Title"}Source Title{/html:cite}{/html:footer}
+ {/html:blockquote}
+ {/html:div} {html:div}
+ {html:h2}Soundcloud{/html:h2}
+ {soundcloud:audio url="http://soundcloud.com/futuresounds-bgr/aaliyah-enough-said-feat-drake" comments="true" auto_play="false" color="ff7700" width="100%" height="81"}
+ {/html:div}
+ {html:div}
+ {html:h2}Youtube{/html:h2}
+ {youtube:video id="frcCCHb9LHc" width="100%" height="325"}
+ {/html:div}
+ {html:div}
+ {html:h2}Vimeo{/html:h2}
+ {vimeo:video id="91440169" width="100%" height="325"}
+ {/html:div}
+ {/html:_col} {html:_col class='col-sm-6'}
+ {html:div}
+ {html:h2}Tab{/html:h2}
+ {html:tabs value="Tab1|Tab2|Tab3|Tab4"}
+ {html:tab}
+ Raw denim you probably haven't heard of them jean shorts Austin. Nesciunt tofu stumptown aliqua, retro synth master cleanse. Mustache cliche tempor, williamsburg carles vegan helvetica. Reprehenderit butcher retro keffiyeh dreamcatcher synth. Cosby sweater eu banh mi, qui irure terry richardson ex squid. Aliquip placeat salvia cillum iphone. Seitan aliquip quis cardigan american apparel, butcher voluptate nisi qui.
+ {/html:tab}
+ {html:tab}
+ Food truck fixie locavore, accusamus mcsweeney's marfa nulla single-origin coffee squid. Exercitation +1 labore velit, blog sartorial PBR leggings next level wes anderson artisan four loko farm-to-table craft beer twee. Qui photo booth letterpress, commodo enim craft beer mlkshk aliquip jean shorts ullamco ad vinyl cillum PBR. Homo nostrud organic, assumenda labore aesthetic magna delectus mollit. Keytar helvetica VHS salvia yr, vero magna velit sapiente labore stumptown. Vegan fanny pack odio cillum wes anderson 8-bit, sustainable jean shorts beard ut DIY ethical culpa terry richardson biodiesel. Art party scenester stumptown, tumblr butcher vero sint qui sapiente accusamus tattooed echo park.
+ {/html:tab}
+ {html:tab}
+ Etsy mixtape wayfarers, ethical wes anderson tofu before they sold out mcsweeney's organic lomo retro fanny pack lo-fi farm-to-table readymade. Messenger bag gentrify pitchfork tattooed craft beer, iphone skateboard locavore carles etsy salvia banksy hoodie helvetica. DIY synth PBR banksy irony. Leggings gentrify squid 8-bit cred pitchfork. Williamsburg banh mi whatever gluten-free, carles pitchfork biodiesel fixie etsy retro mlkshk vice blog. Scenester cred you probably haven't heard of them, vinyl craft beer blog stumptown. Pitchfork sustainable tofu synth chambray yr.
+ {/html:tab}
+ {html:tab}
+ Trust fund seitan letterpress, keytar raw denim keffiyeh etsy art party before they sold out master cleanse gluten-free squid scenester freegan cosby sweater. Fanny pack portland seitan DIY, art party locavore wolf cliche high life echo park Austin. Cred vinyl keffiyeh DIY salvia PBR, banh mi before they sold out farm-to-table VHS viral locavore cosby sweater. Lomo wolf viral, mustache readymade thundercats keffiyeh craft beer marfa ethical. Wolf salvia freegan, sartorial keffiyeh echo park vegan.
+ {/html:tab}
+ {/html:tabs}
+ {/html:div} {html:div}
+ {html:h2}Accordion{/html:h2}
+ {html:accordion}
+ {html:collapse active='true' title = 'Collapsible Group Item #1'}Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven't heard of them accusamus labore sustainable VHS.{/html:collapse}
+ {html:collapse title = 'Collapsible Group Item #2'}Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven't heard of them accusamus labore sustainable VHS.{/html:collapse}
+ {html:collapse title = 'Collapsible Group Item #3'}Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven't heard of them accusamus labore sustainable VHS.{/html:collapse}
+ {html:collapse title = 'Collapsible Group Item #4'}Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven't heard of them accusamus labore sustainable VHS.{/html:collapse}
+ {html:collapse title = 'Collapsible Group Item #5'}Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven't heard of them accusamus labore sustainable VHS.{/html:collapse}
+ {html:collapse title = 'Collapsible Group Item #6'}Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven't heard of them accusamus labore sustainable VHS.{/html:collapse}
+ {/html:accordion}
+ {/html:div} {html:col class='margin-bottom-15'}
+ {html:h2}Button{/html:h2}
+ {html:button class='margin-bottom-15 btn btn-danger' } danger{/html:button}
+ {html:button class='margin-bottom-15 btn btn-default' } default{/html:button}
+ {html:button class='margin-bottom-15 btn btn-primary' } primary{/html:button}
+ {html:button class='margin-bottom-15 btn btn-success' } success{/html:button}
+ {html:button class='margin-bottom-15 btn btn-info' } info{/html:button}
+ {html:button class='margin-bottom-15 btn btn-warning' }warning{/html:button}
+ {html:button class='margin-bottom-15 btn btn-link' }link{/html:button}
+ {/html:col} {html:col class='margin-bottom-15'}
+ {html:button class='margin-bottom-15 btn btn-danger' }{html:icon name='trash-o'} Button{/html:button}
+ {html:button class='margin-bottom-15 btn btn-default' }{html:icon name='ban'} Button{/html:button}
+ {html:button class='margin-bottom-15 btn btn-primary' }{html:icon name='check'} Button{/html:button}
+ {html:button class='margin-bottom-15 btn btn-success' }{html:icon name='pencil-square-o'} Button{/html:button}
+ {html:button class='margin-bottom-15 btn btn-info' }{html:icon name='cogs'} Button{/html:button}
+ {html:button class='margin-bottom-15 btn btn-warning' }{html:icon name='wrench'} Button{/html:button}
+ {html:button class='margin-bottom-15 btn btn-link' }{html:icon name='question-circle'} Button{/html:button}
+ {/html:col} {html:col class='margin-bottom-15'}
+ {html:button_group'}
+ {html:button class='margin-bottom-15 btn btn-danger' }{html:icon name='trash-o'} Button trash{/html:button}
+ {html:button class='margin-bottom-15 btn btn-danger' data-container="body" data-toggle="popover" data-placement="right" data-content="Vivamus sagittis lacus vel augue laoreet rutrum faucibus."}Other{/html:button}
+ {/html:button_group}
+ {html:button_group}
+ {html:button class='margin-bottom-15 btn btn-default' }{html:icon name='ban'} Button Ban{/html:button}
+ {html:button class='margin-bottom-15 btn btn-default' data-container="body" data-toggle="popover" data-placement="right" data-content="Vivamus sagittis lacus vel augue laoreet rutrum faucibus."}Other{/html:button}
+ {/html:button_group}
+ {html:button_group}
+ {html:button class='margin-bottom-15 btn btn-primary' }{html:icon name='check'} Button check{/html:button}
+ {html:button class='margin-bottom-15 btn btn-primary' data-container="body" data-toggle="popover" data-placement="right" data-content="Vivamus sagittis lacus vel augue laoreet rutrum faucibus."}Other{/html:button}
+ {/html:button_group}
+ {html:button_group}
+ {html:button class='margin-bottom-15 btn btn-success' }{html:icon name='pencil-square-o'} Button pencil{/html:button}
+ {html:button class='margin-bottom-15 btn btn-success' data-container="body" data-toggle="popover" data-placement="right" data-content="Vivamus sagittis lacus vel augue laoreet rutrum faucibus."}Other{/html:button}
+ {/html:button_group}
+ {html:button_group}
+ {html:button class='margin-bottom-15 btn btn-info' }{html:icon name='cogs'} Button info{/html:button}
+ {html:button class='margin-bottom-15 btn btn-info' data-container="body" data-toggle="popover" data-placement="right" data-content="Vivamus sagittis lacus vel augue laoreet rutrum faucibus."}Other{/html:button}
+ {/html:button_group}
+ {html:button_group}
+ {html:button class='margin-bottom-15 btn btn-warning' }{html:icon name='wrench'} Button wrench{/html:button}
+ {html:button class='margin-bottom-15 btn btn-warning' data-container="body" data-toggle="popover" data-placement="right" data-content="Vivamus sagittis lacus vel augue laoreet rutrum faucibus."}Other{/html:button}
+ {/html:button_group}
+ {html:button_group}
+ {html:button class='margin-bottom-15 btn btn-link' }{html:icon name='link'} Button link{/html:button}
+ {html:button class='margin-bottom-15 btn btn-link' data-container="body" data-toggle="popover" data-placement="right" data-content="Vivamus sagittis lacus vel augue laoreet rutrum faucibus."}Other{/html:button}
+ {/html:button_group}
+ {/html:col} {html:div}
+ {html:h2}Alert{/html:h2}
+ {html:alert-success}{html:strong}Well done!{/html:strong} You successfully read this important alert message. {/html:alert-success}
+ {html:alert-info} {html:strong}Heads up!{/html:strong} This alert needs your attention, but it's not super important. {/html:alert-info}
+ {html:alert-warning} {html:strong}Warning! {/html:strong} Better check yourself, you're not looking too good. {/html:alert-warning}
+ {html:alert-danger} {html:strong}Oh snap! {/html:strong} Change a few things up and try submitting again. {/html:alert-danger}
+ {/html:div} {html:div}
+ {html:h2}Form contact{/html:h2}
+ {pf:contactform id=537195c27eedc}
+ {/html:div}
+ {/html:_col}
+{/html:row}
+{html:row}
+ {html:div}
+ {html:h1}Google map{/html:h1}
+ {google:map&nbsp; address="Hanoi Vietnam" type="roadmap" width="100%" height="425px" zoom="8" scrollwheel="true" scale="true" zoom_pancontrol="true"}
+ {/html:div}
+{/html:row}

@@ -1,0 +1,292 @@
+
+{html:row}
+    {html:col}
+        {html:title size=3}MozaSlider {/html:title}
+    {/html:col}
+{/html:row}
+{html:col style="margin: -19px 0 15px 0; padding:0"}
+{html:script}
+$(document).ready(function(){
+    $('#moza-slider').MozaSlider({
+        fullwidth:false,
+        responsive:true,
+        width:1170,
+        height:550,
+        pauseOnHover: false,
+        directionNavHoverOpacity: 0,
+        directionNav: true,
+        controlNav: true,
+        controlNavThumbs:false,
+        tooltipY: -5,
+        timer: "Bar",
+        timerDiameter: "100%",
+        timerPadding: 0,
+        timerStroke: 3,
+        timerBarStroke: 0,
+        timerColor: "white",
+        timerPosition: "bottom"
+    });
+});
+{/html:script}
+
+{moza:slider id="moza-slider" moza-responsive="true"}
+    {moza:slide data-moza:background="http://page-flex.com/demo-images/media/moza-slider/bg01.jpg" data-moza:transition="2d:all" data-moza:pausetime="20000"}
+        {html:div class="moza-element"
+            data-animate_in = "x:0;y:0;fade:1;scalex:0;scaley:0;delay:0;duration:2000;"
+            style="color:white; white-space: nowrap; background:brown; font-size:50px; padding:5px 10px; border-radius:5px; top: 10px; left:80px;"}
+        Vitubo CMS
+        {/html:div}
+        {html:div class="moza-element"
+            data-animate_in = "x:right;y:0;fade:1;scalex:0.001;scaley:0.001;delay:500;duration:3000;pause_time:3000;"
+            data-animate_1 = "x:0;y:0;scalex:1.2;scaley:1.2;duration:500;"
+            data-animate_2 = "x:0;y:0;scalex:1;scaley:1;duration:500;"
+            style="color:white; white-space: nowrap; background:#FF7400; font-size:20px; padding:5px 10px; border-radius:5px; top: 100px; left:80px;"}
+        Fully responsive.
+        {/html:div}
+        {html:div class="moza-element"
+            data-animate_in = "x:left;y:0;fade:1;scalex:0.001;scaley:0.001;delay:1500;duration:4000;pause_time:2000;"
+            data-animate_1 = "x:0;y:0;scalex:1.2;scaley:1.2;duration:500;"
+            data-animate_2 = "x:0;y:0;scalex:1;scaley:1;duration:500;"
+            style="color:white; white-space: nowrap; background:#FF7400; font-size:20px; padding:5px 10px; border-radius:5px; top: 140px; left:80px;"}
+        Plugin management.
+        {/html:div}
+        {html:div class="moza-element"
+            data-animate_in = "x:right;y:0;fade:1;scalex:0.001;scaley:0.001;delay:2500;duration:4000;pause_time:2000;"
+            data-animate_1 = "x:0;y:0;scalex:1.2;scaley:1.2;duration:500;"
+            data-animate_2 = "x:0;y:0;scalex:1;scaley:1;duration:500;"
+            style="color:white; white-space: nowrap; background:#FF7400; font-size:20px; padding:5px 10px; border-radius:5px; top: 180px; left:80px;"}
+        6 popular languages.
+        {/html:div}
+         {html:div class="moza-element"
+            data-animate_in = "x:left;y:0;fade:1;scalex:0.001;scaley:0.001;delay:3500;duration:4000;pause_time:2000;"
+            data-animate_1 = "x:0;y:0;scalex:1.2;scaley:1.2;duration:500;"
+            data-animate_2 = "x:0;y:0;scalex:1;scaley:1;duration:500;"
+            style="color:white; white-space: nowrap; background:#FF7400; font-size:20px; padding:5px 10px; border-radius:5px; top: 220px; left:80px;"}
+        Powerful security.
+        {/html:div}
+        
+        {html:div class="moza-element"
+            data-animate_in = "x:right;y:0;fade:1;scalex:0.001;scaley:0.001;delay:4500;duration:4000;pause_time:2000;"
+            data-animate_1 = "x:0;y:0;scalex:1.2;scaley:1.2;duration:500;"
+            data-animate_2 = "x:0;y:0;scalex:1;scaley:1;duration:500;"
+            style="color:white; white-space: nowrap; background:#FF7400; font-size:20px; padding:5px 10px; border-radius:5px; top: 260px; left:80px;"}
+        Menu Management.
+        {/html:div}
+        
+        {html:div class="moza-element"
+            data-animate_in = "x:left;y:0;fade:1;scalex:0.001;scaley:0.001;delay:5500;duration:4000;pause_time:2000;"
+            data-animate_1 = "x:0;y:0;scalex:1.2;scaley:1.2;duration:500;"
+            data-animate_2 = "x:0;y:0;scalex:1;scaley:1;duration:500;"
+            style="color:white; white-space: nowrap; background:#FF7400; background:#FF7400; font-size:20px; padding:5px 10px; border-radius:5px; top: 300px; left:80px;"}
+        Page Management.
+        {/html:div}
+        
+        {html:div class="moza-element"
+        data-animate_in = "x:right;y:0;fade:1;scalex:0.001;scaley:0.001;delay:6500;duration:4000;pause_time:2000;"
+            data-animate_1 = "x:0;y:0;scalex:1.2;scaley:1.2;duration:500;"
+            data-animate_2 = "x:0;y:0;scalex:1;scaley:1;duration:500;"
+            style="color:white; white-space: nowrap; background:#FF7400; font-size:20px; padding:5px 10px; border-radius:5px; top: 340px; left:80px;"}
+        User Management.
+        {/html:div}
+        
+        {html:div class="moza-element"
+            data-animate_in = "x:left;y:0;fade:1;scalex:0.001;scaley:0.001;delay:7500;duration:4000;pause_time:2000;"
+            data-animate_1 = "x:0;y:0;scalex:1.2;scaley:1.2;duration:500;"
+            data-animate_2 = "x:0;y:0;scalex:1;scaley:1;duration:500;"
+            style="color:white; white-space: nowrap; background:#FF7400; font-size:20px; padding:5px 10px; border-radius:5px; top: 380px; left:80px;"}
+        Theme Options.
+        {/html:div}
+        
+        {html:div class="moza-element"
+            data-animate_in = "x:right;y:0;fade:1;scalex:0.001;scaley:0.001;delay:8500;duration:4000;pause_time:2000;"
+            data-animate_1 = "x:0;y:0;scalex:1.2;scaley:1.2;duration:500;"
+            data-animate_2 = "x:0;y:0;scalex:1;scaley:1;duration:500;"
+            style="color:white; white-space: nowrap; background:#FF7400; font-size:20px; padding:5px 10px; border-radius:5px; top: 420px; left:80px;"}
+        Contact Forms.
+        {/html:div}
+        
+        {html:div class="moza-element"
+            data-animate_in = "x:left;y:0;fade:1;scalex:0.001;scaley:0.001;delay:9500;duration:4000;pause_time:2000;"
+            data-animate_1 = "x:0;y:0;scalex:1.2;scaley:1.2;duration:500;"
+            data-animate_2 = "x:0;y:0;scalex:1;scaley:1;duration:500;"
+            style="color:white; white-space: nowrap; background:#FF7400; font-size:20px; padding:5px 10px; border-radius:5px; top: 460px; left:80px;"}
+        Database backup.
+        {/html:div}
+        {html:div class="moza-element"
+            data-animate_in = "x:0;y:0;fade:1;scalex:0.001;scaley:0.001;delay:14500;duration:4000;pause_time:2000;"         
+            style="color:green; white-space: nowrap;  font-size:20px; padding:5px 10px; border-radius:5px; top: 500px; left:80px;"}
+        and many more...
+        {/html:div}
+        {html:div class="moza-element"
+            data-animate_in = "x:right;y:0;fade:1;scalex:0.001;scaley:0.001;delay:0;duration:3000;"
+            style="top: 150px; left:650px;"}
+            {html:img src='http://page-flex.com/demo-images/media/moza-slider/imac.png' alt=''}
+        {/html:div}
+        {html:div class="moza-element"
+            data-animate_in = "x:right;y:0;fade:1;scalex:0.001;scaley:0.001;delay:0;duration:4000;"
+            style="top: 290px; left:950px;"}
+            {html:img src='http://page-flex.com/demo-images/media/moza-slider/ipad-mini.png' alt=''}
+        {/html:div}
+        {html:div class="moza-element"
+            data-animate_in = "x:right;y:0;fade:1;scalex:0.001;scaley:0.001;delay:0;duration:6000;"
+            style="top: 350px; left:870px;"}
+            {html:img src='http://page-flex.com/demo-images/media/moza-slider/iphone5.png' alt=''}
+        {/html:div}
+    {/moza:slide}
+    {moza:slide data-moza:background="http://page-flex.com/demo-images/media/moza-slider/bg02.jpg" data-moza:transition="3d:all" data-moza:pausetime="14500"}
+        {html:div class="moza-element"
+            data-animate_in = "x:left;y:0;fade:1;scalex:0.001;scaley:0.001;delay:0;duration:4000;"
+            style="top: 150px; left:450px;"}
+            {html:img src='http://page-flex.com/demo-images/media/moza-slider/2-ipads.png' alt=''}
+        {/html:div}
+        {html:div class="moza-element"
+            data-animate_in = "x:0;y:0;fade:1;scalex:0;scaley:0;delay:0;duration:2000;"
+            style="border-radius: 5px; font-family: 'Kaushan Script',cursive; background: #3c8dbc; color: #fff; font-size: 50px;
+            left: 450px; opacity: 1; padding: 5px 10px; top: 50px; transform: translate(0px, 0px) rotate(0rad) skew(0rad, 0rad) scale(1, 1);
+            visibility: visible; white-space: nowrap;"}
+            VERY FLEXIBLE
+        {/html:div}
+    {/moza:slide}
+{/moza:slider}
+{/html:col}
+{html:code linenums='1'}{html:script}<br />
+$(document).ready(function(){<br />
+&nbsp; &nbsp; &nbsp; &nbsp; $(&#39;#moza-slider&#39;).MozaSlider({<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; fullwidth:false,<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; responsive:true,<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; width:1170,<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; height:550,<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; pauseOnHover: false,<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; directionNavHoverOpacity: 0,<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; directionNav: true,<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; controlNav: true,<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; controlNavThumbs:false,<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; tooltipY: -5,<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; timer: &quot;Bar&quot;,<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; timerDiameter: &quot;100%&quot;,<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; timerPadding: 0,<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; timerStroke: 3,<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; timerBarStroke: 0,<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; timerColor: &quot;white&quot;,<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; timerPosition: &quot;bottom&quot;<br />
+&nbsp; &nbsp; &nbsp; &nbsp; });<br />
+});<br />
+{/html:script}</p> <p>{moza:slider id=&quot;moza-slider&quot; moza-responsive=&quot;true&quot;}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; {moza:slide data-moza:background=&quot;http://page-flex.com/demo-images/media/moza-slider/bg01.jpg&quot; data-moza:transition=&quot;2d:all&quot; data-moza:pausetime=&quot;20000&quot;}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {html:div class=&quot;moza-element&quot;<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; data-animate_in = &quot;x:0;y:0;fade:1;scalex:0;scaley:0;delay:0;duration:2000;&quot;<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; style=&quot;color:white; white-space: nowrap; background:brown; font-size:50px; padding:5px 10px; border-radius:5px; top: 10px; left:80px;&quot;}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Vitubo CMS<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {/html:div}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {html:div class=&quot;moza-element&quot;<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; data-animate_in = &quot;x:right;y:0;fade:1;scalex:0.001;scaley:0.001;delay:500;duration:3000;pause_time:3000;&quot;<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; data-animate_1 = &quot;x:0;y:0;scalex:1.2;scaley:1.2;duration:500;&quot;<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; data-animate_2 = &quot;x:0;y:0;scalex:1;scaley:1;duration:500;&quot;<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; style=&quot;color:white; white-space: nowrap; background:#FF7400; font-size:20px; padding:5px 10px; border-radius:5px; top: 100px; left:80px;&quot;}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Fully responsive.<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {/html:div}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {html:div class=&quot;moza-element&quot;<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; data-animate_in = &quot;x:left;y:0;fade:1;scalex:0.001;scaley:0.001;delay:1500;duration:4000;pause_time:2000;&quot;<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; data-animate_1 = &quot;x:0;y:0;scalex:1.2;scaley:1.2;duration:500;&quot;<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; data-animate_2 = &quot;x:0;y:0;scalex:1;scaley:1;duration:500;&quot;<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; style=&quot;color:white; white-space: nowrap; background:#FF7400; font-size:20px; padding:5px 10px; border-radius:5px; top: 140px; left:80px;&quot;}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Plugin management.<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {/html:div}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {html:div class=&quot;moza-element&quot;<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; data-animate_in = &quot;x:right;y:0;fade:1;scalex:0.001;scaley:0.001;delay:2500;duration:4000;pause_time:2000;&quot;<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; data-animate_1 = &quot;x:0;y:0;scalex:1.2;scaley:1.2;duration:500;&quot;<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; data-animate_2 = &quot;x:0;y:0;scalex:1;scaley:1;duration:500;&quot;<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; style=&quot;color:white; white-space: nowrap; background:#FF7400; font-size:20px; padding:5px 10px; border-radius:5px; top: 180px; left:80px;&quot;}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 6 popular languages.<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {/html:div}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;{html:div class=&quot;moza-element&quot;<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; data-animate_in = &quot;x:left;y:0;fade:1;scalex:0.001;scaley:0.001;delay:3500;duration:4000;pause_time:2000;&quot;<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; data-animate_1 = &quot;x:0;y:0;scalex:1.2;scaley:1.2;duration:500;&quot;<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; data-animate_2 = &quot;x:0;y:0;scalex:1;scaley:1;duration:500;&quot;<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; style=&quot;color:white; white-space: nowrap; background:#FF7400; font-size:20px; padding:5px 10px; border-radius:5px; top: 220px; left:80px;&quot;}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Powerful security.<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {/html:div}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {html:div class=&quot;moza-element&quot;<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; data-animate_in = &quot;x:right;y:0;fade:1;scalex:0.001;scaley:0.001;delay:4500;duration:4000;pause_time:2000;&quot;<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; data-animate_1 = &quot;x:0;y:0;scalex:1.2;scaley:1.2;duration:500;&quot;<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; data-animate_2 = &quot;x:0;y:0;scalex:1;scaley:1;duration:500;&quot;<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; style=&quot;color:white; white-space: nowrap; background:#FF7400; font-size:20px; padding:5px 10px; border-radius:5px; top: 260px; left:80px;&quot;}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Menu Management.<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {/html:div}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {html:div class=&quot;moza-element&quot;<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; data-animate_in = &quot;x:left;y:0;fade:1;scalex:0.001;scaley:0.001;delay:5500;duration:4000;pause_time:2000;&quot;<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; data-animate_1 = &quot;x:0;y:0;scalex:1.2;scaley:1.2;duration:500;&quot;<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; data-animate_2 = &quot;x:0;y:0;scalex:1;scaley:1;duration:500;&quot;<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; style=&quot;color:white; white-space: nowrap; background:#FF7400; background:#FF7400; font-size:20px; padding:5px 10px; border-radius:5px; top: 300px; left:80px;&quot;}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Page Management.<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {/html:div}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {html:div class=&quot;moza-element&quot;<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; data-animate_in = &quot;x:right;y:0;fade:1;scalex:0.001;scaley:0.001;delay:6500;duration:4000;pause_time:2000;&quot;<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; data-animate_1 = &quot;x:0;y:0;scalex:1.2;scaley:1.2;duration:500;&quot;<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; data-animate_2 = &quot;x:0;y:0;scalex:1;scaley:1;duration:500;&quot;<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; style=&quot;color:white; white-space: nowrap; background:#FF7400; font-size:20px; padding:5px 10px; border-radius:5px; top: 340px; left:80px;&quot;}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; User Management.<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {/html:div}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {html:div class=&quot;moza-element&quot;<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; data-animate_in = &quot;x:left;y:0;fade:1;scalex:0.001;scaley:0.001;delay:7500;duration:4000;pause_time:2000;&quot;<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; data-animate_1 = &quot;x:0;y:0;scalex:1.2;scaley:1.2;duration:500;&quot;<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; data-animate_2 = &quot;x:0;y:0;scalex:1;scaley:1;duration:500;&quot;<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; style=&quot;color:white; white-space: nowrap; background:#FF7400; font-size:20px; padding:5px 10px; border-radius:5px; top: 380px; left:80px;&quot;}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Theme Options.<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {/html:div}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {html:div class=&quot;moza-element&quot;<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; data-animate_in = &quot;x:right;y:0;fade:1;scalex:0.001;scaley:0.001;delay:8500;duration:4000;pause_time:2000;&quot;<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; data-animate_1 = &quot;x:0;y:0;scalex:1.2;scaley:1.2;duration:500;&quot;<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; data-animate_2 = &quot;x:0;y:0;scalex:1;scaley:1;duration:500;&quot;<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; style=&quot;color:white; white-space: nowrap; background:#FF7400; font-size:20px; padding:5px 10px; border-radius:5px; top: 420px; left:80px;&quot;}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Contact Forms.<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {/html:div}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {html:div class=&quot;moza-element&quot;<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; data-animate_in = &quot;x:left;y:0;fade:1;scalex:0.001;scaley:0.001;delay:9500;duration:4000;pause_time:2000;&quot;<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; data-animate_1 = &quot;x:0;y:0;scalex:1.2;scaley:1.2;duration:500;&quot;<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; data-animate_2 = &quot;x:0;y:0;scalex:1;scaley:1;duration:500;&quot;<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; style=&quot;color:white; white-space: nowrap; background:#FF7400; font-size:20px; padding:5px 10px; border-radius:5px; top: 460px; left:80px;&quot;}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Database backup.<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {/html:div}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {html:div class=&quot;moza-element&quot;<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; data-animate_in = &quot;x:0;y:0;fade:1;scalex:0.001;scaley:0.001;delay:14500;duration:4000;pause_time:2000;&quot; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; style=&quot;color:green; white-space: nowrap; &nbsp;font-size:20px; padding:5px 10px; border-radius:5px; top: 500px; left:80px;&quot;}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; and many more...<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {/html:div}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {html:div class=&quot;moza-element&quot;<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; data-animate_in = &quot;x:right;y:0;fade:1;scalex:0.001;scaley:0.001;delay:0;duration:3000;&quot;<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; style=&quot;top: 150px; left:650px;&quot;}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {html:img src=&#39;http://page-flex.com/demo-images/media/moza-slider/imac.png&#39; alt=&#39;&#39;}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {/html:div}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {html:div class=&quot;moza-element&quot;<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; data-animate_in = &quot;x:right;y:0;fade:1;scalex:0.001;scaley:0.001;delay:0;duration:4000;&quot;<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; style=&quot;top: 290px; left:950px;&quot;}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {html:img src=&#39;http://page-flex.com/demo-images/media/moza-slider/ipad-mini.png&#39; alt=&#39;&#39;}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {/html:div}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {html:div class=&quot;moza-element&quot;<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; data-animate_in = &quot;x:right;y:0;fade:1;scalex:0.001;scaley:0.001;delay:0;duration:6000;&quot;<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; style=&quot;top: 350px; left:870px;&quot;}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {html:img src=&#39;http://page-flex.com/demo-images/media/moza-slider/iphone5.png&#39; alt=&#39;&#39;}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {/html:div}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; {/moza:slide}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; {moza:slide data-moza:background=&quot;http://page-flex.com/demo-images/media/moza-slider/bg02.jpg&quot; data-moza:transition=&quot;3d:all&quot; data-moza:pausetime=&quot;14500&quot;}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {html:div class=&quot;moza-element&quot;<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; data-animate_in = &quot;x:left;y:0;fade:1;scalex:0.001;scaley:0.001;delay:0;duration:4000;&quot;<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; style=&quot;top: 150px; left:450px;&quot;}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {html:img src=&#39;http://page-flex.com/demo-images/media/moza-slider/2-ipads.png&#39; alt=&#39;&#39;}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {/html:div}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {html:div class=&quot;moza-element&quot;<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; data-animate_in = &quot;x:0;y:0;fade:1;scalex:0;scaley:0;delay:0;duration:2000;&quot;<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; style=&quot;border-radius: 5px; font-family: &#39;Kaushan Script&#39;,cursive; background: #3c8dbc; color: #fff; font-size: 50px;<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; left: 450px; opacity: 1; padding: 5px 10px; top: 50px; transform: translate(0px, 0px) rotate(0rad) skew(0rad, 0rad) scale(1, 1);<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; visibility: visible; white-space: nowrap;&quot;}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; VERY FLEXIBLE<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {/html:div}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; {/moza:slide}<br />
+{/moza:slider}{/html:code}

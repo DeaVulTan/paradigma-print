@@ -1,0 +1,367 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Portfolio\n"
+"POT-Creation-Date: 2014-11-27 14:48+0700\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.4\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../admin/views/category/add.php:11 ../admin/views/portfolio/add.php:15
+msgid "Add"
+msgstr "加える"
+
+#: ../admin/views/category/add.php:21
+msgid "Category Name"
+msgstr "カテゴリー名"
+
+#: ../admin/views/category/add.php:32 ../admin/views/category/copy.php:32
+#: ../admin/views/category/edit.php:32
+msgid "Category description"
+msgstr "カテゴリ説明"
+
+#: ../admin/views/category/add.php:43 ../admin/views/category/index.php:163
+#: ../admin/views/category/index.php:265 ../admin/views/portfolio/add.php:116
+#: ../admin/views/portfolio/copy.php:122 ../admin/views/portfolio/edit.php:122
+#: ../admin/views/portfolio/index.php:177
+#: ../admin/views/portfolio/index.php:281
+msgid "Status"
+msgstr "ステータス"
+
+#: ../admin/views/category/add.php:51 ../admin/views/category/copy.php:49
+#: ../admin/views/category/edit.php:49 ../admin/views/category/index.php:190
+#: ../admin/views/category/index.php:501 ../admin/views/portfolio/add.php:125
+#: ../admin/views/portfolio/copy.php:128 ../admin/views/portfolio/edit.php:128
+#: ../admin/views/portfolio/index.php:207
+#: ../admin/views/portfolio/index.php:450
+msgid "Published"
+msgstr "公開されました。"
+
+#: ../admin/views/category/add.php:72 ../admin/views/category/add.php:83
+#: ../admin/views/category/copy.php:70 ../admin/views/category/copy.php:81
+#: ../admin/views/category/edit.php:71 ../admin/views/category/edit.php:82
+#: ../admin/views/category/edit.php:105 ../admin/views/category/index.php:324
+#: ../admin/views/category/index.php:336 ../admin/views/category/index.php:357
+#: ../admin/views/category/index.php:400 ../admin/views/category/index.php:413
+#: ../admin/views/category/index.php:422 ../admin/views/category/index.php:429
+#: ../admin/views/category/index.php:444 ../admin/views/category/index.php:468
+#: ../admin/views/category/index.php:495 ../admin/views/category/index.php:509
+#: ../admin/views/category/index.php:524 ../admin/views/portfolio/add.php:222
+#: ../admin/views/portfolio/add.php:234 ../admin/views/portfolio/copy.php:243
+#: ../admin/views/portfolio/copy.php:258 ../admin/views/portfolio/edit.php:244
+#: ../admin/views/portfolio/edit.php:255 ../admin/views/portfolio/edit.php:282
+#: ../admin/views/portfolio/index.php:340
+#: ../admin/views/portfolio/index.php:352
+#: ../admin/views/portfolio/index.php:373
+#: ../admin/views/portfolio/index.php:416
+#: ../admin/views/portfolio/index.php:429
+#: ../admin/views/portfolio/index.php:438
+#: ../admin/views/portfolio/index.php:444
+#: ../admin/views/portfolio/index.php:458
+#: ../admin/views/portfolio/index.php:473
+#: ../admin/views/portfolio/index.php:497
+#: ../admin/views/portfolio/index.php:525
+#: ../admin/views/portfolio/index.php:541
+#: ../admin/views/portfolio/index.php:559
+msgid "Loading..."
+msgstr "読み込んでいます..."
+
+#: ../admin/views/category/add.php:91 ../admin/views/category/copy.php:89
+#: ../admin/views/category/edit.php:90 ../admin/views/category/edit.php:116
+#: ../admin/views/category/index.php:377 ../admin/views/category/index.php:435
+#: ../admin/views/category/index.php:450 ../admin/views/category/index.php:473
+#: ../admin/views/portfolio/add.php:242 ../admin/views/portfolio/copy.php:266
+#: ../admin/views/portfolio/edit.php:263 ../admin/views/portfolio/edit.php:293
+#: ../admin/views/portfolio/index.php:393
+#: ../admin/views/portfolio/index.php:464
+#: ../admin/views/portfolio/index.php:479
+#: ../admin/views/portfolio/index.php:502
+msgid "There was an error. Please try again!"
+msgstr "エラーが発生しました。もう一度試してください！"
+
+#: ../admin/views/category/add.php:96
+msgid "Category is added successfully"
+msgstr "カテゴリは正常に追加されます"
+
+#: ../admin/views/category/copy.php:11 ../admin/views/portfolio/copy.php:16
+msgid "Copy"
+msgstr "コピー"
+
+#: ../admin/views/category/copy.php:21 ../admin/views/category/edit.php:21
+#: ../admin/views/category/index.php:123 ../admin/views/category/index.php:249
+msgid "Category name"
+msgstr "カテゴリ名"
+
+#: ../admin/views/category/copy.php:43 ../admin/views/category/edit.php:43
+#: ../admin/views/category/index.php:57 ../admin/views/category/index.php:85
+#: ../admin/views/portfolio/index.php:56 ../admin/views/portfolio/index.php:86
+msgid "Publish"
+msgstr "公開"
+
+#: ../admin/views/category/copy.php:94
+msgid "Category is copied successfully"
+msgstr "カテゴリは正常にコピーされます"
+
+#: ../admin/views/category/edit.php:11 ../admin/views/portfolio/edit.php:16
+msgid "Edit"
+msgstr "編集"
+
+#: ../admin/views/category/edit.php:95 ../admin/views/category/edit.php:114
+msgid "Category is updated successfully"
+msgstr "カテゴリの更新が完了しました。"
+
+#: ../admin/views/category/index.php:5 ../admin/views/category/index.php:240
+#: ../admin/views/category/index.php:275 ../admin/views/portfolio/index.php:5
+#: ../admin/views/portfolio/index.php:256
+#: ../admin/views/portfolio/index.php:291
+msgid "Search"
+msgstr "検索"
+
+#: ../admin/views/category/index.php:11 ../admin/views/portfolio/index.php:11
+msgid "New"
+msgstr "新しい"
+
+#: ../admin/views/category/index.php:15 ../admin/views/category/index.php:20
+#: ../admin/views/category/index.php:26 ../admin/views/portfolio/index.php:15
+#: ../admin/views/portfolio/index.php:20 ../admin/views/portfolio/index.php:26
+msgid "Save"
+msgstr "保存"
+
+#: ../admin/views/category/index.php:16 ../admin/views/category/index.php:22
+#: ../admin/views/category/index.php:27 ../admin/views/portfolio/index.php:16
+#: ../admin/views/portfolio/index.php:22 ../admin/views/portfolio/index.php:27
+msgid "Cancel"
+msgstr "キャンセル"
+
+#: ../admin/views/category/index.php:21 ../admin/views/portfolio/index.php:21
+msgid "Apply"
+msgstr "適用する"
+
+#: ../admin/views/category/index.php:39 ../admin/views/portfolio/index.php:38
+msgid "List"
+msgstr "リスト"
+
+#: ../admin/views/category/index.php:50 ../admin/views/portfolio/index.php:49
+msgid "Bulk Action"
+msgstr "一括操作"
+
+#: ../admin/views/category/index.php:54 ../admin/views/category/index.php:465
+#: ../admin/views/portfolio/index.php:53
+#: ../admin/views/portfolio/index.php:494
+msgid "Delete"
+msgstr "削除"
+
+#: ../admin/views/category/index.php:60 ../admin/views/category/index.php:88
+#: ../admin/views/portfolio/index.php:59 ../admin/views/portfolio/index.php:89
+msgid "Unpublish"
+msgstr "非公開"
+
+#: ../admin/views/category/index.php:77 ../admin/views/category/index.php:82
+#: ../admin/views/portfolio/index.php:78 ../admin/views/portfolio/index.php:83
+msgid "All"
+msgstr "すべて"
+
+#: ../admin/views/category/index.php:130
+#: ../admin/views/portfolio/index.php:156
+msgid "Shortcode"
+msgstr "ショートコード"
+
+#: ../admin/views/category/index.php:145 ../admin/views/category/index.php:257
+#: ../admin/views/portfolio/index.php:273
+msgid "Description"
+msgstr "説明"
+
+#: ../admin/views/category/index.php:168
+#: ../admin/views/portfolio/index.php:182
+msgid "Actions"
+msgstr "アクション"
+
+#: ../admin/views/category/index.php:192 ../admin/views/category/index.php:503
+#: ../admin/views/portfolio/index.php:209
+#: ../admin/views/portfolio/index.php:452
+msgid "Unpublished"
+msgstr "非公開されました。"
+
+#: ../admin/views/category/index.php:238 ../admin/views/category/index.php:276
+#: ../admin/views/portfolio/index.php:254
+#: ../admin/views/portfolio/index.php:292
+msgid "Close"
+msgstr "クローズ"
+
+#: ../admin/views/category/index.php:350
+#: ../admin/views/portfolio/index.php:366
+msgid "Are you sure to perform this action?"
+msgstr "あなたはこのアクションを実行するようにしてくださいますか？"
+
+#: ../admin/views/category/index.php:366 ../admin/views/category/index.php:471
+msgid "Category is deleted successfully"
+msgstr "カテゴリは正常に削除されます"
+
+#: ../admin/views/category/index.php:370
+msgid "Category is published successfully"
+msgstr "カテゴリは正常に公開されている"
+
+#: ../admin/views/category/index.php:373
+msgid "Category is unpublished successfully"
+msgstr "カテゴリは正常に未発表です"
+
+#: ../admin/views/category/index.php:461
+#: ../admin/views/portfolio/index.php:490
+msgid "Are you sure to delete this item?"
+msgstr "この項目を削除しても宜しいでしょうか？"
+
+#: ../admin/views/portfolio/add.php:25 ../admin/views/portfolio/copy.php:26
+#: ../admin/views/portfolio/edit.php:26 ../admin/views/portfolio/index.php:149
+#: ../admin/views/portfolio/index.php:265
+msgid "Portfolio name"
+msgstr "ポートフォリオ名"
+
+#: ../admin/views/portfolio/add.php:36 ../admin/views/portfolio/copy.php:37
+#: ../admin/views/portfolio/edit.php:37 ../admin/views/portfolio/index.php:161
+#: ../portfolio.php:50
+msgid "Category"
+msgstr "カテゴリ"
+
+#: ../admin/views/portfolio/add.php:54 ../admin/views/portfolio/copy.php:59
+#: ../admin/views/portfolio/edit.php:60
+msgid "Portfolio image"
+msgstr "ポートフォリオ画像"
+
+#: ../admin/views/portfolio/add.php:106 ../admin/views/portfolio/copy.php:111
+#: ../admin/views/portfolio/edit.php:112
+msgid "Portfolio description"
+msgstr "ポートフォリオ説明"
+
+#: ../admin/views/portfolio/add.php:143 ../admin/views/portfolio/add.php:205
+#: ../admin/views/portfolio/copy.php:165 ../admin/views/portfolio/copy.php:226
+#: ../admin/views/portfolio/edit.php:165 ../admin/views/portfolio/edit.php:226
+msgid "Custom field's Name"
+msgstr "カスタムフィールド名"
+
+#: ../admin/views/portfolio/add.php:145 ../admin/views/portfolio/add.php:207
+#: ../admin/views/portfolio/copy.php:167 ../admin/views/portfolio/copy.php:228
+#: ../admin/views/portfolio/edit.php:167 ../admin/views/portfolio/edit.php:228
+msgid "Custom field's Value"
+msgstr "カスタムフィールド値"
+
+#: ../admin/views/portfolio/add.php:157 ../admin/views/portfolio/copy.php:179
+#: ../admin/views/portfolio/edit.php:179
+msgid "Add custom field"
+msgstr "カスタムフィールド追加"
+
+#: ../admin/views/portfolio/add.php:247
+msgid "Portfolio is added successfully"
+msgstr "ポートフォリオには、正常に追加された"
+
+#: ../admin/views/portfolio/copy.php:271
+msgid "Portfolio is copied successfully"
+msgstr "ポートフォリオには、正常にコピーされている"
+
+#: ../admin/views/portfolio/edit.php:268 ../admin/views/portfolio/edit.php:291
+msgid "Portfolio is updated successfully"
+msgstr "ポートフォリオの更新が完了しました。"
+
+#: ../admin/views/portfolio/index.php:78
+msgid "title"
+msgstr "title"
+
+#: ../admin/views/portfolio/index.php:100
+msgid "titlecat"
+msgstr "titlecat"
+
+#: ../admin/views/portfolio/index.php:100
+#: ../admin/views/portfolio/index.php:105
+msgid "All Portfolio"
+msgstr "全てのポートフォリオ"
+
+#: ../admin/views/portfolio/index.php:382
+#: ../admin/views/portfolio/index.php:500
+msgid "Portfolio is deleted successfully"
+msgstr "ポートフォリオは正常に削除されます"
+
+#: ../admin/views/portfolio/index.php:386
+msgid "Portfolio is published successfully"
+msgstr "ポートフォリオには、正常に公開されている"
+
+#: ../admin/views/portfolio/index.php:389
+msgid "Portfolio is unpublished successfully"
+msgstr "ポートフォリオは正常に未発表です"
+
+#: ../portfolio.php:49
+msgid "Portfolios"
+msgstr "ポートフォリオ"
+
+#: ../shortcodes/views/portfolio/display_detail.php:50
+msgid "Portfolio Info"
+msgstr "ポートフォリオ情報"
+
+#~ msgid "Please select a category"
+#~ msgstr "カテゴリをご選択お願いいたします。"
+
+#~ msgid "Please select an action"
+#~ msgstr "アクションをご選択お願いいたします。"
+
+#~ msgid "Please select a portfolio"
+#~ msgstr "ポートフォリオをご選択お願いいたします。"
+
+#~ msgid "Please check the data field!"
+#~ msgstr "データフィールドをチェックしてください！"
+
+#~ msgid "Access Denied!"
+#~ msgstr "アクセスが拒否されました！"
+
+#~ msgid "Portfolio Category"
+#~ msgstr "ポートフォリオカテゴリ"
+
+#~ msgid "The field is required"
+#~ msgstr "フィールドが必要です"
+
+#~ msgid "Portfolio Avatar"
+#~ msgstr "ポートフォリオ"
+
+#~ msgid "Select"
+#~ msgstr "選択する"
+
+#~ msgid "Add images"
+#~ msgstr "画像を追加"
+
+#~ msgid "New Category"
+#~ msgstr "新しいカテゴリ"
+
+#~ msgid "Portfolio Categories"
+#~ msgstr "ポートフォリオカテゴリ"
+
+#~ msgid "Please enter category name"
+#~ msgstr "カテゴリ名をご入力ください。"
+
+#~ msgid ""
+#~ "If you delete this category, all the portfolio belongs to it will be "
+#~ "deleted also. Are you sure?"
+#~ msgstr ""
+#~ "このカテゴリを削除したら、属しているポートフォリオも削除されます。宜しいで"
+#~ "しょうか？"
+
+#~ msgid "Confirm"
+#~ msgstr "確認"
+
+#~ msgid "New Portfolio"
+#~ msgstr "新しいポートフォリオ"
+
+#~ msgid "Please enter portfolio name"
+#~ msgstr "ポートフォリオ名をご入力ください。"
+
+#~ msgid "All status"
+#~ msgstr "すべてのステータス"
+
+#~ msgid "Default Portfolio List"
+#~ msgstr "デフォールトポートフォリオ一覧"
+
+#~ msgid "This is list all of your portfolio"
+#~ msgstr "こちらはあなたのポートフォリオの一覧です。"

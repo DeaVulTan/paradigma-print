@@ -1,0 +1,397 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Pages\n"
+"POT-Creation-Date: 2015-01-19 13:52+0700\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.4\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../admin/models/page-model.php:29 ../admin/views/page/index.php:89
+#: ../admin/views/page/index.php:190 ../admin/views/page/index.php:510
+#: ../admin/views/page/index.php:527
+msgid "Published"
+msgstr "Publié"
+
+#: ../admin/models/page-model.php:29 ../admin/views/page/index.php:91
+#: ../admin/views/page/index.php:194 ../admin/views/page/index.php:512
+#: ../admin/views/page/index.php:529
+msgid "Unpublished"
+msgstr "Dépublié"
+
+#: ../admin/models/page-model.php:33
+msgid "Choose layout"
+msgstr "Disposition"
+
+#: ../admin/models/page-model.php:42
+msgid "Default"
+msgstr "Par défaut"
+
+#: ../admin/models/page-model.php:42
+msgid "Landing page"
+msgstr "Landing page"
+
+#: ../admin/views/page/add.php:11 ../admin/views/page/copy.php:11
+#: ../admin/views/page/edit.php:11 ../admin/views/page/index.php:50
+#: ../admin/views/page/index.php:245 ../page.php:38
+msgid "Pages"
+msgstr "Pages"
+
+#: ../admin/views/page/add.php:11
+msgid "Add"
+msgstr "Ajouter"
+
+#: ../admin/views/page/add.php:17 ../admin/views/page/copy.php:16
+#: ../admin/views/page/edit.php:16
+msgid "Please enter at least 1 character"
+msgstr "Veuillez entrer au moins d'une caractère"
+
+#: ../admin/views/page/add.php:18 ../admin/views/page/copy.php:17
+#: ../admin/views/page/edit.php:17
+msgid "URL already exists. Please use other url"
+msgstr "URL existe déjà. Veuillez  utiliser un autre url"
+
+#: ../admin/views/page/add.php:19 ../admin/views/page/copy.php:18
+#: ../admin/views/page/edit.php:18
+msgid "URL should not be empty"
+msgstr "URL doit ne pas être vide"
+
+#: ../admin/views/page/add.php:29 ../admin/views/page/add.php:134
+#: ../admin/views/page/copy.php:29 ../admin/views/page/copy.php:133
+#: ../admin/views/page/edit.php:29 ../admin/views/page/edit.php:135
+msgid "Content"
+msgstr "Contenue"
+
+#: ../admin/views/page/add.php:30 ../admin/views/page/copy.php:30
+#: ../admin/views/page/edit.php:30
+msgid "Permission"
+msgstr "Autorisation"
+
+#: ../admin/views/page/add.php:31 ../admin/views/page/copy.php:31
+#: ../admin/views/page/edit.php:31
+msgid "Background settings"
+msgstr "Paramètres d'arrière-plan "
+
+#: ../admin/views/page/add.php:39 ../admin/views/page/copy.php:39
+#: ../admin/views/page/edit.php:39 ../admin/views/page/index.php:125
+msgid "Title"
+msgstr "Titre"
+
+#: ../admin/views/page/add.php:53 ../admin/views/page/copy.php:53
+#: ../admin/views/page/edit.php:54
+msgid "URL"
+msgstr "URL"
+
+#: ../admin/views/page/add.php:60 ../admin/views/page/copy.php:60
+#: ../admin/views/page/edit.php:61
+msgid "Edit URL"
+msgstr "Modifier URL"
+
+#: ../admin/views/page/add.php:61 ../admin/views/page/copy.php:61
+#: ../admin/views/page/edit.php:62 ../admin/views/page/index.php:26
+#: ../admin/views/page/index.php:31 ../admin/views/page/index.php:37
+msgid "Save"
+msgstr "Mettre à jour"
+
+#: ../admin/views/page/add.php:62 ../admin/views/page/copy.php:62
+#: ../admin/views/page/edit.php:63 ../admin/views/page/index.php:27
+#: ../admin/views/page/index.php:33 ../admin/views/page/index.php:38
+msgid "Cancel"
+msgstr "Annuler"
+
+#: ../admin/views/page/add.php:63 ../admin/views/page/edit.php:64
+msgid "Go to URL"
+msgstr "Aller à l'URL"
+
+#: ../admin/views/page/add.php:74 ../admin/views/page/copy.php:73
+#: ../admin/views/page/edit.php:75
+msgid "Layout"
+msgstr "Disposition"
+
+#: ../admin/views/page/add.php:85 ../admin/views/page/copy.php:84
+#: ../admin/views/page/edit.php:86 ../admin/views/page/index.php:161
+#: ../admin/views/page/index.php:263
+msgid "Status"
+msgstr "Statut"
+
+#: ../admin/views/page/add.php:96 ../admin/views/page/copy.php:95
+#: ../admin/views/page/edit.php:97
+msgid "Page Type"
+msgstr "type de page"
+
+#: ../admin/views/page/add.php:109 ../admin/views/page/copy.php:108
+#: ../admin/views/page/edit.php:110
+msgid "Meta title"
+msgstr "Titre de meta"
+
+#: ../admin/views/page/add.php:116 ../admin/views/page/copy.php:115
+#: ../admin/views/page/edit.php:117
+msgid "Meta keywords"
+msgstr "Mots clés de meta"
+
+#: ../admin/views/page/add.php:123 ../admin/views/page/copy.php:122
+#: ../admin/views/page/edit.php:124
+msgid "Meta description"
+msgstr "Description de meta"
+
+#: ../admin/views/page/add.php:146 ../admin/views/page/copy.php:145
+#: ../admin/views/page/edit.php:147
+msgid "Groups"
+msgstr "Groupes"
+
+#: ../admin/views/page/add.php:150 ../admin/views/page/copy.php:150
+#: ../admin/views/page/edit.php:152 ../admin/views/page/index.php:83
+#: ../admin/views/page/index.php:88
+msgid "All"
+msgstr "Tout"
+
+#: ../admin/views/page/add.php:162 ../admin/views/page/copy.php:162
+#: ../admin/views/page/edit.php:164
+msgid "Users"
+msgstr "Utilisateurs"
+
+#: ../admin/views/page/add.php:192 ../admin/views/page/copy.php:195
+#: ../admin/views/page/edit.php:197
+msgid "Background color"
+msgstr "Couleur de fond"
+
+#: ../admin/views/page/add.php:202 ../admin/views/page/copy.php:205
+#: ../admin/views/page/edit.php:207
+msgid "Wrapper background color"
+msgstr "Wrapper couleur d'arrière-plan"
+
+#: ../admin/views/page/add.php:214 ../admin/views/page/copy.php:217
+#: ../admin/views/page/edit.php:219
+msgid "Background images"
+msgstr "Les images de fond"
+
+#: ../admin/views/page/add.php:261 ../admin/views/page/add.php:272
+#: ../admin/views/page/copy.php:264 ../admin/views/page/copy.php:275
+#: ../admin/views/page/edit.php:268 ../admin/views/page/edit.php:279
+#: ../admin/views/page/edit.php:308 ../admin/views/page/index.php:326
+#: ../admin/views/page/index.php:338 ../admin/views/page/index.php:359
+#: ../admin/views/page/index.php:391 ../admin/views/page/index.php:404
+#: ../admin/views/page/index.php:413 ../admin/views/page/index.php:420
+#: ../admin/views/page/index.php:435 ../admin/views/page/index.php:459
+#: ../admin/views/page/index.php:487 ../admin/views/page/index.php:504
+#: ../admin/views/page/index.php:521
+msgid "Loading..."
+msgstr "Chargement en cours..."
+
+#: ../admin/views/page/add.php:280 ../admin/views/page/copy.php:283
+#: ../admin/views/page/edit.php:287 ../admin/views/page/edit.php:317
+#: ../admin/views/page/index.php:368 ../admin/views/page/index.php:426
+#: ../admin/views/page/index.php:441 ../admin/views/page/index.php:464
+msgid "There is an error, please check again!"
+msgstr "Il ya une erreur, se il vous plaît vérifier à nouveau!"
+
+#: ../admin/views/page/add.php:291
+msgid "Page is added successfully"
+msgstr "Page is added successfully"
+
+#: ../admin/views/page/copy.php:11
+msgid "Copy"
+msgstr "Copie"
+
+#: ../admin/views/page/copy.php:294
+msgid "Page is copied successfully"
+msgstr "Cette page est copié avec succès"
+
+#: ../admin/views/page/edit.php:11
+msgid "Edit"
+msgstr "éditer"
+
+#: ../admin/views/page/edit.php:298 ../admin/views/page/edit.php:324
+msgid "Page is updated successfully"
+msgstr "Cette page est mise à jour avec succès"
+
+#: ../admin/views/page/index.php:5 ../admin/views/page/index.php:245
+#: ../admin/views/page/index.php:276
+msgid "Search"
+msgstr "Recherche"
+
+#: ../admin/views/page/index.php:22
+msgid "New"
+msgstr "Nouveau"
+
+#: ../admin/views/page/index.php:32
+msgid "Apply"
+msgstr "Appliquer"
+
+#: ../admin/views/page/index.php:50
+msgid "List"
+msgstr "Liste"
+
+#: ../admin/views/page/index.php:62
+msgid "Bulk Actions"
+msgstr "Actions globales"
+
+#: ../admin/views/page/index.php:67 ../admin/views/page/index.php:456
+msgid "Delete"
+msgstr "Supprimer"
+
+#: ../admin/views/page/index.php:69
+msgid "Publish"
+msgstr "Publier"
+
+#: ../admin/views/page/index.php:71
+msgid "Unpublish"
+msgstr "Dépublier"
+
+#: ../admin/views/page/index.php:143
+msgid "Created date"
+msgstr "Date de création"
+
+#: ../admin/views/page/index.php:166
+msgid "Actions"
+msgstr "Actes"
+
+#: ../admin/views/page/index.php:243 ../admin/views/page/index.php:278
+msgid "Close"
+msgstr "Près"
+
+#: ../admin/views/page/index.php:255
+msgid "Page title"
+msgstr "Page de titre"
+
+#: ../admin/views/page/index.php:352
+msgid "Are you sure to perform this action?"
+msgstr "Etes-vous sûr de vouloir effectuer cette action?"
+
+#: ../admin/views/page/index.php:356
+msgid "OK"
+msgstr "OK"
+
+#: ../admin/views/page/index.php:366 ../admin/views/page/index.php:462
+msgid "Page is deleted successfully"
+msgstr " Page est supprimée avec succès"
+
+#: ../admin/views/page/index.php:452
+msgid "Are you sure to delete this page?"
+msgstr "Etes-vous sûr de vouloir supprimer cette page?"
+
+#: ../theme_options.php:29
+msgid "Select image"
+msgstr "Sélectionner une image"
+
+#: ../theme_options.php:40
+msgid "Background position"
+msgstr "La position de base"
+
+#: ../theme_options.php:53
+msgid "Repeat"
+msgstr "Répétez"
+
+#: ../theme_options.php:54
+msgid "Repeat-x"
+msgstr "Répéter-x"
+
+#: ../theme_options.php:55
+msgid "Repeat-y"
+msgstr "Répéter-y"
+
+#: ../theme_options.php:56
+msgid "No-repeat"
+msgstr "Pas de répétition"
+
+#: ../theme_options.php:58
+msgid "Background repeat"
+msgstr "Répétition d'arrière-plan"
+
+#: ../theme_options.php:78
+msgid "Background attachment"
+msgstr "Pièces jointes de fond"
+
+#: ../theme_options.php:84
+msgid "Scroll"
+msgstr "Rouleau"
+
+#: ../theme_options.php:91
+msgid "Fixed"
+msgstr "Fixé"
+
+#: ../theme_options.php:103
+msgid "Color"
+msgstr "Couleur"
+
+#: ../theme_options.php:104
+msgid "Image"
+msgstr "Image"
+
+#: ../theme_options.php:106
+msgid "Background type"
+msgstr "Type de fond"
+
+#: ../theme_options.php:119
+msgid "Both"
+msgstr "Tous les deux"
+
+#~ msgid "Status is updated successfully"
+#~ msgstr "L'état est mis à jour avec succès"
+
+#~ msgid "An error has occurred. Please try again"
+#~ msgstr "Une erreur s'est produite. Veuillez essayer à nouveau"
+
+#~ msgid "You have successfully created page new"
+#~ msgstr "Vous avez crée  la nouvelle page avec succès"
+
+#~ msgid "Please check the data field!"
+#~ msgstr "Veuillez vérifier le champ  donné!"
+
+#~ msgid "You have successfully updated page"
+#~ msgstr "Vous avez mis à jour la page"
+
+#~ msgid "Page"
+#~ msgstr "Page"
+
+#~ msgid "New Page"
+#~ msgstr "Créer une page"
+
+#~ msgid "No page are selected"
+#~ msgstr "Aucune page  sélectionnée"
+
+#~ msgid "Please enter a search term"
+#~ msgstr "Veuillez entrer un terme de recherche"
+
+#~ msgid "Please enter title of the page"
+#~ msgstr "Veuillez entrer le titre de la page"
+
+#~ msgid "%s"
+#~ msgstr "%s"
+
+#~ msgid "Sort by"
+#~ msgstr "Trier par"
+
+#~ msgid "Date"
+#~ msgstr "Date"
+
+#~ msgid "Alphabet"
+#~ msgstr "Alphabet"
+
+#~ msgid "Descending"
+#~ msgstr "Descendant"
+
+#~ msgid "Ascending"
+#~ msgstr "Croissant"
+
+#~ msgid "Duplicate page"
+#~ msgstr "Page double"
+
+#~ msgid "There is no page"
+#~ msgstr "Il n'existe aucune page"
+
+#~ msgid "Visible Group"
+#~ msgstr "Groupe visible"
+
+#~ msgid "Visible Users"
+#~ msgstr "Utilisateurs visibles"
+
+#~ msgid "Slider"
+#~ msgstr "Glisser"

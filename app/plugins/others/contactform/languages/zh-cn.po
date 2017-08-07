@@ -1,0 +1,292 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Contact\n"
+"POT-Creation-Date: 2014-10-15 15:23+0700\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.4\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../contactform.php:5 ../views/create.php:18 ../views/edit.php:18
+msgid "Contact Form"
+msgstr "联系表"
+
+#: ../contactform.php:34 ../views/main.php:25
+msgid "Contact Forms"
+msgstr "联系表"
+
+#: ../controllers/pf-contact-form-controller.php:154
+#: ../controllers/pf-contact-form-controller.php:206
+#: ../controllers/pf-contact-form-controller.php:241
+msgid "Your action is successful"
+msgstr "操作成功"
+
+#: ../controllers/pf-contact-form-controller.php:157
+msgid "Please check the data field"
+msgstr "请检查数据字段"
+
+#: ../controllers/pf-contact-form-controller.php:258
+msgid "Status is updated successfully"
+msgstr "状态更新成功"
+
+#: ../models/pf-contact-form-model.php:29 ../views/main.php:71
+msgid "Published"
+msgstr "已公开"
+
+#: ../models/pf-contact-form-model.php:29 ../views/main.php:72
+msgid "Unpublished"
+msgstr "已不公开"
+
+#: ../public/pf-contactform-shortcode.php:45
+msgid "Captcha is not correct"
+msgstr "安全码不对"
+
+#: ../public/pf-contactform-shortcode.php:70
+msgid "Your message has been sent successfully"
+msgstr "你的短信已发送成功"
+
+#: ../views/create.php:8 ../views/edit.php:8
+msgid "Save"
+msgstr "保存"
+
+#: ../views/create.php:9 ../views/edit.php:9
+msgid "Cancel"
+msgstr "取消"
+
+#: ../views/create.php:32 ../views/edit.php:32 ../views/main.php:93
+msgid "Title"
+msgstr "标题"
+
+#: ../views/create.php:43 ../views/edit.php:45 ../views/main.php:95
+msgid "Status"
+msgstr "状态"
+
+#: ../views/create.php:53 ../views/edit.php:55
+msgid "Form"
+msgstr "格式"
+
+#: ../views/create.php:114 ../views/edit.php:116
+msgid "Button"
+msgstr "钮"
+
+#: ../views/create.php:126 ../views/edit.php:128
+msgid "To"
+msgstr "收件人"
+
+#: ../views/create.php:130
+msgid "Receiver Email"
+msgstr "收件人的电子邮箱"
+
+#: ../views/create.php:135 ../views/edit.php:169
+msgid "Message"
+msgstr "讯息"
+
+#: ../views/create.php:146 ../views/edit.php:180
+msgid "From"
+msgstr "发件人"
+
+#: ../views/create.php:150
+msgid "Sender Email"
+msgstr "发件人的电子邮箱"
+
+#: ../views/create.php:157
+msgid "Sender Name"
+msgstr "发件人的名称"
+
+#: ../views/create.php:168 ../views/edit.php:202
+msgid "Subject"
+msgstr "主题"
+
+#: ../views/create.php:183 ../views/edit.php:221
+msgid " Use HTML content type"
+msgstr "使用HTML内容类型"
+
+#: ../views/create.php:189 ../views/edit.php:227
+msgid "Sending successfully notification"
+msgstr "通知发送成功"
+
+#: ../views/create.php:212 ../views/edit.php:250
+msgid "Close"
+msgstr "关闭"
+
+#: ../views/create.php:213 ../views/edit.php:251
+msgid "Add"
+msgstr "添加"
+
+#: ../views/create.php:222
+msgid "Name must be between 1 and 32 characters"
+msgstr "名称必须是1到32个字符之间"
+
+#: ../views/edit.php:132
+msgid "Single Recipient"
+msgstr "一个收件人"
+
+#: ../views/edit.php:133
+msgid "List of Recipient"
+msgstr "收件人名单"
+
+#: ../views/edit.php:191 ../views/particals/element.php:18
+#: ../views/particals/element.php:71 ../views/particals/element.php:141
+#: ../views/particals/element.php:172
+msgid "Name"
+msgstr "名称"
+
+#: ../views/edit.php:259
+msgid "Name must be between 6 and 32 characters"
+msgstr "名称必须是6到32个字符之间"
+
+#: ../views/main.php:8
+msgid "New Contact Form"
+msgstr "新的联系表"
+
+#: ../views/main.php:15
+msgid "Are you sure to delete this item?"
+msgstr "你确定要删除这一项目吗？"
+
+#: ../views/main.php:16
+msgid "No item are selected"
+msgstr "没有项目被选中"
+
+#: ../views/main.php:17
+msgid "Are you sure to perform this action?"
+msgstr "你确定要实现这个操作吗？"
+
+#: ../views/main.php:18
+msgid "Please enter a search term"
+msgstr "请输入搜索项目"
+
+#: ../views/main.php:35
+msgid "Select Action "
+msgstr "选择操作␣"
+
+#: ../views/main.php:38
+msgid "Delete"
+msgstr "删除"
+
+#: ../views/main.php:39
+msgid "Publish"
+msgstr "公开"
+
+#: ../views/main.php:40
+msgid "Unpublish"
+msgstr "不公开"
+
+#: ../views/main.php:48
+msgid "Please enter the search conditions"
+msgstr "请输入搜索条件"
+
+#: ../views/main.php:51
+msgid "Search"
+msgstr "搜索"
+
+#: ../views/main.php:67
+#, php-format
+msgid "%s"
+msgstr "%s"
+
+#: ../views/main.php:70
+msgid "All"
+msgstr "全部"
+
+#: ../views/main.php:94
+msgid "Shortcode"
+msgstr "简码"
+
+#: ../views/main.php:96
+msgid "Actions"
+msgstr "操作"
+
+#: ../views/main.php:117
+msgid "Edit contact form"
+msgstr "编辑联系格式"
+
+#: ../views/main.php:118
+msgid "Delete contact form"
+msgstr "删除联系格式"
+
+#: ../views/particals/element.php:7 ../views/particals/element.php:60
+#: ../views/particals/element.php:130
+msgid "Required"
+msgstr "必要的"
+
+#: ../views/particals/element.php:10 ../views/particals/element.php:63
+#: ../views/particals/element.php:133
+msgid "No"
+msgstr "否"
+
+#: ../views/particals/element.php:13 ../views/particals/element.php:66
+#: ../views/particals/element.php:136
+msgid "Yes"
+msgstr "是"
+
+#: ../views/particals/element.php:24 ../views/particals/element.php:77
+msgid "Default value"
+msgstr "缺省值"
+
+#: ../views/particals/element.php:30 ../views/particals/element.php:83
+msgid "Place holder"
+msgstr "建议"
+
+#: ../views/particals/element.php:36 ../views/particals/element.php:101
+msgid "Size"
+msgstr "尺寸"
+
+#: ../views/particals/element.php:42 ../views/particals/element.php:107
+msgid "Max length"
+msgstr "最大长度"
+
+#: ../views/particals/element.php:48
+msgid "Class"
+msgstr "Class"
+
+#: ../views/particals/element.php:89
+msgid "Rows"
+msgstr "行"
+
+#: ../views/particals/element.php:95
+msgid "Columns"
+msgstr "列"
+
+#: ../views/particals/element.php:147
+msgid "Choice"
+msgstr "选择"
+
+#: ../views/particals/element.php:150
+msgid "One value per line"
+msgstr "每行输入一个值"
+
+#: ../views/particals/element.php:178
+msgid "Value"
+msgstr "价值"
+
+#: ../views/particals/element.php:184
+msgid "Type"
+msgstr "类型"
+
+#~ msgid "Form ID"
+#~ msgstr "Form ID"
+
+#~ msgid "Attribute ID"
+#~ msgstr "Attribute ID"
+
+#~ msgid "Form Class"
+#~ msgstr "Form Class"
+
+#~ msgid "Attribute Class"
+#~ msgstr "Attribute Class"
+
+#~ msgid "Items"
+#~ msgstr "项目"
+
+#~ msgid "<h3>Your message has been sent successfully</h3>"
+#~ msgstr "<h3>你的短信已发送成功</h3>"
+
+#~ msgid "<h3>An error has occurred! Please try again later</h3>"
+#~ msgstr "<h3>出现错误！请稍后再试</h3>"

@@ -1,0 +1,39 @@
+
+{html:row}
+    {html:col}
+        {html:title size=2}Get file html{/html:title}
+    {/html:col}
+{/html:row}
+{html:row class='margin-bottom-15'}
+    {html:col}
+        {html:get source='app/themes/jupiter/demo/get_html.html'}
+    {/html:col}
+    {html:col}
+        {html:code}{html:get source='app/themes/jupiter/demo/get_html.html'}{/html:code}
+    {/html:col}
+{/html:row}
+{html:row}
+    {html:col}
+        {html:title size=2}Get file htm{/html:title}
+    {/html:col}
+{/html:row}
+{html:row class='margin-bottom-15'}
+    {html:col class='col-sm-2'}
+    {/html:col}
+    {html:col}
+        {html:get source='app/themes/jupiter/demo/get_html.htm'}
+        {html:code}{html:get source='app/themes/jupiter/demo/get_html.htm'}{/html:code}
+    {/html:col}
+    {html:col class='col-sm-2'}{/html:col}
+{/html:row}
+{html:row}
+{html:col}
+    {html:title size=2}Get url{/html:title}
+    {/html:col}
+{/html:row}
+{html:row class='margin-bottom-15'}
+    {html:col}
+        {html:get source='http://search.aol.com/aol/webhome'}
+        {html:code}{html:get source='http://search.aol.com/aol/webhome'}{/html:code}
+    {/html:col}
+{/html:row}

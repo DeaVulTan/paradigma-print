@@ -1,0 +1,99 @@
+/*SHORTCODE COMMENT*/
+.commentWrap .media img.avatar{
+    width: 60px;
+    height: auto;
+}
+.commentWrap .media.children img.avatar{
+    width: 42px;
+}
+.commentWrap .title
+    font-size: 20px;
+    margin: 10px 0px 10px 0px;
+}
+.commentWrap .title span em{
+    font-style: normal;
+}
+.commentWrap .media{
+    min-height: 60px;
+    margin-top: 15px;
+}
+.commentWrap h6{
+    font-size: 14px;
+}
+.commentWrap .media .message{
+    
+}
+.commentWrap img.media-object{
+    border-radius: 3px;
+    border: 1px solid #e1e1e1;
+}
+.formComment .author{
+    display: block;
+    margin-bottom: 10px;
+}
+.formComment textarea{
+    resize: none;
+    min-height: 54px;
+}
+.formComment button{
+    margin-top: 5px;
+}
+.listComment span.author{
+    font-size: 14px;
+    font-weight: 700;
+    display: inline-block;
+    padding-right: 20px;
+    color: #777777;
+}
+.listComment span.time{
+    font-size: 12px;
+    font-weight: 500;
+    color: #CCCCCC;
+}
+.listComment div.message{
+    line-height: 21px;
+    font-size: 14px;
+    margin-bottom: 10px;
+}
+.listComment div.message p{
+    margin-bottom: 0px;
+}
+.listComment .toolBar{
+    list-style: none;
+    padding: 0px;
+}
+.listComment .toolBar li {
+    display: inline-block;
+    margin: 0px 15px 0px 0px;
+    color: #CCCCCC;
+}
+
+.commentWrap form{
+    position: relative;
+}
+
+.commentWrap form .btnCancelComment{
+    position: absolute;
+    top: 6px;
+    right: 8px;
+    border-radius: 0px;
+    cursor: pointer;
+    color: #BD362F;
+}
+
+.ajaxLoader{
+    display: none;
+    margin: 20px 0px;
+}
+.ajaxLoader img{
+    display: block;
+    margin: 0px auto;
+}
+
+.commentWrap h2.title{
+    font-size: 20px;
+}
+
+.totalComment{
+    font-style: normal;
+}

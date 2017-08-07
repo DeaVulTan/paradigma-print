@@ -1,0 +1,101 @@
+{html:div class="team"}
+{html:h2 class="title"}Meet the team{/html:h2}
+{html:p class="content"}Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur
+pellentesque neque eget diam posuere porta. Quisque ut nulla at nunc
+vehicula lacinia. Proin adipiscing porta tellus, ut feugiat nibh
+adipiscing sit amet.{/html:p}
+{html:tabs value="Designer|Marketing|Developer"}
+{html:tab}
+{html:row}
+{html:col class='col-md-3'}
+{thumb:normal img='media/uploads/media/testimonials/020.jpg' thumb_style='false'}
+{html:h4 class="heading title"}Jack{/html:h4}
+{html:span class="text-color"}Developer{/html:span}
+{html:p class="content"}Lorem Ipsum is simply dummy text of the printing and typesetting industry{/html:p}
+{html:div class="text-center" style='padding-right:20px'}
+{social:facebook}
+{social:twitter}
+{social:googleplus}
+{/html:col}
+{html:col class='col-md-3'}
+{thumb:normal img='media/uploads/media/testimonials/022.jpg' thumb_style='false'}
+{html:h4 class="heading"}Thomas{/html:h4}
+{html:span class="text-color title"}Developer{/html:span}
+{html:p class="content"}Contrary to popular belief, Lorem Ipsum is not simply random text.{/html:p}
+{html:div class="text-center" style='padding-right:20px'}
+{social:facebook}
+{social:twitter}
+{social:googleplus}
+{/html:col}
+{html:col class='col-md-3'}
+{thumb:normal img='media/uploads/media/testimonials/118.jpg' thumb_style='false'}
+{html:h4 class="heading"}Harry{/html:h4}
+{html:span class="text-color title"}Developer{/html:span}
+{html:p class="content"}It has roots in a piece of classical Latin literature from 45 BC {/html:p}
+{html:div class="text-center" style='padding-right:20px'}
+{social:facebook}
+{social:twitter}
+{social:googleplus}
+{/html:col}
+{html:col class='col-md-3'}
+{thumb:normal img='media/uploads/media/testimonials/152.jpg' thumb_style='false'}
+{html:h4 class="heading"}Mary{/html:h4}
+{html:span class="text-color title"}Developer{/html:span}
+{html:p class="content"}The standard chunk of Lorem Ipsum used since the 1500s.{/html:p}
+{html:div class="text-center" style='padding-right:20px'}
+{social:facebook}
+{social:twitter}
+{social:googleplus}
+{/html:col}
+{/html:row}
+{/html:tab}
+{html:tab}
+{html:row}
+{html:col class='col-md-3'}
+{thumb:normal img='media/uploads/media/testimonials/020.jpg' thumb_style='false'}
+{html:h4 class="heading"}Michelle{/html:h4}
+{html:span class="text-color title"}Designer{/html:span}
+{html:p class="content"}This book is a treatise on the theory of ethics, very popular during the Renaissance.{/html:p}
+{html:div class="text-center" style='padding-right:20px'}
+{social:facebook}
+{social:twitter}
+{social:googleplus}
+{/html:col}
+{html:col class='col-md-3'}
+{thumb:normal img='media/uploads/media/testimonials/022.jpg' thumb_style='false'}
+{html:h4 class="heading"}Declan{/html:h4}
+{html:span class="text-color title"}Designer{/html:span}
+{html:p class="content"}Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text {/html:p}
+{html:div class="text-center" style='padding-right:20px'}
+{social:facebook}
+{social:twitter}
+{social:googleplus}
+{/html:col}
+{/html:row}
+{/html:tab}
+{html:tab}
+{html:row}
+{html:col class='col-md-3'}
+{thumb:normal img='media/uploads/media/testimonials/118.jpg' thumb_style='false'}
+{html:h4 class="heading"}Jason{/html:h4}
+{html:span class="text-color title"}Marketing{/html:span}
+{html:p class="content"}If you are going to use a passage of Lorem Ipsum{/html:p}
+{html:div class="text-center" style='padding-right:20px'}
+{social:facebook}
+{social:twitter}
+{social:googleplus}
+{/html:col}
+{html:col class='col-md-3'}
+{thumb:normal img='media/uploads/media/testimonials/020.jpg' thumb_style='false'}
+{html:h4 class="heading"}Arianna{/html:h4}
+{html:span class="text-color title"}Marketing{/html:span}
+{html:p class="content"}Lorem Ipsum is therefore always free from repetition, injected humour{/html:p}
+{html:div class="text-center" style='padding-right:20px'}
+{social:facebook}
+{social:twitter}
+{social:googleplus}
+{/html:col}
+{/html:row}
+{/html:tab}
+{/html:tabs}
+{html:alert-info class="margin-top-50"} {html:h2 class="text-center"}Be part of {html:strong}Vitubo{/html:strong} . Send us your CV! {html:a class='btn btn-danger btn-lg btn-color' href="#"}Ok, let's do it!{/html:a}{/html:h2}{/html:alert-info}

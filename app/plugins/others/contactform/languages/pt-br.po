@@ -1,0 +1,293 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Contact\n"
+"POT-Creation-Date: 2014-10-15 15:21+0700\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Alexandre Benegas <info@adaptivemobile.com.br>\n"
+"Language-Team: Alexandre Benegas <info@adaptivemobile.com.br>\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.5\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../contactform.php:5 ../views/create.php:18 ../views/edit.php:18
+msgid "Contact Form"
+msgstr "Formulário para contato"
+
+#: ../contactform.php:34 ../views/main.php:25
+msgid "Contact Forms"
+msgstr "Formulários para contato"
+
+#: ../controllers/pf-contact-form-controller.php:154
+#: ../controllers/pf-contact-form-controller.php:206
+#: ../controllers/pf-contact-form-controller.php:241
+msgid "Your action is successful"
+msgstr "Sua ação foi realizada com sucesso!"
+
+#: ../controllers/pf-contact-form-controller.php:157
+msgid "Please check the data field"
+msgstr "Por favor, verifique o campo de dados"
+
+#: ../controllers/pf-contact-form-controller.php:258
+msgid "Status is updated successfully"
+msgstr "Situação atualizada com sucesso!"
+
+#: ../models/pf-contact-form-model.php:29 ../views/main.php:71
+msgid "Published"
+msgstr "Publicado"
+
+#: ../models/pf-contact-form-model.php:29 ../views/main.php:72
+msgid "Unpublished"
+msgstr "Não publicado"
+
+#: ../public/pf-contactform-shortcode.php:45
+msgid "Captcha is not correct"
+msgstr "Código de segurança incorreto"
+
+#: ../public/pf-contactform-shortcode.php:70
+msgid "Your message has been sent successfully"
+msgstr "Sua mensagem foi enviada com sucesso!"
+
+#: ../views/create.php:8 ../views/edit.php:8
+msgid "Save"
+msgstr "Salvar"
+
+#: ../views/create.php:9 ../views/edit.php:9
+msgid "Cancel"
+msgstr "Cancelar"
+
+#: ../views/create.php:32 ../views/edit.php:32 ../views/main.php:93
+msgid "Title"
+msgstr "Título"
+
+#: ../views/create.php:43 ../views/edit.php:45 ../views/main.php:95
+msgid "Status"
+msgstr "Situação"
+
+#: ../views/create.php:53 ../views/edit.php:55
+msgid "Form"
+msgstr "Forma"
+
+#: ../views/create.php:114 ../views/edit.php:116
+msgid "Button"
+msgstr "botão"
+
+#: ../views/create.php:126 ../views/edit.php:128
+msgid "To"
+msgstr "Para"
+
+#: ../views/create.php:130
+msgid "Receiver Email"
+msgstr "E-mail do destinatário"
+
+#: ../views/create.php:135 ../views/edit.php:169
+msgid "Message"
+msgstr "Mensagem"
+
+#: ../views/create.php:146 ../views/edit.php:180
+msgid "From"
+msgstr "De"
+
+#: ../views/create.php:150
+msgid "Sender Email"
+msgstr "E-mail do remetente"
+
+#: ../views/create.php:157
+msgid "Sender Name"
+msgstr "Nome do remetente"
+
+#: ../views/create.php:168 ../views/edit.php:202
+msgid "Subject"
+msgstr "Assunto"
+
+#: ../views/create.php:183 ../views/edit.php:221
+msgid " Use HTML content type"
+msgstr " Use código HTML no conteúdo"
+
+#: ../views/create.php:189 ../views/edit.php:227
+msgid "Sending successfully notification"
+msgstr "Notificação enviada com sucesso!"
+
+#: ../views/create.php:212 ../views/edit.php:250
+msgid "Close"
+msgstr "Fechar"
+
+#: ../views/create.php:213 ../views/edit.php:251
+msgid "Add"
+msgstr "Adicionar"
+
+#: ../views/create.php:222
+msgid "Name must be between 1 and 32 characters"
+msgstr "O nome deve ter entre 1 e 32 caracteres"
+
+#: ../views/edit.php:132
+msgid "Single Recipient"
+msgstr "Único Destinatário"
+
+#: ../views/edit.php:133
+msgid "List of Recipient"
+msgstr "Lista de destinatários"
+
+#: ../views/edit.php:191 ../views/particals/element.php:18
+#: ../views/particals/element.php:71 ../views/particals/element.php:141
+#: ../views/particals/element.php:172
+msgid "Name"
+msgstr "Nome"
+
+#: ../views/edit.php:259
+msgid "Name must be between 6 and 32 characters"
+msgstr "O nome deve ter entre 6 e 32 caracteres"
+
+#: ../views/main.php:8
+msgid "New Contact Form"
+msgstr "Novo formulário de contato"
+
+#: ../views/main.php:15
+msgid "Are you sure to delete this item?"
+msgstr "Tem certeza que deseja excluir este item?"
+
+#: ../views/main.php:16
+msgid "No item are selected"
+msgstr "Nenhum item foi selecionado"
+
+#: ../views/main.php:17
+msgid "Are you sure to perform this action?"
+msgstr "Tem certeza que deseja realizar esta ação?"
+
+#: ../views/main.php:18
+msgid "Please enter a search term"
+msgstr "Digite um termo para pesquisa"
+
+#: ../views/main.php:35
+msgid "Select Action "
+msgstr "Selecionar ação"
+
+#: ../views/main.php:38
+msgid "Delete"
+msgstr "Excluir"
+
+#: ../views/main.php:39
+msgid "Publish"
+msgstr "Publicar"
+
+#: ../views/main.php:40
+msgid "Unpublish"
+msgstr "Não publicado"
+
+#: ../views/main.php:48
+msgid "Please enter the search conditions"
+msgstr "Por favor, indique as condições de pesquisa"
+
+#: ../views/main.php:51
+msgid "Search"
+msgstr "Pesquisar"
+
+#: ../views/main.php:67
+#, php-format
+msgid "%s"
+msgstr "%s"
+
+#: ../views/main.php:70
+msgid "All"
+msgstr "Tudo"
+
+#: ../views/main.php:94
+msgid "Shortcode"
+msgstr "Código curto"
+
+#: ../views/main.php:96
+msgid "Actions"
+msgstr "Ações"
+
+#: ../views/main.php:117
+msgid "Edit contact form"
+msgstr "Editar formulário de contato"
+
+#: ../views/main.php:118
+msgid "Delete contact form"
+msgstr "Excluir formulário de contato"
+
+#: ../views/particals/element.php:7 ../views/particals/element.php:60
+#: ../views/particals/element.php:130
+msgid "Required"
+msgstr "Necessário"
+
+#: ../views/particals/element.php:10 ../views/particals/element.php:63
+#: ../views/particals/element.php:133
+msgid "No"
+msgstr "Não"
+
+#: ../views/particals/element.php:13 ../views/particals/element.php:66
+#: ../views/particals/element.php:136
+msgid "Yes"
+msgstr "Sim"
+
+#: ../views/particals/element.php:24 ../views/particals/element.php:77
+msgid "Default value"
+msgstr "Valor padrão"
+
+#: ../views/particals/element.php:30 ../views/particals/element.php:83
+msgid "Place holder"
+msgstr "Espaço reservado"
+
+#: ../views/particals/element.php:36 ../views/particals/element.php:101
+msgid "Size"
+msgstr "Tamanho"
+
+#: ../views/particals/element.php:42 ../views/particals/element.php:107
+msgid "Max length"
+msgstr "Comprimento máximo"
+
+#: ../views/particals/element.php:48
+msgid "Class"
+msgstr "Class"
+
+#: ../views/particals/element.php:89
+msgid "Rows"
+msgstr "Linhas"
+
+#: ../views/particals/element.php:95
+msgid "Columns"
+msgstr "Colunas"
+
+#: ../views/particals/element.php:147
+msgid "Choice"
+msgstr "Escolha"
+
+#: ../views/particals/element.php:150
+msgid "One value per line"
+msgstr "Um valor por linha"
+
+#: ../views/particals/element.php:178
+msgid "Value"
+msgstr "Valor"
+
+#: ../views/particals/element.php:184
+msgid "Type"
+msgstr "Tipo"
+
+#~ msgid "Form ID"
+#~ msgstr "Form ID"
+
+#~ msgid "Attribute ID"
+#~ msgstr "Attribute ID"
+
+#~ msgid "Form Class"
+#~ msgstr "Form Class"
+
+#~ msgid "Attribute Class"
+#~ msgstr "Attribute Class"
+
+#~ msgid "Items"
+#~ msgstr "Ítems"
+
+#~ msgid "<h3>Your message has been sent successfully</h3>"
+#~ msgstr "<h3>Su mensaje ha sido enviado con éxito</h3>"
+
+#~ msgid "<h3>An error has occurred! Please try again later</h3>"
+#~ msgstr "<h3>Se ha detectado un error. Inténtelo de nuevo</h3> "

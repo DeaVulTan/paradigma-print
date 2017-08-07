@@ -1,0 +1,45 @@
+<?php defined('PF_VERSION') OR header('Location:404.html');?>
+<?php
+return array(
+    array(
+        'full1'=>array(
+            W=>array(
+                'announcement/plugin_active'
+            )
+        )
+    ),
+    array(
+        'full2'=>array(
+            W=>array(
+                'comment/count',
+                'users/count',
+                'posts/count',
+                'pages/count'
+            )
+        )
+    ),
+    array(
+        'full3'=>array(
+            P=>'full',
+            W=>''
+        )
+    ),
+    array(
+        'left'=>array(
+            P=>'left',
+            W=>array('comment/approve'),
+        ),
+        'right'=>array(
+            P=>'right',
+            W=>array('posts/approve')
+        )
+    ),
+    array(
+        'full4'=>array(
+            P=>'content',
+            W=>array(
+                'calendar'
+            )
+        )
+    )
+);

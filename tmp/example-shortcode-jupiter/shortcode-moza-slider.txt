@@ -1,0 +1,179 @@
+
+{moza:slider id="moza" moza-responsive="true" }
+        {moza:slide data-moza:background="violet"  data-moza:pausetime="14500"}
+            {html:div class="moza-element"
+                data-animate_in = "x:left;y:0;fade:1;easing:easeInOutElastic;scalex:0;scaley:0;delay:2000;duration:2000;pause_time:1000"
+                data-animate_1 = "x:-110;y:0;easing:easeInOutQuint;scalex:2.7;scaley:2.7;duration:1000;pause_time:0"
+                data-animate_2 = "x:110;y:0;easing:easeInOutQuint;scalex:0;scaley:0;duration:1000;pause_time:0"
+                data-animate_3 = "x:-110;y:0;easing:easeInOutElastic;scalex:2.7;scaley:2.7;duration:1000;pause_time:0"
+                data-animate_4 = "x:110;y:0;easing:easeInOutQuint;scalex:0;scaley:0;duration:1000;pause_time:0"
+                data-animate_5 = "x:0;y:-460;"
+                data-animate_6 = "x:-110;y:0;easing:easeInOutElastic;scalex:2.7;scaley:2.7;duration:1000;pause_time:0"
+                data-animate_7 = "x:110;y:0;easing:easeInOutQuint;scalex:0;scaley:0;duration:1000;pause_time:0"
+                data-animate_8 = "x:0;y:460;"
+                data-animate_9 = "x:-110;y:0;easing:easeInOutElastic;scalex:2.7;scaley:2.7;duration:1000;pause_time:0"
+                data-animate_10 = "x:110;y:0;easing:easeInOutQuint;scalex:1;scaley:1;duration:1000;pause_time:0"
+                data-animate_out = "x:left;y:0;easing:easeInOutQuint;scalex:1;scaley:1;duration:1000;"
+                style="background:green; color:white;  white-space: nowrap; font-size:26px; padding:5px 10px; border-radius:5px; top: 510px; left:250px; visibility: hidden;"}
+                Theodore
+            {/html:div}
+            {html:div class="moza-element"
+                data-animate_in = "x:0;y:0;fade:1;easing:easeInOutElastic;scalex:0;scaley:0;delay:2000;duration:2000;pause_time:1000"
+                data-animate_1 = "x:30;y:0;easing:easeInOutQuint;scalex:2.7;scaley:2.7;duration:1000;pause_time:0"
+                data-animate_2 = "x:-30;y:0;easing:easeInOutQuint;scalex:0;scaley:0;duration:1000;pause_time:0"
+                data-animate_3 = "x:30;y:0;easing:easeInOutElastic;scalex:2.7;scaley:2.7;duration:1000;pause_time:0"
+                data-animate_4 = "x:-30;y:0;easing:easeInOutQuint;scalex:0;scaley:0;duration:1000;pause_time:0"
+                data-animate_5 = "x:0;y:-460;"
+                data-animate_6 = "x:30;y:0;easing:easeInOutElastic;scalex:2.7;scaley:2.7;duration:1000;pause_time:0"
+                data-animate_7 = "x:-30;y:0;easing:easeInOutQuint;scalex:0;scaley:0;duration:1000;pause_time:0"
+                data-animate_8 = "x:0;y:460;"
+                data-animate_9 = "x:30;y:0;easing:easeInOutElastic;scalex:2.7;scaley:2.7;duration:1000;pause_time:0"
+                data-animate_10 = "x:-30;y:0;easing:easeInOutQuint;scalex:1;scaley:1;duration:1000;pause_time:0"
+                data-animate_out = "x:0;y:0;easing:easeInOutQuint;scalex:0;scaley:0;duration:1000;"
+                style="background:red; color:white; white-space: nowrap;  font-size:26px; padding:5px 10px; border-radius:5px; top: 510px; left:480px; visibility: hidden;"}
+                Simon
+            {/html:div}
+            {html:div class="moza-element"
+                data-animate_in = "x:right;y:0;fade:1;easing:easeInOutElastic;scalex:0;scaley:0;delay:2000;duration:2000;pause_time:1000"
+                data-animate_1 = "x:100;y:0;easing:easeInOutQuint;scalex:2.7;scaley:2.7;duration:1000;pause_time:0"
+                data-animate_2 = "x:-100;y:0;easing:easeInOutQuint;scalex:0;scaley:0;duration:1000;pause_time:0"
+                data-animate_3 = "x:100;y:0;easing:easeInOutElastic;scalex:2.7;scaley:2.7;duration:1000;pause_time:0"
+                data-animate_4 = "x:-100;y:0;easing:easeInOutQuint;scalex:0;scaley:0;duration:1000;pause_time:0"
+                data-animate_5 = "x:0;y:-460;"
+                data-animate_6 = "x:100;y:0;easing:easeInOutElastic;scalex:2.7;scaley:2.7;duration:1000;pause_time:0"
+                data-animate_7 = "x:-100;y:0;easing:easeInOutQuint;scalex:0;scaley:0;duration:1000;pause_time:0"
+                data-animate_8 = "x:0;y:460;"
+                data-animate_9 = "x:100;y:0;easing:easeInOutElastic;scalex:2.7;scaley:2.7;duration:1000;pause_time:0"
+                data-animate_10 = "x:-100;y:0;easing:easeInOutQuint;scalex:1;scaley:1;duration:1000;pause_time:0"
+                data-animate_out = "x:right;y:0;easing:easeInOutQuint;scalex:1;scaley:1;duration:1000;"
+                style="background:brown; color:white; white-space: nowrap;  font-size:26px; padding:5px 10px; border-radius:5px; top: 510px; left:700px; visibility: hidden;"}
+                Alvin
+            {/html:div}
+            
+            {html:div class="moza-element"
+                data-animate_in = "x:0;y:0;fade:1;easing:easeInOutQuint;rotate:360;scalex:0.001;scaley:0.001;delay:0;duration:2000;pause_time:5000"
+                data-animate_1 = "x:0;y:10;easing:easeInOutQuint;scalex:2;scaley:2;duration:1000;pause_time:0"
+                data-animate_2 = "x:0;y:0;easing:easeInOutQuint;scalex:0;scaley:0;duration:1000;pause_time:0"
+                data-animate_3 = "x:0;y:460;"
+                data-animate_4 = "x:0;y:0;easing:easeInOutElastic;scalex:2;scaley:2;duration:1000;pause_time:0"
+                data-animate_5 = "x:0;y:0;easing:easeInOutQuint;scalex:0;scaley:0;duration:1000;pause_time:0"
+                data-animate_6 = "x:0;y:-460;"
+                data-animate_7 = "x:0;y:0;easing:easeInOutElastic;scalex:2;scaley:2;duration:1000;pause_time:1000"
+                data-animate_out = "x:0;y:0;easing:easeInOutQuint;rotate:360;scalex:0.001;scaley:0.001;duration:1000;"
+                style="background:brown; color:white; white-space: nowrap;  font-size:36px; padding:5px 10px; border-radius:5px; top: 30px; left:300px; visibility: hidden;"}
+                Alvin and the Chipmunks
+            {/html:div}
+            
+            {html:div class="moza-element"
+                data-video_autostart = "true"
+                data-animate_in = "x:0;y:0;fade:0;easing:easeInOutQuint;scalex:0;scaley:0;delay:2000;duration:500;pause_time:11500"
+                data-animate_out = "x:0;y:0;easing:easeInOutQuint;scalex:0;scaley:0;duration:1000;"
+                style="top:140px; left:260px; visibility: hidden;"}
+                {html:iframe width="500" height="320" src="//www.youtube.com/embed/TwwmhcGbvt0?rel=0&enablejsapi=1" frameborder="0" allowfullscreen}{/html:iframe} 
+            {/html:div}
+        {/moza:slide}
+        {moza:slide data-moza:background="brown"  data-moza:pausetime="6200"}
+            {html:div class="moza-element" 
+            data-animate_in = "x:0;y:0;fade:1;scalex:0;scaley:0;delay:0;duration:2000;"
+            style="color:white; white-space: nowrap; background:brown;  font-size:50px; padding:5px 10px; border-radius:5px; top: 10px; left:150px; visibility: hidden;"}
+            MOZA Slider
+            {/html:div}
+            {html:div class="moza-element" 
+            data-animate_in = "x:right;y:0;fade:1;scalex:0.001;scaley:0.001;delay:500;duration:4000;"
+            style="color:white; white-space: nowrap; background:green; font-size:20px; padding:5px 10px; border-radius:5px; top: 100px; left:150px; visibility: hidden;"}
+            Responsive design.
+            {/html:div}
+            {html:div class="moza-element" 
+            data-animate_in = "x:left;y:0;fade:1;scalex:0.001;scaley:0.001;delay:700;duration:4000;"
+            style="color:white; white-space: nowrap;  background:green; font-size:20px; padding:5px 10px; border-radius:5px; top: 140px; left:150px; visibility: hidden;"}
+            Unlimited slides on the slider.
+            {/html:div}
+            {html:div class="moza-element" 
+            data-animate_in = "x:right;y:0;fade:1;scalex:0.001;scaley:0.001;delay:900;duration:4000;"
+            style="color:white; white-space: nowrap;  background:green; font-size:20px; padding:5px 10px; border-radius:5px; top: 180px; left:150px; visibility: hidden;"}
+            Support 2d and 3d transitions for slides
+            {/html:div}
+            
+            {html:div class="moza-element" 
+            data-animate_in = "x:left;y:0;fade:1;scalex:0.001;scaley:0.001;delay:1100;duration:4000;"
+            style="color:white; white-space: nowrap;  background:green; font-size:20px; padding:5px 10px; border-radius:5px; top: 220px; left:150px; visibility: hidden;"}
+            Unlimited element on each slide.
+            {/html:div}
+            
+            
+            {html:div class="moza-element" 
+            data-animate_in = "x:right;y:0;fade:1;scalex:0.001;scaley:0.001;delay:1300;duration:4000;"
+            style="color:white; white-space: nowrap;  background:green; font-size:20px; padding:5px 10px; border-radius:5px; top: 260px; left:150px; visibility: hidden;"}
+            Unlimited animation on each element.
+            {/html:div}
+            
+            {html:div class="moza-element" 
+            data-animate_in = "x:left;y:0;fade:1;scalex:0.001;scaley:0.001;delay:1500;duration:4000;"
+            style="color:white; white-space: nowrap;  background:green; background:green; font-size:20px; padding:5px 10px; border-radius:5px; top: 300px; left:150px; visibility: hidden;"}
+            Support animation pause & resume on all element.
+            {/html:div}
+            
+            {html:div class="moza-element" 
+            data-animate_in = "x:right;y:0;fade:1;scalex:0.001;scaley:0.001;delay:1700;duration:4000;"
+            style="color:white; white-space: nowrap;  background:green; font-size:20px; padding:5px 10px; border-radius:5px; top: 340px; left:150px; visibility: hidden;"}
+            Lazy loading images for beter performance
+            {/html:div}
+            
+            
+            {html:div class="moza-element" 
+            data-animate_in = "x:left;y:0;fade:1;scalex:0.001;scaley:0.001;delay:1900;duration:4000;"
+            style="color:white; white-space: nowrap;  background:green; font-size:20px; padding:5px 10px; border-radius:5px; top: 380px; left:150px; visibility: hidden;"}
+            Embeb with youtube and vimeo video.
+            {/html:div}
+            
+            
+            {html:div class="moza-element" 
+            data-animate_in = "x:right;y:0;fade:1;scalex:0.001;scaley:0.001;delay:2100;duration:4000;"
+            style="color:white; white-space: nowrap;  background:green; font-size:20px; padding:5px 10px; border-radius:5px; top: 420px; left:150px; visibility: hidden;"}
+            Work with all modern browser IE9+, Firefox, Chrome, Safari, Opera.
+            {/html:div}
+            
+            
+            {html:div class="moza-element" 
+            data-animate_in = "x:left;y:0;fade:1;scalex:0.001;scaley:0.001;delay:2300;duration:4000;"
+            style="color:white; white-space: nowrap;  background:green; font-size:20px; padding:5px 10px; border-radius:5px; top: 460px; left:150px; visibility: hidden;"}
+            Work with PC, Taplet and Mobile
+            {/html:div}
+            
+            {html:div class="moza-element" 
+            data-animate_in = "x:right;y:0;fade:1;scalex:0.001;scaley:0.001;delay:2500;duration:4000;"
+            style="color:white; white-space: nowrap;  background:green; font-size:20px; padding:5px 10px; border-radius:5px; top: 500px; left:150px; visibility: hidden;"}
+            Keyboard navigation
+            {/html:div}
+            
+            {html:div class="moza-element" 
+            data-animate_in = "x:left;y:0;fade:1;scalex:0.001;scaley:0.001;delay:2700;duration:4000;"
+            style="color:white; white-space: nowrap;  background:green; font-size:20px; padding:5px 10px; border-radius:5px; top: 540px; left:150px; visibility: hidden;"}
+            Free updates & support
+            {/html:div}
+        {/moza:slide}
+    {/moza:slider}
+</div>
+{html:script}
+  $(document).ready(function(){
+      $('#moza').MozaSlider({
+          responsive:true,
+          width:1170,
+          height:600,
+          pauseOnHover: false,
+          directionNavHoverOpacity: 0,
+          directionNav: true,
+          controlNav: true,
+          controlNavThumbs:false,
+          tooltipY: -5,
+          
+          timer: "Bar",
+          timerDiameter: "100%",
+          timerPadding: 0,
+          timerStroke: 3,
+          timerBarStroke: 0,
+          timerColor: "white",
+          timerPosition: "bottom"
+      });
+  });
+{/html:script}

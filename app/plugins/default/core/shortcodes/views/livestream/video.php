@@ -1,0 +1,2 @@
+<?php
+echo '<div style="max-width:' . $this->atts['width'] . 'px;max-height:' . $this->atts['height'] . 'px;"><iframe title="Livestream video player" " src="http://new.livestream.com/accounts/'. $this->atts['acounts'] .'/events/'. $this->atts['events'] .'/videos/' . $this->atts['videos'] . '/player?autoPlay='.$this->atts['autoplay'].'&mute=false" width="' . $this->atts['width'] . '" height="' . $this->atts['height'] . ' frameborder="0" scrolling="no"></iframe></div>';

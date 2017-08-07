@@ -1,0 +1,107 @@
+/*  Reset   */
+.btnTop{
+    margin-bottom: 15px;
+}
+.form-group > label{
+    padding: 0px 0px 0px 15px;
+}
+.form-group > label > span{
+    font-size: 10px;
+    color: red;
+}
+.topControl > li{
+    float: left;
+    margin-right: 10px;
+}
+.topControl > li:last-child{
+    margin-right: 0px;
+}
+
+#checkAll{
+    margin-top: 5px
+}
+
+.filer > li{
+    float: left;
+    margin-right: 10px;
+}
+
+.filer .icheckbox_minimal{
+    top: 4px;
+}
+
+
+.alert-box{
+    padding: 0px 10px;
+}
+.alert-box .alert-custom{
+    margin: 0px 0px 5px 0px;
+}
+.alert{
+    padding: 15px;
+}
+.cu .alert-box{
+    padding: 0px;
+}
+.cu .alert-box .alert-custom{
+    margin: 0px 0px 15px 0px;
+}
+/* Bulk Action */
+#bulkAction{
+    display: none;
+}
+
+#bulkAction button{
+    padding: 7px 10px;
+}
+
+
+
+.table td:last-child {
+    text-align: center;
+}
+
+.noticeAddMore{
+    padding: 0px;
+    margin: 0px 0px 5px 0px;
+    color: red;
+}
+#addMore input[type=text]{
+    width: 100px;
+    text-align: center;
+}
+
+.qaAppend{
+    display: none;
+}
+
+.qaItem .form-group:last-child{
+    margin-bottom: 0px;
+}
+
+.qaItem{
+    position: relative;
+    margin: 20px 0px;
+    padding-top: 10px;
+    background: #fff;
+}
+
+.btnRemoveQA{
+    display: none;
+    position: absolute;
+    color: #BD362F;
+    top: -10px;
+    right: 10px;
+}
+
+.btnRemoveQA:hover{
+    cursor: pointer;
+}
+
+.qaItem:hover .btnRemoveQA{
+    display: block;
+}
+
+.margin-bottom-10{
+    margin-bottom: 10px;
+}

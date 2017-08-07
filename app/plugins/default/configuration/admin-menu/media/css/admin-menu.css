@@ -1,0 +1,43 @@
+@CHARSET "UTF-8";
+
+#admin-menu-design>div.list-group>div.active {
+    background-color: #F6F6F6 !important;
+}
+
+#admin-menu-design>div.list-group>div {
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    cursor: default;
+}
+
+#admin-menu-design>div.list-group>div:hover {
+    background: #F6F6F6;
+}
+
+#menu-item-icon>i {
+    cursor: pointer;
+    font-size: 1.5em;
+}
+
+#menu-item-icon-color {
+    height: 20px;
+    width: 50px;
+    background: #555555;
+    cursor: pointer;
+}
+
+#menu-item-visibility > a{
+    cursor:pointer;
+}
+
+#menu-item-visibility > a.active{
+    color: #000000;
+    font-weight:bold;
+    cursor:default;
+}
+
+#menu-icon-picker a{
+    cursor: pointer;
+}

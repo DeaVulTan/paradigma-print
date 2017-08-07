@@ -1,0 +1,328 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Comment\n"
+"POT-Creation-Date: 2014-09-16 14:30+0700\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.4\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../comment-config.php:17
+msgid "Comment settings"
+msgstr "评论设置"
+
+#: ../comment-config.php:22
+msgid "Enable comment?"
+msgstr "启用评论吗？"
+
+#: ../comment-config.php:23
+msgid "Comment approval?"
+msgstr "批准评论吗？"
+
+#: ../comment-config.php:24
+msgid "Ordering"
+msgstr "排序"
+
+#: ../comment-config.php:27
+msgid "Who will approve comment?"
+msgstr "谁将批准评论？"
+
+#: ../comment-config.php:28
+msgid "Maximum characters"
+msgstr "最大字符数量"
+
+#: ../comment-config.php:32 ../views/emails/approve.php:9
+msgid "Comment"
+msgstr "评论"
+
+#: ../comment-config.php:33
+msgid "Comment notification"
+msgstr "评论通知"
+
+#: ../comment.php:4 ../comment.php:45 ../comment.php:46
+#: ../public/views/main.php:22 ../public/views/main.php:33
+#: ../views/main.php:23
+msgid "Comments"
+msgstr "评论"
+
+#: ../comment.php:47 ../views/customfields/index.php:20
+msgid "Custom fields"
+msgstr "自定义字段"
+
+#: ../controllers/pf-comment-controller.php:27
+#: ../controllers/pf-comment-controller.php:96
+#: ../controllers/pf-comment-controller.php:127
+#: ../controllers/pf-comment-controller.php:147
+#: ../controllers/pf-comment-controller.php:165
+msgid "An error has occurred. Please try again"
+msgstr "出现错误。请再试一次"
+
+#: ../controllers/pf-comment-controller.php:95
+msgid "Status is updated successfully"
+msgstr "状态成功更新"
+
+#: ../controllers/pf-comment-controller.php:126
+#: ../controllers/pf-comment-controller.php:162
+msgid "Comment is deleted successfully"
+msgstr "评论删除成功"
+
+#: ../controllers/pf-comment-controller.php:145 ../views/main.php:14
+msgid "Comment is updated successfully"
+msgstr "评论更新成功"
+
+#: ../helper.php:31 ../public/views/element.php:17
+#: ../public/views/element.php:47
+msgid "Reply"
+msgstr "回复"
+
+#: ../helper.php:33 ../public/views/element.php:43
+msgid "Edit"
+msgstr "编辑"
+
+#: ../helper.php:34 ../public/views/element.php:51
+msgid "Remove"
+msgstr "消除"
+
+#: ../public/views/element.php:32
+msgid "a few seconds ago"
+msgstr "几秒前"
+
+#: ../public/views/element.php:70 ../views/main.php:50 ../views/main.php:222
+msgid "Close"
+msgstr "关闭"
+
+#: ../public/views/element.php:71 ../views/customfields/index.php:13
+#: ../views/main.php:51
+msgid "Save"
+msgstr "保存"
+
+#: ../public/views/include.php:6 ../views/main.php:7
+msgid "Are you sure to delete this comment?"
+msgstr "你确定要删除这个评论吗？"
+
+#: ../public/views/include.php:7
+msgid "Comment can not be empty and less than "
+msgstr "评论不能为空及小于␣"
+
+#: ../public/views/include.php:8
+msgid ""
+"You do not have permission or the session has ended. Please visit again!"
+msgstr "您没有权限或者该会话已结束。请重新登录！"
+
+#: ../public/views/include.php:9 ../views/main.php:15
+msgid "There was an error Please try again"
+msgstr "出现错误。请再试一次"
+
+#: ../public/views/include.php:10
+msgid "Thank you for comment. We will moderate and approve it maximum 8 hours."
+msgstr "感谢您的评论。我们在最多8个小时之内进行批准。"
+
+#: ../public/views/main.php:29
+msgid "In order to comment, please sign in"
+msgstr "请登录后再发表评论"
+
+#: ../views/customfields/index.php:6
+msgid "This name already exists."
+msgstr "该名称已经存在。"
+
+#: ../views/customfields/index.php:7
+msgid "Custom fields are updated successfully."
+msgstr "自定义字段更新成功。"
+
+#: ../views/customfields/index.php:14
+msgid "Cancel"
+msgstr "取消"
+
+#: ../views/customfields/index.php:52
+msgid "Comment Form"
+msgstr "评论表单"
+
+#: ../views/customfields/index.php:58
+msgid "Comment Display"
+msgstr "注释显示 "
+
+#: ../views/customfields/template.php:166
+msgid "Name"
+msgstr "产品名称"
+
+#: ../views/customfields/template.php:173
+msgid "Value"
+msgstr "价值"
+
+#: ../views/customfields/template.php:180
+msgid "ID"
+msgstr "ID"
+
+#: ../views/customfields/template.php:186
+msgid "Class"
+msgstr "Class"
+
+#: ../views/customfields/template.php:193
+msgid "Rows"
+msgstr "Rows"
+
+#: ../views/customfields/template.php:199
+msgid "Cols"
+msgstr "Cols"
+
+#: ../views/customfields/template.php:207
+#: ../views/customfields/template.php:233
+#: ../views/customfields/template.php:259
+msgid "Collections"
+msgstr "收藏"
+
+#: ../views/customfields/template.php:224
+#: ../views/customfields/template.php:250
+#: ../views/customfields/template.php:276
+msgid "Add item"
+msgstr "添加项目"
+
+#: ../views/customfields/template.php:285
+msgid "Placeholder"
+msgstr "Placeholder"
+
+#: ../views/customfields/template.php:292
+msgid "Read only"
+msgstr "只读"
+
+#: ../views/customfields/template.php:296
+#: ../views/customfields/template.php:309
+msgid "Yes"
+msgstr "是的"
+
+#: ../views/customfields/template.php:300
+#: ../views/customfields/template.php:313
+msgid "No"
+msgstr "无"
+
+#: ../views/customfields/template.php:305
+msgid "Required"
+msgstr "需要"
+
+#: ../views/customfields/template.php:319
+msgid "Min length"
+msgstr "最小长度"
+
+#: ../views/customfields/template.php:325
+msgid "Max length"
+msgstr "最大长度"
+
+#: ../views/customfields/template.php:334
+msgid "Update"
+msgstr "更新"
+
+#: ../views/emails/approve.php:7
+msgid "Site name"
+msgstr "网站名称"
+
+#: ../views/emails/approve.php:8
+msgid "Username"
+msgstr "用户名称"
+
+#: ../views/main.php:8
+msgid "No comment is selected"
+msgstr "无评论被选中"
+
+#: ../views/main.php:9
+msgid "Are you sure to perform this action?"
+msgstr "你确定要实现这个操作？"
+
+#: ../views/main.php:10
+msgid "Please enter a search term"
+msgstr "请输入要搜索的项目"
+
+#: ../views/main.php:11
+msgid "Please choose an author"
+msgstr "请选择一个作者"
+
+#: ../views/main.php:12
+msgid "Content must be at least 2 characters and no more than 500 characters"
+msgstr "内容必须要包含最少2个符号但并不超过500符号"
+
+#: ../views/main.php:13
+msgid "Incorrect ID"
+msgstr "ID不正确"
+
+#: ../views/main.php:16
+msgid "No custom field data"
+msgstr "没有自定义字段数据 "
+
+#: ../views/main.php:33 ../views/main.php:161
+msgid "Edit comment"
+msgstr "编辑评论"
+
+#: ../views/main.php:40 ../views/main.php:126
+msgid "Content"
+msgstr "内容"
+
+#: ../views/main.php:67
+msgid "Select Action "
+msgstr "选择操作␣"
+
+#: ../views/main.php:70 ../views/main.php:162
+msgid "Delete"
+msgstr "删除"
+
+#: ../views/main.php:71
+msgid "Publish"
+msgstr "发布"
+
+#: ../views/main.php:72
+msgid "Unpublish"
+msgstr "未发布"
+
+#: ../views/main.php:81
+msgid "Please enter the search conditions"
+msgstr "请输入搜索条件"
+
+#: ../views/main.php:84
+msgid "Search"
+msgstr "搜索"
+
+#: ../views/main.php:100
+#, php-format
+msgid "%s"
+msgstr "%s"
+
+#: ../views/main.php:103
+msgid "All"
+msgstr "全部"
+
+#: ../views/main.php:104
+msgid "Published"
+msgstr "已发布"
+
+#: ../views/main.php:105
+msgid "Unpublished"
+msgstr "未发布"
+
+#: ../views/main.php:127
+msgid "Author"
+msgstr "作者"
+
+#: ../views/main.php:128
+msgid "Comment date"
+msgstr "评论日期"
+
+#: ../views/main.php:129
+msgid "Status"
+msgstr "状态"
+
+#: ../views/main.php:131
+msgid "Actions"
+msgstr "操作"
+
+#: ../views/main.php:160
+msgid "View custom field"
+msgstr "查看自定义字段"
+
+#: ../views/main.php:210
+msgid "Detail comment"
+msgstr "详细评论"

@@ -1,0 +1,260 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Testimonials\n"
+"POT-Creation-Date: 2015-01-19 15:37+0700\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.4\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../admin/views/testimonials/add.php:11
+#: ../admin/views/testimonials/copy.php:11
+#: ../admin/views/testimonials/edit.php:11
+#: ../admin/views/testimonials/index.php:50
+#: ../admin/views/testimonials/index.php:265 ../testimonials.php:29
+msgid "Testimonials"
+msgstr "Témoignages"
+
+#: ../admin/views/testimonials/add.php:11
+msgid "Add"
+msgstr "Ajouter"
+
+#: ../admin/views/testimonials/add.php:23
+#: ../admin/views/testimonials/copy.php:23
+#: ../admin/views/testimonials/edit.php:23
+#: ../admin/views/testimonials/index.php:146
+#: ../admin/views/testimonials/index.php:276
+msgid "Customer name"
+msgstr "Nom du client"
+
+#: ../admin/views/testimonials/add.php:35
+#: ../admin/views/testimonials/copy.php:35
+#: ../admin/views/testimonials/edit.php:35
+msgid "Customer info"
+msgstr "Information du client"
+
+#: ../admin/views/testimonials/add.php:46
+#: ../admin/views/testimonials/copy.php:46
+#: ../admin/views/testimonials/edit.php:46
+#: ../admin/views/testimonials/index.php:128
+msgid "Image"
+msgstr "Image"
+
+#: ../admin/views/testimonials/add.php:61
+#: ../admin/views/testimonials/copy.php:61
+#: ../admin/views/testimonials/edit.php:61
+#: ../admin/views/testimonials/index.php:164
+#: ../admin/views/testimonials/index.php:285
+msgid "Content"
+msgstr "Contenu"
+
+#: ../admin/views/testimonials/add.php:102
+#: ../admin/views/testimonials/add.php:113
+#: ../admin/views/testimonials/copy.php:109
+#: ../admin/views/testimonials/copy.php:120
+#: ../admin/views/testimonials/edit.php:110
+#: ../admin/views/testimonials/edit.php:121
+#: ../admin/views/testimonials/edit.php:144
+#: ../admin/views/testimonials/index.php:345
+#: ../admin/views/testimonials/index.php:357
+#: ../admin/views/testimonials/index.php:378
+#: ../admin/views/testimonials/index.php:420
+#: ../admin/views/testimonials/index.php:433
+#: ../admin/views/testimonials/index.php:442
+#: ../admin/views/testimonials/index.php:449
+#: ../admin/views/testimonials/index.php:464
+#: ../admin/views/testimonials/index.php:488
+#: ../admin/views/testimonials/index.php:516
+#: ../admin/views/testimonials/index.php:533
+#: ../admin/views/testimonials/index.php:550
+msgid "Loading..."
+msgstr "Chargement..."
+
+#: ../admin/views/testimonials/add.php:121
+#: ../admin/views/testimonials/copy.php:128
+#: ../admin/views/testimonials/edit.php:129
+#: ../admin/views/testimonials/edit.php:155
+#: ../admin/views/testimonials/index.php:397
+#: ../admin/views/testimonials/index.php:455
+#: ../admin/views/testimonials/index.php:470
+#: ../admin/views/testimonials/index.php:493
+msgid "There is an error, please check again!"
+msgstr "Il ya une erreur, se il vous plaît vérifier à nouveau!"
+
+#: ../admin/views/testimonials/add.php:126
+msgid "Testimonial is created successfully"
+msgstr "Témoignage est créé avec succès"
+
+#: ../admin/views/testimonials/add.php:138
+msgid "Choose Image"
+msgstr "Choisissez Image"
+
+#: ../admin/views/testimonials/copy.php:11
+msgid "Copy"
+msgstr "Copie"
+
+#: ../admin/views/testimonials/copy.php:133
+msgid "Testimonial is copied successfully"
+msgstr "Témoignage est copié avec succès"
+
+#: ../admin/views/testimonials/edit.php:11
+msgid "Edit"
+msgstr "Modifier"
+
+#: ../admin/views/testimonials/edit.php:134
+#: ../admin/views/testimonials/edit.php:153
+msgid "Testimonial is updated successfully"
+msgstr "Témoignage est mis à jour avec succès"
+
+#: ../admin/views/testimonials/index.php:5
+#: ../admin/views/testimonials/index.php:265
+#: ../admin/views/testimonials/index.php:296
+msgid "Search"
+msgstr "Recherche"
+
+#: ../admin/views/testimonials/index.php:22
+msgid "New"
+msgstr "Nouveau"
+
+#: ../admin/views/testimonials/index.php:26
+#: ../admin/views/testimonials/index.php:31
+#: ../admin/views/testimonials/index.php:37
+msgid "Save"
+msgstr "Conserver"
+
+#: ../admin/views/testimonials/index.php:27
+#: ../admin/views/testimonials/index.php:33
+#: ../admin/views/testimonials/index.php:38
+msgid "Cancel"
+msgstr "Annuler"
+
+#: ../admin/views/testimonials/index.php:32
+msgid "Apply"
+msgstr "Appliquer"
+
+#: ../admin/views/testimonials/index.php:50
+msgid "List"
+msgstr "Liste"
+
+#: ../admin/views/testimonials/index.php:62
+msgid "Bulk Actions"
+msgstr "Actions globales"
+
+#: ../admin/views/testimonials/index.php:67
+#: ../admin/views/testimonials/index.php:485
+msgid "Delete"
+msgstr "Supprimer"
+
+#: ../admin/views/testimonials/index.php:69
+msgid "Publish"
+msgstr "Publier"
+
+#: ../admin/views/testimonials/index.php:71
+msgid "Unpublish"
+msgstr "Dépublier"
+
+#: ../admin/views/testimonials/index.php:83
+#: ../admin/views/testimonials/index.php:88
+msgid "All"
+msgstr "Tout"
+
+#: ../admin/views/testimonials/index.php:89
+#: ../admin/views/testimonials/index.php:213
+#: ../admin/views/testimonials/index.php:539
+#: ../admin/views/testimonials/index.php:556
+msgid "Published"
+msgstr "Publié"
+
+#: ../admin/views/testimonials/index.php:91
+#: ../admin/views/testimonials/index.php:215
+#: ../admin/views/testimonials/index.php:541
+#: ../admin/views/testimonials/index.php:558
+msgid "Unpublished"
+msgstr "Dépublié"
+
+#: ../admin/views/testimonials/index.php:183
+msgid "Status"
+msgstr "Statut"
+
+#: ../admin/views/testimonials/index.php:188
+msgid "Actions"
+msgstr "Actions"
+
+#: ../admin/views/testimonials/index.php:263
+#: ../admin/views/testimonials/index.php:297
+msgid "Close"
+msgstr "Près"
+
+#: ../admin/views/testimonials/index.php:371
+msgid "Are you sure with this action?"
+msgstr "Etes-vous sûr de cette action?"
+
+#: ../admin/views/testimonials/index.php:375
+msgid "OK"
+msgstr "OK"
+
+#: ../admin/views/testimonials/index.php:387
+#: ../admin/views/testimonials/index.php:491
+msgid "Testimonial is deleted successfully"
+msgstr "Témoignage est supprimé avec succès"
+
+#: ../admin/views/testimonials/index.php:390
+msgid "Testimonial is published successfully"
+msgstr "Témoignage est publié avec succès"
+
+#: ../admin/views/testimonials/index.php:393
+msgid "Testimonial is unpublished successfully"
+msgstr "Témoignage est inédit avec succès"
+
+#: ../admin/views/testimonials/index.php:481
+msgid "Are you sure to delete this item?"
+msgstr "Etes-vous sûr de vouloir supprimer cet article?"
+
+#: ../shortcodes/views/testimonials/breadcrumb.php:9
+msgid "Homepage"
+msgstr "Page d'accueil"
+
+#: ../shortcodes/views/testimonials/display.php:23
+msgid "No Testimonial"
+msgstr "Sans témoignages"
+
+#: ../widgets/testimonials/testimonials-form.php:3
+msgid "Widget Title"
+msgstr "Titre Widget"
+
+#~ msgid "This testimonial does not exist"
+#~ msgstr "Ce témoignage n'existe pas"
+
+#~ msgid "Access Denied!"
+#~ msgstr "Accès refusé!"
+
+#~ msgid "select image"
+#~ msgstr "Sélectionner une image"
+
+#~ msgid "The field is required"
+#~ msgstr "Le champ est obligatoire"
+
+#~ msgid "New testimonial"
+#~ msgstr "Nouveau témoignage"
+
+#~ msgid "Select Action"
+#~ msgstr "Sélectionner une action"
+
+#~ msgid "Please enter customer name"
+#~ msgstr "Veuillez entrer le nom du client"
+
+#~ msgid "Shortcode"
+#~ msgstr "Shortcode"
+
+#~ msgid "<center>No Testimonial</center>"
+#~ msgstr "<centre>Pas Témoignage</centre>"
+
+#~ msgid "Confirm"
+#~ msgstr "Confirmer"

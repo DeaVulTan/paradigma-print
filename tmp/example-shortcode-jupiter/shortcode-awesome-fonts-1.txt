@@ -1,0 +1,1586 @@
+
+<h2 class="headline"><span>Web Application Icons</span></h2>
+<div class="row multi-columns-row">
+	<div class="fa-hover col-md-4 col-sm-4">
+		<p class="icon"><i class="fa fa-adjust"></i>  fa-adjust</p>	
+		{html:code highline=false}{html:i class="fa fa-adjust"}{/html:code}
+	</div>
+
+	<div class="fa-hover col-md-4 col-sm-4">
+		<p class="icon"><i class="fa fa-anchor"></i>  fa-anchor</p>	
+		{html:code highline=false}{html:i class="fa fa-anchor"}{/html:code}
+	</div>
+
+	<div class="fa-hover col-md-4 col-sm-4">
+		<p class="icon"><i class="fa fa-archive"></i>  fa-archive</p>	
+		{html:code highline=false}{html:i class="fa fa-archive"}{/html:code}
+	</div>
+	
+	<div class="fa-hover col-md-4 col-sm-4">
+        <p class="icon"><i class="fa  fa-area-chart"></i>   fa-area-chart</p>   
+        {html:code highline=false}{html:i class="fa  fa-area-chart"}{/html:code}
+    </div>
+
+	<div class="fa-hover col-md-4 col-sm-4">
+		<p class="icon"><i class="fa fa-arrows"></i>  fa-arrows</p>	
+		{html:code highline=false}{html:i class="fa fa-arrows"}{/html:code}
+	</div>
+	
+	<div class="fa-hover col-md-4 col-sm-4">
+        <p class="icon"><i class="fa  fa-at"></i>   fa-at</p> 
+        {html:code highline=false}{html:i class="fa  fa-at"}{/html:code}
+    </div>
+
+	<div class="fa-hover col-md-4 col-sm-4">
+		<p class="icon"><i class="fa fa-arrows-h"></i>  fa-arrows-h</p>	
+		{html:code highline=false}{html:i class="fa fa-arrows-h"}{/html:code}
+	</div>
+
+	<div class="fa-hover col-md-4 col-sm-4">
+		<p class="icon"><i class="fa fa-arrows-v"></i>  fa-arrows-v</p>	
+		{html:code highline=false}{html:i class="fa fa-arrows-v"}{/html:code}
+	</div>
+
+	<div class="fa-hover col-md-4 col-sm-4">
+		<p class="icon"><i class="fa fa-asterisk"></i>  fa-asterisk</p>	
+		{html:code highline=false}{html:i class="fa fa-asterisk"}{/html:code}
+	</div>
+
+	<div class="fa-hover col-md-4 col-sm-4">
+		<p class="icon"><i class="fa fa-automobile"></i>  fa-automobile (alias)</p>	
+		{html:code highline=false}{html:i class="fa fa-automobile"}{/html:code}
+	</div>
+    
+    <div class="fa-hover col-md-4 col-sm-4">
+        <p class="icon"><i class="fa  fa-binoculars"></i>   fa-binoculars</p> 
+        {html:code highline=false}{html:i class="fa  fa-binoculars"}{/html:code}
+    </div>
+    
+	<div class="fa-hover col-md-4 col-sm-4">
+		<p class="icon"><i class="fa fa-ban"></i>  fa-ban</p>	
+		{html:code highline=false}{html:i class="fa fa-ban"}{/html:code}
+	</div>
+	
+	<div class="fa-hover col-md-4 col-sm-4">
+        <p class="icon"><i class="fa  fa-line-chart"></i>   fa-line-chart</p>   
+        {html:code highline=false}{html:i class="fa  fa-line-chart"}{/html:code}
+    </div>
+    
+    <div class="fa-hover col-md-4 col-sm-4">
+        <p class="icon"><i class="fa  fa-cc"></i>   fa-cc</p>   
+        {html:code highline=false}{html:i class="fa  fa-cc"}{/html:code}
+    </div>
+	
+	<div class="fa-hover col-md-4 col-sm-4">
+        <p class="icon"><i class="fa  fa-bicycle"></i>   fa-bicycle</p>   
+        {html:code highline=false}{html:i class=" fa-bicycle"}{/html:code}
+    </div>
+
+	<div class="fa-hover col-md-4 col-sm-4">
+		<p class="icon"><i class="fa fa-bank"></i>  fa-bank (alias)</p>	
+		{html:code highline=false}{html:i class="fa fa-bank"}{/html:code}
+	</div>
+    
+    <div class="fa-hover col-md-4 col-sm-4">
+        <p class="icon"><i class="fa  fa-wifi"></i>   fa-wifi (alias)</p> 
+        {html:code highline=false}{html:i class="fa  fa-wifi"}{/html:code}
+    </div>
+    
+	<div class="fa-hover col-md-4 col-sm-4">
+		<p class="icon"><i class="fa fa-bar-chart-o"></i>  fa-bar-chart-o</p>	
+		{html:code highline=false}{html:i class="fa fa-bar-chart-o"}{/html:code}
+	</div>
+	
+	<div class="fa-hover col-md-4 col-sm-4">
+        <p class="icon"><i class="fa  fa-toggle-on"></i>   fa-toggle-on</p>   
+        {html:code highline=false}{html:i class=" fa-toggle-on"}{/html:code}
+    </div>
+
+	<div class="fa-hover col-md-4 col-sm-4">
+		<p class="icon"><i class="fa fa-barcode"></i>  fa-barcode</p>	
+		{html:code highline=false}{html:i class="fa fa-barcode"}{/html:code}
+	</div>
+	
+	<div class="fa-hover col-md-4 col-sm-4">
+        <p class="icon"><i class="fa fa-birthday-cake"></i>  fa-birthday-cake</p>   
+        {html:code highline=false}{html:i class="fa fa-birthday-cake"}{/html:code}
+    </div>
+    
+    <div class="fa-hover col-md-4 col-sm-4">
+        <p class="icon"><i class="fa  fa-calculator"></i>   fa-calculator</p>   
+        {html:code highline=false}{html:i class="fa  fa-calculator"}{/html:code}
+    </div>
+    
+     <div class="fa-hover col-md-4 col-sm-4">
+        <p class="icon"><i class="fa   fa-copyright"></i>    fa-copyright</p>   
+        {html:code highline=false}{html:i class="fa   fa-copyright"}{/html:code}
+    </div>
+    
+    <div class="fa-hover col-md-4 col-sm-4">
+        <p class="icon"><i class="fa  fa-paint-brush"></i>   fa-paint-brush</p>   
+        {html:code highline=false}{html:i class="fa  fa-paint-brush"}{/html:code}
+    </div>
+    
+    <div class="fa-hover col-md-4 col-sm-4">
+        <p class="icon"><i class="fa   fa-pie-chart"></i>    fa-pie-chart</p>   
+        {html:code highline=false}{html:i class="fa   fa-pie-chart"}{/html:code}
+    </div>
+    
+    <div class="fa-hover col-md-4 col-sm-4">
+        <p class="icon"><i class="fa   fa-eyedropper"></i>    fa-eyedropper</p>   
+        {html:code highline=false}{html:i class="fa  fa-eyedropper"}{/html:code}
+    </div>
+    
+	<div class="fa-hover col-md-4 col-sm-4">
+		<p class="icon"><i class="fa fa-bars"></i>  fa-bars</p>	
+		{html:code highline=false}{html:i class="fa fa-bars"}{/html:code}
+	</div>
+	
+	<div class="fa-hover col-md-4 col-sm-4">
+        <p class="icon"><i class="fa  fa-toggle-off"></i>   fa-toggle-off</p> 
+        {html:code highline=false}{html:i class="fa  fa-toggle-off"}{/html:code}
+    </div>
+
+	<div class="fa-hover col-md-4 col-sm-4">
+		<p class="icon"><i class="fa fa-beer"></i>  fa-beer</p>	
+		{html:code highline=false}{html:i class="fa fa-beer"}{/html:code}
+	</div>
+	
+	<div class="fa-hover col-md-4 col-sm-4">
+        <p class="icon"><i class="fa fa-bell-slash-o"></i>  fa-bell-slash-o</p> 
+        {html:code highline=false}{html:i class="fa fa-bell-slash-o"}{/html:code}
+    </div>
+
+	<div class="fa-hover col-md-4 col-sm-4">
+		<p class="icon"><i class="fa fa-bell"></i>  fa-bell</p>	
+		{html:code highline=false}{html:i class="fa fa-bell"}{/html:code}
+	</div>
+
+	<div class="fa-hover col-md-4 col-sm-4">
+		<p class="icon"><i class="fa fa-bell-o"></i>  fa-bell-o</p>	
+		{html:code highline=false}{html:i class="fa fa-bell-o"}{/html:code}
+	</div>
+
+	<div class="fa-hover col-md-4 col-sm-4">
+		<p class="icon"><i class="fa fa-bolt"></i>  fa-bolt</p>	
+		{html:code highline=false}{html:i class="fa fa-bolt"}{/html:code}
+	</div>
+	
+	<div class="fa-hover col-md-4 col-sm-4">
+        <p class="icon"><i class="fa fa-futbol-o"></i>  fa-futbol-o</p> 
+        {html:code highline=false}{html:i class="fa fa-futbol-o"}{/html:code}
+    </div>
+
+	<div class="fa-hover col-md-4 col-sm-4">
+		<p class="icon"><i class="fa fa-bomb"></i>  fa-bomb</p>	
+		{html:code highline=false}{html:i class="fa fa-bomb"}{/html:code}
+	</div>
+
+	<div class="fa-hover col-md-4 col-sm-4">
+		<p class="icon"><i class="fa fa-book"></i>  fa-book</p>	
+		{html:code highline=false}{html:i class="fa fa-book"}{/html:code}
+	</div>
+
+	<div class="fa-hover col-md-4 col-sm-4">
+		<p class="icon"><i class="fa fa-bookmark"></i>  fa-bookmark</p>	
+		{html:code highline=false}{html:i class="fa fa-bookmark"}{/html:code}
+	</div>
+
+	<div class="fa-hover col-md-4 col-sm-4">
+		<p class="icon"><i class="fa fa-bookmark-o"></i>  fa-bookmark-o</p>	
+		{html:code highline=false}{html:i class="fa fa-bookmark-o"}{/html:code}
+	</div>
+
+	<div class="fa-hover col-md-4 col-sm-4">
+		<p class="icon"><i class="fa fa-briefcase"></i>  fa-briefcase</p>	
+		{html:code highline=false}{html:i class="fa fa-briefcase"}{/html:code}
+	</div>
+
+	<div class="fa-hover col-md-4 col-sm-4">
+		<p class="icon"><i class="fa fa-bug"></i>  fa-bug</p>	
+		{html:code highline=false}{html:i class="fa fa-bug"}{/html:code}
+	</div>
+
+	<div class="fa-hover col-md-4 col-sm-4">
+		<p class="icon"><i class="fa fa-building"></i>  fa-building</p>	
+		{html:code highline=false}{html:i class="fa fa-building"}{/html:code}
+	</div>
+	
+	<div class="fa-hover col-md-4 col-sm-4">
+        <p class="icon"><i class="fa  fa-bus"></i>   fa-bus</p> 
+        {html:code highline=false}{html:i class="fa  fa-bus"}{/html:code}
+    </div>
+    
+	<div class="fa-hover col-md-4 col-sm-4">
+		<p class="icon"><i class="fa fa-building-o"></i>  fa-building-o</p>	
+		{html:code highline=false}{html:i class="fa fa-building-o"}{/html:code}
+	</div>
+
+	<div class="fa-hover col-md-4 col-sm-4">
+		<p class="icon"><i class="fa fa-bullhorn"></i>  fa-bullhorn</p>	
+		{html:code highline=false}{html:i class="fa fa-bullhorn"}{/html:code}
+	</div>
+
+	<div class="fa-hover col-md-4 col-sm-4">
+		<p class="icon"><i class="fa fa-bullseye"></i>  fa-bullseye</p>	
+		{html:code highline=false}{html:i class="fa fa-bullseye"}{/html:code}
+	</div>
+
+	<div class="fa-hover col-md-4 col-sm-4">
+		<p class="icon"><i class="fa fa-cab"></i>  fa-cab (alias)</p>	
+		{html:code highline=false}{html:i class="fa fa-cab"}{/html:code}
+	</div>
+
+	<div class="fa-hover col-md-4 col-sm-4">
+		<p class="icon"><i class="fa fa-calendar"></i>  fa-calendar</p>	
+		{html:code highline=false}{html:i class="fa fa-calendar"}{/html:code}
+	</div>
+
+	<div class="fa-hover col-md-4 col-sm-4">
+		<p class="icon"><i class="fa fa-calendar-o"></i>  fa-calendar-o</p>	
+		{html:code highline=false}{html:i class="fa fa-calendar-o"}{/html:code}
+	</div>
+
+	<div class="fa-hover col-md-4 col-sm-4">
+		<p class="icon"><i class="fa fa-camera"></i>  fa-camera</p>	
+		{html:code highline=false}{html:i class="fa fa-camera"}{/html:code}
+	</div>
+
+	<div class="fa-hover col-md-4 col-sm-4">
+		<p class="icon"><i class="fa fa-camera-retro"></i>  fa-camera-retro</p>	
+		{html:code highline=false}{html:i class="fa fa-camera-retro"}{/html:code}
+	</div>
+
+	<div class="fa-hover col-md-4 col-sm-4">
+		<p class="icon"><i class="fa fa-car"></i>  fa-car</p>	
+		{html:code highline=false}{html:i class="fa fa-car"}{/html:code}
+	</div>
+
+	<div class="fa-hover col-md-4 col-sm-4">
+		<p class="icon"><i class="fa fa-caret-square-o-down"></i>  fa-caret-square-o-down</p>	
+		{html:code highline=false}{html:i class="fa fa-caret-square-o-down"}{/html:code}
+	</div>
+
+	<div class="fa-hover col-md-4 col-sm-4">
+		<p class="icon"><i class="fa fa-caret-square-o-left"></i>  fa-caret-square-o-left</p>	
+		{html:code highline=false}{html:i class="fa fa-caret-square-o-left"}{/html:code}
+	</div>
+
+	<div class="fa-hover col-md-4 col-sm-4">
+		<p class="icon"><i class="fa fa-caret-square-o-right"></i>  fa-caret-square-o-right</p>	
+		{html:code highline=false}{html:i class="fa fa-caret-square-o-right"}{/html:code}
+	</div>
+
+	<div class="fa-hover col-md-4 col-sm-4">
+		<p class="icon"><i class="fa fa-caret-square-o-up"></i>  fa-caret-square-o-up</p>	
+		{html:code highline=false}{html:i class="fa fa-caret-square-o-up"}{/html:code}
+	</div>
+
+	<div class="fa-hover col-md-4 col-sm-4">
+		<p class="icon"><i class="fa fa-certificate"></i>  fa-certificate</p>	
+		{html:code highline=false}{html:i class="fa fa-certificate"}{/html:code}
+	</div>
+
+	<div class="fa-hover col-md-4 col-sm-4">
+		<p class="icon"><i class="fa fa-check"></i>  fa-check</p>	
+		{html:code highline=false}{html:i class="fa fa-check"}{/html:code}
+	</div>
+
+	<div class="fa-hover col-md-4 col-sm-4">
+		<p class="icon"><i class="fa fa-check-circle"></i>  fa-check-circle</p>	
+		{html:code highline=false}{html:i class="fa fa-check-circle"}{/html:code}
+	</div>
+
+	<div class="fa-hover col-md-4 col-sm-4">
+		<p class="icon"><i class="fa fa-check-circle-o"></i>  fa-check-circle-o</p>	
+		{html:code highline=false}{html:i class="fa fa-check-circle-o"}{/html:code}
+	</div>
+
+	<div class="fa-hover col-md-4 col-sm-4">
+		<p class="icon"><i class="fa fa-check-square"></i>  fa-check-square</p>	
+		{html:code highline=false}{html:i class="fa fa-check-square"}{/html:code}
+	</div>
+
+	<div class="fa-hover col-md-4 col-sm-4">
+		<p class="icon"><i class="fa fa-check-square-o"></i>  fa-check-square-o</p>	
+		{html:code highline=false}{html:i class="fa fa-check-square-o"}{/html:code}
+	</div>
+
+	<div class="fa-hover col-md-4 col-sm-4">
+		<p class="icon"><i class="fa fa-child"></i>  fa-child</p>	
+		{html:code highline=false}{html:i class="fa fa-child"}{/html:code}
+	</div>
+
+	<div class="fa-hover col-md-4 col-sm-4">
+		<p class="icon"><i class="fa fa-circle"></i>  fa-circle</p>	
+		{html:code highline=false}{html:i class="fa fa-circle"}{/html:code}
+	</div>
+
+	<div class="fa-hover col-md-4 col-sm-4">
+		<p class="icon"><i class="fa fa-circle-o"></i>  fa-circle-o</p>	
+		{html:code highline=false}{html:i class="fa fa-circle-o"}{/html:code}
+	</div>
+
+	<div class="fa-hover col-md-4 col-sm-4">
+		<p class="icon"><i class="fa fa-circle-o-notch"></i>  fa-circle-o-notch</p>	
+		{html:code highline=false}{html:i class="fa fa-circle-o-notch"}{/html:code}
+	</div>
+
+	<div class="fa-hover col-md-4 col-sm-4">
+		<p class="icon"><i class="fa fa-circle-thin"></i>  fa-circle-thin</p>	
+		{html:code highline=false}{html:i class="fa fa-circle-thin"}{/html:code}
+	</div>
+
+	<div class="fa-hover col-md-4 col-sm-4">
+		<p class="icon"><i class="fa fa-clock-o"></i>  fa-clock-o</p>	
+		{html:code highline=false}{html:i class="fa fa-clock-o"}{/html:code}
+	</div>
+
+	<div class="fa-hover col-md-4 col-sm-4">
+		<p class="icon"><i class="fa fa-cloud"></i>  fa-cloud</p>	
+		{html:code highline=false}{html:i class="fa fa-cloud"}{/html:code}
+	</div>
+
+	<div class="fa-hover col-md-4 col-sm-4">
+		<p class="icon"><i class="fa fa-cloud-download"></i>  fa-cloud-download</p>	
+		{html:code highline=false}{html:i class="fa fa-cloud-download"}{/html:code}
+	</div>
+
+	<div class="fa-hover col-md-4 col-sm-4">
+		<p class="icon"><i class="fa fa-cloud-upload"></i>  fa-cloud-upload</p>	
+		{html:code highline=false}{html:i class="fa fa-cloud-upload"}{/html:code}
+	</div>
+
+	<div class="fa-hover col-md-4 col-sm-4">
+		<p class="icon"><i class="fa fa-code"></i>  fa-code</p>	
+		{html:code highline=false}{html:i class="fa fa-code"}{/html:code}
+	</div>
+
+	<div class="fa-hover col-md-4 col-sm-4">
+		<p class="icon"><i class="fa fa-code-fork"></i>  fa-code-fork</p>	
+		{html:code highline=false}{html:i class="fa fa-code-fork"}{/html:code}
+	</div>
+
+	<div class="fa-hover col-md-4 col-sm-4">
+		<p class="icon"><i class="fa fa-coffee"></i>  fa-coffee</p>	
+		{html:code highline=false}{html:i class="fa fa-coffee"}{/html:code}
+	</div>
+
+	<div class="fa-hover col-md-4 col-sm-4">
+		<p class="icon"><i class="fa fa-cog"></i>  fa-cog</p>	
+		{html:code highline=false}{html:i class="fa fa-cog"}{/html:code}
+	</div>
+
+	<div class="fa-hover col-md-4 col-sm-4">
+		<p class="icon"><i class="fa fa-cogs"></i>  fa-cogs</p>	
+		{html:code highline=false}{html:i class="fa fa-cogs"}{/html:code}
+	</div>
+
+	<div class="fa-hover col-md-4 col-sm-4">
+		<p class="icon"><i class="fa fa-comment"></i>  fa-comment</p>	
+		{html:code highline=false}{html:i class="fa fa-comment"}{/html:code}
+	</div>
+
+	<div class="fa-hover col-md-4 col-sm-4">
+		<p class="icon"><i class="fa fa-comment-o"></i>  fa-comment-o</p>	
+		{html:code highline=false}{html:i class="fa fa-comment-o"}{/html:code}
+	</div>
+
+	<div class="fa-hover col-md-4 col-sm-4">
+		<p class="icon"><i class="fa fa-comments"></i>  fa-comments</p>	
+		{html:code highline=false}{html:i class="fa fa-comments"}{/html:code}
+	</div>
+
+	<div class="fa-hover col-md-4 col-sm-4">
+		<p class="icon"><i class="fa fa-comments-o"></i>  fa-comments-o</p>	
+		{html:code highline=false}{html:i class="fa fa-comments-o"}{/html:code}
+	</div>
+
+	<div class="fa-hover col-md-4 col-sm-4">
+		<p class="icon"><i class="fa fa-compass"></i>  fa-compass</p>	
+		{html:code highline=false}{html:i class="fa fa-compass"}{/html:code}
+	</div>
+
+	<div class="fa-hover col-md-4 col-sm-4">
+		<p class="icon"><i class="fa fa-credit-card"></i>  fa-credit-card</p>	
+		{html:code highline=false}{html:i class="fa fa-credit-card"}{/html:code}
+	</div>
+
+	<div class="fa-hover col-md-4 col-sm-4">
+		<p class="icon"><i class="fa fa-crop"></i>  fa-crop</p>	
+		{html:code highline=false}{html:i class="fa fa-crop"}{/html:code}
+	</div>
+
+	<div class="fa-hover col-md-4 col-sm-4">
+		<p class="icon"><i class="fa fa-crosshairs"></i>  fa-crosshairs</p>	
+		{html:code highline=false}{html:i class="fa fa-crosshairs"}{/html:code}
+	</div>
+
+	<div class="fa-hover col-md-4 col-sm-4">
+		<p class="icon"><i class="fa fa-cube"></i>  fa-cube</p>	
+		{html:code highline=false}{html:i class="fa fa-cube"}{/html:code}
+	</div>
+
+	<div class="fa-hover col-md-4 col-sm-4">
+		<p class="icon"><i class="fa fa-cubes"></i>  fa-cubes</p>	
+		{html:code highline=false}{html:i class="fa fa-cubes"}{/html:code}
+	</div>
+
+	<div class="fa-hover col-md-4 col-sm-4">
+		<p class="icon"><i class="fa fa-cutlery"></i>  fa-cutlery</p>	
+		{html:code highline=false}{html:i class="fa fa-cutlery"}{/html:code}
+	</div>
+
+	<div class="fa-hover col-md-4 col-sm-4">
+		<p class="icon"><i class="fa fa-dashboard"></i>  fa-dashboard (alias)</p>	
+		{html:code highline=false}{html:i class="fa fa-dashboard"}{/html:code}
+	</div>
+
+	<div class="fa-hover col-md-4 col-sm-4">
+		<p class="icon"><i class="fa fa-database"></i>  fa-database</p>	
+		{html:code highline=false}{html:i class="fa fa-database"}{/html:code}
+	</div>
+
+	<div class="fa-hover col-md-4 col-sm-4">
+		<p class="icon"><i class="fa fa-desktop"></i>  fa-desktop</p>	
+		{html:code highline=false}{html:i class="fa fa-desktop"}{/html:code}
+	</div>
+
+	<div class="fa-hover col-md-4 col-sm-4">
+		<p class="icon"><i class="fa fa-dot-circle-o"></i>  fa-dot-circle-o</p>	
+		{html:code highline=false}{html:i class="fa fa-dot-circle-o"}{/html:code}
+	</div>
+
+	<div class="fa-hover col-md-4 col-sm-4">
+		<p class="icon"><i class="fa fa-download"></i>  fa-download</p>	
+		{html:code highline=false}{html:i class="fa fa-download"}{/html:code}
+	</div>
+
+	<div class="fa-hover col-md-4 col-sm-4">
+		<p class="icon"><i class="fa fa-edit"></i>  fa-edit (alias)</p>	
+		{html:code highline=false}{html:i class="fa fa-edit"}{/html:code}
+	</div>
+
+	<div class="fa-hover col-md-4 col-sm-4">
+		<p class="icon"><i class="fa fa-ellipsis-h"></i>  fa-ellipsis-h</p>	
+		{html:code highline=false}{html:i class="fa fa-ellipsis-h"}{/html:code}
+	</div>
+
+	<div class="fa-hover col-md-4 col-sm-4">
+		<p class="icon"><i class="fa fa-ellipsis-v"></i>  fa-ellipsis-v</p>	
+		{html:code highline=false}{html:i class="fa fa-ellipsis-v"}{/html:code}
+	</div>
+
+	<div class="fa-hover col-md-4 col-sm-4">
+		<p class="icon"><i class="fa fa-envelope"></i>  fa-envelope</p>	
+		{html:code highline=false}{html:i class="fa fa-envelope"}{/html:code}
+	</div>
+
+	<div class="fa-hover col-md-4 col-sm-4">
+		<p class="icon"><i class="fa fa-envelope-o"></i>  fa-envelope-o</p>	
+		{html:code highline=false}{html:i class="fa fa-envelope-o"}{/html:code}
+	</div>
+
+	<div class="fa-hover col-md-4 col-sm-4">
+		<p class="icon"><i class="fa fa-envelope-square"></i>  fa-envelope-square</p>	
+		{html:code highline=false}{html:i class="fa fa-envelope-square"}{/html:code}
+	</div>
+	
+	<div class="fa-hover col-md-4 col-sm-4">
+        <p class="icon"><i class="fa fa-newspaper-o"></i>  fa-newspaper-o</p>   
+        {html:code highline=false}{html:i class="fa fa-newspaper-o"}{/html:code}
+    </div>
+
+	<div class="fa-hover col-md-4 col-sm-4">
+		<p class="icon"><i class="fa fa-eraser"></i>  fa-eraser</p>	
+		{html:code highline=false}{html:i class="fa fa-eraser"}{/html:code}
+	</div>
+
+	<div class="fa-hover col-md-4 col-sm-4">
+		<p class="icon"><i class="fa fa-exchange"></i>  fa-exchange</p>	
+		{html:code highline=false}{html:i class="fa fa-exchange"}{/html:code}
+	</div>
+
+	<div class="fa-hover col-md-4 col-sm-4">
+		<p class="icon"><i class="fa fa-exclamation"></i>  fa-exclamation</p>	
+		{html:code highline=false}{html:i class="fa fa-exclamation"}{/html:code}
+	</div>
+
+	<div class="fa-hover col-md-4 col-sm-4">
+		<p class="icon"><i class="fa fa-exclamation-circle"></i>  fa-exclamation-circle</p>	
+		{html:code highline=false}{html:i class="fa fa-exclamation-circle"}{/html:code}
+	</div>
+
+	<div class="fa-hover col-md-4 col-sm-4">
+		<p class="icon"><i class="fa fa-exclamation-triangle"></i>  fa-exclamation-triangle</p>	
+		{html:code highline=false}{html:i class="fa fa-exclamation-triangle"}{/html:code}
+	</div>
+	
+	<div class="fa-hover col-md-4 col-sm-4">
+        <p class="icon"><i class="fa  fa-plug"></i>   fa-plug</p> 
+        {html:code highline=false}{html:i class="fa  fa-plug"}{/html:code}
+    </div>
+
+	<div class="fa-hover col-md-4 col-sm-4">
+		<p class="icon"><i class="fa fa-external-link"></i>  fa-external-link</p>	
+		{html:code highline=false}{html:i class="fa fa-external-link"}{/html:code}
+	</div>
+
+	<div class="fa-hover col-md-4 col-sm-4">
+		<p class="icon"><i class="fa fa-external-link-square"></i>  fa-external-link-square</p>	
+		{html:code highline=false}{html:i class="fa fa-external-link-square"}{/html:code}
+	</div>
+
+	<div class="fa-hover col-md-4 col-sm-4">
+		<p class="icon"><i class="fa fa-eye"></i>  fa-eye</p>	
+		{html:code highline=false}{html:i class="fa fa-eye"}{/html:code}
+	</div>
+
+	<div class="fa-hover col-md-4 col-sm-4">
+		<p class="icon"><i class="fa fa-eye-slash"></i>  fa-eye-slash</p>	
+		{html:code highline=false}{html:i class="fa fa-eye-slash"}{/html:code}
+	</div>
+
+	<div class="fa-hover col-md-4 col-sm-4">
+		<p class="icon"><i class="fa fa-fax"></i>  fa-fax</p>	
+		{html:code highline=false}{html:i class="fa fa-fax"}{/html:code}
+	</div>
+
+	<div class="fa-hover col-md-4 col-sm-4">
+		<p class="icon"><i class="fa fa-female"></i>  fa-female</p>	
+		{html:code highline=false}{html:i class="fa fa-female"}{/html:code}
+	</div>
+
+	<div class="fa-hover col-md-4 col-sm-4">
+		<p class="icon"><i class="fa fa-fighter-jet"></i>  fa-fighter-jet</p>	
+		{html:code highline=false}{html:i class="fa fa-fighter-jet"}{/html:code}
+	</div>
+
+	<div class="fa-hover col-md-4 col-sm-4">
+		<p class="icon"><i class="fa fa-file-archive-o"></i>  fa-file-archive-o</p>	
+		{html:code highline=false}{html:i class="fa fa-file-archive-o"}{/html:code}
+	</div>
+
+	<div class="fa-hover col-md-4 col-sm-4">
+		<p class="icon"><i class="fa fa-file-audio-o"></i>  fa-file-audio-o</p>	
+		{html:code highline=false}{html:i class="fa fa-file-audio-o"}{/html:code}
+	</div>
+
+	<div class="fa-hover col-md-4 col-sm-4">
+		<p class="icon"><i class="fa fa-file-code-o"></i>  fa-file-code-o</p>	
+		{html:code highline=false}{html:i class="fa fa-file-code-o"}{/html:code}
+	</div>
+
+	<div class="fa-hover col-md-4 col-sm-4">
+		<p class="icon"><i class="fa fa-file-excel-o"></i>  fa-file-excel-o</p>	
+		{html:code highline=false}{html:i class="fa fa-file-excel-o"}{/html:code}
+	</div>
+
+	<div class="fa-hover col-md-4 col-sm-4">
+		<p class="icon"><i class="fa fa-file-image-o"></i>  fa-file-image-o</p>	
+		{html:code highline=false}{html:i class="fa fa-file-image-o"}{/html:code}
+	</div>
+
+	<div class="fa-hover col-md-4 col-sm-4">
+		<p class="icon"><i class="fa fa-file-movie-o"></i>  fa-file-movie-o (alias)</p>	
+		{html:code highline=false}{html:i class="fa fa-file-movie-o"}{/html:code}
+	</div>
+
+	<div class="fa-hover col-md-4 col-sm-4">
+		<p class="icon"><i class="fa fa-file-pdf-o"></i>  fa-file-pdf-o</p>	
+		{html:code highline=false}{html:i class="fa fa-file-pdf-o"}{/html:code}
+	</div>
+
+	<div class="fa-hover col-md-4 col-sm-4">
+		<p class="icon"><i class="fa fa-file-photo-o"></i>  fa-file-photo-o (alias)</p>	
+		{html:code highline=false}{html:i class="fa fa-file-photo-o"}{/html:code}
+	</div>
+
+	<div class="fa-hover col-md-4 col-sm-4">
+		<p class="icon"><i class="fa fa-file-picture-o"></i>  fa-file-picture-o (alias)</p>	
+		{html:code highline=false}{html:i class="fa fa-file-picture-o"}{/html:code}
+	</div>
+
+	<div class="fa-hover col-md-4 col-sm-4">
+		<p class="icon"><i class="fa fa-file-powerpoint-o"></i>  fa-file-powerpoint-o</p>	
+		{html:code highline=false}{html:i class="fa fa-file-powerpoint-o"}{/html:code}
+	</div>
+
+	<div class="fa-hover col-md-4 col-sm-4">
+		<p class="icon"><i class="fa fa-file-sound-o"></i>  fa-file-sound-o (alias)</p>	
+		{html:code highline=false}{html:i class="fa fa-file-sound-o"}{/html:code}
+	</div>
+
+	<div class="fa-hover col-md-4 col-sm-4">
+		<p class="icon"><i class="fa fa-file-video-o"></i>  fa-file-video-o</p>	
+		{html:code highline=false}{html:i class="fa fa-file-video-o"}{/html:code}
+	</div>
+
+	<div class="fa-hover col-md-4 col-sm-4">
+		<p class="icon"><i class="fa fa-file-word-o"></i>  fa-file-word-o</p>	
+		{html:code highline=false}{html:i class="fa fa-file-word-o"}{/html:code}
+	</div>
+
+	<div class="fa-hover col-md-4 col-sm-4">
+		<p class="icon"><i class="fa fa-file-zip-o"></i>  fa-file-zip-o (alias)</p>	
+		{html:code highline=false}{html:i class="fa fa-file-zip-o"}{/html:code}
+	</div>
+
+	<div class="fa-hover col-md-4 col-sm-4">
+		<p class="icon"><i class="fa fa-film"></i>  fa-film</p>	
+		{html:code highline=false}{html:i class="fa fa-film"}{/html:code}
+	</div>
+
+	<div class="fa-hover col-md-4 col-sm-4">
+		<p class="icon"><i class="fa fa-filter"></i>  fa-filter</p>	
+		{html:code highline=false}{html:i class="fa fa-filter"}{/html:code}
+	</div>
+
+	<div class="fa-hover col-md-4 col-sm-4">
+		<p class="icon"><i class="fa fa-fire"></i>  fa-fire</p>	
+		{html:code highline=false}{html:i class="fa fa-fire"}{/html:code}
+	</div>
+
+	<div class="fa-hover col-md-4 col-sm-4">
+		<p class="icon"><i class="fa fa-fire-extinguisher"></i>  fa-fire-extinguisher</p>	
+		{html:code highline=false}{html:i class="fa fa-fire-extinguisher"}{/html:code}
+	</div>
+
+	<div class="fa-hover col-md-4 col-sm-4">
+		<p class="icon"><i class="fa fa-flag"></i>  fa-flag</p>	
+		{html:code highline=false}{html:i class="fa fa-flag"}{/html:code}
+	</div>
+
+	<div class="fa-hover col-md-4 col-sm-4">
+		<p class="icon"><i class="fa fa-flag-checkered"></i>  fa-flag-checkered</p>	
+		{html:code highline=false}{html:i class="fa fa-flag-checkered"}{/html:code}
+	</div>
+
+	<div class="fa-hover col-md-4 col-sm-4">
+		<p class="icon"><i class="fa fa-flag-o"></i>  fa-flag-o</p>	
+		{html:code highline=false}{html:i class="fa fa-flag-o"}{/html:code}
+	</div>
+
+	<div class="fa-hover col-md-4 col-sm-4">
+		<p class="icon"><i class="fa fa-flash"></i>  fa-flash (alias)</p>	
+		{html:code highline=false}{html:i class="fa fa-flash"}{/html:code}
+	</div>
+
+	<div class="fa-hover col-md-4 col-sm-4">
+		<p class="icon"><i class="fa fa-flask"></i>  fa-flask</p>	
+		{html:code highline=false}{html:i class="fa fa-flask"}{/html:code}
+	</div>
+
+	<div class="fa-hover col-md-4 col-sm-4">
+		<p class="icon"><i class="fa fa-folder"></i>  fa-folder</p>	
+		{html:code highline=false}{html:i class="fa fa-folder"}{/html:code}
+	</div>
+
+	<div class="fa-hover col-md-4 col-sm-4">
+		<p class="icon"><i class="fa fa-folder-o"></i>  fa-folder-o</p>	
+		{html:code highline=false}{html:i class="fa fa-folder-o"}{/html:code}
+	</div>
+
+	<div class="fa-hover col-md-4 col-sm-4">
+		<p class="icon"><i class="fa fa-folder-open"></i>  fa-folder-open</p>	
+		{html:code highline=false}{html:i class="fa fa-folder-open"}{/html:code}
+	</div>
+
+	<div class="fa-hover col-md-4 col-sm-4">
+		<p class="icon"><i class="fa fa-folder-open-o"></i>  fa-folder-open-o</p>	
+		{html:code highline=false}{html:i class="fa fa-folder-open-o"}{/html:code}
+	</div>
+
+	<div class="fa-hover col-md-4 col-sm-4">
+		<p class="icon"><i class="fa fa-frown-o"></i>  fa-frown-o</p>	
+		{html:code highline=false}{html:i class="fa fa-frown-o"}{/html:code}
+	</div>
+
+	<div class="fa-hover col-md-4 col-sm-4">
+		<p class="icon"><i class="fa fa-gamepad"></i>  fa-gamepad</p>	
+		{html:code highline=false}{html:i class="fa fa-gamepad"}{/html:code}
+	</div>
+
+	<div class="fa-hover col-md-4 col-sm-4">
+		<p class="icon"><i class="fa fa-gavel"></i>  fa-gavel</p>	
+		{html:code highline=false}{html:i class="fa fa-gavel"}{/html:code}
+	</div>
+
+	<div class="fa-hover col-md-4 col-sm-4">
+		<p class="icon"><i class="fa fa-gear"></i>  fa-gear (alias)</p>	
+		{html:code highline=false}{html:i class="fa fa-gear"}{/html:code}
+	</div>
+
+	<div class="fa-hover col-md-4 col-sm-4">
+		<p class="icon"><i class="fa fa-gears"></i>  fa-gears (alias)</p>	
+		{html:code highline=false}{html:i class="fa fa-gears"}{/html:code}
+	</div>
+
+	<div class="fa-hover col-md-4 col-sm-4">
+		<p class="icon"><i class="fa fa-gift"></i>  fa-gift</p>	
+		{html:code highline=false}{html:i class="fa fa-gift"}{/html:code}
+	</div>
+
+	<div class="fa-hover col-md-4 col-sm-4">
+		<p class="icon"><i class="fa fa-glass"></i>  fa-glass</p>	
+		{html:code highline=false}{html:i class="fa fa-glass"}{/html:code}
+	</div>
+
+	<div class="fa-hover col-md-4 col-sm-4">
+		<p class="icon"><i class="fa fa-globe"></i>  fa-globe</p>	
+		{html:code highline=false}{html:i class="fa fa-globe"}{/html:code}
+	</div>
+
+	<div class="fa-hover col-md-4 col-sm-4">
+		<p class="icon"><i class="fa fa-graduation-cap"></i>  fa-graduation-cap</p>	
+		{html:code highline=false}{html:i class="fa fa-graduation-cap"}{/html:code}
+	</div>
+
+	<div class="fa-hover col-md-4 col-sm-4">
+		<p class="icon"><i class="fa fa-group"></i>  fa-group (alias)</p>	
+		{html:code highline=false}{html:i class="fa fa-group"}{/html:code}
+	</div>
+
+	<div class="fa-hover col-md-4 col-sm-4">
+		<p class="icon"><i class="fa fa-hdd-o"></i>  fa-hdd-o</p>	
+		{html:code highline=false}{html:i class="fa fa-hdd-o"}{/html:code}
+	</div>
+
+	<div class="fa-hover col-md-4 col-sm-4">
+		<p class="icon"><i class="fa fa-headphones"></i>  fa-headphones</p>	
+		{html:code highline=false}{html:i class="fa fa-headphones"}{/html:code}
+	</div>
+
+	<div class="fa-hover col-md-4 col-sm-4">
+		<p class="icon"><i class="fa fa-heart"></i>  fa-heart</p>	
+		{html:code highline=false}{html:i class="fa fa-heart"}{/html:code}
+	</div>
+
+	<div class="fa-hover col-md-4 col-sm-4">
+		<p class="icon"><i class="fa fa-heart-o"></i>  fa-heart-o</p>	
+		{html:code highline=false}{html:i class="fa fa-heart-o"}{/html:code}
+	</div>
+
+	<div class="fa-hover col-md-4 col-sm-4">
+		<p class="icon"><i class="fa fa-history"></i>  fa-history</p>	
+		{html:code highline=false}{html:i class="fa fa-history"}{/html:code}
+	</div>
+
+	<div class="fa-hover col-md-4 col-sm-4">
+		<p class="icon"><i class="fa fa-home"></i>  fa-home</p>	
+		{html:code highline=false}{html:i class="fa fa-home"}{/html:code}
+	</div>
+
+	<div class="fa-hover col-md-4 col-sm-4">
+		<p class="icon"><i class="fa fa-image"></i>  fa-image (alias)</p>	
+		{html:code highline=false}{html:i class="fa fa-image"}{/html:code}
+	</div>
+
+	<div class="fa-hover col-md-4 col-sm-4">
+		<p class="icon"><i class="fa fa-inbox"></i>  fa-inbox</p>	
+		{html:code highline=false}{html:i class="fa fa-inbox"}{/html:code}
+	</div>
+
+	<div class="fa-hover col-md-4 col-sm-4">
+		<p class="icon"><i class="fa fa-info"></i>  fa-info</p>	
+		{html:code highline=false}{html:i class="fa fa-info"}{/html:code}
+	</div>
+
+	<div class="fa-hover col-md-4 col-sm-4">
+		<p class="icon"><i class="fa fa-info-circle"></i>  fa-info-circle</p>	
+		{html:code highline=false}{html:i class="fa fa-info-circle"}{/html:code}
+	</div>
+
+	<div class="fa-hover col-md-4 col-sm-4">
+		<p class="icon"><i class="fa fa-institution"></i>  fa-institution (alias)</p>	
+		{html:code highline=false}{html:i class="fa fa-institution"}{/html:code}
+	</div>
+
+	<div class="fa-hover col-md-4 col-sm-4">
+		<p class="icon"><i class="fa fa-key"></i>  fa-key</p>	
+		{html:code highline=false}{html:i class="fa fa-key"}{/html:code}
+	</div>
+
+	<div class="fa-hover col-md-4 col-sm-4">
+		<p class="icon"><i class="fa fa-keyboard-o"></i>  fa-keyboard-o</p>	
+		{html:code highline=false}{html:i class="fa fa-keyboard-o"}{/html:code}
+	</div>
+
+	<div class="fa-hover col-md-4 col-sm-4">
+		<p class="icon"><i class="fa fa-language"></i>  fa-language</p>	
+		{html:code highline=false}{html:i class="fa fa-language"}{/html:code}
+	</div>
+
+	<div class="fa-hover col-md-4 col-sm-4">
+		<p class="icon"><i class="fa fa-laptop"></i>  fa-laptop</p>	
+		{html:code highline=false}{html:i class="fa fa-laptop"}{/html:code}
+	</div>
+
+	<div class="fa-hover col-md-4 col-sm-4">
+		<p class="icon"><i class="fa fa-leaf"></i>  fa-leaf</p>	
+		{html:code highline=false}{html:i class="fa fa-leaf"}{/html:code}
+	</div>
+
+	<div class="fa-hover col-md-4 col-sm-4">
+		<p class="icon"><i class="fa fa-legal"></i>  fa-legal (alias)</p>	
+		{html:code highline=false}{html:i class="fa fa-legal"}{/html:code}
+	</div>
+
+	<div class="fa-hover col-md-4 col-sm-4">
+		<p class="icon"><i class="fa fa-lemon-o"></i>  fa-lemon-o</p>	
+		{html:code highline=false}{html:i class="fa fa-lemon-o"}{/html:code}
+	</div>
+
+	<div class="fa-hover col-md-4 col-sm-4">
+		<p class="icon"><i class="fa fa-level-down"></i>  fa-level-down</p>	
+		{html:code highline=false}{html:i class="fa fa-level-down"}{/html:code}
+	</div>
+
+	<div class="fa-hover col-md-4 col-sm-4">
+		<p class="icon"><i class="fa fa-level-up"></i>  fa-level-up</p>	
+		{html:code highline=false}{html:i class="fa fa-level-up"}{/html:code}
+	</div>
+
+	<div class="fa-hover col-md-4 col-sm-4">
+		<p class="icon"><i class="fa fa-life-bouy"></i>  fa-life-bouy (alias)</p>	
+		{html:code highline=false}{html:i class="fa fa-life-bouy"}{/html:code}
+	</div>
+
+	<div class="fa-hover col-md-4 col-sm-4">
+		<p class="icon"><i class="fa fa-life-ring"></i>  fa-life-ring</p>	
+		{html:code highline=false}{html:i class="fa fa-life-ring"}{/html:code}
+	</div>
+
+	<div class="fa-hover col-md-4 col-sm-4">
+		<p class="icon"><i class="fa fa-life-saver"></i>  fa-life-saver (alias)</p>	
+		{html:code highline=false}{html:i class="fa fa-life-saver"}{/html:code}
+	</div>
+
+	<div class="fa-hover col-md-4 col-sm-4">
+		<p class="icon"><i class="fa fa-lightbulb-o"></i>  fa-lightbulb-o</p>	
+		{html:code highline=false}{html:i class="fa fa-lightbulb-o"}{/html:code}
+	</div>
+
+	<div class="fa-hover col-md-4 col-sm-4">
+		<p class="icon"><i class="fa fa-location-arrow"></i>  fa-location-arrow</p>	
+		{html:code highline=false}{html:i class="fa fa-location-arrow"}{/html:code}
+	</div>
+
+	<div class="fa-hover col-md-4 col-sm-4">
+		<p class="icon"><i class="fa fa-lock"></i>  fa-lock</p>	
+		{html:code highline=false}{html:i class="fa fa-lock"}{/html:code}
+	</div>
+
+	<div class="fa-hover col-md-4 col-sm-4">
+		<p class="icon"><i class="fa fa-magic"></i>  fa-magic</p>	
+		{html:code highline=false}{html:i class="fa fa-magic"}{/html:code}
+	</div>
+
+	<div class="fa-hover col-md-4 col-sm-4">
+		<p class="icon"><i class="fa fa-magnet"></i>  fa-magnet</p>	
+		{html:code highline=false}{html:i class="fa fa-magnet"}{/html:code}
+	</div>
+
+	<div class="fa-hover col-md-4 col-sm-4">
+		<p class="icon"><i class="fa fa-mail-forward"></i>  fa-mail-forward (alias)</p>	
+		{html:code highline=false}{html:i class="fa fa-mail-forward"}{/html:code}
+	</div>
+
+	<div class="fa-hover col-md-4 col-sm-4">
+		<p class="icon"><i class="fa fa-mail-reply"></i>  fa-mail-reply (alias)</p>	
+		{html:code highline=false}{html:i class="fa fa-mail-reply"}{/html:code}
+	</div>
+
+	<div class="fa-hover col-md-4 col-sm-4">
+		<p class="icon"><i class="fa fa-mail-reply-all"></i>  fa-mail-reply-all (alias)</p>	
+		{html:code highline=false}{html:i class="fa fa-mail-reply-all"}{/html:code}
+	</div>
+
+	<div class="fa-hover col-md-4 col-sm-4">
+		<p class="icon"><i class="fa fa-male"></i>  fa-male</p>	
+		{html:code highline=false}{html:i class="fa fa-male"}{/html:code}
+	</div>
+
+	<div class="fa-hover col-md-4 col-sm-4">
+		<p class="icon"><i class="fa fa-map-marker"></i>  fa-map-marker</p>	
+		{html:code highline=false}{html:i class="fa fa-map-marker"}{/html:code}
+	</div>
+
+	<div class="fa-hover col-md-4 col-sm-4">
+		<p class="icon"><i class="fa fa-meh-o"></i>  fa-meh-o</p>	
+		{html:code highline=false}{html:i class="fa fa-meh-o"}{/html:code}
+	</div>
+
+	<div class="fa-hover col-md-4 col-sm-4">
+		<p class="icon"><i class="fa fa-microphone"></i>  fa-microphone</p>	
+		{html:code highline=false}{html:i class="fa fa-microphone"}{/html:code}
+	</div>
+
+	<div class="fa-hover col-md-4 col-sm-4">
+		<p class="icon"><i class="fa fa-microphone-slash"></i>  fa-microphone-slash</p>	
+		{html:code highline=false}{html:i class="fa fa-microphone-slash"}{/html:code}
+	</div>
+
+	<div class="fa-hover col-md-4 col-sm-4">
+		<p class="icon"><i class="fa fa-minus"></i>  fa-minus</p>	
+		{html:code highline=false}{html:i class="fa fa-minus"}{/html:code}
+	</div>
+
+	<div class="fa-hover col-md-4 col-sm-4">
+		<p class="icon"><i class="fa fa-minus-circle"></i>  fa-minus-circle</p>	
+		{html:code highline=false}{html:i class="fa fa-minus-circle"}{/html:code}
+	</div>
+
+	<div class="fa-hover col-md-4 col-sm-4">
+		<p class="icon"><i class="fa fa-minus-square"></i>  fa-minus-square</p>	
+		{html:code highline=false}{html:i class="fa fa-minus-square"}{/html:code}
+	</div>
+
+	<div class="fa-hover col-md-4 col-sm-4">
+		<p class="icon"><i class="fa fa-minus-square-o"></i>  fa-minus-square-o</p>	
+		{html:code highline=false}{html:i class="fa fa-minus-square-o"}{/html:code}
+	</div>
+
+	<div class="fa-hover col-md-4 col-sm-4">
+		<p class="icon"><i class="fa fa-mobile"></i>  fa-mobile</p>	
+		{html:code highline=false}{html:i class="fa fa-mobile"}{/html:code}
+	</div>
+
+	<div class="fa-hover col-md-4 col-sm-4">
+		<p class="icon"><i class="fa fa-mobile-phone"></i>  fa-mobile-phone (alias)</p>	
+		{html:code highline=false}{html:i class="fa fa-mobile-phone"}{/html:code}
+	</div>
+
+	<div class="fa-hover col-md-4 col-sm-4">
+		<p class="icon"><i class="fa fa-money"></i>  fa-money</p>	
+		{html:code highline=false}{html:i class="fa fa-money"}{/html:code}
+	</div>
+
+	<div class="fa-hover col-md-4 col-sm-4">
+		<p class="icon"><i class="fa fa-moon-o"></i>  fa-moon-o</p>	
+		{html:code highline=false}{html:i class="fa fa-moon-o"}{/html:code}
+	</div>
+
+	<div class="fa-hover col-md-4 col-sm-4">
+		<p class="icon"><i class="fa fa-mortar-board"></i>  fa-mortar-board (alias)</p>	
+		{html:code highline=false}{html:i class="fa fa-mortar-board"}{/html:code}
+	</div>
+
+	<div class="fa-hover col-md-4 col-sm-4">
+		<p class="icon"><i class="fa fa-music"></i>  fa-music</p>	
+		{html:code highline=false}{html:i class="fa fa-music"}{/html:code}
+	</div>
+
+	<div class="fa-hover col-md-4 col-sm-4">
+		<p class="icon"><i class="fa fa-navicon"></i>  fa-navicon (alias)</p>	
+		{html:code highline=false}{html:i class="fa fa-navicon"}{/html:code}
+	</div>
+
+	<div class="fa-hover col-md-4 col-sm-4">
+		<p class="icon"><i class="fa fa-paper-plane"></i>  fa-paper-plane</p>	
+		{html:code highline=false}{html:i class="fa fa-paper-plane"}{/html:code}
+	</div>
+
+	<div class="fa-hover col-md-4 col-sm-4">
+		<p class="icon"><i class="fa fa-paper-plane-o"></i>  fa-paper-plane-o</p>	
+		{html:code highline=false}{html:i class="fa fa-paper-plane-o"}{/html:code}
+	</div>
+
+	<div class="fa-hover col-md-4 col-sm-4">
+		<p class="icon"><i class="fa fa-paw"></i>  fa-paw</p>	
+		{html:code highline=false}{html:i class="fa fa-paw"}{/html:code}
+	</div>
+
+	<div class="fa-hover col-md-4 col-sm-4">
+		<p class="icon"><i class="fa fa-pencil"></i>  fa-pencil</p>	
+		{html:code highline=false}{html:i class="fa fa-pencil"}{/html:code}
+	</div>
+
+	<div class="fa-hover col-md-4 col-sm-4">
+		<p class="icon"><i class="fa fa-pencil-square"></i>  fa-pencil-square</p>	
+		{html:code highline=false}{html:i class="fa fa-pencil-square"}{/html:code}
+	</div>
+
+	<div class="fa-hover col-md-4 col-sm-4">
+		<p class="icon"><i class="fa fa-pencil-square-o"></i>  fa-pencil-square-o</p>	
+		{html:code highline=false}{html:i class="fa fa-pencil-square-o"}{/html:code}
+	</div>
+
+	<div class="fa-hover col-md-4 col-sm-4">
+		<p class="icon"><i class="fa fa-phone"></i>  fa-phone</p>	
+		{html:code highline=false}{html:i class="fa fa-phone"}{/html:code}
+	</div>
+
+	<div class="fa-hover col-md-4 col-sm-4">
+		<p class="icon"><i class="fa fa-phone-square"></i>  fa-phone-square</p>	
+		{html:code highline=false}{html:i class="fa fa-phone-square"}{/html:code}
+	</div>
+
+	<div class="fa-hover col-md-4 col-sm-4">
+		<p class="icon"><i class="fa fa-photo"></i>  fa-photo (alias)</p>	
+		{html:code highline=false}{html:i class="fa fa-photo"}{/html:code}
+	</div>
+
+	<div class="fa-hover col-md-4 col-sm-4">
+		<p class="icon"><i class="fa fa-picture-o"></i>  fa-picture-o</p>	
+		{html:code highline=false}{html:i class="fa fa-picture-o"}{/html:code}
+	</div>
+
+	<div class="fa-hover col-md-4 col-sm-4">
+		<p class="icon"><i class="fa fa-plane"></i>  fa-plane</p>	
+		{html:code highline=false}{html:i class="fa fa-plane"}{/html:code}
+	</div>
+
+	<div class="fa-hover col-md-4 col-sm-4">
+		<p class="icon"><i class="fa fa-plus"></i>  fa-plus</p>	
+		{html:code highline=false}{html:i class="fa fa-plus"}{/html:code}
+	</div>
+
+	<div class="fa-hover col-md-4 col-sm-4">
+		<p class="icon"><i class="fa fa-plus-circle"></i>  fa-plus-circle</p>	
+		{html:code highline=false}{html:i class="fa fa-plus-circle"}{/html:code}
+	</div>
+
+	<div class="fa-hover col-md-4 col-sm-4">
+		<p class="icon"><i class="fa fa-plus-square"></i>  fa-plus-square</p>	
+		{html:code highline=false}{html:i class="fa fa-plus-square"}{/html:code}
+	</div>
+
+	<div class="fa-hover col-md-4 col-sm-4">
+		<p class="icon"><i class="fa fa-plus-square-o"></i>  fa-plus-square-o</p>	
+		{html:code highline=false}{html:i class="fa fa-plus-square-o"}{/html:code}
+	</div>
+
+	<div class="fa-hover col-md-4 col-sm-4">
+		<p class="icon"><i class="fa fa-power-off"></i>  fa-power-off</p>	
+		{html:code highline=false}{html:i class="fa fa-power-off"}{/html:code}
+	</div>
+
+	<div class="fa-hover col-md-4 col-sm-4">
+		<p class="icon"><i class="fa fa-print"></i>  fa-print</p>	
+		{html:code highline=false}{html:i class="fa fa-print"}{/html:code}
+	</div>
+
+	<div class="fa-hover col-md-4 col-sm-4">
+		<p class="icon"><i class="fa fa-puzzle-piece"></i>  fa-puzzle-piece</p>	
+		{html:code highline=false}{html:i class="fa fa-puzzle-piece"}{/html:code}
+	</div>
+
+	<div class="fa-hover col-md-4 col-sm-4">
+		<p class="icon"><i class="fa fa-qrcode"></i>  fa-qrcode</p>	
+		{html:code highline=false}{html:i class="fa fa-qrcode"}{/html:code}
+	</div>
+
+	<div class="fa-hover col-md-4 col-sm-4">
+		<p class="icon"><i class="fa fa-question"></i>  fa-question</p>	
+		{html:code highline=false}{html:i class="fa fa-question"}{/html:code}
+	</div>
+
+	<div class="fa-hover col-md-4 col-sm-4">
+		<p class="icon"><i class="fa fa-question-circle"></i>  fa-question-circle</p>	
+		{html:code highline=false}{html:i class="fa fa-question-circle"}{/html:code}
+	</div>
+
+	<div class="fa-hover col-md-4 col-sm-4">
+		<p class="icon"><i class="fa fa-quote-left"></i>  fa-quote-left</p>	
+		{html:code highline=false}{html:i class="fa fa-quote-left"}{/html:code}
+	</div>
+
+	<div class="fa-hover col-md-4 col-sm-4">
+		<p class="icon"><i class="fa fa-quote-right"></i>  fa-quote-right</p>	
+		{html:code highline=false}{html:i class="fa fa-quote-right"}{/html:code}
+	</div>
+
+	<div class="fa-hover col-md-4 col-sm-4">
+		<p class="icon"><i class="fa fa-random"></i>  fa-random</p>	
+		{html:code highline=false}{html:i class="fa fa-random"}{/html:code}
+	</div>
+
+	<div class="fa-hover col-md-4 col-sm-4">
+		<p class="icon"><i class="fa fa-recycle"></i>  fa-recycle</p>	
+		{html:code highline=false}{html:i class="fa fa-recycle"}{/html:code}
+	</div>
+
+	<div class="fa-hover col-md-4 col-sm-4">
+		<p class="icon"><i class="fa fa-refresh"></i>  fa-refresh</p>	
+		{html:code highline=false}{html:i class="fa fa-refresh"}{/html:code}
+	</div>
+
+	<div class="fa-hover col-md-4 col-sm-4">
+		<p class="icon"><i class="fa fa-reorder"></i>  fa-reorder (alias)</p>	
+		{html:code highline=false}{html:i class="fa fa-reorder"}{/html:code}
+	</div>
+
+	<div class="fa-hover col-md-4 col-sm-4">
+		<p class="icon"><i class="fa fa-reply"></i>  fa-reply</p>	
+		{html:code highline=false}{html:i class="fa fa-reply"}{/html:code}
+	</div>
+
+	<div class="fa-hover col-md-4 col-sm-4">
+		<p class="icon"><i class="fa fa-reply-all"></i>  fa-reply-all</p>	
+		{html:code highline=false}{html:i class="fa fa-reply-all"}{/html:code}
+	</div>
+
+	<div class="fa-hover col-md-4 col-sm-4">
+		<p class="icon"><i class="fa fa-retweet"></i>  fa-retweet</p>	
+		{html:code highline=false}{html:i class="fa fa-retweet"}{/html:code}
+	</div>
+
+	<div class="fa-hover col-md-4 col-sm-4">
+		<p class="icon"><i class="fa fa-road"></i>  fa-road</p>	
+		{html:code highline=false}{html:i class="fa fa-road"}{/html:code}
+	</div>
+
+	<div class="fa-hover col-md-4 col-sm-4">
+		<p class="icon"><i class="fa fa-rocket"></i>  fa-rocket</p>	
+		{html:code highline=false}{html:i class="fa fa-rocket"}{/html:code}
+	</div>
+
+	<div class="fa-hover col-md-4 col-sm-4">
+		<p class="icon"><i class="fa fa-rss"></i>  fa-rss</p>	
+		{html:code highline=false}{html:i class="fa fa-rss"}{/html:code}
+	</div>
+
+	<div class="fa-hover col-md-4 col-sm-4">
+		<p class="icon"><i class="fa fa-rss-square"></i>  fa-rss-square</p>	
+		{html:code highline=false}{html:i class="fa fa-rss-square"}{/html:code}
+	</div>
+
+	<div class="fa-hover col-md-4 col-sm-4">
+		<p class="icon"><i class="fa fa-search"></i>  fa-search</p>	
+		{html:code highline=false}{html:i class="fa fa-search"}{/html:code}
+	</div>
+	
+	<div class="fa-hover col-md-4 col-sm-4">
+        <p class="icon"><i class="fa fa-soccer-ball-o "></i>  fa-soccer-ball-o </p> 
+        {html:code highline=false}{html:i class="fa fa-soccer-ball-o "}{/html:code}
+    </div>
+
+	<div class="fa-hover col-md-4 col-sm-4">
+		<p class="icon"><i class="fa fa-search-minus"></i>  fa-search-minus</p>	
+		{html:code highline=false}{html:i class="fa fa-search-minus"}{/html:code}
+	</div>
+
+	<div class="fa-hover col-md-4 col-sm-4">
+		<p class="icon"><i class="fa fa-search-plus"></i>  fa-search-plus</p>	
+		{html:code highline=false}{html:i class="fa fa-search-plus"}{/html:code}
+	</div>
+
+	<div class="fa-hover col-md-4 col-sm-4">
+		<p class="icon"><i class="fa fa-send"></i>  fa-send (alias)</p>	
+		{html:code highline=false}{html:i class="fa fa-send"}{/html:code}
+	</div>
+
+	<div class="fa-hover col-md-4 col-sm-4">
+		<p class="icon"><i class="fa fa-send-o"></i>  fa-send-o (alias)</p>	
+		{html:code highline=false}{html:i class="fa fa-send-o"}{/html:code}
+	</div>
+
+	<div class="fa-hover col-md-4 col-sm-4">
+		<p class="icon"><i class="fa fa-share"></i>  fa-share</p>	
+		{html:code highline=false}{html:i class="fa fa-share"}{/html:code}
+	</div>
+
+	<div class="fa-hover col-md-4 col-sm-4">
+		<p class="icon"><i class="fa fa-share-alt"></i>  fa-share-alt</p>	
+		{html:code highline=false}{html:i class="fa fa-share-alt"}{/html:code}
+	</div>
+
+	<div class="fa-hover col-md-4 col-sm-4">
+		<p class="icon"><i class="fa fa-share-alt-square"></i>  fa-share-alt-square</p>	
+		{html:code highline=false}{html:i class="fa fa-share-alt-square"}{/html:code}
+	</div>
+
+	<div class="fa-hover col-md-4 col-sm-4">
+		<p class="icon"><i class="fa fa-share-square"></i>  fa-share-square</p>	
+		{html:code highline=false}{html:i class="fa fa-share-square"}{/html:code}
+	</div>
+
+	<div class="fa-hover col-md-4 col-sm-4">
+		<p class="icon"><i class="fa fa-share-square-o"></i>  fa-share-square-o</p>	
+		{html:code highline=false}{html:i class="fa fa-share-square-o"}{/html:code}
+	</div>
+
+	<div class="fa-hover col-md-4 col-sm-4">
+		<p class="icon"><i class="fa fa-shield"></i>  fa-shield</p>	
+		{html:code highline=false}{html:i class="fa fa-shield"}{/html:code}
+	</div>
+
+	<div class="fa-hover col-md-4 col-sm-4">
+		<p class="icon"><i class="fa fa-shopping-cart"></i>  fa-shopping-cart</p>	
+		{html:code highline=false}{html:i class="fa fa-shopping-cart"}{/html:code}
+	</div>
+
+	<div class="fa-hover col-md-4 col-sm-4">
+		<p class="icon"><i class="fa fa-sign-in"></i>  fa-sign-in</p>	
+		{html:code highline=false}{html:i class="fa fa-sign-in"}{/html:code}
+	</div>
+
+	<div class="fa-hover col-md-4 col-sm-4">
+		<p class="icon"><i class="fa fa-sign-out"></i>  fa-sign-out</p>	
+		{html:code highline=false}{html:i class="fa fa-sign-out"}{/html:code}
+	</div>
+
+	<div class="fa-hover col-md-4 col-sm-4">
+		<p class="icon"><i class="fa fa-signal"></i>  fa-signal</p>	
+		{html:code highline=false}{html:i class="fa fa-signal"}{/html:code}
+	</div>
+
+	<div class="fa-hover col-md-4 col-sm-4">
+		<p class="icon"><i class="fa fa-sitemap"></i>  fa-sitemap</p>	
+		{html:code highline=false}{html:i class="fa fa-sitemap"}{/html:code}
+	</div>
+
+	<div class="fa-hover col-md-4 col-sm-4">
+		<p class="icon"><i class="fa fa-sliders"></i>  fa-sliders</p>	
+		{html:code highline=false}{html:i class="fa fa-sliders"}{/html:code}
+	</div>
+
+	<div class="fa-hover col-md-4 col-sm-4">
+		<p class="icon"><i class="fa fa-smile-o"></i>  fa-smile-o</p>	
+		{html:code highline=false}{html:i class="fa fa-smile-o"}{/html:code}
+	</div>
+
+	<div class="fa-hover col-md-4 col-sm-4">
+		<p class="icon"><i class="fa fa-sort"></i>  fa-sort</p>	
+		{html:code highline=false}{html:i class="fa fa-sort"}{/html:code}
+	</div>
+
+	<div class="fa-hover col-md-4 col-sm-4">
+		<p class="icon"><i class="fa fa-sort-alpha-asc"></i>  fa-sort-alpha-asc</p>	
+		{html:code highline=false}{html:i class="fa fa-sort-alpha-asc"}{/html:code}
+	</div>
+
+	<div class="fa-hover col-md-4 col-sm-4">
+		<p class="icon"><i class="fa fa-sort-alpha-desc"></i>  fa-sort-alpha-desc</p>	
+		{html:code highline=false}{html:i class="fa fa-sort-alpha-desc"}{/html:code}
+	</div>
+
+	<div class="fa-hover col-md-4 col-sm-4">
+		<p class="icon"><i class="fa fa-sort-amount-asc"></i>  fa-sort-amount-asc</p>	
+		{html:code highline=false}{html:i class="fa fa-sort-amount-asc"}{/html:code}
+	</div>
+
+	<div class="fa-hover col-md-4 col-sm-4">
+		<p class="icon"><i class="fa fa-sort-amount-desc"></i>  fa-sort-amount-desc</p>	
+		{html:code highline=false}{html:i class="fa fa-sort-amount-desc"}{/html:code}
+	</div>
+
+	<div class="fa-hover col-md-4 col-sm-4">
+		<p class="icon"><i class="fa fa-sort-asc"></i>  fa-sort-asc</p>	
+		{html:code highline=false}{html:i class="fa fa-sort-asc"}{/html:code}
+	</div>
+
+	<div class="fa-hover col-md-4 col-sm-4">
+		<p class="icon"><i class="fa fa-sort-desc"></i>  fa-sort-desc</p>	
+		{html:code highline=false}{html:i class="fa fa-sort-desc"}{/html:code}
+	</div>
+
+	<div class="fa-hover col-md-4 col-sm-4">
+		<p class="icon"><i class="fa fa-sort-down"></i>  fa-sort-down (alias)</p>	
+		{html:code highline=false}{html:i class="fa fa-sort-down"}{/html:code}
+	</div>
+
+	<div class="fa-hover col-md-4 col-sm-4">
+		<p class="icon"><i class="fa fa-sort-numeric-asc"></i>  fa-sort-numeric-asc</p>	
+		{html:code highline=false}{html:i class="fa fa-sort-numeric-asc"}{/html:code}
+	</div>
+
+	<div class="fa-hover col-md-4 col-sm-4">
+		<p class="icon"><i class="fa fa-sort-numeric-desc"></i>  fa-sort-numeric-desc</p>	
+		{html:code highline=false}{html:i class="fa fa-sort-numeric-desc"}{/html:code}
+	</div>
+
+	<div class="fa-hover col-md-4 col-sm-4">
+		<p class="icon"><i class="fa fa-sort-up"></i>  fa-sort-up (alias)</p>	
+		{html:code highline=false}{html:i class="fa fa-sort-up"}{/html:code}
+	</div>
+
+	<div class="fa-hover col-md-4 col-sm-4">
+		<p class="icon"><i class="fa fa-space-shuttle"></i>  fa-space-shuttle</p>	
+		{html:code highline=false}{html:i class="fa fa-space-shuttle"}{/html:code}
+	</div>
+
+	<div class="fa-hover col-md-4 col-sm-4">
+		<p class="icon"><i class="fa fa-spinner"></i>  fa-spinner</p>	
+		{html:code highline=false}{html:i class="fa fa-spinner"}{/html:code}
+	</div>
+
+	<div class="fa-hover col-md-4 col-sm-4">
+		<p class="icon"><i class="fa fa-spoon"></i>  fa-spoon</p>	
+		{html:code highline=false}{html:i class="fa fa-spoon"}{/html:code}
+	</div>
+
+	<div class="fa-hover col-md-4 col-sm-4">
+		<p class="icon"><i class="fa fa-square"></i>  fa-square</p>	
+		{html:code highline=false}{html:i class="fa fa-square"}{/html:code}
+	</div>
+
+	<div class="fa-hover col-md-4 col-sm-4">
+		<p class="icon"><i class="fa fa-square-o"></i>  fa-square-o</p>	
+		{html:code highline=false}{html:i class="fa fa-square-o"}{/html:code}
+	</div>
+
+	<div class="fa-hover col-md-4 col-sm-4">
+		<p class="icon"><i class="fa fa-star"></i>  fa-star</p>	
+		{html:code highline=false}{html:i class="fa fa-star"}{/html:code}
+	</div>
+
+	<div class="fa-hover col-md-4 col-sm-4">
+		<p class="icon"><i class="fa fa-star-half"></i>  fa-star-half</p>	
+		{html:code highline=false}{html:i class="fa fa-star-half"}{/html:code}
+	</div>
+	
+	<div class="fa-hover col-md-4 col-sm-4">
+        <p class="icon"><i class="fa fa-bell-slash"></i>  fa-bell-slash</p>   
+        {html:code highline=false}{html:i class="fa fa-bell-slash"}{/html:code}
+    </div>
+
+	<div class="fa-hover col-md-4 col-sm-4">
+		<p class="icon"><i class="fa fa-star-half-empty"></i>  fa-star-half-empty (alias)</p>	
+		{html:code highline=false}{html:i class="fa fa-star-half-empty"}{/html:code}
+	</div>
+
+	<div class="fa-hover col-md-4 col-sm-4">
+		<p class="icon"><i class="fa fa-star-half-full"></i>  fa-star-half-full (alias)</p>	
+		{html:code highline=false}{html:i class="fa fa-star-half-full"}{/html:code}
+	</div>
+
+	<div class="fa-hover col-md-4 col-sm-4">
+		<p class="icon"><i class="fa fa-star-half-o"></i>  fa-star-half-o</p>	
+		{html:code highline=false}{html:i class="fa fa-star-half-o"}{/html:code}
+	</div>
+
+	<div class="fa-hover col-md-4 col-sm-4">
+		<p class="icon"><i class="fa fa-star-o"></i>  fa-star-o</p>	
+		{html:code highline=false}{html:i class="fa fa-star-o"}{/html:code}
+	</div>
+
+	<div class="fa-hover col-md-4 col-sm-4">
+		<p class="icon"><i class="fa fa-suitcase"></i>  fa-suitcase</p>	
+		{html:code highline=false}{html:i class="fa fa-suitcase"}{/html:code}
+	</div>
+
+	<div class="fa-hover col-md-4 col-sm-4">
+		<p class="icon"><i class="fa fa-sun-o"></i>  fa-sun-o</p>	
+		{html:code highline=false}{html:i class="fa fa-sun-o"}{/html:code}
+	</div>
+
+	<div class="fa-hover col-md-4 col-sm-4">
+		<p class="icon"><i class="fa fa-support"></i>  fa-support (alias)</p>	
+		{html:code highline=false}{html:i class="fa fa-support"}{/html:code}
+	</div>
+
+	<div class="fa-hover col-md-4 col-sm-4">
+		<p class="icon"><i class="fa fa-tablet"></i>  fa-tablet</p>	
+		{html:code highline=false}{html:i class="fa fa-tablet"}{/html:code}
+	</div>
+
+	<div class="fa-hover col-md-4 col-sm-4">
+		<p class="icon"><i class="fa fa-tachometer"></i>  fa-tachometer</p>	
+		{html:code highline=false}{html:i class="fa fa-tachometer"}{/html:code}
+	</div>
+
+	<div class="fa-hover col-md-4 col-sm-4">
+		<p class="icon"><i class="fa fa-tag"></i>  fa-tag</p>	
+		{html:code highline=false}{html:i class="fa fa-tag"}{/html:code}
+	</div>
+
+	<div class="fa-hover col-md-4 col-sm-4">
+		<p class="icon"><i class="fa fa-tags"></i>  fa-tags</p>	
+		{html:code highline=false}{html:i class="fa fa-tags"}{/html:code}
+	</div>
+
+	<div class="fa-hover col-md-4 col-sm-4">
+		<p class="icon"><i class="fa fa-tasks"></i>  fa-tasks</p>	
+		{html:code highline=false}{html:i class="fa fa-tasks"}{/html:code}
+	</div>
+	
+	<div class="fa-hover col-md-4 col-sm-4">
+        <p class="icon"><i class="fa fa-trash"></i>  fa-trash</p>   
+        {html:code highline=false}{html:i class="fa fa-trash"}{/html:code}
+    </div>
+
+	<div class="fa-hover col-md-4 col-sm-4">
+		<p class="icon"><i class="fa fa-taxi"></i>  fa-taxi</p>	
+		{html:code highline=false}{html:i class="fa fa-taxi"}{/html:code}
+	</div>
+
+	<div class="fa-hover col-md-4 col-sm-4">
+		<p class="icon"><i class="fa fa-terminal"></i>  fa-terminal</p>	
+		{html:code highline=false}{html:i class="fa fa-terminal"}{/html:code}
+	</div>
+	
+	<div class="fa-hover col-md-4 col-sm-4">
+        <p class="icon"><i class="fa  fa-tty"></i>   fa-tty</p> 
+        {html:code highline=false}{html:i class="fa  fa-tty"}{/html:code}
+    </div>
+
+	<div class="fa-hover col-md-4 col-sm-4">
+		<p class="icon"><i class="fa fa-thumb-tack"></i>  fa-thumb-tack</p>	
+		{html:code highline=false}{html:i class="fa fa-thumb-tack"}{/html:code}
+	</div>
+
+	<div class="fa-hover col-md-4 col-sm-4">
+		<p class="icon"><i class="fa fa-thumbs-down"></i>  fa-thumbs-down</p>	
+		{html:code highline=false}{html:i class="fa fa-thumbs-down"}{/html:code}
+	</div>
+
+	<div class="fa-hover col-md-4 col-sm-4">
+		<p class="icon"><i class="fa fa-thumbs-o-down"></i>  fa-thumbs-o-down</p>	
+		{html:code highline=false}{html:i class="fa fa-thumbs-o-down"}{/html:code}
+	</div>
+
+	<div class="fa-hover col-md-4 col-sm-4">
+		<p class="icon"><i class="fa fa-thumbs-o-up"></i>  fa-thumbs-o-up</p>	
+		{html:code highline=false}{html:i class="fa fa-thumbs-o-up"}{/html:code}
+	</div>
+
+	<div class="fa-hover col-md-4 col-sm-4">
+		<p class="icon"><i class="fa fa-thumbs-up"></i>  fa-thumbs-up</p>	
+		{html:code highline=false}{html:i class="fa fa-thumbs-up"}{/html:code}
+	</div>
+
+	<div class="fa-hover col-md-4 col-sm-4">
+		<p class="icon"><i class="fa fa-ticket"></i>  fa-ticket</p>	
+		{html:code highline=false}{html:i class="fa fa-ticket"}{/html:code}
+	</div>
+
+	<div class="fa-hover col-md-4 col-sm-4">
+		<p class="icon"><i class="fa fa-times"></i>  fa-times</p>	
+		{html:code highline=false}{html:i class="fa fa-times"}{/html:code}
+	</div>
+
+	<div class="fa-hover col-md-4 col-sm-4">
+		<p class="icon"><i class="fa fa-times-circle"></i>  fa-times-circle</p>	
+		{html:code highline=false}{html:i class="fa fa-times-circle"}{/html:code}
+	</div>
+
+	<div class="fa-hover col-md-4 col-sm-4">
+		<p class="icon"><i class="fa fa-times-circle-o"></i>  fa-times-circle-o</p>	
+		{html:code highline=false}{html:i class="fa fa-times-circle-o"}{/html:code}
+	</div>
+
+	<div class="fa-hover col-md-4 col-sm-4">
+		<p class="icon"><i class="fa fa-tint"></i>  fa-tint</p>	
+		{html:code highline=false}{html:i class="fa fa-tint"}{/html:code}
+	</div>
+
+	<div class="fa-hover col-md-4 col-sm-4">
+		<p class="icon"><i class="fa fa-toggle-down"></i>  fa-toggle-down (alias)</p>	
+		{html:code highline=false}{html:i class="fa fa-toggle-down"}{/html:code}
+	</div>
+
+	<div class="fa-hover col-md-4 col-sm-4">
+		<p class="icon"><i class="fa fa-toggle-left"></i>  fa-toggle-left (alias)</p>	
+		{html:code highline=false}{html:i class="fa fa-toggle-left"}{/html:code}
+	</div>
+
+	<div class="fa-hover col-md-4 col-sm-4">
+		<p class="icon"><i class="fa fa-toggle-right"></i>  fa-toggle-right (alias)</p>	
+		{html:code highline=false}{html:i class="fa fa-toggle-right"}{/html:code}
+	</div>
+
+	<div class="fa-hover col-md-4 col-sm-4">
+		<p class="icon"><i class="fa fa-toggle-up"></i>  fa-toggle-up (alias)</p>	
+		{html:code highline=false}{html:i class="fa fa-toggle-up"}{/html:code}
+	</div>
+
+	<div class="fa-hover col-md-4 col-sm-4">
+		<p class="icon"><i class="fa fa-trash-o"></i>  fa-trash-o</p>	
+		{html:code highline=false}{html:i class="fa fa-trash-o"}{/html:code}
+	</div>
+
+	<div class="fa-hover col-md-4 col-sm-4">
+		<p class="icon"><i class="fa fa-tree"></i>  fa-tree</p>	
+		{html:code highline=false}{html:i class="fa fa-tree"}{/html:code}
+	</div>
+
+	<div class="fa-hover col-md-4 col-sm-4">
+		<p class="icon"><i class="fa fa-trophy"></i>  fa-trophy</p>	
+		{html:code highline=false}{html:i class="fa fa-trophy"}{/html:code}
+	</div>
+
+	<div class="fa-hover col-md-4 col-sm-4">
+		<p class="icon"><i class="fa fa-truck"></i>  fa-truck</p>	
+		{html:code highline=false}{html:i class="fa fa-truck"}{/html:code}
+	</div>
+
+	<div class="fa-hover col-md-4 col-sm-4">
+		<p class="icon"><i class="fa fa-umbrella"></i>  fa-umbrella</p>	
+		{html:code highline=false}{html:i class="fa fa-umbrella"}{/html:code}
+	</div>
+
+	<div class="fa-hover col-md-4 col-sm-4">
+		<p class="icon"><i class="fa fa-university"></i>  fa-university</p>	
+		{html:code highline=false}{html:i class="fa fa-university"}{/html:code}
+	</div>
+
+	<div class="fa-hover col-md-4 col-sm-4">
+		<p class="icon"><i class="fa fa-unlock"></i>  fa-unlock</p>	
+		{html:code highline=false}{html:i class="fa fa-unlock"}{/html:code}
+	</div>
+
+	<div class="fa-hover col-md-4 col-sm-4">
+		<p class="icon"><i class="fa fa-unlock-alt"></i>  fa-unlock-alt</p>	
+		{html:code highline=false}{html:i class="fa fa-unlock-alt"}{/html:code}
+	</div>
+
+	<div class="fa-hover col-md-4 col-sm-4">
+		<p class="icon"><i class="fa fa-unsorted"></i>  fa-unsorted (alias)</p>	
+		{html:code highline=false}{html:i class="fa fa-unsorted"}{/html:code}
+	</div>
+
+	<div class="fa-hover col-md-4 col-sm-4">
+		<p class="icon"><i class="fa fa-upload"></i>  fa-upload</p>	
+		{html:code highline=false}{html:i class="fa fa-upload"}{/html:code}
+	</div>
+
+	<div class="fa-hover col-md-4 col-sm-4">
+		<p class="icon"><i class="fa fa-user"></i>  fa-user</p>	
+		{html:code highline=false}{html:i class="fa fa-user"}{/html:code}
+	</div>
+
+	<div class="fa-hover col-md-4 col-sm-4">
+		<p class="icon"><i class="fa fa-users"></i>  fa-users</p>	
+		{html:code highline=false}{html:i class="fa fa-users"}{/html:code}
+	</div>
+
+	<div class="fa-hover col-md-4 col-sm-4">
+		<p class="icon"><i class="fa fa-video-camera"></i>  fa-video-camera</p>	
+		{html:code highline=false}{html:i class="fa fa-video-camera"}{/html:code}
+	</div>
+
+	<div class="fa-hover col-md-4 col-sm-4">
+		<p class="icon"><i class="fa fa-volume-down"></i>  fa-volume-down</p>	
+		{html:code highline=false}{html:i class="fa fa-volume-down"}{/html:code}
+	</div>
+
+	<div class="fa-hover col-md-4 col-sm-4">
+		<p class="icon"><i class="fa fa-volume-off"></i>  fa-volume-off</p>	
+		{html:code highline=false}{html:i class="fa fa-volume-off"}{/html:code}
+	</div>
+
+	<div class="fa-hover col-md-4 col-sm-4">
+		<p class="icon"><i class="fa fa-volume-up"></i>  fa-volume-up</p>	
+		{html:code highline=false}{html:i class="fa fa-volume-up"}{/html:code}
+	</div>
+
+	<div class="fa-hover col-md-4 col-sm-4">
+		<p class="icon"><i class="fa fa-warning"></i>  fa-warning (alias)</p>	
+		{html:code highline=false}{html:i class="fa fa-warning"}{/html:code}
+	</div>
+
+	<div class="fa-hover col-md-4 col-sm-4">
+		<p class="icon"><i class="fa fa-wheelchair"></i>  fa-wheelchair</p>	
+		{html:code highline=false}{html:i class="fa fa-wheelchair"}{/html:code}
+	</div>
+
+	<div class="fa-hover col-md-4 col-sm-4">
+		<p class="icon"><i class="fa fa-wrench"></i>  fa-wrench</p>	
+		{html:code highline=false}{html:i class="fa fa-wrench"}{/html:code}
+	</div>
+</div>
+
+
+

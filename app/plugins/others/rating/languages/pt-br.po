@@ -1,0 +1,72 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Rating\n"
+"POT-Creation-Date: 2014-07-01 10:33+0700\n"
+"PO-Revision-Date: 2015-03-15 23:02-0300\n"
+"Last-Translator: Alexandre Benegas <info@adaptivemobile.com.br>\n"
+"Language-Team: Alexandre Benegas <info@adaptivemobile.com.br>\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.5\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../public/pf-rating-shortcode.php:73
+msgid "vote"
+msgstr "avaliação"
+
+#: ../public/pf-rating-shortcode.php:73
+msgid "votes"
+msgstr "avaliações"
+
+#: ../public/pf-rating-shortcode.php:95
+msgid "You unauthorized access"
+msgstr "Você não tem acesso autorizado."
+
+#: ../public/pf-rating-shortcode.php:99
+msgid "You can not rate"
+msgstr "Você não pode fazer avaliações."
+
+#: ../public/pf-rating-shortcode.php:102
+msgid "Your session has ended"
+msgstr "Sua sessão foi encerrada"
+
+#: ../public/pf-rating-shortcode.php:117
+msgid "Thank you for rating"
+msgstr "Obrigado pela sua avaliação!"
+
+#: ../public/pf-rating-shortcode.php:119
+msgid "There is an error"
+msgstr "Existe um erro."
+
+#: ../public/views/include.php:3
+msgid "Are you sure to delete this rating?"
+msgstr "Tem certeza que deseja excluir esta avaliação?"
+
+#: ../rating-config.php:16
+msgid "Rating settings"
+msgstr "Configurações de Avaliações"
+
+#: ../rating-config.php:20
+msgid "Only user"
+msgstr "Somente Usuários cadastrados"
+
+#: ../rating-config.php:20
+msgid "Everyone"
+msgstr "Todos os Usuários"
+
+#: ../rating-config.php:21
+msgid "Enable rating?"
+msgstr "Ativar Avaliação?"
+
+#: ../rating-config.php:22
+msgid "Permission"
+msgstr "Permissões"
+
+#: ../rating.php:3
+msgid "Rating"
+msgstr "Avaliação"

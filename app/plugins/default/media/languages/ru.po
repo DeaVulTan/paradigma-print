@@ -1,0 +1,263 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Media\n"
+"POT-Creation-Date: 2014-10-13 10:44+0700\n"
+"PO-Revision-Date: 2015-03-01 13:11+0300\n"
+"Last-Translator: \n"
+"Language-Team: zakazhisait@yandex.ru <zakazhisait@yandex.ru>\n"
+"Language: ru_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.4\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../media-config.php:17
+msgid "Media settings"
+msgstr "Настройки медиафайлов"
+
+#: ../media-config.php:49
+msgid "Path (Ex: uploads/)"
+msgstr "Путь к файлам (например: uploads/)"
+
+#: ../media-config.php:50
+msgid "Maximum size of upload file (MB)"
+msgstr "Макс. файл для загрузки, Мб"
+
+#: ../media-config.php:51
+msgid "Image file extention (jpg, png, gif...)"
+msgstr "Типы графических файлов (jpg, png, gif...)"
+
+#: ../media-config.php:52
+msgid "Audio file extention (mp3, ogg, wav...)"
+msgstr "Типы аудиофайлов (mp3, ogg, wav...)"
+
+#: ../media-config.php:53
+msgid "Video file extention file(mp4, mov, mpeg...)"
+msgstr "Типы видеофайлов (mp4, mov, mpeg...)"
+
+#: ../media-config.php:54
+msgid "Document file extention"
+msgstr "Типы файлов документов (doc,docs,pdg,djvu,...)"
+
+#: ../media-config.php:55
+msgid "Misc file extention"
+msgstr "Другие типы файлов (ai,psd,...)"
+
+#: ../media-config.php:56
+msgid "Hidden folder (do not remove: thumbnails)"
+msgstr "Скрытая папка (не удалять: thumbnails)"
+
+#: ../media-config.php:57
+msgid "Hidden file"
+msgstr "Скрытый файл"
+
+#: ../media-config.php:58
+msgid "Allow image resize"
+msgstr "Разрешить изменять размер изображений"
+
+#: ../media.php:4 ../media.php:29
+msgid "Media"
+msgstr "Медиа"
+
+#~ msgid "Allow using java"
+#~ msgstr "Allow using java"
+
+#~ msgid "Are you sure to delete this comment?"
+#~ msgstr "Are you sure to delete this comment?"
+
+#~ msgid "No comment are selected"
+#~ msgstr "No comment are selected"
+
+#~ msgid "Are you sure to perform this action?"
+#~ msgstr "Are you sure to perform this action?"
+
+#~ msgid "Please enter a search term"
+#~ msgstr "Please enter a search term"
+
+#~ msgid "Please select the action to perform"
+#~ msgstr "Please select the action to perform"
+
+#~ msgid "Please enter at least 1 character"
+#~ msgstr "Please enter at least 1 character"
+
+#~ msgid "Please choose an author"
+#~ msgstr "Please choose an author"
+
+#~ msgid "Content must be at least 2 characters and no more than 500 characters"
+#~ msgstr "Content must be at least 2 characters and no more than 500 characters"
+
+#~ msgid "Incorrect ID"
+#~ msgstr "Incorrect ID"
+
+#~ msgid "Your comment has been successfully updated"
+#~ msgstr "Your comment has been successfully updated"
+
+#~ msgid "There was an error please try again later"
+#~ msgstr "There was an error please try again later"
+
+#~ msgid "Edit comment"
+#~ msgstr "Edit comment"
+
+#~ msgid "Content"
+#~ msgstr "Content"
+
+#~ msgid "Bulk Actions "
+#~ msgstr "Bulk Actions "
+
+#~ msgid "Delete"
+#~ msgstr "Delete"
+
+#~ msgid "Published"
+#~ msgstr "Published"
+
+#~ msgid "Unpublished"
+#~ msgstr "Unpublished"
+
+#~ msgid "Search"
+#~ msgstr "Search"
+
+#~ msgid "All"
+#~ msgstr "All"
+
+#~ msgid "Items per page"
+#~ msgstr "Items per page"
+
+#~ msgid "Go to page"
+#~ msgstr "Go to page"
+
+#~ msgid "Go"
+#~ msgstr "Go"
+
+#~ msgid "Update status"
+#~ msgstr "Update status"
+
+#~ msgid "Delete status"
+#~ msgstr "Delete status"
+
+#~ msgid "Backup Now"
+#~ msgstr "Backup Now"
+
+#~ msgid "File Name"
+#~ msgstr "File Name"
+
+#~ msgid "Created Date"
+#~ msgstr "Created Date"
+
+#~ msgid "File Size (kB)"
+#~ msgstr "File Size (kB)"
+
+#, fuzzy
+#~ msgid "New Menu"
+#~ msgstr "New Member"
+
+#~ msgid "Shortcode"
+#~ msgstr "Shortcode"
+
+#~ msgid "Edit"
+#~ msgstr "Edit"
+
+#~ msgid "Close"
+#~ msgstr "Close"
+
+#~ msgid "The email address you entered is already in use!"
+#~ msgstr "The email address you entered is already in use!"
+
+#~ msgid "The username you entered is already in use!"
+#~ msgstr "The username you entered is already in use!"
+
+#~ msgid "The passwords you entered do not match!"
+#~ msgstr "The passwords you entered do not match!"
+
+#~ msgid "Please review your information!"
+#~ msgstr "Please review your information!"
+
+#~ msgid "User successfully created!"
+#~ msgstr "User successfully created!"
+
+#~ msgid "Edit user %s successfully!"
+#~ msgstr "Edit user %s successfully!"
+
+#~ msgid "Email"
+#~ msgstr "Email"
+
+#~ msgid "Username"
+#~ msgstr "Username"
+
+#~ msgid "Password"
+#~ msgstr "Password"
+
+#~ msgid "Re-Password"
+#~ msgstr "Re-Password"
+
+#~ msgid "Displayname"
+#~ msgstr "Displayname"
+
+#~ msgid "Role"
+#~ msgstr "Role"
+
+#~ msgid "Cancel"
+#~ msgstr "Cancel"
+
+#~ msgid "Action Successfully!"
+#~ msgstr "Action Successfully!"
+
+#~ msgid "Error Detected! The Activation key invalid!"
+#~ msgstr "Error Detected! The Activation key invalid!"
+
+#~ msgid "This user aready activated!"
+#~ msgstr "This user aready activated!"
+
+#~ msgid "Activation Successfully!"
+#~ msgstr "Activation Successfully!"
+
+#~ msgid "Activated"
+#~ msgstr "Activated"
+
+#~ msgid "Deactivated"
+#~ msgstr "Deactivated"
+
+#~ msgid "Manage"
+#~ msgstr "Manage"
+
+#~ msgid "Advance Search"
+#~ msgstr "Advance Search"
+
+#~ msgid "Username (Like)"
+#~ msgstr "Username (Like)"
+
+#~ msgid "Email (like)"
+#~ msgstr "Email (like)"
+
+#~ msgid "Unknown"
+#~ msgstr "Unknown"
+
+#~ msgid "Active"
+#~ msgstr "Active"
+
+#~ msgid "Inactive"
+#~ msgstr "Inactive"
+
+#~ msgid "Show Result"
+#~ msgstr "Show Result"
+
+#~ msgid "Check All"
+#~ msgstr "Check All"
+
+#~ msgid "With Selection"
+#~ msgstr "With Selection"
+
+#~ msgid "Notification"
+#~ msgstr "Notification"
+
+#~ msgid "Do you really want to do that?"
+#~ msgstr "Do you really want to do that?"
+
+#~ msgid "Confirm"
+#~ msgstr "Confirm"
+
+#~ msgid "Really?"
+#~ msgstr "Really?"

@@ -1,0 +1,2 @@
+<?php
+echo '<div ' . $this->atts['class'] . ' style="max-width:' . $this->atts['width'] . 'px;max-height:' . $this->atts['height'] . 'px;"><iframe src="http://player.vimeo.com/video/' . $this->atts['id'] . '" width="' . $this->atts['width'] . '" height="' . $this->atts['height'] . '" frameborder="0"></iframe></div>';

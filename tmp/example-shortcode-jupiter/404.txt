@@ -1,0 +1,14 @@
+<div class="container">
+        <div class="row">
+          <div class="col-sm-12 col-md-6 col-md-offset-3">
+            <div class="error-page">
+              <div class="not-found">
+                <span>Not Found</span>
+              </div>
+              <p>The page you were looking for couldn't be found.</p>
+              <p class="text-muted">You can try to reload it some time later or browse our fabulous website right now!</p>
+              <a href="/">Homepage</a> <span class="divider">|</span> <a href="about-us-1">About Us</a> <span class="divider">|</span> <a href="contact-us">Contact Us</a>
+            </div>
+          </div>
+        </div> <!-- / .row -->
+      </div>

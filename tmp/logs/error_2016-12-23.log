@@ -1,0 +1,2 @@
+[2016-12-23 21:10:46] [E_NOTICE] [8] Undefined index: portfolio-id in /var/www/html/scaner.uz/test/app/plugins/others/portfolio/shortcodes/controllers/portfolio-shortcode.php:24
+[2016-12-23 21:10:46] [E_NOTICE] [8] Undefined variable: result in /var/www/html/scaner.uz/test/app/plugins/others/portfolio/shortcodes/controllers/portfolio-shortcode.php:27

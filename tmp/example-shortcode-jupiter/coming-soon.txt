@@ -1,0 +1,28 @@
+  <div class="row">
+    <div class="col-xs-12">
+      <!-- Main Content -->
+      <h1 class="text-center">Coming Soon...</h1>
+      <p class="lead text-center">
+        We are currently working on a new version of our website.<br />
+        Enter your e-mail below to stay tuned.
+      </p>
+      <form class="form-inline text-center" role="form">
+        <div class="form-group">
+            <label class="sr-only"	 for="email">Email address</label>
+          {html:input option="type='email' class='form-control border-color col-sm-12' id='email' placeholder='Email'"}{/html:input}
+        </div>
+        <button type="submit" class="btn btn-theme-primary">Subscribe</button>
+      </form>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-sm-6 col-sm-offset-3">
+    	<div id="countdown">.</div>
+    </div>
+  </div>  <!-- / .row -->
+<!-- Placed at the end of the document so the pages load faster -->
+
+<script>$(document).ready(function(){$('body').addClass('coming-soon');$(".wrapper").css({"min-height":"inherit","height":"inherit","padding":"0px","margin-bottom":"inherit"});$(".row").css({"margin-left":"inherit","margin-right":"inherit"})});</script>
+<script src="app/themes/jupiter/js/jquery.plugin.min.js"></script>
+<script src="app/themes/jupiter/js/jquery.countdown.min.js"></script>
+<script src="app/themes/jupiter/js/coming-soon.js"></script>

@@ -1,0 +1,139 @@
+
+{html:row}
+ {html:col class="col-md-12"}
+     {html:h2 class="text-title title text-center-xs"}Vitubo Services{/html:h2}
+     {html:p class="text-indent content"}
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur pellentesque neque eget diam posuere porta.
+        Quisque ut nulla at nunc vehicula lacinia. Proin adipiscing porta tellus,
+        ut feugiat nibh adipiscing sit amet.
+     {/html:p}
+ {/html:col}
+{/html:row}
+    
+{html:row}
+     {html:col class="col-md-6"}
+           {slider:carousel} 
+                {slider:img src='media/uploads/media/testimonials/020.jpg' text='' link='http://demo-cms.vitubo.com'},
+                {slider:img src='media/uploads/media/testimonials/022.jpg' text='' link='http://demo-cms.vitubo.com'},
+                {slider:img src='media/uploads/media/testimonials/118.jpg' text='' link='http://demo-cms.vitubo.com'},
+                {slider:img src='media/uploads/media/testimonials/152.jpg' text='' link='http://demo-cms.vitubo.com'}
+            {/slider:carousel} 
+     {/html:col}
+	 {html:col class="col-md-6"}
+	    {html:h3 class="title text-title text-center-xs"}Vitubo:Lorem Ipsum is simply dummy text {/html:h3}
+		{html:p class="text-indent content"}
+		   Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+		   Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, 
+		   when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+		   It has survived not only five centuries, but also the leap into electronic typesetting,
+		   remaining essentially unchanged.
+		{/html:p}
+	    {html:p class="text-indent content"}It has survived not only five centuries, but also the leap into electronic typesetting,
+ remaining essentially unchanged{/html:p}
+		{html:p class="text-indent content"} standard dummy text ever since the 1500s,
+ when an unknown printer took a galley of type and scrambled it to make a type specimen book.{/html:p}
+	 {/html:col}
+{/html:row}
+
+{html:row}
+	{html:col class="col-md-3 featured-box"}
+		<i class="text-color fa fa-user fa-3x fa-color border-color"></i>
+		{html:h4}word in classical{/html:h4}
+		{html:p class="text-muted lh"} book is a treatise on the theory of ethics, very popular during the Renaissance{/html:p}
+	{/html:col}
+	{html:col class="col-md-3 featured-box"}
+		<i class="text-color fa fa-book fa-3x fa-color border-color"></i>
+		{html:h4}many variations{/html:h4}
+		{html:p class="text-muted lh"} book is a treatise on the theory of ethics, very popular during the Renaissance{/html:p}
+	{/html:col}
+	{html:col class="col-md-3 featured-box"}
+		<i class="text-color fa fa-trophy fa-3x fa-color border-color"></i>
+		{html:h4} handful of model {/html:h4}
+		{html:p class="text-muted lh"} book is a treatise on the theory of ethics, very popular during the Renaissance{/html:p}
+	{/html:col}
+	{html:col class="col-md-3 featured-box"}
+		<i class="text-color fa fa-cogs fa-3x fa-color border-color"></i>
+		{html:h4}non-characteristic{/html:h4}
+		{html:p class="text-muted lh"} book is a treatise on the theory of ethics, very popular during the Renaissance{/html:p}
+	{/html:col}
+{/html:row}
+
+{html:row class='margin-bottom'}
+ {html:col class="col-md-12"}
+ {html:h2 class="title text-title text-center-xs"}Where does it come from?{/html:h2}
+ {html:p class="content text-indent"}
+	Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur pellentesque neque eget diam posuere porta.
+	Quisque ut nulla at nunc vehicula lacinia
+ {/html:p}
+ {html:tabs value="Microphone|Heart|Smile|Windows"}
+	 {html:tab}
+	   <i class="featured-icon pull-left fa fa-microphone background-color"></i>
+	   <p class="text-color text-indent content">Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+	       Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,
+		   when an unknown printer took a galley of type and scrambled it to make a type specimen book. 
+		   It has survived not only five centuries, 
+		   but also the leap into electronic typesetting, 
+		remaining essentially unchanged</p>
+	 {/html:tab} 
+	 {html:tab}
+	   <i class="featured-icon pull-left fa fa-heart-o background-color"></i>
+	   <p class="text-color text-indent content">It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.
+	   The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, 
+	   as opposed to using 'Content here, content here', making it look like readable English. 
+	   Many desktop publishing packages and web page editors now use
+	   "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
+	   Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+	   Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. 
+	   Excepteur sint occaecat cupidatat non proident, sunt in culpa 
+	   qui officia deserunt mollit anim id est laborum."
+	   </p>
+	 {/html:tab} 
+	 {html:tab}
+	  <i class="featured-icon pull-left fa fa-smile-o background-color"></i>
+	  <p class="text-color text-indent content">But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete
+	  account of the system, and expound the actual teachings of the great explorer of the truth, 
+	  the master-builder of human happiness. No one rejects, dislikes, or avoids pleasure itself, 
+	  because it is pleasure, but because those who do not know how to pursue pleasure rationally 
+	  encounter consequences that are extremely painful. Nor again is there anyone who loves or pursues 
+	  or desires to obtain pain of itself, because it is pain, but because occasionally circumstances 
+	  occur in which toil and pain can procure him some great pleasure. To take a trivial example</p>
+	 {/html:tab} 
+	 {html:tab}
+	 <i class="featured-icon pull-left fa fa-windows background-color"></i>
+	  <p class="text-color text-indent content">Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy.
+	  Various versions have evolved over the years, sometimes by accident, 
+	  sometimes on purpose (injected humour and the like)
+	  </p>
+	 {/html:tab} 
+ {/html:tabs}
+ {/html:col}
+{/html:row}
+
+{html:row class='margin-bottom-40'}
+	{html:col class="col-md-6"}
+	 {html:h3 class="title text-title text-center-xs"}Section 1.10.32{/html:h3}
+		<ul class="fa-ul">
+		  <li><i class="fa-li fa fa-check-square"></i>What is Lorem Ipsum?</li>
+		  <li><i class="fa-li fa fa-check-square"></i>Where does it come from?</li>
+		  <li><i class="fa-li fa fa-check-square"></i>Where can I get some?</li>
+		  <li><i class="fa-li fa fa-check-square"></i>Why do we use it?</li>
+		  <li><i class="fa-li fa fa-check-square"></i>1914 translation by H. Rackham</li>
+		  <li><i class="fa-li fa fa-check-square"></i>ection 1.10.33 of "de Finibus Bonorum et Malorum</li>
+		  <li><i class="fa-li fa fa-check-square"></i>The standard Lorem Ipsum passage</li>
+		  <li><i class="fa-li fa fa-check-square"></i>Why do we use it?</li>
+		</ul>
+	{/html:col}
+	{html:col class="col-md-6"}
+	    {html:h3 class="title text-title text-center-xs"}Vimeo{/html:h3}
+		{vimeo:video id="91440169" width="100%" height="325"}
+	{/html:col}
+{/html:row}
+
+{html:row class="well text-center"}
+		<h1>
+			<strong>1800-123-1234</strong>
+		</h1>
+		<h3>
+			<a href="{php:url url='contact-us'}{/php:url}" target="_blank" class="btn btn-primary btn-lg btn-color">Contact Us!</a>
+		</h3>
+{/html:row}

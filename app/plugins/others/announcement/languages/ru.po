@@ -1,0 +1,272 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Announcement\n"
+"POT-Creation-Date: 2014-11-06 12:48+0700\n"
+"PO-Revision-Date: 2015-03-01 17:07+0300\n"
+"Last-Translator: \n"
+"Language-Team: Vitubo <zakazhisait@yandex.ru>\n"
+"Language: ru_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.4\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../admin/views/announcement/add.php:11
+msgid "Add"
+msgstr "Добавить"
+
+#: ../admin/views/announcement/add.php:20
+#: ../admin/views/announcement/copy.php:32
+#: ../admin/views/announcement/edit.php:32
+#: ../admin/views/announcement/index.php:143
+#: ../admin/views/announcement/index.php:288
+msgid "Publish date"
+msgstr "Дата начала публикации"
+
+#: ../admin/views/announcement/add.php:37
+#: ../admin/views/announcement/copy.php:50
+#: ../admin/views/announcement/edit.php:50
+#: ../admin/views/announcement/index.php:161
+#: ../admin/views/announcement/index.php:296
+msgid "Unpublish date"
+msgstr "Дата завершения"
+
+#: ../admin/views/announcement/add.php:53
+#: ../admin/views/announcement/copy.php:67
+#: ../admin/views/announcement/edit.php:67
+msgid "Type"
+msgstr "Тип сообщения"
+
+#: ../admin/views/announcement/add.php:65
+#: ../admin/views/announcement/copy.php:80
+#: ../admin/views/announcement/edit.php:79
+msgid "Announce to user:"
+msgstr "Сообщение для пользователей:"
+
+#: ../admin/views/announcement/add.php:88
+#: ../admin/views/announcement/copy.php:105
+#: ../admin/views/announcement/edit.php:104
+msgid "Announce to group:"
+msgstr "Сообщение для групп:"
+
+#: ../admin/views/announcement/add.php:93
+#: ../admin/views/announcement/copy.php:117
+#: ../admin/views/announcement/edit.php:115
+#: ../admin/views/announcement/index.php:78
+#: ../admin/views/announcement/index.php:83
+msgid "All"
+msgstr "Все"
+
+#: ../admin/views/announcement/add.php:112
+#: ../admin/views/announcement/copy.php:137
+#: ../admin/views/announcement/edit.php:133
+#: ../admin/views/announcement/index.php:125
+#: ../admin/views/announcement/index.php:280
+msgid "Content"
+msgstr "Текст сообщения"
+
+#: ../admin/views/announcement/add.php:123
+#: ../admin/views/announcement/copy.php:148
+#: ../admin/views/announcement/edit.php:144
+#: ../admin/views/announcement/index.php:178
+#: ../admin/views/announcement/index.php:304
+msgid "Status"
+msgstr "Статус"
+
+#: ../admin/views/announcement/add.php:131
+#: ../admin/views/announcement/copy.php:157
+#: ../admin/views/announcement/edit.php:153
+#: ../admin/views/announcement/index.php:221
+#: ../admin/views/announcement/index.php:556
+msgid "Published"
+msgstr "Опубликован"
+
+#: ../admin/views/announcement/add.php:151
+#: ../admin/views/announcement/add.php:163
+#: ../admin/views/announcement/copy.php:178
+#: ../admin/views/announcement/copy.php:190
+#: ../admin/views/announcement/edit.php:173
+#: ../admin/views/announcement/edit.php:185
+#: ../admin/views/announcement/edit.php:208
+#: ../admin/views/announcement/index.php:363
+#: ../admin/views/announcement/index.php:375
+#: ../admin/views/announcement/index.php:396
+#: ../admin/views/announcement/index.php:439
+#: ../admin/views/announcement/index.php:452
+#: ../admin/views/announcement/index.php:461
+#: ../admin/views/announcement/index.php:468
+#: ../admin/views/announcement/index.php:483
+#: ../admin/views/announcement/index.php:507
+#: ../admin/views/announcement/index.php:535
+#: ../admin/views/announcement/index.php:550
+#: ../admin/views/announcement/index.php:564
+msgid "Loading..."
+msgstr "Загрузка..."
+
+#: ../admin/views/announcement/add.php:171
+#: ../admin/views/announcement/copy.php:198
+#: ../admin/views/announcement/edit.php:193
+#: ../admin/views/announcement/edit.php:219
+#: ../admin/views/announcement/index.php:416
+#: ../admin/views/announcement/index.php:474
+#: ../admin/views/announcement/index.php:489
+#: ../admin/views/announcement/index.php:512
+msgid "There is an error, please check again!"
+msgstr "Возникла ошибка. Повторите позже."
+
+#: ../admin/views/announcement/add.php:176
+msgid "Announcement is added successfully"
+msgstr "Сообщение добавлено"
+
+#: ../admin/views/announcement/copy.php:23
+msgid "Copy"
+msgstr "Копировать"
+
+#: ../admin/views/announcement/copy.php:203
+msgid "Announcement is copied successfully"
+msgstr "Сообщение скопировано"
+
+#: ../admin/views/announcement/edit.php:23
+msgid "Edit"
+msgstr "Прваить"
+
+#: ../admin/views/announcement/edit.php:198
+#: ../admin/views/announcement/edit.php:217
+msgid "Announcement is updated successfully"
+msgstr "Сообщение изменено"
+
+#: ../admin/views/announcement/index.php:5
+#: ../admin/views/announcement/index.php:271
+#: ../admin/views/announcement/index.php:314
+msgid "Search"
+msgstr "Поиск"
+
+#: ../admin/views/announcement/index.php:11
+msgid "New"
+msgstr "Добавить"
+
+#: ../admin/views/announcement/index.php:15
+#: ../admin/views/announcement/index.php:20
+#: ../admin/views/announcement/index.php:26
+msgid "Save"
+msgstr "Сохранить"
+
+#: ../admin/views/announcement/index.php:16
+#: ../admin/views/announcement/index.php:22
+#: ../admin/views/announcement/index.php:27
+msgid "Cancel"
+msgstr "Отмена"
+
+#: ../admin/views/announcement/index.php:21
+msgid "Apply"
+msgstr "Применить"
+
+#: ../admin/views/announcement/index.php:39
+msgid "List"
+msgstr "Список"
+
+#: ../admin/views/announcement/index.php:51
+msgid "Select Action"
+msgstr "Выберите действие"
+
+#: ../admin/views/announcement/index.php:55
+#: ../admin/views/announcement/index.php:504
+msgid "Delete"
+msgstr "Удалить"
+
+#: ../admin/views/announcement/index.php:58
+#: ../admin/views/announcement/index.php:86
+msgid "Publish"
+msgstr "Опубликовать"
+
+#: ../admin/views/announcement/index.php:61
+#: ../admin/views/announcement/index.php:89
+msgid "Unpublish"
+msgstr "Снять с публикации"
+
+#: ../admin/views/announcement/index.php:183
+msgid "Actions"
+msgstr "Действия"
+
+#: ../admin/views/announcement/index.php:223
+#: ../admin/views/announcement/index.php:558
+msgid "Unpublished"
+msgstr "Неопубликовано"
+
+#: ../admin/views/announcement/index.php:269
+#: ../admin/views/announcement/index.php:315
+msgid "Close"
+msgstr "Закрыть"
+
+#: ../admin/views/announcement/index.php:389
+msgid "Are you sure to perform this action?"
+msgstr "Вы уверены?"
+
+#: ../admin/views/announcement/index.php:405
+#: ../admin/views/announcement/index.php:510
+msgid "Announcement is deleted successfully"
+msgstr "Сообщение удалено"
+
+#: ../admin/views/announcement/index.php:409
+msgid "Announcement is published successfully"
+msgstr "Сообщение опубликовано"
+
+#: ../admin/views/announcement/index.php:412
+msgid "Announcement is unpublished successfully"
+msgstr "Сообщение снято с публикации"
+
+#: ../admin/views/announcement/index.php:500
+msgid "Are you sure to delete this item?"
+msgstr "Вы хотите удалить?"
+
+msgid "Announcement"
+msgstr "Сообщения"
+
+msgid "New announcement"
+msgstr "Новое сообщение"
+
+#, fuzzy
+#~ msgid "search"
+#~ msgstr "Search"
+
+#, fuzzy
+#~ msgid "Item is copied successfully"
+#~ msgstr "Announcement is edited successfully"
+
+#, fuzzy
+#~ msgid "Item is updated successfully"
+#~ msgstr "Announcement is edited successfully"
+
+#, fuzzy
+#~ msgid "Item is deleted successfully"
+#~ msgstr "Announcement is edited successfully"
+
+#, fuzzy
+#~ msgid "Category is deleted successfully"
+#~ msgstr "Action is performed successfully!"
+
+#, fuzzy
+#~ msgid "Category is publish successfully"
+#~ msgstr "Action is performed successfully!"
+
+#~ msgid "Please enter announcement content!"
+#~ msgstr "Please enter announcement content!"
+
+#~ msgid "Announcement can not more than 255 characters!"
+#~ msgstr "Announcement can not more than 255 characters!"
+
+#~ msgid "Access Denied!"
+#~ msgstr "Access Denied!"
+
+#~ msgid "Please enter the search conditions"
+#~ msgstr "Please enter the search conditions"
+
+#~ msgid "Confirm"
+#~ msgstr "Confirm"
+
+#~ msgid "Author"
+#~ msgstr "Author"

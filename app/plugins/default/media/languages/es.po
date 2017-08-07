@@ -1,0 +1,270 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Media\n"
+"POT-Creation-Date: 2015-02-26 13:54+0700\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.4\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../media-config.php:17
+msgid "Media settings"
+msgstr "Ajustes de medios"
+
+#: ../media-config.php:49
+msgid "Path (Ex: uploads/)"
+msgstr "Ruta (p.ej.: subidos/)"
+
+#: ../media-config.php:50
+msgid "Maximum size of upload file (MB)"
+msgstr "Tamaño máximo del archivo por subir (MB)"
+
+#: ../media-config.php:51
+msgid "Image file extention (jpg, png, gif...)"
+msgstr "Extensión de archivo de imagen (.jpg, .png, .gif, etc.)"
+
+#: ../media-config.php:52
+msgid "Audio file extention (mp3, ogg, wav...)"
+msgstr "Extensión de archivo de audio (.mp3, .ogg, .wav, etc.)"
+
+#: ../media-config.php:53
+msgid "Video file extention file(mp4, mov, mpeg...)"
+msgstr "extensión de archivo de video (.mp4, .mov, .mpeg, etc.)"
+
+#: ../media-config.php:54
+msgid "Document file extention"
+msgstr "Extensión de archivo de documentos"
+
+#: ../media-config.php:55
+msgid "Misc file extention"
+msgstr "Extensión de otros archivos"
+
+#: ../media-config.php:56
+msgid "Hidden folder (do not remove: thumbnails)"
+msgstr "Carpeta oculta (no borrar: miniaturas)"
+
+#: ../media-config.php:57
+msgid "Hidden file"
+msgstr "Archivo oculto"
+
+#: ../media-config.php:58
+msgid "Allow image resize when upload"
+msgstr "Permitir cambio de tamaño de imagen cuando se carga"
+
+#: ../media-config.php:59
+msgid "Image width"
+msgstr "ancho de la imagen"
+
+#: ../media-config.php:60
+msgid "Image height"
+msgstr "altura de la imagen"
+
+#: ../media.php:4 ../media.php:29
+msgid "Media"
+msgstr "Medios"
+
+#~ msgid "Are you sure to delete this comment?"
+#~ msgstr "¿Seguro que desea borrar este comentario?"
+
+#~ msgid "No comment are selected"
+#~ msgstr "No hay comentarios seleccionados"
+
+#~ msgid "Are you sure to perform this action?"
+#~ msgstr "¿Seguro de realizar esta acción?"
+
+#~ msgid "Please enter a search term"
+#~ msgstr "Introduce el texto a buscar"
+
+#~ msgid "Please select the action to perform"
+#~ msgstr "Selecciona la acción que desea realizar"
+
+#~ msgid "Please enter at least 1 character"
+#~ msgstr "Introduce al menos un carácter"
+
+#~ msgid "Please choose an author"
+#~ msgstr "Selecciones un autor"
+
+#~ msgid ""
+#~ "Content must be at least 2 characters and no more than 500 characters"
+#~ msgstr "el contenido debe  tener entre 2 y 500 caracteres"
+
+#~ msgid "Incorrect ID"
+#~ msgstr "ID incorrecto"
+
+#~ msgid "Your comment has been successfully updated"
+#~ msgstr "el comentario fié actualizado correctamente"
+
+#~ msgid "There was an error please try again later"
+#~ msgstr "Hubo un error, intentelo de nuevo"
+
+#~ msgid "Edit comment"
+#~ msgstr "Editar comentario"
+
+#~ msgid "Content"
+#~ msgstr "Contenido"
+
+#~ msgid "Bulk Actions "
+#~ msgstr "Action en bloque"
+
+#~ msgid "Delete"
+#~ msgstr "Borrar"
+
+#~ msgid "Published"
+#~ msgstr "Publicado"
+
+#~ msgid "Unpublished"
+#~ msgstr "Sin publicar"
+
+#~ msgid "Search"
+#~ msgstr "Buscar"
+
+#~ msgid "All"
+#~ msgstr "Todo"
+
+#~ msgid "Items per page"
+#~ msgstr "Elementos por pagina"
+
+#~ msgid "Go to page"
+#~ msgstr "Ir a la pagina"
+
+#~ msgid "Go"
+#~ msgstr "Ir"
+
+#~ msgid "Update status"
+#~ msgstr "Estado"
+
+#~ msgid "Delete status"
+#~ msgstr "Borrar estado"
+
+#~ msgid "Backup Now"
+#~ msgstr "Copia de seguridad ahora"
+
+#~ msgid "File Name"
+#~ msgstr "Nombre de fichero"
+
+#~ msgid "Created Date"
+#~ msgstr "Fecha de creación"
+
+#~ msgid "File Size (kB)"
+#~ msgstr "Tamaño del archivo (kB)"
+
+#~ msgid "New Menu"
+#~ msgstr "Nuevo menú"
+
+#~ msgid "Shortcode"
+#~ msgstr "Shortcode"
+
+#~ msgid "Edit"
+#~ msgstr "Editar"
+
+#~ msgid "Close"
+#~ msgstr "Cerrar"
+
+#~ msgid "The email address you entered is already in use!"
+#~ msgstr "La dirección de Correo ya existe!!"
+
+#~ msgid "The username you entered is already in use!"
+#~ msgstr "El nombre de usuario ya existe!"
+
+#~ msgid "The passwords you entered do not match!"
+#~ msgstr "La password introducida no es la misma!"
+
+#~ msgid "Please review your information!"
+#~ msgstr "Por favor, revisa la información"
+
+#~ msgid "User successfully created!"
+#~ msgstr "Usuario creado correctamente"
+
+#~ msgid "Edit user %s successfully!"
+#~ msgstr "El usuario %s se actualizó correctamente!"
+
+#~ msgid "Email"
+#~ msgstr "Email"
+
+#~ msgid "Username"
+#~ msgstr "Nombre de usuario"
+
+#~ msgid "Password"
+#~ msgstr "Password"
+
+#~ msgid "Re-Password"
+#~ msgstr "Repite Password"
+
+#~ msgid "Displayname"
+#~ msgstr "Nombre a mostrar"
+
+#~ msgid "Role"
+#~ msgstr "Permisos"
+
+#~ msgid "Cancel"
+#~ msgstr "Cancelar"
+
+#~ msgid "Action Successfully!"
+#~ msgstr "Correcto!"
+
+#~ msgid "Error Detected! The Activation key invalid!"
+#~ msgstr "Error detectado, clave de activación errónea"
+
+#~ msgid "This user aready activated!"
+#~ msgstr "Este usuario ya se ha activado"
+
+#~ msgid "Activation Successfully!"
+#~ msgstr "Activación Realizada!"
+
+#~ msgid "Activated"
+#~ msgstr "Activado"
+
+#~ msgid "Deactivated"
+#~ msgstr "Desactivado"
+
+#~ msgid "Manage"
+#~ msgstr "Configurar"
+
+#~ msgid "Advance Search"
+#~ msgstr "Busqueda avanzada"
+
+#~ msgid "Username (Like)"
+#~ msgstr "Nombre de usuario"
+
+#~ msgid "Email (like)"
+#~ msgstr "Email "
+
+#~ msgid "Unknown"
+#~ msgstr "Desconocido"
+
+#~ msgid "Active"
+#~ msgstr "Activo"
+
+#~ msgid "Inactive"
+#~ msgstr "No activo"
+
+#~ msgid "Show Result"
+#~ msgstr "Mostrar resultados"
+
+#~ msgid "Check All"
+#~ msgstr "Comprobar todo"
+
+#~ msgid "With Selection"
+#~ msgstr "Con selección"
+
+#~ msgid "Notification"
+#~ msgstr "Notificación"
+
+#~ msgid "Do you really want to do that?"
+#~ msgstr "Realmente quieres hacer esto?"
+
+#~ msgid "Confirm"
+#~ msgstr "Confirmar"
+
+#~ msgid "Really?"
+#~ msgstr "Estas seguro?"
+
+#~ msgid "Allow using java"
+#~ msgstr "Permitir uso de java"

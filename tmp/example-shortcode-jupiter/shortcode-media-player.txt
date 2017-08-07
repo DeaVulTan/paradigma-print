@@ -1,0 +1,13 @@
+
+{html:title size='2'}Audio player{/html:title}<br />{player:audio width="auto" src="http://www.nch.com.au/acm/sample.mp3" title="Sample MP3" subtitle="Audio Files" poster="http://imagebase.net/var/thumbs/People/imagebase20_46.jpg" summary="Description"}<br /><br />{html:code}{player:audio width="auto" 
+src="http://www.nch.com.au/acm/sample.mp3" title="Sample MP3" 
+subtitle="Audio Files"
+poster="http://imagebase.net/var/thumbs/People/imagebase20_46.jpg" 
+summary="Description"}{/html:code}<br /><br />{html:title size='2'}Video player{/html:title}<br />{player:video loop="true" width="auto" src="http://techslides.com/demos/sample-videos/small.mp4" width="100%" title="Sample MP4" subtitle="Video Files" loop="true" height="450"}<br /><br />{html:code}{player:video loop="true" 
+src="http://techslides.com/demos/sample-videos/small.mp4" width="100%" 
+title="Sample MP4" subtitle="Video Files"
+height="450"}{/html:code}
+<br />
+{html:h2}Supported format:{/html:h2}<br />
+{html:h3}Audio: mp4, mp3, ogg, opus{/html:h3}<br />
+{html:h3}Video: mp4, webm, ogg{/html:h3}

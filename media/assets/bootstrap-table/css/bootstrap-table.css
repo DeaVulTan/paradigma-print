@@ -1,0 +1,96 @@
+@CHARSET "UTF-8";
+.table-container{
+    border:1px solid #DDDDDD;
+    position:relative;
+}
+.table-scroll .table-header{
+    overflow: hidden;
+}
+
+.table-fix-right .table-fix-right-header,
+.table-fix-left .table-fix-left-header,
+.table-scroll .table-header-container{
+    border-bottom-color: #c5c5c5;
+    background-image: -moz-linear-gradient(top, #f7f7f7, #e3e4e6);
+    background-image: -ms-linear-gradient(top, #f7f7f7, #e3e4e6);
+    background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#f7f7f7), to(#e3e4e6));
+    background-image: -webkit-linear-gradient(top, #f7f7f7, #e3e4e6);
+    background-image: -o-linear-gradient(top, #f7f7f7, #e3e4e6);
+    background-image: linear-gradient(top, #f7f7f7, #e3e4e6);
+    background-repeat: repeat-x;
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#f7f7f7', endColorstr='#e3e4e6', GradientType=0);    
+}
+
+.table-scroll .table-header th:last-child{
+    border-right:none;
+}
+
+.table-scroll .table-body{
+    overflow: auto;
+}
+
+.table-fix-right .table-fix-right-body table td,
+.table-fix-right .table-fix-right-header th{
+    border-left:1px solid #CCC;
+}
+
+.table-fix-left .table-fix-left-header th,
+.table-scroll .table-header th,
+.table-fix-right .table-fix-right-header th{
+    white-space: nowrap;
+}
+
+
+.table-fix-left .table-fix-left-body table td,
+.table-fix-left .table-fix-left-header th,
+.table-scroll .table-header th,
+.table-scroll .table-body td{
+    border-right:1px solid #CCC;
+}
+
+.table-scroll .table-body td:last-child{
+    border-right:none;
+}
+
+.table-scroll table {
+    margin:0px;
+    max-width: none;
+}
+
+.table-fix-right table,
+.table-fix-left table{
+    margin:0px;
+}
+.button-toolbar{
+    margin-bottom:20px;
+}
+.no-margin{
+    margin:0;
+}
+.table > thead > tr > th, 
+.table > tbody > tr > th, 
+.table > tfoot > tr > th, 
+.table > thead > tr > td, 
+.table > tbody > tr > td, 
+.table > tfoot > tr > td {
+    border-top: none;
+}
+.table-fix-left{
+    position:absolute;
+    top:0px;
+    left:0px;
+    overflow: hidden;
+}
+.table-fix-right{
+    position:absolute;
+    top:0px;
+    right:0px;
+    overflow: hidden;
+    margin-right:17px; 
+    background: #FFFFFF;
+}
+
+.table-fix-right .table-fix-right-body,
+.table-fix-left .table-fix-left-body{
+    overflow: hidden;
+}

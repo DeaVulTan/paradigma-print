@@ -1,0 +1,416 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: FAQ\n"
+"POT-Creation-Date: 2015-01-15 13:12+0700\n"
+"PO-Revision-Date: 2015-01-15 13:12+0700\n"
+"Last-Translator: \n"
+"Language-Team: Vitubo\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.4\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../admin/models/faq-model.php:21 ../admin/views/faq/index.php:89
+#: ../admin/views/faq/index.php:172 ../admin/views/faq/index.php:500
+msgid "Published"
+msgstr "Published"
+
+#: ../admin/models/faq-model.php:21 ../admin/views/faq/index.php:91
+#: ../admin/views/faq/index.php:174 ../admin/views/faq/index.php:502
+msgid "Unpublished"
+msgstr "Unpublished"
+
+#: ../admin/views/faq/add.php:4 ../admin/views/faq/copy.php:4
+#: ../admin/views/faq/edit.php:4
+msgid "You can add maximum 50 questions at a time"
+msgstr "You can add maximum 50 questions at a time"
+
+#: ../admin/views/faq/add.php:5 ../admin/views/faq/copy.php:5
+#: ../admin/views/faq/edit.php:5 ../admin/views/faq/index.php:441
+msgid "Are you sure to delete this item?"
+msgstr "Are you sure to delete this item?"
+
+#: ../admin/views/faq/add.php:6 ../admin/views/faq/copy.php:6
+#: ../admin/views/faq/edit.php:6
+msgid "Title must be in the range of 2 to 255 characters"
+msgstr "Title must be in the range of 2 to 255 characters"
+
+#: ../admin/views/faq/add.php:7 ../admin/views/faq/copy.php:7
+#: ../admin/views/faq/edit.php:7
+msgid "Description must be in the range of 1 to 500 characters"
+msgstr "Description must be in the range of 1 to 500 characters"
+
+#: ../admin/views/faq/add.php:19 ../admin/views/faq/add.php:109
+#: ../admin/views/faq/copy.php:122 ../admin/views/faq/edit.php:121
+msgid "Add"
+msgstr "Add"
+
+#: ../admin/views/faq/add.php:34 ../admin/views/faq/copy.php:34
+#: ../admin/views/faq/edit.php:34 ../admin/views/faq/index.php:127
+msgid "Title"
+msgstr "Title"
+
+#: ../admin/views/faq/add.php:51 ../admin/views/faq/copy.php:55
+#: ../admin/views/faq/edit.php:55 ../admin/views/faq/index.php:146
+#: ../admin/views/faq/index.php:243
+msgid "Status"
+msgstr "Status"
+
+#: ../admin/views/faq/add.php:66 ../admin/views/faq/copy.php:70
+#: ../admin/views/faq/edit.php:70
+msgid "Description"
+msgstr "Description"
+
+#: ../admin/views/faq/add.php:82 ../admin/views/faq/add.php:124
+#: ../admin/views/faq/copy.php:87 ../admin/views/faq/copy.php:137
+#: ../admin/views/faq/edit.php:86 ../admin/views/faq/edit.php:136
+msgid "Question"
+msgstr "Question"
+
+#: ../admin/views/faq/add.php:90 ../admin/views/faq/add.php:132
+#: ../admin/views/faq/copy.php:99 ../admin/views/faq/copy.php:148
+#: ../admin/views/faq/edit.php:98 ../admin/views/faq/edit.php:147
+msgid "Answer"
+msgstr "Answer"
+
+#: ../admin/views/faq/add.php:104 ../admin/views/faq/copy.php:117
+#: ../admin/views/faq/edit.php:116
+msgid "Please input number of questions and click Add"
+msgstr "Please input number of questions and click Add"
+
+#: ../admin/views/faq/add.php:105 ../admin/views/faq/copy.php:118
+#: ../admin/views/faq/edit.php:117
+msgid ""
+"You can add maximum 50 questions at a time. You can order questions by "
+"dragging them"
+msgstr ""
+"You can add maximum 50 questions at a time. You can order questions by "
+"dragging them"
+
+#: ../admin/views/faq/add.php:213 ../admin/views/faq/add.php:231
+#: ../admin/views/faq/copy.php:228 ../admin/views/faq/copy.php:246
+#: ../admin/views/faq/edit.php:234 ../admin/views/faq/edit.php:252
+#: ../admin/views/faq/edit.php:282 ../admin/views/faq/index.php:303
+#: ../admin/views/faq/index.php:315 ../admin/views/faq/index.php:336
+#: ../admin/views/faq/index.php:380 ../admin/views/faq/index.php:393
+#: ../admin/views/faq/index.php:402 ../admin/views/faq/index.php:409
+#: ../admin/views/faq/index.php:424 ../admin/views/faq/index.php:448
+#: ../admin/views/faq/index.php:476 ../admin/views/faq/index.php:493
+#: ../admin/views/faq/index.php:511
+msgid "Loading..."
+msgstr "Loading..."
+
+#: ../admin/views/faq/add.php:227 ../admin/views/faq/copy.php:242
+#: ../admin/views/faq/edit.php:248 ../admin/views/faq/edit.php:278
+msgid "The field is required"
+msgstr "The field is required"
+
+#: ../admin/views/faq/add.php:228 ../admin/views/faq/add.php:239
+#: ../admin/views/faq/copy.php:243 ../admin/views/faq/copy.php:254
+#: ../admin/views/faq/edit.php:249 ../admin/views/faq/edit.php:260
+#: ../admin/views/faq/edit.php:279 ../admin/views/faq/index.php:357
+#: ../admin/views/faq/index.php:415 ../admin/views/faq/index.php:430
+#: ../admin/views/faq/index.php:453
+msgid "There is an error, please check again!"
+msgstr "There is an error, please check again!"
+
+#: ../admin/views/faq/add.php:244
+msgid "FAQ is created successfully"
+msgstr "FAQ is created successfully"
+
+#: ../admin/views/faq/copy.php:19
+msgid "Copy"
+msgstr "Copy"
+
+#: ../admin/views/faq/copy.php:259
+msgid "FAQ is copied successfully"
+msgstr "FAQ is copied successfully"
+
+#: ../admin/views/faq/edit.php:19
+msgid "Edit"
+msgstr "Edit"
+
+#: ../admin/views/faq/edit.php:265 ../admin/views/faq/edit.php:291
+msgid "FAQ is updated successfully"
+msgstr "FAQ is updated successfully"
+
+#: ../admin/views/faq/index.php:5 ../admin/views/faq/index.php:224
+#: ../admin/views/faq/index.php:254
+msgid "Search"
+msgstr "Search"
+
+#: ../admin/views/faq/index.php:22
+msgid "New"
+msgstr "New"
+
+#: ../admin/views/faq/index.php:26 ../admin/views/faq/index.php:31
+#: ../admin/views/faq/index.php:37
+msgid "Save"
+msgstr "Save"
+
+#: ../admin/views/faq/index.php:27 ../admin/views/faq/index.php:33
+#: ../admin/views/faq/index.php:38
+msgid "Cancel"
+msgstr "Cancel"
+
+#: ../admin/views/faq/index.php:32
+msgid "Apply"
+msgstr "Apply"
+
+#: ../admin/views/faq/index.php:50
+msgid "FAQ"
+msgstr "FAQ"
+
+#: ../admin/views/faq/index.php:50
+msgid "List"
+msgstr "List"
+
+#: ../admin/views/faq/index.php:62
+msgid "Bulk Action"
+msgstr "Bulk Action"
+
+#: ../admin/views/faq/index.php:67 ../admin/views/faq/index.php:445
+msgid "Delete"
+msgstr "Delete"
+
+#: ../admin/views/faq/index.php:69
+msgid "Publish"
+msgstr "Publish"
+
+#: ../admin/views/faq/index.php:71
+msgid "Unpublish"
+msgstr "Unpublish"
+
+#: ../admin/views/faq/index.php:83 ../admin/views/faq/index.php:88
+msgid "All"
+msgstr "All"
+
+#: ../admin/views/faq/index.php:151
+msgid "Actions"
+msgstr "Actions"
+
+#: ../admin/views/faq/index.php:222 ../admin/views/faq/index.php:255
+msgid "Close"
+msgstr "Close"
+
+#: ../admin/views/faq/index.php:235
+msgid "FAQ Title"
+msgstr "FAQ Title"
+
+#: ../admin/views/faq/index.php:329
+msgid "Are you sure with this action?"
+msgstr "Are you sure with this action?"
+
+#: ../admin/views/faq/index.php:347 ../admin/views/faq/index.php:451
+msgid "FAQ is deleted successfully"
+msgstr "FAQ is deleted successfully"
+
+#: ../admin/views/faq/index.php:350
+msgid "FAQ is published successfully"
+msgstr "FAQ is published successfully"
+
+#: ../admin/views/faq/index.php:353
+msgid "FAQ is unpublished successfully"
+msgstr "FAQ is unpublished successfully"
+
+#: ../faq.php:24
+msgid "FAQs"
+msgstr "FAQs"
+
+#: ../shortcodes/controllers/faq-shortcode.php:277
+msgid "No answer yet"
+msgstr "No answer yet"
+
+#: ../shortcodes/controllers/faq-shortcode.php:279
+msgid "Search Result"
+msgstr "Search Result"
+
+#: ../shortcodes/views/faq/main.php:39
+msgid "FAQ Lists"
+msgstr "FAQ Lists"
+
+#~ msgid "Your action is successful"
+#~ msgstr "Your action is successful"
+
+#~ msgid "Answers"
+#~ msgstr "Answers"
+
+#~ msgid "No item are selected"
+#~ msgstr "No item are selected"
+
+#~ msgid "Please enter the search conditions"
+#~ msgstr "Please enter the search conditions"
+
+#~ msgid "Select Action "
+#~ msgstr "Select Action "
+
+#~ msgid "%s"
+#~ msgstr "%s"
+
+#~ msgid "Shortcode"
+#~ msgstr "Shortcode"
+
+#~ msgid "Delete FAQ"
+#~ msgstr "Delete FAQ"
+
+#~ msgid "Are you sure you want to delete this item?"
+#~ msgstr "Are you sure you want to delete this item?"
+
+#~ msgid "Please enter a search term"
+#~ msgstr "Please enter a search term"
+
+#~ msgid "Please select the action to perform"
+#~ msgstr "Please select the action to perform"
+
+#~ msgid "Please enter at least one character"
+#~ msgstr "Please enter at least one character"
+
+#~ msgid ""
+#~ "Content must be at least 2 characters and no more than 500 characters"
+#~ msgstr ""
+#~ "Content must be at least 2 characters and no more than 500 characters"
+
+#~ msgid "Incorrect ID"
+#~ msgstr "Incorrect ID"
+
+#~ msgid "Your FAQ has been successfully updated"
+#~ msgstr "Your FAQ has been successfully updated"
+
+#~ msgid "Create FAQ"
+#~ msgstr "Create FAQ"
+
+#~ msgid "Update FAQ"
+#~ msgstr "Update FAQ"
+
+#~ msgid "Go to page"
+#~ msgstr "Go to page"
+
+#~ msgid "Go"
+#~ msgstr "Go"
+
+#, fuzzy
+#~ msgid "You have successfully manipulated"
+#~ msgstr "Your FAQ has been successfully updated"
+
+#~ msgid "Please choose an author"
+#~ msgstr "Please choose an author"
+
+#~ msgid "Items per page"
+#~ msgstr "Items per page"
+
+#~ msgid "You just get more questions from 1 to 50"
+#~ msgstr "You just get more questions from 1 to 50"
+
+#~ msgid "Edit comment"
+#~ msgstr "Edit comment"
+
+#~ msgid "Content"
+#~ msgstr "Content"
+
+#~ msgid "Delete status"
+#~ msgstr "Delete status"
+
+#~ msgid "Backup Now"
+#~ msgstr "Backup Now"
+
+#~ msgid "File Name"
+#~ msgstr "File Name"
+
+#~ msgid "File Size (kB)"
+#~ msgstr "File Size (kB)"
+
+#, fuzzy
+#~ msgid "New Menu"
+#~ msgstr "New Member"
+
+#~ msgid "The email address you entered is already in use!"
+#~ msgstr "The email address you entered is already in use!"
+
+#~ msgid "The username you entered is already in use!"
+#~ msgstr "The username you entered is already in use!"
+
+#~ msgid "The passwords you entered do not match!"
+#~ msgstr "The passwords you entered do not match!"
+
+#~ msgid "Please review your information!"
+#~ msgstr "Please review your information!"
+
+#~ msgid "User successfully created!"
+#~ msgstr "User successfully created!"
+
+#~ msgid "Email"
+#~ msgstr "Email"
+
+#~ msgid "Username"
+#~ msgstr "Username"
+
+#~ msgid "Password"
+#~ msgstr "Password"
+
+#~ msgid "Re-Password"
+#~ msgstr "Re-Password"
+
+#~ msgid "Displayname"
+#~ msgstr "Displayname"
+
+#~ msgid "Role"
+#~ msgstr "Role"
+
+#~ msgid "Error Detected! The Activation key invalid!"
+#~ msgstr "Error Detected! The Activation key invalid!"
+
+#~ msgid "This user aready activated!"
+#~ msgstr "This user aready activated!"
+
+#~ msgid "Activation Successfully!"
+#~ msgstr "Activation Successfully!"
+
+#~ msgid "Activated"
+#~ msgstr "Activated"
+
+#~ msgid "Deactivated"
+#~ msgstr "Deactivated"
+
+#~ msgid "Manage"
+#~ msgstr "Manage"
+
+#~ msgid "Advance Search"
+#~ msgstr "Advance Search"
+
+#~ msgid "Username (Like)"
+#~ msgstr "Username (Like)"
+
+#~ msgid "Email (like)"
+#~ msgstr "Email (like)"
+
+#~ msgid "Unknown"
+#~ msgstr "Unknown"
+
+#~ msgid "Active"
+#~ msgstr "Active"
+
+#~ msgid "Inactive"
+#~ msgstr "Inactive"
+
+#~ msgid "Check All"
+#~ msgstr "Check All"
+
+#~ msgid "With Selection"
+#~ msgstr "With Selection"
+
+#~ msgid "Notification"
+#~ msgstr "Notification"
+
+#~ msgid "Do you really want to do that?"
+#~ msgstr "Do you really want to do that?"
+
+#~ msgid "Confirm"
+#~ msgstr "Confirm"
+
+#~ msgid "Really?"
+#~ msgstr "Really?"

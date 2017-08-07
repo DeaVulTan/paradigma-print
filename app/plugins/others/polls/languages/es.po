@@ -1,0 +1,304 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Polls\n"
+"POT-Creation-Date: 2015-02-03 17:04+0700\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.1\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../admin/views/polls/add.php:11
+msgid "Add"
+msgstr "Añadir"
+
+#: ../admin/views/polls/add.php:21 ../admin/views/polls/copy.php:21
+#: ../admin/views/polls/edit.php:21 ../admin/views/polls/index.php:117
+#: ../admin/views/polls/index.php:298
+msgid "Question"
+msgstr "Pregunta"
+
+#: ../admin/views/polls/add.php:32 ../admin/views/polls/copy.php:32
+#: ../admin/views/polls/edit.php:32 ../admin/views/polls/index.php:140
+msgid "Publish Date"
+msgstr "Fecha de publicación"
+
+#: ../admin/views/polls/add.php:43 ../admin/views/polls/copy.php:43
+#: ../admin/views/polls/edit.php:43 ../admin/views/polls/index.php:158
+msgid "Unpublish Date"
+msgstr "Fecha fin de publicación"
+
+#: ../admin/views/polls/add.php:59 ../admin/views/polls/add.php:117
+#: ../admin/views/polls/copy.php:57 ../admin/views/polls/copy.php:76
+#: ../admin/views/polls/copy.php:133 ../admin/views/polls/edit.php:57
+#: ../admin/views/polls/edit.php:119
+msgid "Answer "
+msgstr "Respuesta"
+
+#: ../admin/views/polls/add.php:74 ../admin/views/polls/copy.php:91
+#: ../admin/views/polls/edit.php:77
+msgid "Add Answer"
+msgstr "Añadir Respuesta"
+
+#: ../admin/views/polls/add.php:79 ../admin/views/polls/copy.php:96
+#: ../admin/views/polls/edit.php:82
+msgid "Multiple Answer?"
+msgstr "¿Multiples respuestas?"
+
+#: ../admin/views/polls/add.php:81 ../admin/views/polls/copy.php:98
+#: ../admin/views/polls/edit.php:84 ../polls-config.php:20
+#: ../polls-config.php:22
+msgid "Yes"
+msgstr "Sí"
+
+#: ../admin/views/polls/add.php:82 ../admin/views/polls/copy.php:99
+#: ../admin/views/polls/edit.php:85 ../polls-config.php:20
+#: ../polls-config.php:22
+msgid "No"
+msgstr "No"
+
+#: ../admin/views/polls/add.php:86 ../admin/views/polls/copy.php:103
+#: ../admin/views/polls/edit.php:89
+msgid "Number of allowed answer"
+msgstr "Número de respuestas permitidas"
+
+#: ../admin/views/polls/add.php:93 ../admin/views/polls/copy.php:110
+#: ../admin/views/polls/edit.php:96 ../admin/views/polls/index.php:176
+#: ../admin/views/polls/index.php:306
+msgid "Status"
+msgstr "Estado"
+
+#: ../admin/views/polls/add.php:102 ../admin/views/polls/copy.php:119
+#: ../admin/views/polls/edit.php:105 ../admin/views/polls/index.php:238
+#: ../admin/views/polls/index.php:558
+msgid "Published"
+msgstr "Publicado"
+
+#: ../admin/views/polls/add.php:142 ../admin/views/polls/add.php:153
+#: ../admin/views/polls/copy.php:159 ../admin/views/polls/copy.php:170
+#: ../admin/views/polls/edit.php:146 ../admin/views/polls/edit.php:157
+#: ../admin/views/polls/edit.php:189 ../admin/views/polls/edit.php:218
+#: ../admin/views/polls/index.php:365 ../admin/views/polls/index.php:377
+#: ../admin/views/polls/index.php:398 ../admin/views/polls/index.php:441
+#: ../admin/views/polls/index.php:454 ../admin/views/polls/index.php:463
+#: ../admin/views/polls/index.php:470 ../admin/views/polls/index.php:485
+#: ../admin/views/polls/index.php:509 ../admin/views/polls/index.php:537
+#: ../admin/views/polls/index.php:552 ../admin/views/polls/index.php:566
+msgid "Loading..."
+msgstr "Cargando..."
+
+#: ../admin/views/polls/add.php:161 ../admin/views/polls/copy.php:178
+#: ../admin/views/polls/edit.php:165 ../admin/views/polls/edit.php:200
+#: ../admin/views/polls/index.php:418 ../admin/views/polls/index.php:476
+#: ../admin/views/polls/index.php:491 ../admin/views/polls/index.php:514
+msgid "There is an error, please check again!"
+msgstr "Hay un error, por favor reviselo de nuevo!"
+
+#: ../admin/views/polls/add.php:175
+msgid "Poll is added successfully"
+msgstr "La encuesta se añadió correctamente"
+
+#: ../admin/views/polls/copy.php:11
+msgid "Copy"
+msgstr "Copiar"
+
+#: ../admin/views/polls/copy.php:183
+msgid "Poll is copied successfully"
+msgstr "La encuesta se copió correctamente"
+
+#: ../admin/views/polls/edit.php:11
+msgid "Edit"
+msgstr "Editar"
+
+#: ../admin/views/polls/edit.php:60
+msgid "Voted"
+msgstr "Votada"
+
+#: ../admin/views/polls/edit.php:170 ../admin/views/polls/edit.php:198
+msgid "Poll is updated successfully"
+msgstr "La Encuesta se actualizó correctamente"
+
+#: ../admin/views/polls/index.php:5 ../admin/views/polls/index.php:289
+#: ../admin/views/polls/index.php:316
+msgid "Search"
+msgstr "Buscar"
+
+#: ../admin/views/polls/index.php:11
+msgid "New"
+msgstr "Nuevo"
+
+#: ../admin/views/polls/index.php:15 ../admin/views/polls/index.php:20
+#: ../admin/views/polls/index.php:26
+msgid "Save"
+msgstr "Guardar"
+
+#: ../admin/views/polls/index.php:16 ../admin/views/polls/index.php:22
+#: ../admin/views/polls/index.php:27
+msgid "Cancel"
+msgstr "Cancelar"
+
+#: ../admin/views/polls/index.php:21
+msgid "Apply"
+msgstr "Aplicar"
+
+#: ../admin/views/polls/index.php:39
+msgid "List"
+msgstr "Listar"
+
+#: ../admin/views/polls/index.php:51
+msgid "Bulk Action"
+msgstr "Acción en Bloque"
+
+#: ../admin/views/polls/index.php:54 ../admin/views/polls/index.php:506
+msgid "Delete"
+msgstr "Borrar"
+
+#: ../admin/views/polls/index.php:56 ../admin/views/polls/index.php:79
+msgid "Publish"
+msgstr "Publicar"
+
+#: ../admin/views/polls/index.php:59 ../admin/views/polls/index.php:82
+msgid "Unpublish"
+msgstr "No publicar"
+
+#: ../admin/views/polls/index.php:71 ../admin/views/polls/index.php:76
+msgid "All"
+msgstr "Todo"
+
+#: ../admin/views/polls/index.php:124
+msgid "Shortcode"
+msgstr "Shortcode"
+
+#: ../admin/views/polls/index.php:194 ../shortcodes/views/polls/display.php:52
+msgid "Total Votes"
+msgstr "Votos Totales"
+
+#: ../admin/views/polls/index.php:199
+msgid "Actions"
+msgstr "Acciones"
+
+#: ../admin/views/polls/index.php:240 ../admin/views/polls/index.php:560
+msgid "Unpublished"
+msgstr "Sin publicar"
+
+#: ../admin/views/polls/index.php:287 ../admin/views/polls/index.php:317
+msgid "Close"
+msgstr "Cerrar"
+
+#: ../admin/views/polls/index.php:391
+msgid "Are you sure to perform this action?"
+msgstr "¿Seguro para realizar esta acción?"
+
+#: ../admin/views/polls/index.php:407 ../admin/views/polls/index.php:512
+msgid "Poll is deleted successfully"
+msgstr "Encuestas se borró correctamente"
+
+#: ../admin/views/polls/index.php:411
+msgid "Poll is published successfully"
+msgstr "La encuesta se publicó correctamente"
+
+#: ../admin/views/polls/index.php:414
+msgid "Poll is unpublished successfully"
+msgstr "La Encuestas dejo de publicarse correctamente"
+
+#: ../admin/views/polls/index.php:502
+msgid "Are you sure to delete this item?"
+msgstr "¿Seguro que quiere eliminar este elemento?"
+
+#: ../polls-config.php:14
+msgid "Polls settings"
+msgstr "Configuración de encuestas"
+
+#: ../polls-config.php:16
+msgid "Answer Ordering"
+msgstr "Modo Ordenación de las respuestas"
+
+#: ../polls-config.php:18
+msgid "Allow To Vote"
+msgstr "Permitir votación"
+
+#: ../polls-config.php:20
+msgid "Display number of vote"
+msgstr "Mostrar numero de voto"
+
+#: ../polls-config.php:22
+msgid "Display percentage of vote"
+msgstr "Mostrar porcentaje de votos"
+
+#: ../shortcodes/controllers/polls-shortcode.php:29
+msgid "Only Members can vote"
+msgstr "Solo Usuarios registrados pueden votar"
+
+#: ../shortcodes/controllers/polls-shortcode.php:31
+msgid "Only Guests can vote"
+msgstr "Solo visitantes pueden votar"
+
+#: ../shortcodes/controllers/polls-shortcode.php:37
+msgid "The maximum number of votes is"
+msgstr "El numero máximo de votos es "
+
+#: ../shortcodes/controllers/polls-shortcode.php:60
+msgid "Please vote"
+msgstr "¡Por favor!, Vote"
+
+#: ../shortcodes/views/polls/display.php:22
+msgid "Vote"
+msgstr "Voto"
+
+#: ../shortcodes/views/polls/display.php:29
+#: ../shortcodes/views/polls/display.php:61
+msgid "Sorry, there are no polls available at the moment."
+msgstr "¡Lo siento!, no hay encuestas en este momento."
+
+#: ../shortcodes/views/polls/display.php:48
+#: ../shortcodes/views/polls/display.php:53
+msgid "votes"
+msgstr "Votos"
+
+#~ msgid "Type"
+#~ msgstr "Tipo"
+
+#~ msgid "Announce to user:"
+#~ msgstr "Anunciar al usuario:"
+
+#~ msgid "Announce to group:"
+#~ msgstr "Anunciar al grupo:"
+
+#~ msgid "Content"
+#~ msgstr "Contenido"
+
+#~ msgid "Announcement is created successfully"
+#~ msgstr "Anuncio se ha creado correctamente"
+
+#~ msgid "Action is performed successfully!"
+#~ msgstr "La acción se realizó con éxito!"
+
+#~ msgid "Announcement"
+#~ msgstr "Anuncio"
+
+#~ msgid "Please enter announcement content!"
+#~ msgstr "Por favor introduce el contenido de anuncio!"
+
+#~ msgid "Announcement can not more than 255 characters!"
+#~ msgstr "Anuncio no puede más que 255 caracteres!"
+
+#~ msgid "Access Denied!"
+#~ msgstr "Acceso rechazado"
+
+#~ msgid "New announcement"
+#~ msgstr "Nuevo anuncio"
+
+#~ msgid "Please enter the search conditions"
+#~ msgstr "Introduzca las condiciones de búsqueda"
+
+#~ msgid "Confirm"
+#~ msgstr "Confirmar"
+
+#~ msgid "Author"
+#~ msgstr "Autor"

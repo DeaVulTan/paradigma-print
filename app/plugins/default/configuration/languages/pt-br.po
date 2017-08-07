@@ -1,0 +1,566 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Configuration\n"
+"POT-Creation-Date: 2014-10-08 13:36+0700\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Alexandre Benegas <info@adaptivemobile.com.br>\n"
+"Language-Team: Alexandre Benegas <info@adaptivemobile.com.br>\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.5\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../admin-menu/templates/font-awesome-template.php:3
+msgid "Awesome Icons"
+msgstr "Ícones Disponíveis"
+
+#: ../admin-menu/templates/font-awesome-template.php:308
+msgid "Web Application Icons"
+msgstr "Ícones Aplicações Web"
+
+#: ../admin-menu/templates/font-awesome-template.php:1389
+msgid "File Type Icons"
+msgstr "Tipo Ícones Arquivos"
+
+#: ../admin-menu/templates/font-awesome-template.php:1472
+msgid "Spinner Icons"
+msgstr "Ícones Giratórios"
+
+#: ../admin-menu/templates/font-awesome-template.php:1500
+msgid "Form Control Icons"
+msgstr "Ícones Formulário Controle"
+
+#: ../admin-menu/templates/font-awesome-template.php:1554
+msgid "Payment Icons"
+msgstr "Ícones Pagamentos"
+
+#: ../admin-menu/templates/font-awesome-template.php:1596
+msgid "Chart Icons"
+msgstr "Ícones Chart"
+
+#: ../admin-menu/templates/font-awesome-template.php:1622
+msgid "Currency Icons"
+msgstr "Ícones Moeda"
+
+#: ../admin-menu/templates/font-awesome-template.php:1729
+msgid "Text Editor Icons"
+msgstr "Ícones Editor Texto"
+
+#: ../admin-menu/templates/font-awesome-template.php:1936
+msgid "Directional Icons"
+msgstr "Ícones Direcionais"
+
+#: ../admin-menu/templates/font-awesome-template.php:2155
+msgid "Video Player Icons"
+msgstr "Ícones Vídeo Player"
+
+#: ../admin-menu/templates/font-awesome-template.php:2230
+msgid "Brand Icons"
+msgstr "Ícones Marca"
+
+#: ../admin-menu/templates/font-awesome-template.php:2644
+msgid "Medical Icons"
+msgstr "Ícones Médicos"
+
+#: ../admin-menu/templates/index.php:2 ../blacklist/templates/index.php:26
+#: ../email-templates/templates/index.php:59 ../settings/templates/index.php:4
+msgid "Save change"
+msgstr "Salvar alterações"
+
+#: ../admin-menu/templates/index.php:7 ../configuration.php:17
+msgid "Admin menu"
+msgstr "Menu Administração"
+
+#: ../admin-menu/templates/index.php:14
+#: ../admin-menu/templates/setting-menu-item-template.php:12
+msgid "Show"
+msgstr "Exibir"
+
+#: ../admin-menu/templates/index.php:16
+#: ../admin-menu/templates/setting-menu-item-template.php:13
+msgid "Hide"
+msgstr "Ocultar"
+
+#: ../admin-menu/templates/index.php:47
+msgid "Admin menu setting is updated successfully"
+msgstr "A Configuração do Menu ADMIN foi atualizada com sucesso!"
+
+#: ../admin-menu/templates/setting-menu-item-template.php:3
+msgid "Item"
+msgstr "Artigo"
+
+#: ../admin-menu/templates/setting-menu-item-template.php:9
+msgid "Visibility"
+msgstr "Visibilidade"
+
+#: ../admin-menu/templates/setting-menu-item-template.php:18
+msgid "Icon"
+msgstr "Ícone"
+
+#: ../admin-menu/templates/setting-menu-item-template.php:24
+msgid "Icon color"
+msgstr "A cor do Ícone"
+
+#: ../backup/action/main.php:33
+msgid "Backup file is removed successfully"
+msgstr "A Cópia de Segurança foi excluída com sucesso!"
+
+#: ../backup/action/main.php:49
+msgid "Access Denied!"
+msgstr "Acesso Negado!"
+
+#: ../backup/action/main_tpl.php:14
+#, php-format
+msgid "<p>The backup folder does not exist. Please check folder <b>%s</b></p>"
+msgstr ""
+"<p>A pasta de BACKUP não existe. Por favor, verifique pasta <b>%s</b></p>"
+
+#: ../backup/action/main_tpl.php:16
+#, php-format
+msgid "<p>The backup folder is not writable! Please check folder <b>%s</b></p>"
+msgstr ""
+"<p>A pasta de BACKUP não é gravável! Por favor, verifique pasta <b>%s</b></p>"
+
+#: ../backup/action/main_tpl.php:18
+#, php-format
+msgid "<p>The backup folder is not readable! Please check folder <b>%s</b></p>"
+msgstr ""
+"<p> A pasta de BACKUP não pode ser lida! Por favor, verifique pasta <b>%s</"
+"b></p>"
+
+#: ../backup/action/main_tpl.php:26
+msgid "Backup - Restore"
+msgstr "Restaurar BACKUP"
+
+#: ../backup/action/main_tpl.php:39 ../backup/action/main_tpl.php:98
+msgid "Backup Now"
+msgstr "Realizar BACKUP"
+
+#: ../backup/action/main_tpl.php:40 ../backup/action/main_tpl.php:83
+msgid "Upload and Restore"
+msgstr "Upload e Restaurar"
+
+#: ../backup/action/main_tpl.php:50 ../backup/backup-class.php:104
+#: ../error-log/templates/index.php:13
+msgid "File Name"
+msgstr "Nome do arquivo"
+
+#: ../backup/action/main_tpl.php:51 ../backup/backup-class.php:105
+msgid "Created Date"
+msgstr "Data Criação"
+
+#: ../backup/action/main_tpl.php:52 ../backup/backup-class.php:106
+msgid "File Size (kB)"
+msgstr "Tamanho do arquivo (kb)"
+
+#: ../backup/action/main_tpl.php:53 ../backup/backup-class.php:107
+msgid "Actions"
+msgstr "Ações"
+
+#: ../backup/action/main_tpl.php:76
+msgid "Upload"
+msgstr "Upload"
+
+#: ../backup/action/main_tpl.php:82
+msgid "Delete uploaded file after restore?"
+msgstr "Excluir arquivo upload após a restauração?"
+
+#: ../backup/action/main_tpl.php:86
+msgid "Upload failed! Please try again"
+msgstr "Erro no Upload! Por favor, tente novamente."
+
+#: ../backup/action/main_tpl.php:87
+msgid "Please upload ZIP file only"
+msgstr "Por favor envie somente arquivo ZIP"
+
+#: ../backup/action/main_tpl.php:88 ../backup/backup-class.php:197
+msgid "Your file is not in Vitubo backup format."
+msgstr "O arquivo não está no formato de BACKUP do aplicativo VITUBO."
+
+#: ../backup/action/main_tpl.php:95
+msgid "Action is performed successfully"
+msgstr "Ação realizada com sucesso!"
+
+#: ../backup/action/main_tpl.php:96
+msgid "Are you sure with this action?"
+msgstr "Tem certeza que deseja realizar esta ação?"
+
+#: ../backup/action/main_tpl.php:97
+msgid "Confirm"
+msgstr "Confirmar"
+
+#: ../backup/action/main_tpl.php:99
+msgid "Do you want to backup current database before uploading new one?"
+msgstr ""
+"Você quer realizar um BACKUP do Banco de Dados atual antes de enviar um novo?"
+
+#: ../backup/action/main_tpl.php:100 ../backup/backup-class.php:180
+msgid "Backup successfully"
+msgstr "Cópia de Segurança realizada com sucesso!"
+
+#: ../backup/action/main_tpl.php:101
+msgid "Restore only"
+msgstr "Restaurar apenas"
+
+#: ../backup/action/main_tpl.php:102
+msgid "Cancel"
+msgstr "Cancelar"
+
+#: ../backup/backup-class.php:59 ../backup/backup-class.php:86
+msgid "Restore"
+msgstr "Restaurar"
+
+#: ../backup/backup-class.php:62 ../backup/backup-class.php:89
+msgid "Download"
+msgstr "Download"
+
+#: ../backup/backup-class.php:65 ../backup/backup-class.php:92
+msgid "Delete"
+msgstr "Excluir"
+
+#: ../backup/backup-class.php:231
+msgid "Restore successfully"
+msgstr "Restauração realizada com sucesso!"
+
+#: ../blacklist/templates/index.php:6 ../configuration.php:21
+msgid "IP Blacklist"
+msgstr "Lista Negra IP"
+
+#: ../blacklist/templates/index.php:18
+msgid "Enter IP addresses here, one IP per line."
+msgstr "Digite os endereços IP aqui, um IP por linha."
+
+#: ../blacklist/templates/index.php:43
+msgid "Blacklist is updated successfully"
+msgstr "Lista Negra foi atualizada com sucesso!"
+
+#: ../configuration.php:4 ../configuration.php:14
+msgid "Configuration"
+msgstr "Configurações"
+
+#: ../configuration.php:15 ../settings/templates/index.php:12
+msgid "Settings"
+msgstr "Configuração Geral"
+
+#: ../configuration.php:16 ../email-templates/templates/index.php:6
+msgid "Email templates"
+msgstr "Modelos de E-mails"
+
+#: ../configuration.php:18
+msgid "Backup"
+msgstr "Cópia de Segurança"
+
+#: ../configuration.php:19 ../system-info/templates/index.php:6
+msgid "System information"
+msgstr "Informação do Sistema"
+
+#: ../configuration.php:20 ../error-log/templates/index.php:6
+msgid "Error log"
+msgstr "Registro Log de erros"
+
+#: ../email-templates/templates/index.php:13
+msgid "Templates"
+msgstr "Modelos"
+
+#: ../email-templates/templates/index.php:40
+msgid "Email subject"
+msgstr "Assunto de e-mail"
+
+#: ../email-templates/templates/index.php:44
+msgid "Email content"
+msgstr "Conteúdo de e-mail"
+
+#: ../email-templates/templates/index.php:88
+msgid "Email template is updated successfully"
+msgstr "Os modelos de e-mails foram atualizados com sucesso!"
+
+#: ../error-log/templates/index.php:12
+msgid "#"
+msgstr "#"
+
+#: ../error-log/templates/index.php:14
+msgid "Size"
+msgstr "Tamanho"
+
+#: ../error-log/templates/index.php:15
+msgid "View"
+msgstr "Exibir"
+
+#: ../settings/templates/index.php:19
+msgid "General settings"
+msgstr "Configuração Geral"
+
+#: ../settings/templates/index.php:35
+msgid "Site name"
+msgstr "Nome do Site"
+
+#: ../settings/templates/index.php:39
+msgid "Site offline"
+msgstr "Site em Manutenção"
+
+#: ../settings/templates/index.php:42 ../settings/templates/index.php:665
+#: ../settings/templates/index.php:699 ../settings/templates/index.php:706
+#: ../settings/templates/index.php:717
+msgid "Yes"
+msgstr "Sim"
+
+#: ../settings/templates/index.php:43 ../settings/templates/index.php:666
+#: ../settings/templates/index.php:700 ../settings/templates/index.php:707
+#: ../settings/templates/index.php:718
+msgid "No"
+msgstr "Não"
+
+#: ../settings/templates/index.php:57
+msgid "Please choose the page which will be displayed in offline mode"
+msgstr "Por favor, escolha a página que será exibida quando em Manutenção."
+
+#: ../settings/templates/index.php:63
+msgid "Accessibility"
+msgstr "Acesiibilidade"
+
+#: ../settings/templates/index.php:68
+msgid "Everyone"
+msgstr "Todos sem restrição"
+
+#: ../settings/templates/index.php:69
+msgid "Member only"
+msgstr "Somente Usuários Cadastrados"
+
+#: ../settings/templates/index.php:77
+msgid "Homepage"
+msgstr "Página Principal"
+
+#: ../settings/templates/index.php:92
+msgid "Error page"
+msgstr "Erro na página"
+
+#: ../settings/templates/index.php:107
+msgid "HTML Charset"
+msgstr "Charset HTML"
+
+#: ../settings/templates/index.php:117
+msgid "Main Menu"
+msgstr "Menu Principal"
+
+#: ../settings/templates/index.php:136
+msgid "Backup Folder"
+msgstr "Pasta BACKUP"
+
+#: ../settings/templates/index.php:137
+msgid "Absolute path to backup folder, with slash in the end. Example:"
+msgstr "Caminho absoluto para a pasta de backup, com barra no final. Exemplo:"
+
+#: ../settings/templates/index.php:137
+msgid "For security reason, we recommend you to create new backup folder"
+msgstr ""
+"Por razões de segurança, nós recomendamos que você criar uma nova pasta de "
+"backup"
+
+#: ../settings/templates/index.php:140
+msgid "Items per page"
+msgstr "Itens por página"
+
+#: ../settings/templates/index.php:154
+msgid "Timezone"
+msgstr "Fuso horário"
+
+#: ../settings/templates/index.php:579
+msgid "Short date"
+msgstr "Data curta"
+
+#: ../settings/templates/index.php:597
+msgid "Long date"
+msgstr "Data longa"
+
+#: ../settings/templates/index.php:613
+msgid "Mailer"
+msgstr "Remetente"
+
+#: ../settings/templates/index.php:616
+msgid "PHP"
+msgstr "PHP"
+
+#: ../settings/templates/index.php:617
+msgid "SMTP"
+msgstr "SMTP"
+
+#: ../settings/templates/index.php:632 ../settings/templates/index.php:634
+msgid "Server"
+msgstr "Servidor"
+
+#: ../settings/templates/index.php:635 ../settings/templates/index.php:643
+#: ../settings/templates/index.php:651 ../settings/templates/index.php:658
+msgid "The field is required"
+msgstr "O campo é obrigatório"
+
+#: ../settings/templates/index.php:640 ../settings/templates/index.php:642
+msgid "Port"
+msgstr "Porta"
+
+#: ../settings/templates/index.php:648 ../settings/templates/index.php:650
+msgid "Username"
+msgstr "Nome do Usuário"
+
+#: ../settings/templates/index.php:655 ../settings/templates/index.php:657
+msgid "Password"
+msgstr "Senha"
+
+#: ../settings/templates/index.php:662
+msgid "SSL"
+msgstr "SSL"
+
+#: ../settings/templates/index.php:674
+msgid "Site meta keywords"
+msgstr "Meta Palavras-chave do site"
+
+#: ../settings/templates/index.php:678
+msgid "Site meta description"
+msgstr "Meta Descrição do site"
+
+#: ../settings/templates/index.php:682
+msgid "Site languages"
+msgstr "Idiomas do site"
+
+#: ../settings/templates/index.php:697
+msgid "Enable log"
+msgstr "Ativar registro de log"
+
+#: ../settings/templates/index.php:704
+msgid "Enable search"
+msgstr "Activar pesquisa"
+
+#: ../settings/templates/index.php:711
+msgid "Google analytics"
+msgstr "Google Analytics"
+
+#: ../settings/templates/index.php:715
+msgid "Enable reCAPTCHA"
+msgstr "Ativar código reCAPTCHA"
+
+#: ../settings/templates/index.php:722
+msgid "reCAPTCHA"
+msgstr "Código reCAPTCHA"
+
+#: ../settings/templates/index.php:725
+msgid "Public key"
+msgstr "Chave Pública"
+
+#: ../settings/templates/index.php:729
+msgid "Private key"
+msgstr "Chave Privada"
+
+#: ../settings/templates/index.php:806
+msgid "Configuration is updated successfully"
+msgstr "Configuração foi atualizada com sucesso!"
+
+#: ../system-info/templates/index.php:12
+msgid "PHP Information"
+msgstr "Informação do PHP"
+
+#: ../system-info/templates/index.php:13
+msgid "Server Information"
+msgstr "Informação do sistema"
+
+#: ../system-info/templates/index.php:22
+msgid "Current PHP Version "
+msgstr "Versão Atual do PHP"
+
+#: ../system-info/templates/index.php:26
+msgid "GD version "
+msgstr "Versão do GD"
+
+#: ../system-info/templates/index.php:30
+msgid "PHP Effective Memory Limit "
+msgstr "PHP Limite de Memória Eficaz"
+
+#: ../system-info/templates/index.php:34
+msgid "Maximum Execution Time "
+msgstr "Tempo Máximo de Execução"
+
+#: ../system-info/templates/index.php:38
+msgid "PHP output_buffering "
+msgstr "PHP output_buffering "
+
+#: ../system-info/templates/index.php:42
+msgid "PHP Safe Mode "
+msgstr "PHP Modo de Segurança"
+
+#: ../system-info/templates/index.php:46
+msgid "File uploads "
+msgstr "Arquivo uploads "
+
+#: ../system-info/templates/index.php:50
+msgid "Maximum Post Size "
+msgstr "Tamanho Máximo Post "
+
+#: ../system-info/templates/index.php:54
+msgid "Maximum Upload Size"
+msgstr "Tamanho Máximo Upload"
+
+#: ../system-info/templates/index.php:58
+msgid "Session Save Path "
+msgstr "Sessão Save Path "
+
+#: ../system-info/templates/index.php:62
+msgid "Sessions are allowed to use Cookies"
+msgstr "As sessões são autorizados a utilizar cookies"
+
+#: ../system-info/templates/index.php:66
+msgid "Checking for the XMLReader class "
+msgstr "Verificando a classe XMLReader"
+
+#: ../system-info/templates/index.php:70
+msgid "PHP register_gobals "
+msgstr "PHP register_gobals "
+
+#: ../system-info/templates/index.php:74
+msgid "PHP Open Basedir "
+msgstr "PHP Open Basedir "
+
+#: ../system-info/templates/index.php:78
+msgid "Curl version "
+msgstr "Versão Curl"
+
+#: ../system-info/templates/index.php:87
+msgid "Server API "
+msgstr "Servidor API "
+
+#: ../system-info/templates/index.php:91
+msgid "Server Database Version "
+msgstr "Versão Database Servidor"
+
+#: ../system-info/templates/index.php:95
+msgid "Server software"
+msgstr "Servidor software"
+
+#: ../system-info/templates/index.php:99
+msgid "Server IP"
+msgstr "IP Servidor"
+
+#: ../system-info/templates/index.php:103
+msgid "Server doccument root"
+msgstr "Raiz do documento Servidor"
+
+#: ../system-info/templates/index.php:107
+msgid "Server Operating System "
+msgstr "Servidor Sistema Operacional"
+
+#~ msgid "Default page"
+#~ msgstr "Página predeterminada"
+
+#~ msgid "Top content"
+#~ msgstr "Contenido de arriba"
+
+#~ msgid "Bottom content"
+#~ msgstr "Contenido de abajo"
+
+#~ msgid "Restore unsuccessfully"
+#~ msgstr "Restaurar sin éxito"
+
+#~ msgid "Website email"
+#~ msgstr "Email de sitio web"

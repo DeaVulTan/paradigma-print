@@ -1,0 +1,17 @@
+.day.new:after {
+    content: "";
+    font-size: 0.6em;
+    color: #FFF;
+    background: #f1c40f;
+    padding: 0px;
+    margin-left: 0px;
+    vertical-align: super;
+    width: 0px;
+    height: 0px;
+}
+
+
+.item-check{
+    line-height: 18px;
+    margin: 6px 15px 0px 0px;
+}

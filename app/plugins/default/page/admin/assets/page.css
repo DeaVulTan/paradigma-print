@@ -1,0 +1,183 @@
+/*  Reset   */
+.btnTop{
+    margin-bottom: 15px;
+}
+.form-group > label{
+    padding: 0px 0px 0px 15px;
+}
+.form-group > label > span{
+    font-size: 10px;
+    color: red;
+}
+.topControl > li{
+    float: left;
+    margin-right: 10px;
+}
+.topControl > li:last-child{
+    margin-right: 0px;
+}
+
+#checkAll{
+    margin-top: 5px
+}
+
+.filer > li{
+    float: left;
+    margin-right: 10px;
+}
+.filer .icheckbox_minimal{
+    top: 4px;
+}
+
+/* Bulk Action */
+#bulkAction{
+    display: none;
+}
+
+#bulkAction button{
+    padding: 7px 10px;
+}
+/* Page */
+.pages{
+
+}
+.pageItem{
+    overflow: hidden;
+    margin-bottom: 20px;
+}
+.pageItem h3{
+    margin: 0px;
+    padding: 0px;
+    font-size: 16px;
+    line-height: 20px;
+}
+.pageItem h3 a{
+    color: #010101;
+    display: block;
+    max-height: 20px;
+    overflow: hidden;
+}
+.pageItem span.status{
+    font-size: 12px;
+    font-weight: 700;
+}
+.pageItem span.status .published{
+    color: #00CC00;
+}
+.pageItem span.status .draft{
+    color: #f00000;
+}
+.pageItem .actionGroup{
+    margin: 5px 0px;
+    overflow: hidden;
+}
+.pageItem .actionGroup li{
+    float: left;
+    margin-right: 10px;
+}
+.pageItem .actionGroup li:last-child{
+    margin-right: 0px;
+}
+.pageItem .icon{
+    padding: 0px 10px;
+}
+
+.pageItem .icon p{
+    margin-bottom: 0px;
+}
+
+/* Permalink */
+.permalinkWrap{
+    margin: -10px 0px 8px 0px;
+}
+.permalinkWrap .customSlug{
+    display: none;
+}
+.permalinkWrap .editPageName input{
+    max-width: 180px;
+    max-height: 21px;
+    padding: 2px 5px;
+    line-height: 14px;
+    font-size: 12px;
+    color: #333333;
+}
+.permalinkWrap .editPageName{
+    margin-right: 5px;
+}
+.permalinkWrap .groupAction{
+    margin-top: -2px;
+}
+
+.margin-bottom-20{
+    margin-bottom: 20px;
+}
+
+.visible-group{
+    margin-top: 6px;
+}
+.visible-group span{
+    padding: 10px;
+}
+
+span.input-group-btn.color-picker{
+    width: 50px;
+    border: 1px solid #ccc;
+    margin-left: 1px;
+}
+
+.colorpicker{
+    z-index: 500;
+}
+
+.iradio_minimal {
+    margin-right: 5px;
+}
+
+.radio.inline{
+    margin-right: 10px;
+}
+
+
+.table-configuration .control-label{
+    text-align: left;
+}
+
+[data-basic-tooltip] {
+position: relative;
+}
+[data-basic-tooltip]:hover:before {
+border-left: 6px solid transparent;
+border-right: 6px solid transparent;
+border-bottom: 6px solid #000;
+border-top: none;
+height: 0;
+width: 0;
+bottom: -8px;
+content: "";
+display: block;
+left: 45%;
+position: absolute;
+z-index: 99;
+}
+[data-basic-tooltip]:hover:after {
+background: #000;
+bottom: -38px;
+color: #fff;
+text-indent: 0;
+line-height: 1.5;
+pointer-events: none;
+content: attr(data-basic-tooltip);
+display: block;
+left: 0;
+padding: 5px 15px;
+position: absolute;
+white-space: nowrap;
+z-index: 98;
+}
+.table>tbody+tbody {
+border-top: 1px;
+}
+#page_meta_description{height:54px}
+section#main-content {
+/*position: initial !important;*/
+}

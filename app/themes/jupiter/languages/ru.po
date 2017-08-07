@@ -1,0 +1,720 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Aphrodite\n"
+"POT-Creation-Date: 2015-01-13 14:21+0700\n"
+"PO-Revision-Date: 2015-03-01 18:31+0300\n"
+"Last-Translator: \n"
+"Language-Team: Vitubo\n"
+"Language: ru_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.4\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../navigation.php:30
+#: ../plugins/default/user/widgets/views/user/index.php:43
+msgid "Sign In"
+msgstr "Войти"
+
+#: ../navigation.php:43
+#: ../plugins/default/user/widgets/views/user/index.php:28
+msgid "My Profile"
+msgstr "Мой профиль"
+
+#: ../navigation.php:44
+#: ../plugins/default/user/widgets/views/user/index.php:25
+msgid "Admin Panel"
+msgstr "Админка"
+
+#: ../navigation.php:45
+#: ../plugins/default/user/widgets/views/user/index.php:31
+msgid "Sign Out"
+msgstr "Выйти"
+
+#: ../navigation.php:62 ../navigation.php:81
+msgid "Search"
+msgstr "Поиск"
+
+#: ../navigation.php:64
+msgid "Go"
+msgstr "Искать"
+
+#: ../options/options-ajax.php:5
+msgid "Theme option is updated successfully"
+msgstr "Настройки темы обновлены"
+
+#: ../options/options.php:97
+msgid "Default"
+msgstr "Default"
+
+#: ../options/options.php:98
+msgid "Atlantis"
+msgstr ""
+
+#: ../options/options.php:99
+msgid "Blue Chill"
+msgstr ""
+
+#: ../options/options.php:100
+msgid "Cadillac"
+msgstr ""
+
+#: ../options/options.php:101
+msgid "Cascade"
+msgstr ""
+
+#: ../options/options.php:102
+msgid "Cinnabar"
+msgstr ""
+
+#: ../options/options.php:103
+msgid "Froly"
+msgstr ""
+
+#: ../options/options.php:104
+msgid "Go Ben"
+msgstr ""
+
+#: ../options/options.php:105
+msgid "Lochmara"
+msgstr ""
+
+#: ../options/options.php:106
+msgid "Smart Blue"
+msgstr ""
+
+#: ../options/options.php:113
+msgid "Logo"
+msgstr "Логотип"
+
+#: ../options/options.php:188
+msgid "Google fonts"
+msgstr "Google fonts"
+
+#: ../options/options.php:199
+msgid "Bottom content"
+msgstr "Содержимое подвала"
+
+#: ../plugins/default/menu/widgets/views/menu/index.php:15
+#: ../plugins/others/shop/widgets/views/shop-category/index.php:10
+msgid "Please choose a menu"
+msgstr "Выберите меню"
+
+#: ../plugins/default/user/widgets/views/user/index.php:47
+msgid "Sign Up"
+msgstr "Sign Up"
+
+#: ../plugins/others/galleries/shortcodes/views/galleries/breadcrumb.php:9
+#: ../plugins/others/testimonials/shortcodes/views/testimonials/breadcrumb.php:9
+msgid "Home"
+msgstr ""
+
+#: ../plugins/others/galleries/shortcodes/views/galleries/data.php:35
+#: ../plugins/others/galleries/shortcodes/views/galleries/display.php:55
+msgid "No Data"
+msgstr ""
+
+#: ../plugins/others/galleries/shortcodes/views/galleries/display_once.php:52
+msgid "Views"
+msgstr ""
+
+#: ../plugins/others/galleries/shortcodes/views/galleries/display_once.php:59
+msgid "Total"
+msgstr ""
+
+#: ../plugins/others/shop/widgets/views/shop-product-features/index.php:58
+msgid "No Features Products !"
+msgstr ""
+
+#: ../plugins/others/shop/widgets/views/shop-product-hot/index.php:58
+msgid "No Hot Products !"
+msgstr ""
+
+#: ../plugins/others/shop/widgets/views/shop-product-new/index.php:60
+msgid "No New Products !"
+msgstr ""
+
+#: ../plugins/others/shop/widgets/views/shop-products/index.php:58
+msgid "No Products !"
+msgstr ""
+
+#: ../plugins/others/testimonials/shortcodes/views/testimonials/display.php:23
+msgid "No Testimonial"
+msgstr ""
+
+#: ../post_templates.php:29 ../post_templates.php:56 ../post_templates.php:84
+#: ../post_templates.php:114 ../post_templates.php:146
+#: ../post_templates.php:177
+msgid "There is no post"
+msgstr "There is no post"
+
+#: ../post_templates.php:51 ../post_templates.php:79
+msgid "Read more"
+msgstr "Читать далее"
+
+#, fuzzy
+#~ msgid "Sign out"
+#~ msgstr "Sign Out"
+
+#~ msgid "There is no tweet yet or wrong twitter name"
+#~ msgstr "There is no tweet yet or wrong twitter name"
+
+#~ msgid "Edit Profile"
+#~ msgstr "Edit Profile"
+
+#~ msgid "Logout"
+#~ msgstr "Logout"
+
+#~ msgid "Theme option is reset successfully"
+#~ msgstr "Theme option is reset successfully"
+
+#~ msgid "Example: "
+#~ msgstr "Example: "
+
+#~ msgid "tag"
+#~ msgstr "tag"
+
+#~ msgid "class"
+#~ msgstr "class"
+
+#~ msgid "Apply for: "
+#~ msgstr "Apply for: "
+
+#~ msgid "Background"
+#~ msgstr "Background"
+
+#~ msgid "Colors"
+#~ msgstr "Colors"
+
+#~ msgid "Fonts"
+#~ msgstr "Fonts"
+
+#~ msgid "Navigation"
+#~ msgstr "Navigation"
+
+#~ msgid "Footer"
+#~ msgstr "Footer"
+
+#~ msgid "Logo type"
+#~ msgstr "Logo type"
+
+#~ msgid "Text"
+#~ msgstr "Text"
+
+#~ msgid "Image"
+#~ msgstr "Image"
+
+#~ msgid "Font-family"
+#~ msgstr "Font-family"
+
+#~ msgid "Font-size"
+#~ msgstr "Font-size"
+
+#~ msgid "Color"
+#~ msgstr "Color"
+
+#~ msgid "Select image"
+#~ msgstr "Select image"
+
+#~ msgid "Example: Image size (Width: %spx, Height: %spx)"
+#~ msgstr "Example: Image size (Width: %spx, Height: %spx)"
+
+#~ msgid "Image width"
+#~ msgstr "Image width"
+
+#~ msgid "Image height"
+#~ msgstr "Image height"
+
+#~ msgid "Background type"
+#~ msgstr "Background type"
+
+#~ msgid "Both"
+#~ msgstr "Both"
+
+#~ msgid "Background color"
+#~ msgstr "Background color"
+
+#~ msgid "Wrapper background color"
+#~ msgstr "Wrapper background color"
+
+#~ msgid "Background images"
+#~ msgstr "Background images"
+
+#~ msgid "Background position"
+#~ msgstr "Background position"
+
+#~ msgid "Background repeat"
+#~ msgstr "Background repeat"
+
+#~ msgid "Repeat"
+#~ msgstr "Repeat"
+
+#~ msgid "Repeat-x"
+#~ msgstr "Repeat-x"
+
+#~ msgid "Repeat-y"
+#~ msgstr "Repeat-y"
+
+#~ msgid "No-repeat"
+#~ msgstr "No-repeat"
+
+#~ msgid "Background attachment"
+#~ msgstr "Background attachment"
+
+#~ msgid "Scroll"
+#~ msgstr "Scroll"
+
+#~ msgid "Fixed"
+#~ msgstr "Fixed"
+
+#~ msgid "Color type"
+#~ msgstr "Color type"
+
+#~ msgid "Theme style"
+#~ msgstr "Theme style"
+
+#~ msgid "Custom style"
+#~ msgstr "Custom style"
+
+#~ msgid "Custom color"
+#~ msgstr "Custom color"
+
+#~ msgid "Color style"
+#~ msgstr "Color style"
+
+#~ msgid "Body font family"
+#~ msgstr "Body font family"
+
+#~ msgid "Body font size"
+#~ msgstr "Body font size"
+
+#~ msgid "Title font family"
+#~ msgstr "Title font family"
+
+#~ msgid "Title font size"
+#~ msgstr "Title font size"
+
+#~ msgid "Content font family"
+#~ msgstr "Content font family"
+
+#~ msgid "Content font size"
+#~ msgstr "Content font size"
+
+#~ msgid "Color (hover, active)"
+#~ msgstr "Color (hover, active)"
+
+#~ msgid "Title color"
+#~ msgstr "Title color"
+
+#~ msgid "Content color"
+#~ msgstr "Content color"
+
+#~ msgid "Are you sure to reset to default value?"
+#~ msgstr "Are you sure to reset to default value?"
+
+#~ msgid "Cancel"
+#~ msgstr "Cancel"
+
+#~ msgid "Ok"
+#~ msgstr "Ok"
+
+#~ msgid "Title"
+#~ msgstr "Title"
+
+#~ msgid "Widget Title"
+#~ msgstr "Widget Title"
+
+#~ msgid "Gallery page"
+#~ msgstr "Gallery page"
+
+#~ msgid "Image sources"
+#~ msgstr "Image sources"
+
+#~ msgid "All Galleries"
+#~ msgstr "All Galleries"
+
+#~ msgid "Random Gallery"
+#~ msgstr "Random Gallery"
+
+#~ msgid "Menu layout"
+#~ msgstr "Menu layout"
+
+#~ msgid "Type"
+#~ msgstr "Type"
+
+#~ msgid "Number of posts"
+#~ msgstr "Number of posts"
+
+#~ msgid "Post list"
+#~ msgstr "Post list"
+
+#~ msgid "Display type"
+#~ msgstr "Display type"
+
+#~ msgid "Cloud"
+#~ msgstr "Cloud"
+
+#~ msgid "Maximum tags"
+#~ msgstr "Maximum tags"
+
+#~ msgid "Style"
+#~ msgstr "Style"
+
+#~ msgid "Tags"
+#~ msgstr "Tags"
+
+#~ msgid "Error detected!"
+#~ msgstr "Error detected!"
+
+#~ msgid "You do not have permission to write files"
+#~ msgstr "You do not have permission to write files "
+
+#~ msgid "Content font-family"
+#~ msgstr "Content font family"
+
+#~ msgid "Content font-size"
+#~ msgstr "Content font size"
+
+#~ msgid "Footer background color"
+#~ msgstr "Footer background color"
+
+#~ msgid "Font family"
+#~ msgstr "Font family"
+
+#~ msgid "Font size"
+#~ msgstr "Font size"
+
+#~ msgid "Top content"
+#~ msgstr "Top content"
+
+#~ msgid "Navigation font family"
+#~ msgstr "Navigation font family"
+
+#~ msgid "Navigation font size"
+#~ msgstr "Navigation font size"
+
+#~ msgid "No post"
+#~ msgstr "No post"
+
+#~ msgid "List posts"
+#~ msgstr "List posts"
+
+#, fuzzy
+#~ msgid "Top"
+#~ msgstr "To"
+
+#, fuzzy
+#~ msgid "Logo text"
+#~ msgstr "Logout"
+
+#~ msgid "Post category key"
+#~ msgstr "Post category key"
+
+#~ msgid "is the parameter which you declare in post shortcode (category = [get: key]) "
+#~ msgstr "is the parameter which you declare in post shortcode (category = [get: key]) "
+
+#~ msgid "Gallery"
+#~ msgstr "Gallery"
+
+#~ msgid "Please check the data field"
+#~ msgstr "Please check the data field"
+
+#~ msgid "<h3>Your message has been sent successfully</h3>"
+#~ msgstr "<h3>Your message has been sent successfully</h3>"
+
+#~ msgid "<h3>An error has occurred! Please try again later</h3>"
+#~ msgstr "<h3>An error has occurred! Please try again later</h3>"
+
+#~ msgid "Save"
+#~ msgstr "Save"
+
+#~ msgid "Status"
+#~ msgstr "Status"
+
+#~ msgid "Add"
+#~ msgstr "Add"
+
+#~ msgid "Form"
+#~ msgstr "Form"
+
+#~ msgid "From"
+#~ msgstr "From"
+
+#~ msgid "Subject"
+#~ msgstr "Subject"
+
+#~ msgid "Additional headers"
+#~ msgstr "Additional headers"
+
+#~ msgid "Message"
+#~ msgstr "Message"
+
+#~ msgid "Notify"
+#~ msgstr "Notify"
+
+#~ msgid "Close"
+#~ msgstr "Close"
+
+#~ msgid "No item are selected"
+#~ msgstr "No item are selected"
+
+#~ msgid "Are you sure to perform this action?"
+#~ msgstr "Are you sure to perform this action?"
+
+#~ msgid "Please enter a search term"
+#~ msgstr "Please enter a search term"
+
+#~ msgid "Please select the action to perform"
+#~ msgstr "Please select the action to perform"
+
+#~ msgid "Delete"
+#~ msgstr "Delete"
+
+#~ msgid "Publish"
+#~ msgstr "Publish"
+
+#~ msgid "Unpublish"
+#~ msgstr "Unpublish"
+
+#~ msgid "Create contact form"
+#~ msgstr "Create contact form"
+
+#~ msgid "%s"
+#~ msgstr "%s"
+
+#~ msgid "All"
+#~ msgstr "All"
+
+#~ msgid "Published"
+#~ msgstr "Published"
+
+#~ msgid "Unpublished"
+#~ msgstr "Unpublished"
+
+#~ msgid "Go to page"
+#~ msgstr "Go to page"
+
+#~ msgid "Shortcode"
+#~ msgstr "Shortcode"
+
+#~ msgid "Actions"
+#~ msgstr "Actions"
+
+#~ msgid "Edit contact form"
+#~ msgstr "Edit contact form"
+
+#~ msgid "Delete contact form"
+#~ msgstr "Delete contact form"
+
+#~ msgid "No contact form"
+#~ msgstr "No contact form"
+
+#~ msgid "Required"
+#~ msgstr "Required"
+
+#~ msgid "No"
+#~ msgstr "No"
+
+#~ msgid "Yes"
+#~ msgstr "Yes"
+
+#~ msgid "Name"
+#~ msgstr "Name"
+
+#~ msgid "Place holder"
+#~ msgstr "Place holder"
+
+#~ msgid "Size"
+#~ msgstr "Size"
+
+#~ msgid "Max length"
+#~ msgstr "Max length"
+
+#~ msgid "Rows"
+#~ msgstr "Rows"
+
+#~ msgid "Columns"
+#~ msgstr "Columns"
+
+#~ msgid "Choice"
+#~ msgstr "Choice"
+
+#~ msgid "One value per line"
+#~ msgstr "One value per line"
+
+#~ msgid "Value"
+#~ msgstr "Value"
+
+#~ msgid "Small"
+#~ msgstr "Small"
+
+#~ msgid "Medium"
+#~ msgstr "Medium"
+
+#~ msgid "Big"
+#~ msgstr "Big"
+
+#~ msgid "You can add maximum 50 questions at a time"
+#~ msgstr "You can add maximum 50 questions at a time"
+
+#~ msgid "Are you sure you want to delete this item?"
+#~ msgstr "Are you sure you want to delete this item?"
+
+#~ msgid "Title must be in the range of 2 to 255 characters"
+#~ msgstr "Title must be in the range of 2 to 255 characters"
+
+#~ msgid "Description must be in the range of 1 to 500 characters"
+#~ msgstr "Description must be in the range of 1 to 500 characters"
+
+#~ msgid "Description"
+#~ msgstr "Description"
+
+#~ msgid "Answer"
+#~ msgstr "Answer"
+
+#~ msgid "Please input number of questions and click Add"
+#~ msgstr "Please input number of questions and click Add"
+
+#~ msgid "You can add maximum 50 questions at a time. You can order questions by dragging them"
+#~ msgstr "You can add maximum 50 questions at a time. You can order questions by dragging them"
+
+#~ msgid "Create FAQ"
+#~ msgstr "Create FAQ"
+
+#~ msgid "Answers"
+#~ msgstr "Answers"
+
+#~ msgid "Update FAQ"
+#~ msgstr "Update FAQ"
+
+#~ msgid "Please enter at least one character"
+#~ msgstr "Please enter at least one character"
+
+#~ msgid "Content must be at least 2 characters and no more than 500 characters"
+#~ msgstr "Content must be at least 2 characters and no more than 500 characters"
+
+#~ msgid "Incorrect ID"
+#~ msgstr "Incorrect ID"
+
+#~ msgid "Edit FAQ"
+#~ msgstr "Edit FAQ"
+
+#~ msgid "Delete FAQ"
+#~ msgstr "Delete FAQ"
+
+#~ msgid "No FAQ"
+#~ msgstr "No FAQ"
+
+#, fuzzy
+#~ msgid "You have successfully manipulated"
+#~ msgstr "Your FAQ has been successfully updated"
+
+#~ msgid "Items per page"
+#~ msgstr "Items per page"
+
+#~ msgid "You just get more questions from 1 to 50"
+#~ msgstr "You just get more questions from 1 to 50"
+
+#~ msgid "Backup Now"
+#~ msgstr "Backup Now"
+
+#~ msgid "File Size (kB)"
+#~ msgstr "File Size (kB)"
+
+#, fuzzy
+#~ msgid "New Menu"
+#~ msgstr "New Member"
+
+#~ msgid "The email address you entered is already in use!"
+#~ msgstr "The email address you entered is already in use!"
+
+#~ msgid "The username you entered is already in use!"
+#~ msgstr "The username you entered is already in use!"
+
+#~ msgid "The passwords you entered do not match!"
+#~ msgstr "The passwords you entered do not match!"
+
+#~ msgid "Please review your information!"
+#~ msgstr "Please review your information!"
+
+#~ msgid "User successfully created!"
+#~ msgstr "User successfully created!"
+
+#~ msgid "Edit user %s successfully!"
+#~ msgstr "Edit user %s successfully!"
+
+#~ msgid "Email"
+#~ msgstr "Email"
+
+#~ msgid "Username"
+#~ msgstr "Username"
+
+#~ msgid "Password"
+#~ msgstr "Password"
+
+#~ msgid "Re-Password"
+#~ msgstr "Re-Password"
+
+#~ msgid "Role"
+#~ msgstr "Role"
+
+#~ msgid "Error Detected! The Activation key invalid!"
+#~ msgstr "Error Detected! The Activation key invalid!"
+
+#~ msgid "This user aready activated!"
+#~ msgstr "This user aready activated!"
+
+#~ msgid "Activation Successfully!"
+#~ msgstr "Activation Successfully!"
+
+#~ msgid "Activated"
+#~ msgstr "Activated"
+
+#~ msgid "Deactivated"
+#~ msgstr "Deactivated"
+
+#~ msgid "Manage"
+#~ msgstr "Manage"
+
+#~ msgid "Advance Search"
+#~ msgstr "Advance Search"
+
+#~ msgid "Username (Like)"
+#~ msgstr "Username (Like)"
+
+#~ msgid "Email (like)"
+#~ msgstr "Email (like)"
+
+#~ msgid "Unknown"
+#~ msgstr "Unknown"
+
+#~ msgid "Active"
+#~ msgstr "Active"
+
+#~ msgid "Inactive"
+#~ msgstr "Inactive"
+
+#~ msgid "Show Result"
+#~ msgstr "Show Result"
+
+#~ msgid "Check All"
+#~ msgstr "Check All"
+
+#~ msgid "With Selection"
+#~ msgstr "With Selection"
+
+#~ msgid "Notification"
+#~ msgstr "Notification"
+
+#~ msgid "Do you really want to do that?"
+#~ msgstr "Do you really want to do that?"
+
+#~ msgid "Confirm"
+#~ msgstr "Confirm"
+
+#~ msgid "Really?"
+#~ msgstr "Really?"

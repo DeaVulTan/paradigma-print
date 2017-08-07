@@ -1,0 +1,395 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Aphrodite\n"
+"POT-Creation-Date: 2015-01-13 14:26+0700\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.4\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../navigation.php:30
+#: ../plugins/default/user/widgets/views/user/index.php:43
+msgid "Sign In"
+msgstr "登录"
+
+#: ../navigation.php:43
+#: ../plugins/default/user/widgets/views/user/index.php:28
+msgid "My Profile"
+msgstr "我的个人资料"
+
+#: ../navigation.php:44
+#: ../plugins/default/user/widgets/views/user/index.php:25
+msgid "Admin Panel"
+msgstr "管理面板"
+
+#: ../navigation.php:45
+#: ../plugins/default/user/widgets/views/user/index.php:31
+msgid "Sign Out"
+msgstr "登出"
+
+#: ../navigation.php:62 ../navigation.php:81
+msgid "Search"
+msgstr "搜索"
+
+#: ../navigation.php:64
+msgid "Go"
+msgstr "去"
+
+#: ../options/options-ajax.php:5
+msgid "Theme option is updated successfully"
+msgstr "主题选项被成功更新"
+
+#: ../options/options.php:97
+msgid "Default"
+msgstr "默认"
+
+#: ../options/options.php:98
+msgid "Atlantis"
+msgstr ""
+
+#: ../options/options.php:99
+msgid "Blue Chill"
+msgstr ""
+
+#: ../options/options.php:100
+msgid "Cadillac"
+msgstr ""
+
+#: ../options/options.php:101
+msgid "Cascade"
+msgstr ""
+
+#: ../options/options.php:102
+msgid "Cinnabar"
+msgstr ""
+
+#: ../options/options.php:103
+msgid "Froly"
+msgstr ""
+
+#: ../options/options.php:104
+msgid "Go Ben"
+msgstr ""
+
+#: ../options/options.php:105
+msgid "Lochmara"
+msgstr ""
+
+#: ../options/options.php:106
+msgid "Smart Blue"
+msgstr ""
+
+#: ../options/options.php:113
+msgid "Logo"
+msgstr "标志"
+
+#: ../options/options.php:188
+msgid "Google fonts"
+msgstr "谷歌的字体"
+
+#: ../options/options.php:199
+msgid "Bottom content"
+msgstr "底部内容"
+
+#: ../plugins/default/menu/widgets/views/menu/index.php:15
+#: ../plugins/others/shop/widgets/views/shop-category/index.php:10
+msgid "Please choose a menu"
+msgstr "请选择菜单"
+
+#: ../plugins/default/user/widgets/views/user/index.php:47
+msgid "Sign Up"
+msgstr "注册"
+
+#: ../plugins/others/galleries/shortcodes/views/galleries/breadcrumb.php:9
+#: ../plugins/others/testimonials/shortcodes/views/testimonials/breadcrumb.php:9
+msgid "Home"
+msgstr ""
+
+#: ../plugins/others/galleries/shortcodes/views/galleries/data.php:35
+#: ../plugins/others/galleries/shortcodes/views/galleries/display.php:55
+msgid "No Data"
+msgstr ""
+
+#: ../plugins/others/galleries/shortcodes/views/galleries/display_once.php:52
+msgid "Views"
+msgstr ""
+
+#: ../plugins/others/galleries/shortcodes/views/galleries/display_once.php:59
+msgid "Total"
+msgstr ""
+
+#: ../plugins/others/shop/widgets/views/shop-product-features/index.php:58
+msgid "No Features Products !"
+msgstr ""
+
+#: ../plugins/others/shop/widgets/views/shop-product-hot/index.php:58
+msgid "No Hot Products !"
+msgstr ""
+
+#: ../plugins/others/shop/widgets/views/shop-product-new/index.php:60
+msgid "No New Products !"
+msgstr ""
+
+#: ../plugins/others/shop/widgets/views/shop-products/index.php:58
+msgid "No Products !"
+msgstr ""
+
+#: ../plugins/others/testimonials/shortcodes/views/testimonials/display.php:23
+msgid "No Testimonial"
+msgstr ""
+
+#: ../post_templates.php:29 ../post_templates.php:56 ../post_templates.php:84
+#: ../post_templates.php:114 ../post_templates.php:146
+#: ../post_templates.php:177
+msgid "There is no post"
+msgstr "没有帖子"
+
+#: ../post_templates.php:51 ../post_templates.php:79
+msgid "Read more"
+msgstr "阅读更多"
+
+#~ msgid "There is no tweet yet or wrong twitter name"
+#~ msgstr "还没有过鸣叫或错误叽叽喳喳名称"
+
+#~ msgid "Edit Profile"
+#~ msgstr "编辑个人资料"
+
+#~ msgid "Logout"
+#~ msgstr "注销"
+
+#~ msgid "Theme option is reset successfully"
+#~ msgstr "主题选项被成功重置"
+
+#~ msgid "Example: "
+#~ msgstr "例如："
+
+#~ msgid "tag"
+#~ msgstr "标签"
+
+#~ msgid "class"
+#~ msgstr "类"
+
+#~ msgid "Apply for: "
+#~ msgstr "适用于："
+
+#~ msgid "Background"
+#~ msgstr "背景"
+
+#~ msgid "Colors"
+#~ msgstr "颜色"
+
+#~ msgid "Fonts"
+#~ msgstr "字形"
+
+#~ msgid "Navigation"
+#~ msgstr "导航"
+
+#~ msgid "Footer"
+#~ msgstr "页脚"
+
+#~ msgid "Logo type"
+#~ msgstr "标识类型"
+
+#~ msgid "Text"
+#~ msgstr "文本"
+
+#~ msgid "Image"
+#~ msgstr "图像"
+
+#~ msgid "Font-family"
+#~ msgstr "字形"
+
+#~ msgid "Font-size"
+#~ msgstr "字体大小"
+
+#~ msgid "Color"
+#~ msgstr "颜色"
+
+#~ msgid "Select image"
+#~ msgstr "选择图片"
+
+#~ msgid "Example: Image size (Width: %spx, Height: %spx)"
+#~ msgstr "例如：图像尺寸（宽度：%spx，身高：%spx）"
+
+#~ msgid "Image width"
+#~ msgstr "图像宽度"
+
+#~ msgid "Image height"
+#~ msgstr "图像高度"
+
+#~ msgid "Background type"
+#~ msgstr "背景类型"
+
+#~ msgid "Both"
+#~ msgstr "两"
+
+#~ msgid "Background color"
+#~ msgstr "背景颜色"
+
+#~ msgid "Wrapper background color"
+#~ msgstr "包装背景颜色"
+
+#~ msgid "Background images"
+#~ msgstr "背景图片"
+
+#~ msgid "Background position"
+#~ msgstr "背景位置"
+
+#~ msgid "Background repeat"
+#~ msgstr "背景重复"
+
+#~ msgid "Repeat"
+#~ msgstr "重复"
+
+#~ msgid "Repeat-x"
+#~ msgstr "重复-X"
+
+#~ msgid "Repeat-y"
+#~ msgstr "重复-Y"
+
+#~ msgid "No-repeat"
+#~ msgstr "不重复"
+
+#~ msgid "Background attachment"
+#~ msgstr "背景附件"
+
+#~ msgid "Scroll"
+#~ msgstr "滚动"
+
+#~ msgid "Fixed"
+#~ msgstr "固定"
+
+#~ msgid "Color type"
+#~ msgstr "颜色类型"
+
+#~ msgid "Theme style"
+#~ msgstr "主题风格"
+
+#~ msgid "Custom style"
+#~ msgstr "自定义样式"
+
+#~ msgid "Custom color"
+#~ msgstr "自定义颜色"
+
+#~ msgid "Color style"
+#~ msgstr "色彩风格"
+
+#~ msgid "Body font family"
+#~ msgstr "正文字体"
+
+#~ msgid "Body font size"
+#~ msgstr "正文字体大小"
+
+#~ msgid "Title font family"
+#~ msgstr "标题字体"
+
+#~ msgid "Title font size"
+#~ msgstr "标题的字体大小"
+
+#~ msgid "Content font family"
+#~ msgstr "内容字体"
+
+#~ msgid "Content font size"
+#~ msgstr "内容字体大小"
+
+#~ msgid "Color (hover, active)"
+#~ msgstr "颜色（悬停，激活）"
+
+#~ msgid "Title color"
+#~ msgstr "标题颜色"
+
+#~ msgid "Content color"
+#~ msgstr "内容颜色"
+
+#~ msgid "Are you sure to reset to default value?"
+#~ msgstr "您确定要重置为默认值？"
+
+#~ msgid "Cancel"
+#~ msgstr "取消"
+
+#~ msgid "Ok"
+#~ msgstr "行"
+
+#~ msgid "Title"
+#~ msgstr "标题"
+
+#~ msgid "Widget Title"
+#~ msgstr "小工具的标题"
+
+#~ msgid "Gallery page"
+#~ msgstr "图库页面"
+
+#~ msgid "Image sources"
+#~ msgstr "图片来源"
+
+#~ msgid "All Galleries"
+#~ msgstr "所有图库"
+
+#~ msgid "Random Gallery"
+#~ msgstr "随机图库"
+
+#~ msgid "Menu layout"
+#~ msgstr "菜单布局"
+
+#~ msgid "Type"
+#~ msgstr "类型"
+
+#~ msgid "Number of posts"
+#~ msgstr "文章数量"
+
+#~ msgid "Post list"
+#~ msgstr "帖子列表"
+
+#~ msgid "Display type"
+#~ msgstr "显示类型"
+
+#~ msgid "Cloud"
+#~ msgstr "云"
+
+#~ msgid "Maximum tags"
+#~ msgstr "最大标签"
+
+#~ msgid "Style"
+#~ msgstr "风格"
+
+#~ msgid "Tags"
+#~ msgstr "标签"
+
+#~ msgid "You do not have permission to write files <strong>\""
+#~ msgstr "你没有权限写入文件 <strong>\""
+
+#~ msgid "Error detected!"
+#~ msgstr "检测到错误！"
+
+#~ msgid "Footer background color"
+#~ msgstr "页脚的背景颜色"
+
+#~ msgid "Top content"
+#~ msgstr "热门内容"
+
+#~ msgid "Navigation font family"
+#~ msgstr "导航字体"
+
+#~ msgid "Navigation font size"
+#~ msgstr "导航字体大小"
+
+#~ msgid "No post"
+#~ msgstr "没有文章"
+
+#~ msgid "Post category key"
+#~ msgstr "邮政类关键"
+
+#~ msgid ""
+#~ "is the parameter which you declare in post shortcode (category = [get: "
+#~ "key]) "
+#~ msgstr "是您在简码后宣告参数 (category = [get: key]) "
+
+#~ msgid "Gallery"
+#~ msgstr "图库"

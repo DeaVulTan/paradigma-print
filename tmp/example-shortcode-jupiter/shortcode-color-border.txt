@@ -1,0 +1,281 @@
+
+{html:row}
+    {html:col}
+        {html:title size=2}Color box{/html:title}
+    {/html:col}
+{/html:row}
+
+{html:_row}
+    {html:_col class='col-md-4'}
+        {style:colorbox color='red'}
+            {html:h4}
+                Red color box
+            {/html:h4}
+            {html:i class='fa fa-cloud-download fa-2'} {/html:i}
+            {html:p}
+                Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua
+            {/html:p}
+        {/style:colorbox}
+    {/html:_col}
+    {html:_col class='col-md-4'}
+        {style:colorbox color='sea'}
+            {html:h4}
+                Sea color box
+            {/html:h4}
+            {html:i class='fa fa-cloud-download fa-2'} {/html:i}
+            {html:p}
+                Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua
+            {/html:p}
+        {/style:colorbox}
+    {/html:_col}
+    {html:_col class='col-md-4'}
+        {style:colorbox color='blue'}
+            {html:h4}
+                Blue color box
+            {/html:h4}
+            {html:i class='fa fa-cloud-download fa-2'} {/html:i}
+            {html:p}
+                Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua
+            {/html:p}
+        {/style:colorbox}
+    {/html:_col}
+{/html:_row}
+
+<!--Code-->
+
+{html:code linenums='1'}{html:_row}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; {html:_col class=&#39;col-md-4&#39;}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {style:colorbox color=&#39;red&#39;}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {html:h4}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Red color box<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {/html:h4}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {html:i class=&#39;fa fa-cloud-download fa-2&#39;} {/html:i}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {html:p}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {/html:p}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {/style:colorbox}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; {/html:_col}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; {html:_col class=&#39;col-md-4&#39;}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {style:colorbox color=&#39;sea&#39;}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {html:h4}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Sea color box<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {/html:h4}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {html:i class=&#39;fa fa-cloud-download fa-2&#39;} {/html:i}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {html:p}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {/html:p}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {/style:colorbox}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; {/html:_col}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; {html:_col class=&#39;col-md-4&#39;}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {style:colorbox color=&#39;blue&#39;}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {html:h4}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Blue color box<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {/html:h4}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {html:i class=&#39;fa fa-cloud-download fa-2&#39;} {/html:i}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {html:p}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {/html:p}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {/style:colorbox}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; {/html:_col}<br />
+{/html:_row}{/html:code}
+
+{html:_row}
+    {html:_col class='col-md-3'}
+        {style:colorbox color='grey'}
+            {html:h4}
+                Grey color box
+            {/html:h4}
+            {html:i class='fa fa-cloud-download fa-2'} {/html:i}
+            {html:p}
+                Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua
+            {/html:p}
+        {/style:colorbox}
+    {/html:_col}
+    {html:_col class='col-md-3'}
+        {style:colorbox color='yellow'}
+            {html:h4}
+                Yellow color box
+            {/html:h4}
+            {html:i class='fa fa-cloud-download fa-2'} {/html:i}
+            {html:p}
+                Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua
+            {/html:p}
+        {/style:colorbox}
+    {/html:_col}
+    {html:_col class='col-md-3'}
+        {style:colorbox color='orange'}
+            {html:h4}
+                Orange color box
+            {/html:h4}
+            {html:i class='fa fa-cloud-download fa-2'} {/html:i}
+            {html:p}
+                Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua
+            {/html:p}
+        {/style:colorbox}
+    {/html:_col}
+    {html:_col class='col-md-3'}
+        {style:colorbox color='green'}
+            {html:h4}
+                Green color box
+            {/html:h4}
+            {html:i class='fa fa-cloud-download fa-2'} {/html:i}
+            {html:p}
+                Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua
+            {/html:p}
+        {/style:colorbox}
+    {/html:_col}
+{/html:_row}
+
+<!--Code-->
+
+{html:code linenums='1'}{html:_row}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; {html:_col class=&#39;col-md-3&#39;}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {style:colorbox color=&#39;grey&#39;}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {html:h4}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Grey color box<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {/html:h4}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {html:i class=&#39;fa fa-cloud-download fa-2&#39;} {/html:i}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {html:p}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {/html:p}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {/style:colorbox}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; {/html:_col}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; {html:_col class=&#39;col-md-3&#39;}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {style:colorbox color=&#39;yellow&#39;}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {html:h4}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Yellow color box<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {/html:h4}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {html:i class=&#39;fa fa-cloud-download fa-2&#39;} {/html:i}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {html:p}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {/html:p}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {/style:colorbox}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; {/html:_col}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; {html:_col class=&#39;col-md-3&#39;}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {style:colorbox color=&#39;orange&#39;}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {html:h4}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Orange color box<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {/html:h4}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {html:i class=&#39;fa fa-cloud-download fa-2&#39;} {/html:i}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {html:p}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {/html:p}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {/style:colorbox}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; {/html:_col}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; {html:_col class=&#39;col-md-3&#39;}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {style:colorbox color=&#39;green&#39;}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {html:h4}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Green color box<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {/html:h4}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {html:i class=&#39;fa fa-cloud-download fa-2&#39;} {/html:i}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {html:p}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {/html:p}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {/style:colorbox}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; {/html:_col}<br />
+{/html:_row}{/html:code}
+
+
+{html:row}
+    {html:col}
+        {html:title size=2}Border box{/html:title}
+    {/html:col}
+{/html:row}
+{html:row class='margin-bottom-15'}
+    {html:_col class='col-md-12'}
+        {borderbox:left}
+            {html:h4}Border left box {/html:h4}
+            {html:p}
+                Et harum quidem rerum facilis est et expedita distinctio lorem ipsum dolor sit amet consectetur adipiscing elit. Ut non libero consectetur adipiscing elit magna. Sed et quam lacus. Fusce condimentum eleifend enim a feugiat.
+            {/html:p}
+        {/borderbox:left}
+    {/html:_col}
+{/html:row}
+
+<!--Code-->
+
+{html:code linenums='1'}{borderbox:left}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; {html:h4}Border left box {/html:h4}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; {html:p}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Et harum quidem rerum facilis est et expedita distinctio lorem ipsum dolor sit amet consectetur adipiscing elit. Ut non libero consectetur adipiscing elit magna. Sed et quam lacus. Fusce condimentum eleifend enim a feugiat.<br />
+&nbsp; &nbsp; &nbsp; &nbsp; {/html:p}<br />
+{/borderbox:left}{/html:code}
+
+{html:row class='margin-bottom-15'}
+    {html:_col class='col-md-12'}
+        {borderbox:top type='dotted' width='4px' color='red'}
+            {html:h4}Border top box {/html:h4}
+            {html:p}
+                Et harum quidem rerum facilis est et expedita distinctio lorem ipsum dolor sit amet consectetur adipiscing elit. Ut non libero consectetur adipiscing elit magna. Sed et quam lacus. Fusce condimentum eleifend enim a feugiat.
+            {/html:p}
+        {/borderbox:top}
+    {/html:_col}
+{/html:row}
+
+<!--Code-->
+
+{html:code linenums='1'}{borderbox:top type=&#39;dotted&#39; width=&#39;4px&#39; color=&#39;red&#39;}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; {html:h4}Border top box {/html:h4}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; {html:p}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Et harum quidem rerum facilis est et expedita distinctio lorem ipsum dolor sit amet consectetur adipiscing elit. Ut non libero consectetur adipiscing elit magna. Sed et quam lacus. Fusce condimentum eleifend enim a feugiat.<br />
+&nbsp; &nbsp; &nbsp; &nbsp; {/html:p}<br />
+{/borderbox:top}{/html:code}
+{html:row class='margin-bottom-15'}
+    {html:_col class='col-md-12'}
+        {borderbox:right style='' width='2px' color='#3498db'}
+            {html:h4}Border right box {/html:h4}
+            {html:p}
+                Et harum quidem rerum facilis est et expedita distinctio lorem ipsum dolor sit amet consectetur adipiscing elit. Ut non libero consectetur adipiscing elit magna. Sed et quam lacus. Fusce condimentum eleifend enim a feugiat.
+            {/html:p}
+        {/borderbox:right}
+    {/html:_col}
+{/html:row}
+
+<!--Code-->
+
+{html:code linenums='1'}{borderbox:right style=&#39;&#39; width=&#39;2px&#39; color=&#39;#3498db&#39;}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; {html:h4}Border right box {/html:h4}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; {html:p}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Et harum quidem rerum facilis est et expedita distinctio lorem ipsum dolor sit amet consectetur adipiscing elit. Ut non libero consectetur adipiscing elit magna. Sed et quam lacus. Fusce condimentum eleifend enim a feugiat.<br />
+&nbsp; &nbsp; &nbsp; &nbsp; {/html:p}<br />
+{/borderbox:right}{/html:code}
+
+{html:row class='margin-bottom-15'}
+    {html:_col class='col-md-12'}
+        {borderbox:bottom style='' width='2px' color='#95a5a6'}
+            {html:h4}Border bottom box {/html:h4}
+            {html:p}
+                Et harum quidem rerum facilis est et expedita distinctio lorem ipsum dolor sit amet consectetur adipiscing elit. Ut non libero consectetur adipiscing elit magna. Sed et quam lacus. Fusce condimentum eleifend enim a feugiat.
+            {/html:p}
+        {/borderbox:bottom}
+    {/html:_col}
+{/html:row}
+
+<!--Code-->
+
+{html:code linenums='1'}{borderbox:bottom style=&#39;&#39; width=&#39;2px&#39; color=&#39;#95a5a6&#39;}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; {html:h4}Border bottom box {/html:h4}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; {html:p}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Et harum quidem rerum facilis est et expedita distinctio lorem ipsum dolor sit amet consectetur adipiscing elit. Ut non libero consectetur adipiscing elit magna. Sed et quam lacus. Fusce condimentum eleifend enim a feugiat.<br />
+&nbsp; &nbsp; &nbsp; &nbsp; {/html:p}<br />
+{/borderbox:bottom}{/html:code}
+
+{html:row class='margin-bottom-15'}
+    {html:_col class='col-md-12'}
+        {borderbox:top style='border-bottom: double #1abc9c 2px ' type='dotted' width='4px' color='#FDC100'}
+            {html:h4}Border custom box {/html:h4}
+            {html:p}
+                Et harum quidem rerum facilis est et expedita distinctio lorem ipsum dolor sit amet consectetur adipiscing elit. Ut non libero consectetur adipiscing elit magna. Sed et quam lacus. Fusce condimentum eleifend enim a feugiat.
+            {/html:p}
+        {/borderbox:top}
+    {/html:_col}
+{/html:row}
+
+<!--Code-->
+
+{html:code linenums='1'}{borderbox:top style=&#39;border-bottom: double #1abc9c 2px &#39; type=&#39;dotted&#39; width=&#39;4px&#39; color=&#39;#FDC100&#39;}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; {html:h4}Border custom box {/html:h4}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; {html:p}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Et harum quidem rerum facilis est et expedita distinctio lorem ipsum dolor sit amet consectetur adipiscing elit. Ut non libero consectetur adipiscing elit magna. Sed et quam lacus. Fusce condimentum eleifend enim a feugiat.<br />
+&nbsp; &nbsp; &nbsp; &nbsp; {/html:p}<br />
+{/borderbox:top}{/html:code}

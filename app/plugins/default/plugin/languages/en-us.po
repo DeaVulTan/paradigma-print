@@ -1,0 +1,354 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Plugins\n"
+"POT-Creation-Date: 2015-02-06 15:21+0700\n"
+"PO-Revision-Date: 2015-02-06 15:21+0700\n"
+"Last-Translator: \n"
+"Language-Team: Vitubo\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.4\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../admin/views/plugin/index.php:5 ../admin/views/plugin/index.php:166
+#: ../admin/views/plugin/index.php:196
+msgid "Search"
+msgstr "Search"
+
+#: ../admin/views/plugin/index.php:32 ../admin/views/plugin/index.php:105
+#: ../admin/views/plugin/index.php:166 ../admin/views/plugin/index.php:177
+#: ../plugin.php:11
+msgid "Plugins"
+msgstr "Plugins"
+
+#: ../admin/views/plugin/index.php:44
+msgid "Bulk Actions"
+msgstr "Bulk Actions"
+
+#: ../admin/views/plugin/index.php:48 ../admin/views/plugin/index.php:67
+#: ../admin/views/plugin/index.php:132 ../admin/views/plugin/index.php:369
+#: ../admin/views/plugin/index.php:401
+msgid "Activate"
+msgstr "Activate"
+
+#: ../admin/views/plugin/index.php:49 ../admin/views/plugin/index.php:69
+#: ../admin/views/plugin/index.php:134 ../admin/views/plugin/index.php:372
+#: ../admin/views/plugin/index.php:403
+msgid "Deactivate"
+msgstr "Deactivate"
+
+#: ../admin/views/plugin/index.php:61 ../admin/views/plugin/index.php:66
+msgid "All"
+msgstr "All"
+
+#: ../admin/views/plugin/index.php:110
+msgid "Version"
+msgstr "Version"
+
+#: ../admin/views/plugin/index.php:111
+msgid "Description"
+msgstr "Description"
+
+#: ../admin/views/plugin/index.php:112 ../admin/views/plugin/index.php:185
+msgid "Actions"
+msgstr "Actions"
+
+#: ../admin/views/plugin/index.php:164 ../admin/views/plugin/index.php:197
+msgid "Close"
+msgstr "Close"
+
+#: ../admin/views/plugin/index.php:245 ../admin/views/plugin/index.php:257
+#: ../admin/views/plugin/index.php:278 ../admin/views/plugin/index.php:318
+#: ../admin/views/plugin/index.php:331 ../admin/views/plugin/index.php:340
+#: ../admin/views/plugin/index.php:364 ../admin/views/plugin/index.php:395
+msgid "Loading..."
+msgstr "Loading..."
+
+#: ../admin/views/plugin/index.php:271 ../admin/views/plugin/index.php:357
+msgid "Are you sure with this action?"
+msgstr "Are you sure with this action?"
+
+#: ../admin/views/plugin/index.php:290 ../admin/views/plugin/index.php:373
+msgid "Plugins is activated successfully"
+msgstr "Plugins is activated successfully"
+
+#: ../admin/views/plugin/index.php:293 ../admin/views/plugin/index.php:370
+msgid "Plugins is deactivated successfully"
+msgstr "Plugins is deactivated successfully"
+
+#: ../admin/views/plugin/index.php:297
+msgid "There is an error, please check again!"
+msgstr "There is an error, please check again!"
+
+#, fuzzy
+#~ msgid "Plugins is Deactivated successfully"
+#~ msgstr "Plugins is deactivated successfully"
+
+#, fuzzy
+#~ msgid "Plugins is Activated successfully"
+#~ msgstr "Plugins is Activate successfully"
+
+#, fuzzy
+#~ msgid "Plugin is actived successfully"
+#~ msgstr "Plugins is activated successfully"
+
+#, fuzzy
+#~ msgid "Are you sure to delete this item?"
+#~ msgstr "Are you sure with this action?"
+
+#~ msgid ""
+#~ "Deactive plugin means all current data of this plugin will be lost! Are "
+#~ "you sure?"
+#~ msgstr ""
+#~ "Deactive plugin means all current data of this plugin will be lost! Are "
+#~ "you sure?"
+
+#~ msgid "Please enter the search conditions"
+#~ msgstr "Please enter the search conditions"
+
+#~ msgid "Plugin"
+#~ msgstr "Plugin"
+
+#~ msgid "No."
+#~ msgstr "No."
+
+#~ msgid ""
+#~ "<p>The backup folder does not exist. Please check folder <b>%s</b></p>"
+#~ msgstr ""
+#~ "<p>The backup folder does not exist. Please check folder <b>%s</b></p>"
+
+#~ msgid ""
+#~ "<p>The backup folder is not writeable! Please check folder <b>%s</b></p>"
+#~ msgstr ""
+#~ "<p>The backup folder is not writeable! Please check folder <b>%s</b></p>"
+
+#~ msgid ""
+#~ "<p>The backup folder is not readable! Please check folder <b>%s</b></p>"
+#~ msgstr ""
+#~ "<p>The backup folder is not readable! Please check folder <b>%s</b></p>"
+
+#~ msgid "Backup Now"
+#~ msgstr "Backup Now"
+
+#~ msgid "File Name"
+#~ msgstr "File Name"
+
+#~ msgid "Created Date"
+#~ msgstr "Created Date"
+
+#~ msgid "File Size (kB)"
+#~ msgstr "File Size (kB)"
+
+#~ msgid "Action Successfully"
+#~ msgstr "Action Successfully"
+
+#~ msgid "Restore"
+#~ msgstr "Restore"
+
+#~ msgid "Download"
+#~ msgstr "Download"
+
+#~ msgid "Delete"
+#~ msgstr "Delete"
+
+#~ msgid "Templates"
+#~ msgstr "Templates"
+
+#~ msgid "Email subject"
+#~ msgstr "Email subject"
+
+#~ msgid "Save change"
+#~ msgstr "Save change"
+
+#~ msgid ""
+#~ "<strong><i class='fa fa-check fa-2x'></i> Email templates</strong> update "
+#~ "successfully"
+#~ msgstr ""
+#~ "<strong><i class='fa fa-check fa-2x'></i> Email templates</strong> update "
+#~ "successfully"
+
+#~ msgid "General settings"
+#~ msgstr "General settings"
+
+#~ msgid "Site name"
+#~ msgstr "Site name"
+
+#~ msgid "Website email"
+#~ msgstr "Website email"
+
+#~ msgid "Site offline"
+#~ msgstr "Site offline"
+
+#~ msgid "Yes"
+#~ msgstr "Yes"
+
+#~ msgid "Default page"
+#~ msgstr "Default page"
+
+#~ msgid "Error page"
+#~ msgstr "Error page"
+
+#~ msgid "Items per page"
+#~ msgstr "Items per page"
+
+#~ msgid "Timezone"
+#~ msgstr "Timezone"
+
+#~ msgid "Short date"
+#~ msgstr "Short date"
+
+#~ msgid "Long date"
+#~ msgstr "Long date"
+
+#~ msgid "Mailer"
+#~ msgstr "Mailer"
+
+#~ msgid "PHP"
+#~ msgstr "PHP"
+
+#~ msgid "SMTP"
+#~ msgstr "SMTP"
+
+#~ msgid "Server"
+#~ msgstr "Server"
+
+#~ msgid "Port"
+#~ msgstr "Port"
+
+#~ msgid "Username"
+#~ msgstr "Username"
+
+#~ msgid "Password"
+#~ msgstr "Password"
+
+#~ msgid "SSL"
+#~ msgstr "SSL"
+
+#~ msgid "Site meta keywords"
+#~ msgstr "Site meta keywords"
+
+#~ msgid "Site languages"
+#~ msgstr "Site languages"
+
+#~ msgid "Enable log"
+#~ msgstr "Enable log"
+
+#~ msgid "Google analytics"
+#~ msgstr "Google analytics"
+
+#~ msgid ""
+#~ "<strong><i class='fa fa-check fa-2x'></i> Configurations</strong> update "
+#~ "successfully"
+#~ msgstr ""
+#~ "<strong><i class='fa fa-check fa-2x'></i> Configurations</strong> update "
+#~ "successfully"
+
+#~ msgid ""
+#~ "<p>The backup folder does not writeable! Please Chmod folder <b>%s</b> to "
+#~ "755</p>"
+#~ msgstr ""
+#~ "<p>The backup folder does not writeable! Please Chmod folder <b>%s</b> to "
+#~ "755</p>"
+
+#~ msgid ""
+#~ "<p>The backup folder does not readable! Please Chmod folder <b>%s</b> to "
+#~ "755</p>"
+#~ msgstr ""
+#~ "<p>The backup folder does not readable! Please Chmod folder <b>%s</b> to "
+#~ "755</p>"
+
+#, fuzzy
+#~ msgid "New Menu"
+#~ msgstr "New Member"
+
+#~ msgid "Edit"
+#~ msgstr "Edit"
+
+#~ msgid "The email address you entered is already in use!"
+#~ msgstr "The email address you entered is already in use!"
+
+#~ msgid "The username you entered is already in use!"
+#~ msgstr "The username you entered is already in use!"
+
+#~ msgid "The passwords you entered do not match!"
+#~ msgstr "The passwords you entered do not match!"
+
+#~ msgid "Please review your information!"
+#~ msgstr "Please review your information!"
+
+#~ msgid "User successfully created!"
+#~ msgstr "User successfully created!"
+
+#~ msgid "Edit user %s successfully!"
+#~ msgstr "Edit user %s successfully!"
+
+#~ msgid "Please select user"
+#~ msgstr "Please select user"
+
+#~ msgid "Email"
+#~ msgstr "Email"
+
+#~ msgid "Re-Password"
+#~ msgstr "Re-Password"
+
+#~ msgid "Displayname"
+#~ msgstr "Displayname"
+
+#~ msgid "Role"
+#~ msgstr "Role"
+
+#~ msgid "Cancel"
+#~ msgstr "Cancel"
+
+#~ msgid "Error Detected! The Activation key invalid!"
+#~ msgstr "Error Detected! The Activation key invalid!"
+
+#~ msgid "This user aready activated!"
+#~ msgstr "This user aready activated!"
+
+#~ msgid "Manage"
+#~ msgstr "Manage"
+
+#~ msgid "Advance Search"
+#~ msgstr "Advance Search"
+
+#~ msgid "Username (Like)"
+#~ msgstr "Username (Like)"
+
+#~ msgid "Email (like)"
+#~ msgstr "Email (like)"
+
+#~ msgid "Unknown"
+#~ msgstr "Unknown"
+
+#~ msgid "Active"
+#~ msgstr "Active"
+
+#~ msgid "Inactive"
+#~ msgstr "Inactive"
+
+#~ msgid "Show Result"
+#~ msgstr "Show Result"
+
+#~ msgid "Check All"
+#~ msgstr "Check All"
+
+#~ msgid "With Selection"
+#~ msgstr "With Selection"
+
+#~ msgid "Notification"
+#~ msgstr "Notification"
+
+#~ msgid "Do you really want to do that?"
+#~ msgstr "Do you really want to do that?"
+
+#~ msgid "Confirm"
+#~ msgstr "Confirm"
+
+#~ msgid "Really?"
+#~ msgstr "Really?"

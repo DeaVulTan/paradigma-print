@@ -1,0 +1,239 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Include\n"
+"POT-Creation-Date: 2014-06-30 17:44+0700\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.5\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../common/libs/category/pf-lib-category.php:62
+msgid "No parent"
+msgstr "没有父文件"
+
+#: ../common/plugin/helpers/helper.php:358
+msgid "No date provided"
+msgstr "没有日期"
+
+#: ../common/plugin/helpers/helper.php:362
+msgid "second"
+msgstr "第二"
+
+#: ../common/plugin/helpers/helper.php:363
+msgid "minute"
+msgstr "分"
+
+#: ../common/plugin/helpers/helper.php:364
+msgid "hour"
+msgstr "小时"
+
+#: ../common/plugin/helpers/helper.php:365
+msgid "day"
+msgstr "天"
+
+#: ../common/plugin/helpers/helper.php:366
+msgid "week"
+msgstr "星期"
+
+#: ../common/plugin/helpers/helper.php:367
+msgid "month"
+msgstr "月"
+
+#: ../common/plugin/helpers/helper.php:368
+msgid "year"
+msgstr "年"
+
+#: ../common/plugin/helpers/helper.php:369
+msgid "decade"
+msgstr "世纪"
+
+#: ../common/plugin/helpers/helper.php:383
+msgid "Bad date"
+msgstr "日期不对"
+
+#: ../common/plugin/helpers/helper.php:388
+msgid "ago"
+msgstr "以前"
+
+#: ../common/plugin/helpers/helper.php:391
+msgid "from now"
+msgstr "从现在起"
+
+#: ../common/plugin/helpers/helper.php:501
+#: ../common/plugin/helpers/helper.php:517
+msgid "Published"
+msgstr "已发布"
+
+#: ../common/plugin/helpers/helper.php:504
+#: ../common/plugin/helpers/helper.php:513
+msgid "Unpublished"
+msgstr "已不公开"
+
+#: ../common/plugin/helpers/helper.php:515
+msgid "All status"
+msgstr "所有状态"
+
+#: ../common/plugin/utiles/pf-plugin-setting.php:37
+msgid "Yes "
+msgstr "是的"
+
+#: ../common/plugin/utiles/pf-plugin-setting.php:38
+msgid "No "
+msgstr "无"
+
+#: ../gump/gump.class.php:397 ../gump/gump.class.php:400
+#: ../gump/gump.class.php:404 ../gump/gump.class.php:406
+#: ../gump/gump.class.php:411 ../gump/gump.class.php:413
+#: ../gump/gump.class.php:418 ../gump/gump.class.php:420
+#: ../gump/gump.class.php:424 ../gump/gump.class.php:427
+#: ../gump/gump.class.php:430 ../gump/gump.class.php:433
+#: ../gump/gump.class.php:436 ../gump/gump.class.php:439
+#: ../gump/gump.class.php:442 ../gump/gump.class.php:445
+#: ../gump/gump.class.php:448 ../gump/gump.class.php:451
+#: ../gump/gump.class.php:454 ../gump/gump.class.php:457
+#: ../gump/gump.class.php:460 ../gump/gump.class.php:463
+#: ../gump/gump.class.php:466 ../gump/gump.class.php:469
+#: ../gump/gump.class.php:472
+msgid "The "
+msgstr "这个␣"
+
+#: ../gump/gump.class.php:397
+msgid "field is required"
+msgstr "必须要填写字段"
+
+#: ../gump/gump.class.php:400
+msgid "field is required to be a valid email address"
+msgstr "字段必须是一个有效的电子邮件地址"
+
+#: ../gump/gump.class.php:404 ../gump/gump.class.php:406
+#: ../gump/gump.class.php:411 ../gump/gump.class.php:413
+msgid "field needs to be shorter than"
+msgstr "字段需要短于"
+
+#: ../gump/gump.class.php:404 ../gump/gump.class.php:406
+#: ../gump/gump.class.php:411 ../gump/gump.class.php:413
+msgid "characters"
+msgstr "字符"
+
+#: ../gump/gump.class.php:418 ../gump/gump.class.php:420
+msgid "field needs to be exactly"
+msgstr "字段要完全正确"
+
+#: ../gump/gump.class.php:418 ../gump/gump.class.php:420
+msgid "characters in length"
+msgstr "字符长度"
+
+#: ../gump/gump.class.php:424
+msgid "field may only contain alpha characters(a-z)"
+msgstr "字段只能包含字母字符(a-z)"
+
+#: ../gump/gump.class.php:427
+msgid "field may only contain alpha-numeric characters"
+msgstr "字段只能包含字母数字字符"
+
+#: ../gump/gump.class.php:430
+msgid "field may only contain alpha characters &amp; dashes"
+msgstr "字段只能包含字母字符&amp;破折号"
+
+#: ../gump/gump.class.php:433
+msgid "field may only contain numeric characters"
+msgstr "字段只能包含数字字符"
+
+#: ../gump/gump.class.php:436
+msgid "field may only contain a numeric value"
+msgstr "字段可能只包含一个数值"
+
+#: ../gump/gump.class.php:439
+msgid "field may only contain a true or false value"
+msgstr "字段可能只包含一个对或错值"
+
+#: ../gump/gump.class.php:442
+msgid "field may only contain a float value"
+msgstr "字段只能包含一个float值"
+
+#: ../gump/gump.class.php:445
+msgid "field is required to be a valid URL"
+msgstr "字段必须是一个有效的网址"
+
+#: ../gump/gump.class.php:448
+msgid "URL does not exist"
+msgstr "此网址不存在"
+
+#: ../gump/gump.class.php:451
+msgid "field needs to contain a valid IP address"
+msgstr "字段需要包含一个有效的IP地址"
+
+#: ../gump/gump.class.php:454
+msgid "field needs to contain a valid credit card number"
+msgstr "字段需要包含一个有效的信用卡号码"
+
+#: ../gump/gump.class.php:457
+msgid "field needs to contain a valid human name"
+msgstr "字段需要包含一个有效的人名"
+
+#: ../gump/gump.class.php:460
+msgid "field needs to contain one of these values"
+msgstr "字段要包含下列值之一"
+
+#: ../gump/gump.class.php:463
+msgid "field needs to be a valid street address"
+msgstr "字段必须是一个有效的街道地址"
+
+#: ../gump/gump.class.php:466
+msgid "field needs to be a valid date"
+msgstr "字段必须是一个有效的日期"
+
+#: ../gump/gump.class.php:469
+msgid "field needs to be a numeric value, equal to, or higher than "
+msgstr "字段必须是一个数值，等于或高于␣"
+
+#: ../gump/gump.class.php:472
+msgid "field needs to be a numeric value, equal to, or lower than "
+msgstr "字段必须是一个数值，等于或低于␣"
+
+#: ../paginator-class.php:63
+msgid "Displaying records "
+msgstr "显示记录␣"
+
+#: ../paginator-class.php:63
+msgid " of "
+msgstr "␣的␣"
+
+#: ../paginator-class.php:65
+msgid "Displaying "
+msgstr "显示 "
+
+#: ../paginator-class.php:65
+msgid " records "
+msgstr " 记录"
+
+#: ../paginator-class.php:89
+msgid "Page: "
+msgstr "页:␣"
+
+#: ../paginator-class.php:122 ../paginator-class.php:124
+msgid "Previous"
+msgstr "上一页"
+
+#: ../paginator-class.php:171 ../paginator-class.php:173
+msgid "Next"
+msgstr "下一页"
+
+#~ msgid "An error has occurred! Please try again later"
+#~ msgstr "发生错误！请稍后再试。"
+
+#~ msgid "Yes"
+#~ msgstr "是的"
+
+#~ msgid "Error"
+#~ msgstr "错误"
+
+#~ msgid "character in length"
+#~ msgstr "字符长度"

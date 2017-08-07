@@ -1,0 +1,377 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Portfolio\n"
+"POT-Creation-Date: 2014-11-27 14:21+0700\n"
+"PO-Revision-Date: 2014-11-27 14:30+0700\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.4\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../admin/views/category/add.php:11 ../admin/views/portfolio/add.php:15
+msgid "Add"
+msgstr "Hinzufügen"
+
+#: ../admin/views/category/add.php:21
+msgid "Category Name"
+msgstr "Kategorie Name"
+
+#: ../admin/views/category/add.php:32 ../admin/views/category/copy.php:32
+#: ../admin/views/category/edit.php:32
+msgid "Category description"
+msgstr "Beschreibung der Kategorie"
+
+#: ../admin/views/category/add.php:43 ../admin/views/category/index.php:163
+#: ../admin/views/category/index.php:265 ../admin/views/portfolio/add.php:116
+#: ../admin/views/portfolio/copy.php:122 ../admin/views/portfolio/edit.php:122
+#: ../admin/views/portfolio/index.php:177
+#: ../admin/views/portfolio/index.php:281
+msgid "Status"
+msgstr "Status"
+
+#: ../admin/views/category/add.php:51 ../admin/views/category/copy.php:49
+#: ../admin/views/category/edit.php:49 ../admin/views/category/index.php:190
+#: ../admin/views/category/index.php:501 ../admin/views/portfolio/add.php:125
+#: ../admin/views/portfolio/copy.php:128 ../admin/views/portfolio/edit.php:128
+#: ../admin/views/portfolio/index.php:207
+#: ../admin/views/portfolio/index.php:450
+msgid "Published"
+msgstr "Veröffentlicht"
+
+#: ../admin/views/category/add.php:72 ../admin/views/category/add.php:83
+#: ../admin/views/category/copy.php:70 ../admin/views/category/copy.php:81
+#: ../admin/views/category/edit.php:71 ../admin/views/category/edit.php:82
+#: ../admin/views/category/edit.php:105 ../admin/views/category/index.php:324
+#: ../admin/views/category/index.php:336 ../admin/views/category/index.php:357
+#: ../admin/views/category/index.php:400 ../admin/views/category/index.php:413
+#: ../admin/views/category/index.php:422 ../admin/views/category/index.php:429
+#: ../admin/views/category/index.php:444 ../admin/views/category/index.php:468
+#: ../admin/views/category/index.php:495 ../admin/views/category/index.php:509
+#: ../admin/views/category/index.php:524 ../admin/views/portfolio/add.php:222
+#: ../admin/views/portfolio/add.php:234 ../admin/views/portfolio/copy.php:243
+#: ../admin/views/portfolio/copy.php:258 ../admin/views/portfolio/edit.php:244
+#: ../admin/views/portfolio/edit.php:255 ../admin/views/portfolio/edit.php:282
+#: ../admin/views/portfolio/index.php:340
+#: ../admin/views/portfolio/index.php:352
+#: ../admin/views/portfolio/index.php:373
+#: ../admin/views/portfolio/index.php:416
+#: ../admin/views/portfolio/index.php:429
+#: ../admin/views/portfolio/index.php:438
+#: ../admin/views/portfolio/index.php:444
+#: ../admin/views/portfolio/index.php:458
+#: ../admin/views/portfolio/index.php:473
+#: ../admin/views/portfolio/index.php:497
+#: ../admin/views/portfolio/index.php:525
+#: ../admin/views/portfolio/index.php:541
+#: ../admin/views/portfolio/index.php:559
+msgid "Loading..."
+msgstr "Wird geladen..."
+
+#: ../admin/views/category/add.php:91 ../admin/views/category/copy.php:89
+#: ../admin/views/category/edit.php:90 ../admin/views/category/edit.php:116
+#: ../admin/views/category/index.php:377 ../admin/views/category/index.php:435
+#: ../admin/views/category/index.php:450 ../admin/views/category/index.php:473
+#: ../admin/views/portfolio/add.php:242 ../admin/views/portfolio/copy.php:266
+#: ../admin/views/portfolio/edit.php:263 ../admin/views/portfolio/edit.php:293
+#: ../admin/views/portfolio/index.php:393
+#: ../admin/views/portfolio/index.php:464
+#: ../admin/views/portfolio/index.php:479
+#: ../admin/views/portfolio/index.php:502
+msgid "There was an error. Please try again!"
+msgstr "Es gab einen Fehler. Bitte versuchen Sie es!"
+
+#: ../admin/views/category/add.php:96
+msgid "Category is added successfully"
+msgstr "Kategorie erfolgreich aktualisiert"
+
+#: ../admin/views/category/copy.php:11 ../admin/views/portfolio/copy.php:16
+msgid "Copy"
+msgstr "Kopie"
+
+#: ../admin/views/category/copy.php:21 ../admin/views/category/edit.php:21
+#: ../admin/views/category/index.php:123 ../admin/views/category/index.php:249
+msgid "Category name"
+msgstr "Kategoriename"
+
+#: ../admin/views/category/copy.php:43 ../admin/views/category/edit.php:43
+#: ../admin/views/category/index.php:57 ../admin/views/category/index.php:85
+#: ../admin/views/portfolio/index.php:56 ../admin/views/portfolio/index.php:86
+msgid "Publish"
+msgstr "Veröffentlichen"
+
+#: ../admin/views/category/copy.php:94
+msgid "Category is copied successfully"
+msgstr "Die Kategorie wurde erfolgreich kopiert"
+
+#: ../admin/views/category/edit.php:11 ../admin/views/portfolio/edit.php:16
+msgid "Edit"
+msgstr "Bearbeiten"
+
+#: ../admin/views/category/edit.php:95 ../admin/views/category/edit.php:114
+msgid "Category is updated successfully"
+msgstr "Kategorie erfolgreich aktualisiert"
+
+#: ../admin/views/category/index.php:5 ../admin/views/category/index.php:240
+#: ../admin/views/category/index.php:275 ../admin/views/portfolio/index.php:5
+#: ../admin/views/portfolio/index.php:256
+#: ../admin/views/portfolio/index.php:291
+msgid "Search"
+msgstr "Suche"
+
+#: ../admin/views/category/index.php:11 ../admin/views/portfolio/index.php:11
+msgid "New"
+msgstr "Neu"
+
+#: ../admin/views/category/index.php:15 ../admin/views/category/index.php:20
+#: ../admin/views/category/index.php:26 ../admin/views/portfolio/index.php:15
+#: ../admin/views/portfolio/index.php:20 ../admin/views/portfolio/index.php:26
+msgid "Save"
+msgstr "Sparen"
+
+#: ../admin/views/category/index.php:16 ../admin/views/category/index.php:22
+#: ../admin/views/category/index.php:27 ../admin/views/portfolio/index.php:16
+#: ../admin/views/portfolio/index.php:22 ../admin/views/portfolio/index.php:27
+msgid "Cancel"
+msgstr "Stornieren"
+
+#: ../admin/views/category/index.php:21 ../admin/views/portfolio/index.php:21
+msgid "Apply"
+msgstr "Anwenden"
+
+#: ../admin/views/category/index.php:39 ../admin/views/portfolio/index.php:38
+msgid "List"
+msgstr "Liste"
+
+#: ../admin/views/category/index.php:50 ../admin/views/portfolio/index.php:49
+msgid "Bulk Action"
+msgstr "Bulk-Aktion"
+
+#: ../admin/views/category/index.php:54 ../admin/views/category/index.php:465
+#: ../admin/views/portfolio/index.php:53
+#: ../admin/views/portfolio/index.php:494
+msgid "Delete"
+msgstr "Löschen"
+
+#: ../admin/views/category/index.php:60 ../admin/views/category/index.php:88
+#: ../admin/views/portfolio/index.php:59 ../admin/views/portfolio/index.php:89
+msgid "Unpublish"
+msgstr "Unpublish"
+
+#: ../admin/views/category/index.php:77 ../admin/views/category/index.php:82
+#: ../admin/views/portfolio/index.php:78 ../admin/views/portfolio/index.php:83
+msgid "All"
+msgstr "alle"
+
+#: ../admin/views/category/index.php:130
+#: ../admin/views/portfolio/index.php:156
+msgid "Shortcode"
+msgstr "Shortcode"
+
+#: ../admin/views/category/index.php:145 ../admin/views/category/index.php:257
+#: ../admin/views/portfolio/index.php:273
+msgid "Description"
+msgstr "Beschreibung"
+
+#: ../admin/views/category/index.php:168
+#: ../admin/views/portfolio/index.php:182
+msgid "Actions"
+msgstr "Aktionen"
+
+#: ../admin/views/category/index.php:192 ../admin/views/category/index.php:503
+#: ../admin/views/portfolio/index.php:209
+#: ../admin/views/portfolio/index.php:452
+msgid "Unpublished"
+msgstr "Unveröffentlicht"
+
+#: ../admin/views/category/index.php:238 ../admin/views/category/index.php:276
+#: ../admin/views/portfolio/index.php:254
+#: ../admin/views/portfolio/index.php:292
+msgid "Close"
+msgstr "Schließen"
+
+#: ../admin/views/category/index.php:350
+#: ../admin/views/portfolio/index.php:366
+msgid "Are you sure to perform this action?"
+msgstr "Sind Sie sicher, dass Sie diese Aktion durchführen?"
+
+#: ../admin/views/category/index.php:366 ../admin/views/category/index.php:471
+msgid "Category is deleted successfully"
+msgstr "Die Kategorie wurde erfolgreich gelöscht"
+
+#: ../admin/views/category/index.php:370
+msgid "Category is published successfully"
+msgstr "Die Kategorie wurde erfolgreich veröffentlicht"
+
+#: ../admin/views/category/index.php:373
+msgid "Category is unpublished successfully"
+msgstr "Kategorie ist unveröffentlichten erfolgreich"
+
+#: ../admin/views/category/index.php:461
+#: ../admin/views/portfolio/index.php:490
+msgid "Are you sure to delete this item?"
+msgstr "Sind Sie sicher, dass Sie diesen Artikel löschen?"
+
+#: ../admin/views/portfolio/add.php:25 ../admin/views/portfolio/copy.php:26
+#: ../admin/views/portfolio/edit.php:26 ../admin/views/portfolio/index.php:149
+#: ../admin/views/portfolio/index.php:265
+msgid "Portfolio name"
+msgstr "Portfolio Namen"
+
+#: ../admin/views/portfolio/add.php:36 ../admin/views/portfolio/copy.php:37
+#: ../admin/views/portfolio/edit.php:37 ../admin/views/portfolio/index.php:161
+#: ../portfolio.php:50
+msgid "Category"
+msgstr "Kategorie"
+
+#: ../admin/views/portfolio/add.php:54 ../admin/views/portfolio/copy.php:59
+#: ../admin/views/portfolio/edit.php:60
+msgid "Portfolio image"
+msgstr "Portfolio Bild"
+
+#: ../admin/views/portfolio/add.php:106 ../admin/views/portfolio/copy.php:111
+#: ../admin/views/portfolio/edit.php:112
+msgid "Portfolio description"
+msgstr "Portfolio Beschreibung"
+
+#: ../admin/views/portfolio/add.php:143 ../admin/views/portfolio/add.php:205
+#: ../admin/views/portfolio/copy.php:165 ../admin/views/portfolio/copy.php:226
+#: ../admin/views/portfolio/edit.php:165 ../admin/views/portfolio/edit.php:226
+msgid "Custom field's Name"
+msgstr "Benutzerdefinierte Feldname"
+
+#: ../admin/views/portfolio/add.php:145 ../admin/views/portfolio/add.php:207
+#: ../admin/views/portfolio/copy.php:167 ../admin/views/portfolio/copy.php:228
+#: ../admin/views/portfolio/edit.php:167 ../admin/views/portfolio/edit.php:228
+msgid "Custom field's Value"
+msgstr "Benutzerdefinierte Feld Value"
+
+#: ../admin/views/portfolio/add.php:157 ../admin/views/portfolio/copy.php:179
+#: ../admin/views/portfolio/edit.php:179
+msgid "Add custom field"
+msgstr "Benutzerdefiniertes Feld hinzufügen"
+
+#: ../admin/views/portfolio/add.php:247
+msgid "Portfolio is added successfully"
+msgstr "Portfolio erfolgreich hinzugefügt"
+
+#: ../admin/views/portfolio/copy.php:271
+msgid "Portfolio is copied successfully"
+msgstr "Portfolio ist erfolgreich kopiert"
+
+#: ../admin/views/portfolio/edit.php:268 ../admin/views/portfolio/edit.php:291
+msgid "Portfolio is updated successfully"
+msgstr "Portfolio erfolgreich aktualisiert"
+
+#: ../admin/views/portfolio/index.php:78
+msgid "title"
+msgstr "title"
+
+#: ../admin/views/portfolio/index.php:100
+msgid "titlecat"
+msgstr "titlecat"
+
+#: ../admin/views/portfolio/index.php:100
+#: ../admin/views/portfolio/index.php:105
+msgid "All Portfolio"
+msgstr "Alle Portfolio"
+
+#: ../admin/views/portfolio/index.php:382
+#: ../admin/views/portfolio/index.php:500
+msgid "Portfolio is deleted successfully"
+msgstr "Portfolio erfolgreich gelöscht"
+
+#: ../admin/views/portfolio/index.php:386
+msgid "Portfolio is published successfully"
+msgstr "Portfolio erfolgreich veröffentlicht"
+
+#: ../admin/views/portfolio/index.php:389
+msgid "Portfolio is unpublished successfully"
+msgstr "Portfolio ist unveröffentlichten erfolgreich"
+
+#: ../portfolio.php:49
+msgid "Portfolios"
+msgstr "Portfolios"
+
+#: ../shortcodes/views/portfolio/display_detail.php:50
+msgid "Portfolio Info"
+msgstr "Portfolio Info"
+
+#~ msgid "Please select a category"
+#~ msgstr "Bitte wählen Sie eine Kategorie"
+
+#~ msgid "Please select an action"
+#~ msgstr "Bitte wählen Sie eine Aktion"
+
+#~ msgid "Please select a portfolio"
+#~ msgstr "Bitte wählen Sie ein Portfolio"
+
+#~ msgid "Please check the data field!"
+#~ msgstr "Bitte überprüfen Sie die Datenfeld!"
+
+#~ msgid "Access Denied!"
+#~ msgstr "Zugriff verweigert!"
+
+#~ msgid "Portfolio Category"
+#~ msgstr "Portfolio Kategorie"
+
+#~ msgid "The field is required"
+#~ msgstr "Das Feld ist obligatorisch"
+
+#~ msgid "Portfolio Avatar"
+#~ msgstr "Portfolio Avatar"
+
+#~ msgid "Select"
+#~ msgstr "Wählen"
+
+#~ msgid "Add images"
+#~ msgstr "Bilder hinzufügen"
+
+#~ msgid "New Category"
+#~ msgstr "Neue Kategorie"
+
+#~ msgid "Portfolio Categories"
+#~ msgstr "Portfolio Kategorien"
+
+#~ msgid "Please enter category name"
+#~ msgstr "Bitte geben Sie Name der Kategorie"
+
+#~ msgid ""
+#~ "If you delete this category, all the portfolio belongs to it will be "
+#~ "deleted also. Are you sure?"
+#~ msgstr ""
+#~ "Wenn Sie diese Kategorie löschen, gehört all das Portfolio wird es auch "
+#~ "gelöscht werden. Sind Sie sicher?"
+
+#~ msgid "Confirm"
+#~ msgstr "bestätigen"
+
+#~ msgid "New Portfolio"
+#~ msgstr "Neues Portfolio"
+
+#~ msgid "Please enter portfolio name"
+#~ msgstr "Bitte geben Sie Name Portfolio"
+
+#~ msgid "All status"
+#~ msgstr "Alle Status"
+
+#~ msgid "Default Portfolio List"
+#~ msgstr "Standard-Portfolio Liste"
+
+#~ msgid "This is list all of your portfolio"
+#~ msgstr "Dies ist die Liste aller Ihrer Portfolio"
+
+#~ msgid "Create Category"
+#~ msgstr "Kategorie erstellen"
+
+#~ msgid "Portfolio Manager"
+#~ msgstr "Portfolio Manager"
+
+#~ msgid "Portfolio Name"
+#~ msgstr "Portfolio-Name"

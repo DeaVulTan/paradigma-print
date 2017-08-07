@@ -1,0 +1,115 @@
+/*  Reset   */
+.btnTop{
+    margin-bottom: 15px;
+}
+table.form td > label > span{
+    font-size: 10px;
+    color: red;
+}
+
+table.form td:last-child{
+    text-align: left;
+}
+
+table.form .header{
+    background: #F9F9F9;
+}
+
+.topControl > li{
+    float: left;
+    margin-right: 10px;
+}
+.topControl > li:last-child{
+    margin-right: 0px;
+}
+
+#checkAll{
+    margin-top: 5px
+}
+
+.filer > li{
+    float: left;
+    margin-right: 10px;
+}
+
+.filer .icheckbox_minimal{
+    top: 4px;
+}
+
+.alert-box{
+    padding: 0px 10px;
+}
+.alert-box .alert-custom{
+    margin: 0px 0px 5px 0px;
+}
+.alert{
+    padding: 15px;
+}
+/* Bulk Action */
+#bulkAction{
+    display: none;
+}
+
+#bulkAction button{
+    padding: 7px 10px;
+}
+
+.table td:last-child {
+    text-align: center;
+}
+
+
+#buildForm{
+    margin: 20px 10px 0px 10px;
+    border: 1px dotted #e1e1e1;
+    padding: 10px;
+}
+
+#tab .tab-content{
+    border: 1px solid #e1e1e1;
+    border-top: 0px;
+}
+
+.contactformContent{
+    width: 450px;
+}
+
+.margin-bottom-10{
+    margin-bottom: 10px;
+}
+
+.margin-bottom-20{
+    margin-bottom: 20px;
+}
+
+.showItem span{
+    color: red;
+}
+
+/* Control */
+.btnAddLists{
+    background-image: linear-gradient(to bottom, #fdfdfd, #ddd);
+    margin: 0px;
+    border: 1px solid #ccc;
+    border-bottom: none;
+    padding: 5px;
+}
+.btnAddLists li{
+    padding: 0px 5px 0px 0px;
+}
+.btn-custom-control{
+    padding: 5px 8px;
+    background-color: #f0f0f0;
+    background-image: linear-gradient(to bottom, #fff, #d9d9d9);
+    border: 1px solid rgba(0, 0, 0, 0.1);
+    color: #333;
+    font-weight: 700;
+    font-size: 16px;
+}
+
+.btn-custom-control:hover{
+    background-color: #e3e3e3;
+    background-image: linear-gradient(to bottom, #f2f2f2, #ccc);
+    background-repeat: repeat-x;
+    color: #333;
+}

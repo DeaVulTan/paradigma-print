@@ -1,0 +1,204 @@
+/*  Reset   */
+.btnTop{
+    margin-bottom: 15px;
+}
+/*
+Category
+*/
+
+ol.sortable, ol.sortable ol {
+    margin: 0 0 0 25px;
+    padding: 0;
+    list-style-type: none;
+}
+
+ol.sortable{
+    margin: 0px;
+}
+
+.sortable li {
+    margin: 10px 0 0 0;
+    padding: 0;
+    clear: both;
+}
+
+.sortable li div.dd-handle  {
+    border: 1px solid #d4d4d4;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    border-radius: 3px;
+    border-color: #D4D4D4 #D4D4D4 #BCBCBC;
+    padding: 6px;
+    margin-right: 10px;
+    cursor: move;
+    background: #f6f6f6;
+    background: -moz-linear-gradient(top,  #ffffff 0%, #f6f6f6 47%, #ededed 100%);
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#ffffff), color-stop(47%,#f6f6f6), color-stop(100%,#ededed));
+    background: -webkit-linear-gradient(top,  #ffffff 0%,#f6f6f6 47%,#ededed 100%);
+    background: -o-linear-gradient(top,  #ffffff 0%,#f6f6f6 47%,#ededed 100%);
+    background: -ms-linear-gradient(top,  #ffffff 0%,#f6f6f6 47%,#ededed 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#ededed',GradientType=0 );
+    width: 90%;
+    display: inline-block;
+}
+
+
+.sortable ol{
+    display: block;
+}
+
+.sortable li.mjs-nestedSortable-branch div {
+    background: -moz-linear-gradient(top,  #ffffff 0%, #f6f6f6 47%, #f0ece9 100%);
+    background: -webkit-linear-gradient(top,  #ffffff 0%,#f6f6f6 47%,#f0ece9 100%);
+
+}
+
+.sortable li.mjs-nestedSortable-leaf div {
+    background: -moz-linear-gradient(top,  #ffffff 0%, #f6f6f6 47%, #bcccbc 100%);
+    background: -webkit-linear-gradient(top,  #ffffff 0%,#f6f6f6 47%,#bcccbc 100%);
+
+}
+
+li.mjs-nestedSortable-collapsed.mjs-nestedSortable-hovering div {
+    border-color: #999;
+    background: #fafafa;
+}
+
+.disclose {
+    cursor: pointer;
+    width: 10px;
+    display: none;
+}
+
+.sortable li.mjs-nestedSortable-collapsed > ol {
+    display: none;
+}
+
+.sortable li.mjs-nestedSortable-branch > div > .disclose {
+    display: inline-block;
+}
+
+.sortable li.mjs-nestedSortable-collapsed > div > .disclose > span:before {
+    content: '+ ';
+}
+
+.sortable li.mjs-nestedSortable-expanded > div > .disclose > span:before {
+    content: '- ';
+}
+
+#nestable{
+    margin-bottom: 30px;
+}
+
+.btn-action{
+    display: inline-block;
+    padding: 5px 0px 0px 0px;
+    width: 50px;
+}
+
+/*
+    Category
+*/
+.alert-modal{
+    margin: 0px 0px 10px 0px;
+    padding: 10px;
+}
+
+/*POST*/
+/*  Reset   */
+/*  Reset   */
+.btnTop{
+    margin-bottom: 15px;
+}
+table.form td > label > span{
+    font-size: 10px;
+    color: red;
+}
+
+table.form td:last-child{
+    text-align: left;
+}
+
+table.form .header{
+    background: #F9F9F9;
+}
+
+.topControl > li{
+    float: left;
+    margin-right: 10px;
+}
+.topControl > li:last-child{
+    margin-right: 0px;
+}
+
+#checkAll{
+    margin-top: 5px
+}
+
+.filer > li{
+    float: left;
+    margin-right: 10px;
+}
+
+.filer .icheckbox_minimal{
+    top: 4px;
+}
+
+/* Bulk Action */
+#bulkAction{
+    display: none;
+}
+
+#bulkAction button{
+    padding: 7px 10px;
+}
+
+.table td:last-child{
+    text-align: center;
+}
+
+
+/*
+    Create and Edit Post
+*/
+.category{
+    border: 1px solid #e1e1e1;
+    padding: 5px;
+}
+.category ul{
+    margin: 8px 0px 0px 30px;
+}
+
+.table-tags td{
+    text-align: center;
+}
+
+.table-tags td:first-child,.table-tags td:last-child{
+    width: 50px;
+}
+
+
+.small-col{
+    width: 50px;
+}
+
+.medium-col{
+    width: 120px;
+}
+
+/*Tags manager*/
+#btnTagsManager{
+    margin: -9px 0px 0px 10px;
+}
+
+.margin-bottom-10{
+    margin-bottom: 10px;
+}
+
+.margin-bottom-20{
+    margin-bottom: 20px;
+}
+
+.input-group-addon{
+    cursor: pointer;
+}

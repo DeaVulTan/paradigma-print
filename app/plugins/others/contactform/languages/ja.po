@@ -1,0 +1,292 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Contact\n"
+"POT-Creation-Date: 2014-10-15 15:23+0700\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.4\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../contactform.php:5 ../views/create.php:18 ../views/edit.php:18
+msgid "Contact Form"
+msgstr "連絡フォーム"
+
+#: ../contactform.php:34 ../views/main.php:25
+msgid "Contact Forms"
+msgstr "連絡フォーム"
+
+#: ../controllers/pf-contact-form-controller.php:154
+#: ../controllers/pf-contact-form-controller.php:206
+#: ../controllers/pf-contact-form-controller.php:241
+msgid "Your action is successful"
+msgstr "あなたのアクションが成功しました。"
+
+#: ../controllers/pf-contact-form-controller.php:157
+msgid "Please check the data field"
+msgstr "データフィールドをご確認ください。"
+
+#: ../controllers/pf-contact-form-controller.php:258
+msgid "Status is updated successfully"
+msgstr "ステータスの更新が完了しました。"
+
+#: ../models/pf-contact-form-model.php:29 ../views/main.php:71
+msgid "Published"
+msgstr "公開されました。"
+
+#: ../models/pf-contact-form-model.php:29 ../views/main.php:72
+msgid "Unpublished"
+msgstr "非公開されました。"
+
+#: ../public/pf-contactform-shortcode.php:45
+msgid "Captcha is not correct"
+msgstr "セキュリティコードが正しくありません。"
+
+#: ../public/pf-contactform-shortcode.php:70
+msgid "Your message has been sent successfully"
+msgstr "メッセージが送信されました。"
+
+#: ../views/create.php:8 ../views/edit.php:8
+msgid "Save"
+msgstr "保存"
+
+#: ../views/create.php:9 ../views/edit.php:9
+msgid "Cancel"
+msgstr "キャンセル"
+
+#: ../views/create.php:32 ../views/edit.php:32 ../views/main.php:93
+msgid "Title"
+msgstr "タイトル"
+
+#: ../views/create.php:43 ../views/edit.php:45 ../views/main.php:95
+msgid "Status"
+msgstr "ステータス"
+
+#: ../views/create.php:53 ../views/edit.php:55
+msgid "Form"
+msgstr "フォーム"
+
+#: ../views/create.php:114 ../views/edit.php:116
+msgid "Button"
+msgstr "ボタン"
+
+#: ../views/create.php:126 ../views/edit.php:128
+msgid "To"
+msgstr "宛先"
+
+#: ../views/create.php:130
+msgid "Receiver Email"
+msgstr "受信先"
+
+#: ../views/create.php:135 ../views/edit.php:169
+msgid "Message"
+msgstr "メッセージ"
+
+#: ../views/create.php:146 ../views/edit.php:180
+msgid "From"
+msgstr "送信者"
+
+#: ../views/create.php:150
+msgid "Sender Email"
+msgstr "送信先"
+
+#: ../views/create.php:157
+msgid "Sender Name"
+msgstr "送信名"
+
+#: ../views/create.php:168 ../views/edit.php:202
+msgid "Subject"
+msgstr "件名"
+
+#: ../views/create.php:183 ../views/edit.php:221
+msgid " Use HTML content type"
+msgstr "_HTML内容タイプ使用"
+
+#: ../views/create.php:189 ../views/edit.php:227
+msgid "Sending successfully notification"
+msgstr "送信済通知"
+
+#: ../views/create.php:212 ../views/edit.php:250
+msgid "Close"
+msgstr "クローズ"
+
+#: ../views/create.php:213 ../views/edit.php:251
+msgid "Add"
+msgstr "追加"
+
+#: ../views/create.php:222
+msgid "Name must be between 1 and 32 characters"
+msgstr "名前は1〜32文字の間でなければなりません"
+
+#: ../views/edit.php:132
+msgid "Single Recipient"
+msgstr "単一の受信者"
+
+#: ../views/edit.php:133
+msgid "List of Recipient"
+msgstr "受信者のリスト"
+
+#: ../views/edit.php:191 ../views/particals/element.php:18
+#: ../views/particals/element.php:71 ../views/particals/element.php:141
+#: ../views/particals/element.php:172
+msgid "Name"
+msgstr "名前"
+
+#: ../views/edit.php:259
+msgid "Name must be between 6 and 32 characters"
+msgstr "名前は6〜32文字の間でなければなりません"
+
+#: ../views/main.php:8
+msgid "New Contact Form"
+msgstr "新しい連絡フォーム"
+
+#: ../views/main.php:15
+msgid "Are you sure to delete this item?"
+msgstr "この項目を"
+
+#: ../views/main.php:16
+msgid "No item are selected"
+msgstr "選択された項目はありません。"
+
+#: ../views/main.php:17
+msgid "Are you sure to perform this action?"
+msgstr "本当にこのアクションを実施したいですか？"
+
+#: ../views/main.php:18
+msgid "Please enter a search term"
+msgstr "検索する項目をご入力ください。"
+
+#: ../views/main.php:35
+msgid "Select Action "
+msgstr "アクション選択_"
+
+#: ../views/main.php:38
+msgid "Delete"
+msgstr "削除"
+
+#: ../views/main.php:39
+msgid "Publish"
+msgstr "公開"
+
+#: ../views/main.php:40
+msgid "Unpublish"
+msgstr "非公開"
+
+#: ../views/main.php:48
+msgid "Please enter the search conditions"
+msgstr "検索条件をご入力ください。"
+
+#: ../views/main.php:51
+msgid "Search"
+msgstr "検索"
+
+#: ../views/main.php:67
+#, php-format
+msgid "%s"
+msgstr "%s"
+
+#: ../views/main.php:70
+msgid "All"
+msgstr "全部"
+
+#: ../views/main.php:94
+msgid "Shortcode"
+msgstr "ショートコード"
+
+#: ../views/main.php:96
+msgid "Actions"
+msgstr "アクション"
+
+#: ../views/main.php:117
+msgid "Edit contact form"
+msgstr "連絡フォーム編集"
+
+#: ../views/main.php:118
+msgid "Delete contact form"
+msgstr "連絡フォーム削除"
+
+#: ../views/particals/element.php:7 ../views/particals/element.php:60
+#: ../views/particals/element.php:130
+msgid "Required"
+msgstr "必須"
+
+#: ../views/particals/element.php:10 ../views/particals/element.php:63
+#: ../views/particals/element.php:133
+msgid "No"
+msgstr "いいえ"
+
+#: ../views/particals/element.php:13 ../views/particals/element.php:66
+#: ../views/particals/element.php:136
+msgid "Yes"
+msgstr "はい"
+
+#: ../views/particals/element.php:24 ../views/particals/element.php:77
+msgid "Default value"
+msgstr "デフォールト値"
+
+#: ../views/particals/element.php:30 ../views/particals/element.php:83
+msgid "Place holder"
+msgstr "ヒント"
+
+#: ../views/particals/element.php:36 ../views/particals/element.php:101
+msgid "Size"
+msgstr "サイズ"
+
+#: ../views/particals/element.php:42 ../views/particals/element.php:107
+msgid "Max length"
+msgstr "最大長さ"
+
+#: ../views/particals/element.php:48
+msgid "Class"
+msgstr "クラス"
+
+#: ../views/particals/element.php:89
+msgid "Rows"
+msgstr "行"
+
+#: ../views/particals/element.php:95
+msgid "Columns"
+msgstr "列"
+
+#: ../views/particals/element.php:147
+msgid "Choice"
+msgstr "選択"
+
+#: ../views/particals/element.php:150
+msgid "One value per line"
+msgstr "1行毎に1つの値"
+
+#: ../views/particals/element.php:178
+msgid "Value"
+msgstr "値"
+
+#: ../views/particals/element.php:184
+msgid "Type"
+msgstr "タイプ"
+
+#~ msgid "Form ID"
+#~ msgstr "フォームID"
+
+#~ msgid "Attribute ID"
+#~ msgstr "属性ID"
+
+#~ msgid "Form Class"
+#~ msgstr "フォームクラス"
+
+#~ msgid "Attribute Class"
+#~ msgstr "属性クラス"
+
+#~ msgid "Items"
+#~ msgstr "項目"
+
+#~ msgid "<h3>Your message has been sent successfully</h3>"
+#~ msgstr "<h3>メッセージが送信されました。</h3>"
+
+#~ msgid "<h3>An error has occurred! Please try again later</h3>"
+#~ msgstr "エラーが発生しました。後でもう一度お試しください。"

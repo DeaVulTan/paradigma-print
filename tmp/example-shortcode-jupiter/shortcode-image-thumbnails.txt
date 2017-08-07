@@ -1,0 +1,124 @@
+
+{html:row}
+ {html:col}{html:title}Image{/html:title}{/html:col}
+{/html:row}
+{html:row class='margin-bottom-15'}
+ {html:col class='col-md-3'}
+ {html:img src='media/uploads/images/galleries/Tillington/DSC_8858.jpg' alt='Why do we use it?' width='100%'}
+ {/html:col}
+ {html:col class='col-md-3'}
+ {html:img src='media/uploads/images/galleries/Tillington/DSC_8864.jpg' alt='Where does it come from?' width='100%'}
+ {/html:col}
+ {html:col class='col-md-3'}
+ {html:img src='media/uploads/images/galleries/Tillington/DSC_8929.jpg' alt='The standard chunk of' width='100%'}
+ {/html:col}
+ {html:col class='col-md-3'}
+ {html:img src='media/uploads/images/galleries/Tillington/DSC_8933.jpg' alt='Finibus Bonorum et Malorum' width='100%'}
+ {/html:col}
+{/html:row}
+{html:code linenums='1'}{html:row}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; {html:col class='col-md-3'}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {html:img src='media/uploads/images/galleries/Tillington/DSC_8858.jpg' alt='Why do we use it?' width='100%'}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; {/html:col}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; {html:col class='col-md-3'}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {html:img src='media/uploads/images/galleries/Tillington/DSC_8864.jpg' alt='Where does it come from?' width='100%'}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; {/html:col}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; {html:col class='col-md-3'}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {html:img src='media/uploads/images/galleries/Tillington/DSC_8929.jpg' alt='The standard chunk of' width='100%'}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; {/html:col}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; {html:col class='col-md-3'}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {html:img src='media/uploads/images/galleries/Tillington/DSC_8933.jpg' alt='Finibus Bonorum et Malorum' width='100%'}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; {/html:col}<br />
+{/html:row}{/html:code}{html:row}
+ {html:col}{html:title}Thumbnail normal{/html:title}{/html:col}
+{/html:row}
+{html:row}
+ {html:col class='col-md-3'}
+ {thumb:normal img='media/uploads/images/galleries/Tillington/DSC_8858.jpg' subject='Ipsum comes from sections'}
+ It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.
+ {/thumb:normal}
+ {/html:col}
+ {html:col class='col-md-3'}
+ {thumb:normal img='media/uploads/images/galleries/Tillington/DSC_8864.jpg' subject='Lorem Ipsum is therefore'}
+ Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old.
+ {/thumb:normal}
+ {/html:col}
+ {html:col class='col-md-3'}
+ {thumb:normal img='media/uploads/images/galleries/Tillington/DSC_8929.jpg' subject='The standard chunk of'}
+ There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which do not look even slightly believable.
+ {/thumb:normal}
+ {/html:col}
+ {html:col class='col-md-3'}
+ {thumb:normal img='media/uploads/images/galleries/Tillington/DSC_8933.jpg' subject='The generated Lorem Ipsum'}
+ Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+ {/thumb:normal}
+ {/html:col}
+{/html:row}
+{html:code linenums='1'}{html:row}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; {html:col class='col-md-3'}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {thumb:normal img='media/uploads/images/galleries/Tillington/DSC_8858.jpg' subject='Ipsum comes from sections'}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {/thumb:normal}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; {/html:col}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; {html:col class='col-md-3'}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {thumb:normal img='media/uploads/images/galleries/Tillington/DSC_8864.jpg' subject='Lorem Ipsum is therefore'}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old.<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {/thumb:normal}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; {/html:col}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; {html:col class='col-md-3'}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {thumb:normal img='media/uploads/images/galleries/Tillington/DSC_8929.jpg' subject='The standard chunk of'}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which do not look even slightly believable.<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {/thumb:normal}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; {/html:col}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; {html:col class='col-md-3'}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {thumb:normal img='media/uploads/images/galleries/Tillington/DSC_8933.jpg' subject='The generated Lorem Ipsum'}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {/thumb:normal}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; {/html:col}<br />
+{/html:row}{/html:code}{html:row}
+ {html:col}{html:title}Thumbnail zoom{/html:title}{/html:col}
+{/html:row}
+{html:row}
+ {html:col class='col-md-3'}
+ {thumb:zoom img='media/uploads/images/galleries/Tillington/DSC_8858.jpg' subject='Ipsum comes from sections'}
+ It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.
+ {/thumb:zoom}
+ {/html:col}
+ {html:col class='col-md-3'}
+ {thumb:zoom img='media/uploads/images/galleries/Tillington/DSC_8864.jpg' subject='Lorem Ipsum is therefore'}
+ Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old.
+ {/thumb:zoom}
+ {/html:col}
+ {html:col class='col-md-3'}
+ {thumb:zoom img='media/uploads/images/galleries/Tillington/DSC_8929.jpg' subject='The standard chunk of'}
+ There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which do not look even slightly believable.
+ {/thumb:zoom}
+ {/html:col}
+ {html:col class='col-md-3'}
+ {thumb:zoom img='media/uploads/images/galleries/Tillington/DSC_8933.jpg' subject='The generated Lorem Ipsum'}
+ Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+ {/thumb:zoom}
+ {/html:col}
+{/html:row}
+{html:code linenums='1'}{html:row}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; {html:col class='col-md-3'}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {thumb:zoom img='media/uploads/images/galleries/Tillington/DSC_8858.jpg' subject='Ipsum comes from sections'}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {/thumb:zoom}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; {/html:col}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; {html:col class='col-md-3'}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {thumb:zoom img='media/uploads/images/galleries/Tillington/DSC_8864.jpg' subject='Lorem Ipsum is therefore'}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old.<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {/thumb:zoom}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; {/html:col}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; {html:col class='col-md-3'}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {thumb:zoom img='media/uploads/images/galleries/Tillington/DSC_8929.jpg' subject='The standard chunk of'}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which do not look even slightly believable.<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {/thumb:zoom}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; {/html:col}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; {html:col class='col-md-3'}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {thumb:zoom img='media/uploads/images/galleries/Tillington/DSC_8933.jpg' subject='The generated Lorem Ipsum'}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {/thumb:zoom}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; {/html:col}<br />
+{/html:row}{/html:code}

@@ -1,0 +1,717 @@
+
+{html:row}
+    {html:col}
+        {html:h1 class="headline"}{html:span}Tables{/html:span}{/html:h1}
+    {/html:col}
+{/html:row}
+{html:row}
+    {html:col class='col-sm-12'}
+    {html:h4 class="headline"}{html:span}Table normal{/html:span}{/html:h4}
+        {html:table class="table"}
+            {html:tr}
+                {html:th}# {/html:th}
+                {html:th}Column heading {/html:th}
+                {html:th}Column heading {/html:th}
+                {html:th}Column heading {/html:th}
+                {html:th}Column heading {/html:th}
+                {html:th}Action {/html:th}
+            {/html:tr}
+            {html:tr class="info"}
+                {html:td}1 {/html:td}
+                {html:td}Column content {/html:td}
+                {html:td}Column content {/html:td}
+                {html:td}Column content {/html:td}
+                {html:td}Column content {/html:td}
+                {html:td}
+                    {html:button class='btn btn-success btn-xs' }Edit {/html:button} {html:i} {html:i}
+                    {html:button class='btn btn-danger btn-xs' }Delete {/html:button}
+                {/html:td}
+            {/html:tr}
+            {html:tr class="active"}
+                {html:td}2 {/html:td}
+                {html:td}Column content {/html:td}
+                {html:td}Column content {/html:td}
+                {html:td}Column content {/html:td}
+                {html:td}Column content {/html:td}
+                {html:td}
+                    {html:button class='btn btn-success btn-xs' }Edit {/html:button} {html:i} {html:i}
+                    {html:button class='btn btn-danger btn-xs' }Delete {/html:button}
+                {/html:td}
+            {/html:tr}
+            {html:tr class="success"}
+                {html:td}3 {/html:td}
+                {html:td}Column content {/html:td}
+                {html:td}Column content {/html:td}
+                {html:td}Column content {/html:td}
+                {html:td}Column content {/html:td}
+                {html:td}
+                    {html:button class='btn btn-success btn-xs' }Edit {/html:button} {html:i} {html:i}
+                    {html:button class='btn btn-danger btn-xs' }Delete {/html:button}
+                {/html:td}
+            {/html:tr}
+            {html:tr class="warning"}
+                {html:td}4 {/html:td}
+                {html:td}Column content {/html:td}
+                {html:td}Column content {/html:td}
+                {html:td}Column content {/html:td}
+                {html:td}Column content {/html:td}
+                {html:td}
+                    {html:button class='btn btn-success btn-xs' }Edit {/html:button} {html:i} {html:i}
+                    {html:button class='btn btn-danger btn-xs' }Delete {/html:button}
+                {/html:td}
+            {/html:tr}
+            {html:tr class="danger"}
+                {html:td}5 {/html:td}
+                {html:td}Column content {/html:td}
+                {html:td}Column content {/html:td}
+                {html:td}Column content {/html:td}
+                {html:td}Column content {/html:td}
+                {html:td}
+                    {html:button class='btn btn-success btn-xs' }Edit {/html:button} {html:i} {html:i}
+                    {html:button class='btn btn-danger btn-xs' }Delete {/html:button}
+                {/html:td}
+            {/html:tr}
+            {html:tr}
+                {html:td}6 {/html:td}
+                {html:td}Column content {/html:td}
+                {html:td}Column content {/html:td}
+                {html:td}Column content {/html:td}
+                {html:td}Column content {/html:td}
+                {html:td}
+                    {html:button class='btn btn-success btn-xs' }Edit {/html:button} {html:i} {html:i}
+                    {html:button class='btn btn-danger btn-xs' }Delete {/html:button}
+                {/html:td}
+            {/html:tr}
+        {/html:table}
+    {/html:col}
+
+    <!-- Code -->
+
+    {html:col class='col-sm-12'}
+{html:code linenums='1'}{html:table class="table"}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; {html:tr}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {html:th}# {/html:th}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {html:th}Column heading {/html:th}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {html:th}Column heading {/html:th}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {html:th}Column heading {/html:th}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {html:th}Column heading {/html:th}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {html:th}Action {/html:th}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; {/html:tr}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; {html:tr class="info"}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {html:td}1 {/html:td}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {html:td}Column content {/html:td}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {html:td}Column content {/html:td}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {html:td}Column content {/html:td}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {html:td}Column content {/html:td}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {html:td}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {html:button class=&#39;btn btn-success btn-xs&#39; }Edit {/html:button} {html:i} {html:i}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {html:button class=&#39;btn btn-danger btn-xs&#39; }Delete {/html:button}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {/html:td}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; {/html:tr}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; {html:tr class="success"}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {html:td}2 {/html:td}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {html:td}Column content {/html:td}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {html:td}Column content {/html:td}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {html:td}Column content {/html:td}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {html:td}Column content {/html:td}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {html:td}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {html:button class=&#39;btn btn-success btn-xs&#39; }Edit {/html:button} {html:i} {html:i}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {html:button class=&#39;btn btn-danger btn-xs&#39; }Delete {/html:button}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {/html:td}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; {/html:tr}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; {html:tr class="active"}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {html:td}3 {/html:td}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {html:td}Column content {/html:td}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {html:td}Column content {/html:td}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {html:td}Column content {/html:td}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {html:td}Column content {/html:td}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {html:td}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {html:button class=&#39;btn btn-success btn-xs&#39; }Edit {/html:button} {html:i} {html:i}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {html:button class=&#39;btn btn-danger btn-xs&#39; }Delete {/html:button}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {/html:td}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; {/html:tr}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; {html:tr class="warning"}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {html:td}4 {/html:td}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {html:td}Column content {/html:td}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {html:td}Column content {/html:td}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {html:td}Column content {/html:td}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {html:td}Column content {/html:td}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {html:td}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {html:button class=&#39;btn btn-success btn-xs&#39; }Edit {/html:button} {html:i} {html:i}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {html:button class=&#39;btn btn-danger btn-xs&#39; }Delete {/html:button}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {/html:td}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; {/html:tr}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; {html:tr class="danger"}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {html:td}5 {/html:td}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {html:td}Column content {/html:td}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {html:td}Column content {/html:td}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {html:td}Column content {/html:td}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {html:td}Column content {/html:td}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {html:td}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {html:button class=&#39;btn btn-success btn-xs&#39; }Edit {/html:button} {html:i} {html:i}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {html:button class=&#39;btn btn-danger btn-xs&#39; }Delete {/html:button}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {/html:td}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; {/html:tr}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; {html:tr}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {html:td}6 {/html:td}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {html:td}Column content {/html:td}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {html:td}Column content {/html:td}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {html:td}Column content {/html:td}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {html:td}Column content {/html:td}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {html:td}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {html:button class=&#39;btn btn-success btn-xs&#39; }Edit {/html:button} {html:i} {html:i}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {html:button class=&#39;btn btn-danger btn-xs&#39; }Delete {/html:button}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {/html:td}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; {/html:tr}<br />
+{/html:table}{/html:code}
+    {/html:col}
+{/html:row}
+
+{html:row}
+    {html:col class='col-sm-12'}
+        {html:h4 class="headline"}{html:span}Table bordered{/html:span}{/html:h4}
+        {html:table class="table table-bordered"}
+            {html:tr}
+                {html:th}# {/html:th}
+                {html:th}Column heading {/html:th}
+                {html:th}Column heading {/html:th}
+                {html:th}Column heading {/html:th}
+                {html:th}Column heading {/html:th}
+                {html:th}Action {/html:th}
+            {/html:tr}
+            {html:tr}
+                {html:td}1 {/html:td}
+                {html:td}Column content {/html:td}
+                {html:td}Column content {/html:td}
+                {html:td}Column content {/html:td}
+                {html:td}Column content {/html:td}
+                {html:td}
+                    {html:button class='btn btn-success btn-xs' }Edit {/html:button} {html:i} {html:i}
+                    {html:button class='btn btn-danger btn-xs' }Delete {/html:button}
+                {/html:td}
+            {/html:tr}
+            {html:tr}
+                {html:td}2 {/html:td}
+                {html:td}Column content {/html:td}
+                {html:td}Column content {/html:td}
+                {html:td}Column content {/html:td}
+                {html:td}Column content {/html:td}
+                {html:td}
+                    {html:button class='btn btn-success btn-xs' }Edit {/html:button} {html:i} {html:i}
+                    {html:button class='btn btn-danger btn-xs' }Delete {/html:button}
+                {/html:td}
+            {/html:tr}
+            {html:tr}
+                {html:td}3 {/html:td}
+                {html:td}Column content {/html:td}
+                {html:td}Column content {/html:td}
+                {html:td}Column content {/html:td}
+                {html:td}Column content {/html:td}
+                {html:td}
+                    {html:button class='btn btn-success btn-xs' }Edit {/html:button} {html:i} {html:i}
+                    {html:button class='btn btn-danger btn-xs' }Delete {/html:button}
+                {/html:td}
+            {/html:tr}
+            {html:tr}
+                {html:td}4 {/html:td}
+                {html:td}Column content {/html:td}
+                {html:td}Column content {/html:td}
+                {html:td}Column content {/html:td}
+                {html:td}Column content {/html:td}
+                {html:td}
+                    {html:button class='btn btn-success btn-xs' }Edit {/html:button} {html:i} {html:i}
+                    {html:button class='btn btn-danger btn-xs' }Delete {/html:button}
+                {/html:td}
+            {/html:tr}
+            {html:tr}
+                {html:td}5 {/html:td}
+                {html:td}Column content {/html:td}
+                {html:td}Column content {/html:td}
+                {html:td}Column content {/html:td}
+                {html:td}Column content {/html:td}
+                {html:td}
+                    {html:button class='btn btn-success btn-xs' }Edit {/html:button} {html:i} {html:i}
+                    {html:button class='btn btn-danger btn-xs' }Delete {/html:button}
+                {/html:td}
+            {/html:tr}
+            {html:tr}
+                {html:td}6 {/html:td}
+                {html:td}Column content {/html:td}
+                {html:td}Column content {/html:td}
+                {html:td}Column content {/html:td}
+                {html:td}Column content {/html:td}
+                {html:td}
+                    {html:button class='btn btn-success btn-xs' }Edit {/html:button} {html:i} {html:i}
+                    {html:button class='btn btn-danger btn-xs' }Delete {/html:button}
+                {/html:td}
+            {/html:tr}
+        {/html:table}
+    {/html:col}
+
+    <!-- Code -->
+
+    {html:col class='col-sm-12'}
+{html:code linenums='1'}{html:table class="table table-bordered"}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; {html:tr}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {html:th}# {/html:th}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {html:th}Column heading {/html:th}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {html:th}Column heading {/html:th}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {html:th}Column heading {/html:th}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {html:th}Column heading {/html:th}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {html:th}Action {/html:th}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; {/html:tr}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; {html:tr}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {html:td}1 {/html:td}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {html:td}Column content {/html:td}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {html:td}Column content {/html:td}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {html:td}Column content {/html:td}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {html:td}Column content {/html:td}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {html:td}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {html:button class=&#39;btn btn-success btn-xs&#39; }Edit {/html:button} {html:i} {html:i}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {html:button class=&#39;btn btn-danger btn-xs&#39; }Delete {/html:button}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {/html:td}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; {/html:tr}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; ...................
+{/html:table}{/html:code}
+    {/html:col}
+{/html:row}
+
+{html:row}
+    {html:col class='col-sm-12'}
+        {html:h4 class="headline"}{html:span}Table hover{/html:span}{/html:h4}
+        {html:table class="table table-hover"}
+            {html:tr}
+                {html:th}# {/html:th}
+                {html:th}Column heading {/html:th}
+                {html:th}Column heading {/html:th}
+                {html:th}Column heading {/html:th}
+                {html:th}Column heading {/html:th}
+                {html:th}Action {/html:th}
+            {/html:tr}
+            {html:tr}
+                {html:td}1 {/html:td}
+                {html:td}Column content {/html:td}
+                {html:td}Column content {/html:td}
+                {html:td}Column content {/html:td}
+                {html:td}Column content {/html:td}
+                {html:td}
+                    {html:button class='btn btn-success btn-xs' }Edit {/html:button} {html:i} {html:i}
+                    {html:button class='btn btn-danger btn-xs' }Delete {/html:button}
+                {/html:td}
+            {/html:tr}
+            {html:tr}
+                {html:td}2 {/html:td}
+                {html:td}Column content {/html:td}
+                {html:td}Column content {/html:td}
+                {html:td}Column content {/html:td}
+                {html:td}Column content {/html:td}
+                {html:td}
+                    {html:button class='btn btn-success btn-xs' }Edit {/html:button} {html:i} {html:i}
+                    {html:button class='btn btn-danger btn-xs' }Delete {/html:button}
+                {/html:td}
+            {/html:tr}
+            {html:tr}
+                {html:td}3 {/html:td}
+                {html:td}Column content {/html:td}
+                {html:td}Column content {/html:td}
+                {html:td}Column content {/html:td}
+                {html:td}Column content {/html:td}
+                {html:td}
+                    {html:button class='btn btn-success btn-xs' }Edit {/html:button} {html:i} {html:i}
+                    {html:button class='btn btn-danger btn-xs' }Delete {/html:button}
+                {/html:td}
+            {/html:tr}
+            {html:tr}
+                {html:td}4 {/html:td}
+                {html:td}Column content {/html:td}
+                {html:td}Column content {/html:td}
+                {html:td}Column content {/html:td}
+                {html:td}Column content {/html:td}
+                {html:td}
+                    {html:button class='btn btn-success btn-xs' }Edit {/html:button} {html:i} {html:i}
+                    {html:button class='btn btn-danger btn-xs' }Delete {/html:button}
+                {/html:td}
+            {/html:tr}
+            {html:tr}
+                {html:td}5 {/html:td}
+                {html:td}Column content {/html:td}
+                {html:td}Column content {/html:td}
+                {html:td}Column content {/html:td}
+                {html:td}Column content {/html:td}
+                {html:td}
+                    {html:button class='btn btn-success btn-xs' }Edit {/html:button} {html:i} {html:i}
+                    {html:button class='btn btn-danger btn-xs' }Delete {/html:button}
+                {/html:td}
+            {/html:tr}
+            {html:tr}
+                {html:td}6 {/html:td}
+                {html:td}Column content {/html:td}
+                {html:td}Column content {/html:td}
+                {html:td}Column content {/html:td}
+                {html:td}Column content {/html:td}
+                {html:td}
+                    {html:button class='btn btn-success btn-xs' }Edit {/html:button} {html:i} {html:i}
+                    {html:button class='btn btn-danger btn-xs' }Delete {/html:button}
+                {/html:td}
+            {/html:tr}
+        {/html:table}
+    {/html:col}
+
+    <!-- Code -->
+
+    {html:col class='col-sm-12'}
+{html:code linenums='1'}{html:table class="table table-hover"}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; {html:tr}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {html:th}# {/html:th}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {html:th}Column heading {/html:th}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {html:th}Column heading {/html:th}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {html:th}Column heading {/html:th}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {html:th}Column heading {/html:th}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {html:th}Action {/html:th}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; {/html:tr}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; {html:tr}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {html:td}1 {/html:td}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {html:td}Column content {/html:td}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {html:td}Column content {/html:td}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {html:td}Column content {/html:td}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {html:td}Column content {/html:td}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {html:td}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {html:button class=&#39;btn btn-success btn-xs&#39; }Edit {/html:button} {html:i} {html:i}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {html:button class=&#39;btn btn-danger btn-xs&#39; }Delete {/html:button}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {/html:td}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; {/html:tr}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; ...................
+{/html:table}{/html:code}
+    {/html:col}
+{/html:row}
+
+
+{html:row}
+    {html:col class='col-sm-12'}
+        {html:h4 class="headline"}{html:span}Table striped{/html:span}{/html:h4}
+        {html:table class="table table-striped"}
+            {html:tr}
+                {html:th}# {/html:th}
+                {html:th}Column heading {/html:th}
+                {html:th}Column heading {/html:th}
+                {html:th}Column heading {/html:th}
+                {html:th}Column heading {/html:th}
+                {html:th}Action {/html:th}
+            {/html:tr}
+            {html:tr}
+                {html:td}1 {/html:td}
+                {html:td}Column content {/html:td}
+                {html:td}Column content {/html:td}
+                {html:td}Column content {/html:td}
+                {html:td}Column content {/html:td}
+                {html:td}
+                    {html:button class='btn btn-success btn-xs' }Edit {/html:button} {html:i} {html:i}
+                    {html:button class='btn btn-danger btn-xs' }Delete {/html:button}
+                {/html:td}
+            {/html:tr}
+            {html:tr}
+                {html:td}2 {/html:td}
+                {html:td}Column content {/html:td}
+                {html:td}Column content {/html:td}
+                {html:td}Column content {/html:td}
+                {html:td}Column content {/html:td}
+                {html:td}
+                    {html:button class='btn btn-success btn-xs' }Edit {/html:button} {html:i} {html:i}
+                    {html:button class='btn btn-danger btn-xs' }Delete {/html:button}
+                {/html:td}
+            {/html:tr}
+            {html:tr}
+                {html:td}3 {/html:td}
+                {html:td}Column content {/html:td}
+                {html:td}Column content {/html:td}
+                {html:td}Column content {/html:td}
+                {html:td}Column content {/html:td}
+                {html:td}
+                    {html:button class='btn btn-success btn-xs' }Edit {/html:button} {html:i} {html:i}
+                    {html:button class='btn btn-danger btn-xs' }Delete {/html:button}
+                {/html:td}
+            {/html:tr}
+            {html:tr}
+                {html:td}4 {/html:td}
+                {html:td}Column content {/html:td}
+                {html:td}Column content {/html:td}
+                {html:td}Column content {/html:td}
+                {html:td}Column content {/html:td}
+                {html:td}
+                    {html:button class='btn btn-success btn-xs' }Edit {/html:button} {html:i} {html:i}
+                    {html:button class='btn btn-danger btn-xs' }Delete {/html:button}
+                {/html:td}
+            {/html:tr}
+            {html:tr}
+                {html:td}5 {/html:td}
+                {html:td}Column content {/html:td}
+                {html:td}Column content {/html:td}
+                {html:td}Column content {/html:td}
+                {html:td}Column content {/html:td}
+                {html:td}
+                    {html:button class='btn btn-success btn-xs' }Edit {/html:button} {html:i} {html:i}
+                    {html:button class='btn btn-danger btn-xs' }Delete {/html:button}
+                {/html:td}
+            {/html:tr}
+            {html:tr}
+                {html:td}6 {/html:td}
+                {html:td}Column content {/html:td}
+                {html:td}Column content {/html:td}
+                {html:td}Column content {/html:td}
+                {html:td}Column content {/html:td}
+                {html:td}
+                    {html:button class='btn btn-success btn-xs' }Edit {/html:button} {html:i} {html:i}
+                    {html:button class='btn btn-danger btn-xs' }Delete {/html:button}
+                {/html:td}
+            {/html:tr}
+        {/html:table}
+    {/html:col}
+
+    <!-- Code -->
+
+
+    {html:col class='col-sm-12'}
+{html:code linenums='1'}{html:table class="table table-striped"}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; {html:tr}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {html:th}# {/html:th}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {html:th}Column heading {/html:th}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {html:th}Column heading {/html:th}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {html:th}Column heading {/html:th}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {html:th}Column heading {/html:th}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {html:th}Action {/html:th}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; {/html:tr}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; {html:tr}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {html:td}1 {/html:td}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {html:td}Column content {/html:td}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {html:td}Column content {/html:td}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {html:td}Column content {/html:td}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {html:td}Column content {/html:td}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {html:td}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {html:button class=&#39;btn btn-success btn-xs&#39; }Edit {/html:button} {html:i} {html:i}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {html:button class=&#39;btn btn-danger btn-xs&#39; }Delete {/html:button}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {/html:td}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; {/html:tr}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; ...................
+{/html:table}{/html:code}
+    {/html:col}
+{/html:row}
+
+{html:row}
+    {html:col class='col-sm-12'}
+        {html:h4 class="headline"}{html:span}Table condensed{/html:span}{/html:h4}
+        {html:table class="table table-condensed"}
+            {html:tr}
+                {html:th}# {/html:th}
+                {html:th}Column heading {/html:th}
+                {html:th}Column heading {/html:th}
+                {html:th}Column heading {/html:th}
+                {html:th}Column heading {/html:th}
+                {html:th}Action {/html:th}
+            {/html:tr}
+            {html:tr}
+                {html:td}1 {/html:td}
+                {html:td}Column content {/html:td}
+                {html:td}Column content {/html:td}
+                {html:td}Column content {/html:td}
+                {html:td}Column content {/html:td}
+                {html:td}
+                    {html:button class='btn btn-success btn-xs' }Edit {/html:button} {html:i} {html:i}
+                    {html:button class='btn btn-danger btn-xs' }Delete {/html:button}
+                {/html:td}
+            {/html:tr}
+            {html:tr}
+                {html:td}2 {/html:td}
+                {html:td}Column content {/html:td}
+                {html:td}Column content {/html:td}
+                {html:td}Column content {/html:td}
+                {html:td}Column content {/html:td}
+                {html:td}
+                    {html:button class='btn btn-success btn-xs' }Edit {/html:button} {html:i} {html:i}
+                    {html:button class='btn btn-danger btn-xs' }Delete {/html:button}
+                {/html:td}
+            {/html:tr}
+            {html:tr}
+                {html:td}3 {/html:td}
+                {html:td}Column content {/html:td}
+                {html:td}Column content {/html:td}
+                {html:td}Column content {/html:td}
+                {html:td}Column content {/html:td}
+                {html:td}
+                    {html:button class='btn btn-success btn-xs' }Edit {/html:button} {html:i} {html:i}
+                    {html:button class='btn btn-danger btn-xs' }Delete {/html:button}
+                {/html:td}
+            {/html:tr}
+            {html:tr}
+                {html:td}4 {/html:td}
+                {html:td}Column content {/html:td}
+                {html:td}Column content {/html:td}
+                {html:td}Column content {/html:td}
+                {html:td}Column content {/html:td}
+                {html:td}
+                    {html:button class='btn btn-success btn-xs' }Edit {/html:button} {html:i} {html:i}
+                    {html:button class='btn btn-danger btn-xs' }Delete {/html:button}
+                {/html:td}
+            {/html:tr}
+            {html:tr}
+                {html:td}5 {/html:td}
+                {html:td}Column content {/html:td}
+                {html:td}Column content {/html:td}
+                {html:td}Column content {/html:td}
+                {html:td}Column content {/html:td}
+                {html:td}
+                    {html:button class='btn btn-success btn-xs' }Edit {/html:button} {html:i} {html:i}
+                    {html:button class='btn btn-danger btn-xs' }Delete {/html:button}
+                {/html:td}
+            {/html:tr}
+            {html:tr}
+                {html:td}6 {/html:td}
+                {html:td}Column content {/html:td}
+                {html:td}Column content {/html:td}
+                {html:td}Column content {/html:td}
+                {html:td}Column content {/html:td}
+                {html:td}
+                    {html:button class='btn btn-success btn-xs' }Edit {/html:button} {html:i} {html:i}
+                    {html:button class='btn btn-danger btn-xs' }Delete {/html:button}
+                {/html:td}
+            {/html:tr}
+        {/html:table}
+    {/html:col}
+
+    <!-- Code -->
+
+    {html:col class='col-sm-12'}
+{html:code linenums='1'}{html:table class="table table-condensed"}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; {html:tr}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {html:th}# {/html:th}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {html:th}Column heading {/html:th}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {html:th}Column heading {/html:th}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {html:th}Column heading {/html:th}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {html:th}Column heading {/html:th}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {html:th}Action {/html:th}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; {/html:tr}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; {html:tr}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {html:td}1 {/html:td}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {html:td}Column content {/html:td}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {html:td}Column content {/html:td}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {html:td}Column content {/html:td}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {html:td}Column content {/html:td}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {html:td}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {html:button class=&#39;btn btn-success btn-xs&#39; }Edit {/html:button} {html:i} {html:i}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {html:button class=&#39;btn btn-danger btn-xs&#39; }Delete {/html:button}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {/html:td}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; {/html:tr}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; ...................
+{/html:table}{/html:code}
+    {/html:col}
+{/html:row}
+
+{html:row}
+    {html:col class='col-sm-12'}
+        {html:h4 class="headline"}{html:span}Table responsive{/html:span}{/html:h4}
+        {html:table class="table table-responsive"}
+            {html:tr}
+                {html:th}# {/html:th}
+                {html:th}Column heading {/html:th}
+                {html:th}Column heading {/html:th}
+                {html:th}Column heading {/html:th}
+                {html:th}Column heading {/html:th}
+                {html:th}Action {/html:th}
+            {/html:tr}
+            {html:tr}
+                {html:td}1 {/html:td}
+                {html:td}Column content {/html:td}
+                {html:td}Column content {/html:td}
+                {html:td}Column content {/html:td}
+                {html:td}Column content {/html:td}
+                {html:td}
+                    {html:button class='btn btn-success btn-xs' }Edit {/html:button} {html:i} {html:i}
+                    {html:button class='btn btn-danger btn-xs' }Delete {/html:button}
+                {/html:td}
+            {/html:tr}
+            {html:tr}
+                {html:td}2 {/html:td}
+                {html:td}Column content {/html:td}
+                {html:td}Column content {/html:td}
+                {html:td}Column content {/html:td}
+                {html:td}Column content {/html:td}
+                {html:td}
+                    {html:button class='btn btn-success btn-xs' }Edit {/html:button} {html:i} {html:i}
+                    {html:button class='btn btn-danger btn-xs' }Delete {/html:button}
+                {/html:td}
+            {/html:tr}
+            {html:tr}
+                {html:td}3 {/html:td}
+                {html:td}Column content {/html:td}
+                {html:td}Column content {/html:td}
+                {html:td}Column content {/html:td}
+                {html:td}Column content {/html:td}
+                {html:td}
+                    {html:button class='btn btn-success btn-xs' }Edit {/html:button} {html:i} {html:i}
+                    {html:button class='btn btn-danger btn-xs' }Delete {/html:button}
+                {/html:td}
+            {/html:tr}
+            {html:tr}
+                {html:td}4 {/html:td}
+                {html:td}Column content {/html:td}
+                {html:td}Column content {/html:td}
+                {html:td}Column content {/html:td}
+                {html:td}Column content {/html:td}
+                {html:td}
+                    {html:button class='btn btn-success btn-xs' }Edit {/html:button} {html:i} {html:i}
+                    {html:button class='btn btn-danger btn-xs' }Delete {/html:button}
+                {/html:td}
+            {/html:tr}
+            {html:tr}
+                {html:td}5 {/html:td}
+                {html:td}Column content {/html:td}
+                {html:td}Column content {/html:td}
+                {html:td}Column content {/html:td}
+                {html:td}Column content {/html:td}
+                {html:td}
+                    {html:button class='btn btn-success btn-xs' }Edit {/html:button} {html:i} {html:i}
+                    {html:button class='btn btn-danger btn-xs' }Delete {/html:button}
+                {/html:td}
+            {/html:tr}
+            {html:tr}
+                {html:td}6 {/html:td}
+                {html:td}Column content {/html:td}
+                {html:td}Column content {/html:td}
+                {html:td}Column content {/html:td}
+                {html:td}Column content {/html:td}
+                {html:td}
+                    {html:button class='btn btn-success btn-xs' }Edit {/html:button} {html:i} {html:i}
+                    {html:button class='btn btn-danger btn-xs' }Delete {/html:button}
+                {/html:td}
+            {/html:tr}
+        {/html:table}
+    {/html:col}
+
+    <!-- Code -->
+
+    {html:col class='col-sm-12'}
+{html:code linenums='1'}{html:table class="table table-responsive"}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; {html:tr}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {html:th}# {/html:th}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {html:th}Column heading {/html:th}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {html:th}Column heading {/html:th}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {html:th}Column heading {/html:th}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {html:th}Column heading {/html:th}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {html:th}Action {/html:th}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; {/html:tr}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; {html:tr}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {html:td}1 {/html:td}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {html:td}Column content {/html:td}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {html:td}Column content {/html:td}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {html:td}Column content {/html:td}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {html:td}Column content {/html:td}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {html:td}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {html:button class=&#39;btn btn-success btn-xs&#39; }Edit {/html:button} {html:i} {html:i}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {html:button class=&#39;btn btn-danger btn-xs&#39; }Delete {/html:button}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {/html:td}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; {/html:tr}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; ...................
+{/html:table}{/html:code}
+    {/html:col}
+{/html:row}
+
+

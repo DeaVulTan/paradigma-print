@@ -1,0 +1,333 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Comment\n"
+"POT-Creation-Date: 2015-01-19 15:27+0700\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.4\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../admin/views/comment/edit.php:11 ../admin/views/comment/index.php:37
+#: ../admin/views/comment/index.php:269 ../comment-config.php:32
+#: ../shortcodes/views/emails/approve.php:9
+msgid "Comment"
+msgstr "コメント"
+
+#: ../admin/views/comment/edit.php:11 ../helper.php:33
+#: ../shortcodes/views/comment/element.php:43
+msgid "Edit"
+msgstr "編集"
+
+#: ../admin/views/comment/edit.php:23 ../admin/views/comment/index.php:122
+#: ../admin/views/comment/index.php:280
+msgid "Content"
+msgstr "内容"
+
+#: ../admin/views/comment/edit.php:50 ../admin/views/comment/edit.php:61
+#: ../admin/views/comment/edit.php:84 ../admin/views/comment/index.php:381
+#: ../admin/views/comment/index.php:393 ../admin/views/comment/index.php:414
+#: ../admin/views/comment/index.php:446 ../admin/views/comment/index.php:459
+#: ../admin/views/comment/index.php:468 ../admin/views/comment/index.php:475
+#: ../admin/views/comment/index.php:490 ../admin/views/comment/index.php:514
+#: ../admin/views/comment/index.php:542 ../admin/views/comment/index.php:559
+#: ../admin/views/comment/index.php:576
+msgid "Loading..."
+msgstr "読み込んでいます..."
+
+#: ../admin/views/comment/edit.php:69 ../admin/views/comment/edit.php:95
+#: ../admin/views/comment/index.php:423 ../admin/views/comment/index.php:481
+#: ../admin/views/comment/index.php:496 ../admin/views/comment/index.php:519
+msgid "There is an error, please check again!"
+msgstr "エラーがあり、再度確認してください！"
+
+#: ../admin/views/comment/edit.php:74 ../admin/views/comment/edit.php:93
+msgid "Comment is updated successfully"
+msgstr "コメントの更新が完了しました。"
+
+#: ../admin/views/comment/index.php:5 ../admin/views/comment/index.php:269
+#: ../admin/views/comment/index.php:299
+msgid "Search"
+msgstr "検索"
+
+#: ../admin/views/comment/index.php:23
+#: ../shortcodes/views/comment/element.php:71
+msgid "Save"
+msgstr "保存"
+
+#: ../admin/views/comment/index.php:24
+msgid "Apply"
+msgstr "適用する"
+
+#: ../admin/views/comment/index.php:25
+msgid "Cancel"
+msgstr "キャンセル"
+
+#: ../admin/views/comment/index.php:37
+msgid "List"
+msgstr "リスト"
+
+#: ../admin/views/comment/index.php:49
+msgid "Bulk Actions"
+msgstr "一括操作"
+
+#: ../admin/views/comment/index.php:54 ../admin/views/comment/index.php:511
+msgid "Delete"
+msgstr "削除"
+
+#: ../admin/views/comment/index.php:56
+msgid "Publish"
+msgstr "公開"
+
+#: ../admin/views/comment/index.php:58
+msgid "Unpublish"
+msgstr "非公開"
+
+#: ../admin/views/comment/index.php:71 ../admin/views/comment/index.php:76
+msgid "All"
+msgstr "全部"
+
+#: ../admin/views/comment/index.php:77 ../admin/views/comment/index.php:220
+#: ../admin/views/comment/index.php:565 ../admin/views/comment/index.php:582
+msgid "Published"
+msgstr "公開されました。"
+
+#: ../admin/views/comment/index.php:79 ../admin/views/comment/index.php:224
+#: ../admin/views/comment/index.php:567 ../admin/views/comment/index.php:584
+msgid "Unpublished"
+msgstr "非公開されました。"
+
+#: ../admin/views/comment/index.php:144 ../admin/views/comment/index.php:288
+msgid "Author"
+msgstr "著者"
+
+#: ../admin/views/comment/index.php:166
+msgid "Comment date"
+msgstr "コメント入れ日付"
+
+#: ../admin/views/comment/index.php:188
+msgid "Status"
+msgstr "ステータス"
+
+#: ../admin/views/comment/index.php:195
+msgid "Actions"
+msgstr "アクション"
+
+#: ../admin/views/comment/index.php:230
+msgid "View comment field"
+msgstr "ビューコメント欄"
+
+#: ../admin/views/comment/index.php:267 ../admin/views/comment/index.php:300
+#: ../admin/views/comment/index.php:342
+#: ../shortcodes/views/comment/element.php:70
+msgid "Close"
+msgstr "クローズ"
+
+#: ../admin/views/comment/index.php:335
+msgid "Detail comment"
+msgstr "詳細コメント"
+
+#: ../admin/views/comment/index.php:407
+msgid "Are you sure to perform this action?"
+msgstr "本当にこのアクションを実施したいですか？"
+
+#: ../admin/views/comment/index.php:411
+msgid "OK"
+msgstr "OK"
+
+#: ../admin/views/comment/index.php:421 ../admin/views/comment/index.php:517
+msgid "Comment is deleted successfully"
+msgstr "コメントの削除が完了しました。"
+
+#: ../admin/views/comment/index.php:507
+#: ../shortcodes/views/comment/include.php:6
+msgid "Are you sure to delete this comment?"
+msgstr "このコメントを削除しても宜しいでしょうか？"
+
+#: ../comment-config.php:17
+msgid "Comment settings"
+msgstr "コメント設定"
+
+#: ../comment-config.php:22
+msgid "Enable comment?"
+msgstr "コメントを有効化しますか？"
+
+#: ../comment-config.php:23
+msgid "Comment approval?"
+msgstr "コメント承認"
+
+#: ../comment-config.php:24
+msgid "Ordering"
+msgstr "発注"
+
+#: ../comment-config.php:27
+msgid "Who will approve comment?"
+msgstr "どなたがコメントを承認しますか？"
+
+#: ../comment-config.php:28
+msgid "Maximum characters"
+msgstr "最大文字"
+
+#: ../comment-config.php:33
+msgid "Comment notification"
+msgstr "コメントお知らせ"
+
+#: ../comment.php:34 ../shortcodes/views/comment/display.php:22
+#: ../shortcodes/views/comment/display.php:33
+msgid "Comments"
+msgstr "コメント"
+
+#: ../helper.php:31 ../shortcodes/views/comment/element.php:17
+#: ../shortcodes/views/comment/element.php:47
+msgid "Reply"
+msgstr "返答"
+
+#: ../helper.php:34 ../shortcodes/views/comment/element.php:51
+msgid "Remove"
+msgstr "抜去"
+
+#: ../shortcodes/views/comment/display.php:29
+msgid "In order to comment, please sign in"
+msgstr "コメントをするため、サイインお願いいたします。"
+
+#: ../shortcodes/views/comment/element.php:32
+msgid "a few seconds ago"
+msgstr "数秒前"
+
+#: ../shortcodes/views/comment/include.php:7
+msgid "Comment can not be empty and less than "
+msgstr "コメントは空ではないかつ_未満であること。"
+
+#: ../shortcodes/views/comment/include.php:8
+msgid ""
+"You do not have permission or the session has ended. Please visit again!"
+msgstr ""
+"許可がありませんまたはセッションが終了しました。もう一度アクセスお願いいたし"
+"ます！"
+
+#: ../shortcodes/views/comment/include.php:9
+msgid "There was an error Please try again"
+msgstr "エラーが発生しました。もう一度お願いいたします。"
+
+#: ../shortcodes/views/comment/include.php:10
+msgid "Thank you for comment. We will moderate and approve it maximum 8 hours."
+msgstr ""
+"コメント頂きまして誠にありがとうございました。最大8時間以内に承認します。"
+
+#: ../shortcodes/views/comment/include.php:11
+msgid "The message field is required."
+msgstr "メッセージフィールドが必要です。"
+
+#: ../shortcodes/views/emails/approve.php:7
+msgid "Site name"
+msgstr "サイト名"
+
+#: ../shortcodes/views/emails/approve.php:8
+msgid "Username"
+msgstr "ユーザ名"
+
+#~ msgid "Custom fields"
+#~ msgstr "カスタムフィールド"
+
+#~ msgid "An error has occurred. Please try again"
+#~ msgstr "エラーが発生しました。もう一度お願いいたします。"
+
+#~ msgid "Status is updated successfully"
+#~ msgstr "ステータスが更新されました。"
+
+#~ msgid "This name already exists."
+#~ msgstr "この名前はすでに存在しています。"
+
+#~ msgid "Custom fields are updated successfully."
+#~ msgstr "カスタムフィールドは、正常に更新されます。 "
+
+#~ msgid "Comment Form"
+#~ msgstr "フォームのコメント"
+
+#~ msgid "Comment Display"
+#~ msgstr "コメント表示"
+
+#~ msgid "Name"
+#~ msgstr "名前"
+
+#~ msgid "Value"
+#~ msgstr "値"
+
+#~ msgid "ID"
+#~ msgstr "ID"
+
+#~ msgid "Class"
+#~ msgstr "Class"
+
+#~ msgid "Rows"
+#~ msgstr "Rows"
+
+#~ msgid "Cols"
+#~ msgstr "Cols"
+
+#~ msgid "Collections"
+#~ msgstr "コレクション"
+
+#~ msgid "Add item"
+#~ msgstr "アイテムの追加"
+
+#~ msgid "Placeholder"
+#~ msgstr "Placeholder"
+
+#~ msgid "Read only"
+#~ msgstr "読み取り専用"
+
+#~ msgid "Yes"
+#~ msgstr "はい"
+
+#~ msgid "No"
+#~ msgstr "いいえ"
+
+#~ msgid "Required"
+#~ msgstr "必須"
+
+#~ msgid "Min length"
+#~ msgstr "最小の長さ "
+
+#~ msgid "Max length"
+#~ msgstr "最大長さ"
+
+#~ msgid "Update"
+#~ msgstr "アップデート "
+
+#~ msgid "No comment is selected"
+#~ msgstr "選択しているコメントはありません。"
+
+#~ msgid "Please enter a search term"
+#~ msgstr "検索したい項目をご入力ください。"
+
+#~ msgid "Please choose an author"
+#~ msgstr "著者をご選択ください。"
+
+#~ msgid ""
+#~ "Content must be at least 2 characters and no more than 500 characters"
+#~ msgstr "内容は2～500文字の範囲で表記すること。"
+
+#~ msgid "Incorrect ID"
+#~ msgstr "不正確なIDです。"
+
+#~ msgid "No custom field data"
+#~ msgstr "いいえカスタムフィールドデータがありません"
+
+#~ msgid "Edit comment"
+#~ msgstr "コメント編集"
+
+#~ msgid "Select Action "
+#~ msgstr "アクション選択_"
+
+#~ msgid "Please enter the search conditions"
+#~ msgstr "検索条件をご入力ください。"
+
+#~ msgid "%s"
+#~ msgstr "%s"
